@@ -1,0 +1,35 @@
+4 [TMP:315] Ancient Tomb
+4 [DST:100] Arcbound Ravager
+1 [2ED:233] Black Lotus
+1 [MRD:150] Chalice of the Void
+1 [KLD:200] Chief of the Foundry
+4 [KLD:215] Foundry Inspector
+1 [WWK:127] Lodestone Golem
+1 [MPS:16] Mana Crypt
+4 [4ED:361] Mishra's Factory
+4 [ATQ:81] Mishra's Workshop
+1 [2ED:262] Mox Emerald
+1 [2ED:263] Mox Jet
+1 [2ED:264] Mox Pearl
+1 [2ED:265] Mox Ruby
+1 [2ED:266] Mox Sapphire
+3 [M20:233] Mystic Forge
+4 [M15:225] Phyrexian Revoker
+2 [SOM:194] Precursor Golem
+1 [3ED:274] Sol Ring
+4 [XLN:248] Sorcerous Spyglass
+4 [EXO:139] Sphere of Resistance
+1 [4ED:363] Strip Mine
+1 [LRW:262] Thorn of Amethyst
+1 [USG:330] Tolarian Academy
+1 [DST:154] Trinisphere
+4 [AER:181] Walking Ballista
+4 [TMP:330] Wasteland
+SB: 2 [NPH:57] Dismember
+SB: 3 [M20:227] Grafdigger's Cage
+SB: 1 [ZEN:57] Mindbreak Trap
+SB: 3 [WTH:154] Null Rod
+SB: 4 [M15:237] Tormod's Crypt
+SB: 2 [SOM:223] Wurmcoil Engine
+LAYOUT MAIN:(1,1)(NONE,false,50)|([TMP:315],[TMP:315],[TMP:315],[TMP:315],[DST:100],[DST:100],[DST:100],[DST:100],[2ED:233],[MRD:150],[KLD:200],[KLD:215],[KLD:215],[KLD:215],[KLD:215],[WWK:127],[MPS:16],[4ED:361],[4ED:361],[4ED:361],[4ED:361],[ATQ:81],[ATQ:81],[ATQ:81],[ATQ:81],[2ED:262],[2ED:263],[2ED:264],[2ED:265],[2ED:266],[M20:233],[M20:233],[M20:233],[M15:225],[M15:225],[M15:225],[M15:225],[SOM:194],[SOM:194],[3ED:274],[XLN:248],[XLN:248],[XLN:248],[XLN:248],[EXO:139],[EXO:139],[EXO:139],[EXO:139],[4ED:363],[LRW:262],[USG:330],[DST:154],[AER:181],[AER:181],[AER:181],[AER:181],[TMP:330],[TMP:330],[TMP:330],[TMP:330])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NPH:57],[NPH:57],[M20:227],[M20:227],[M20:227],[ZEN:57],[WTH:154],[WTH:154],[WTH:154],[M15:237],[M15:237],[M15:237],[M15:237],[SOM:223],[SOM:223])

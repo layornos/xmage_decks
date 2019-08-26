@@ -1,0 +1,23 @@
+4 [M20:249] Lotus Field
+4 [RIX:92] Blood Sun
+4 [M19:314] Llanowar Elves
+1 [WAR:181] Vivien's Arkbow
+4 [WAR:232] Kiora, Behemoth Beckoner
+1 [DOM:35] Shalai, Voice of Plenty
+4 [RIX:111] Rekindling Phoenix
+1 [WAR:133] Ilharg, the Raze-Boar
+1 [WAR:163] God-Eternal Rhonas
+3 [WAR:169] Nissa, Who Shakes the World
+1 [XLN:179] Carnage Tyrant
+1 [G18:GP5] Rampaging Brontodon
+1 [RIX:30] Zetalpa, Primal Dawn
+1 [RIX:174] Zacama, Primal Calamity
+3 [WAR:160] Finale of Devastation
+2 [M20:200] Voracious Hydra
+5 [HOU:197] Mountain
+7 [HOU:198] Forest
+4 [XLN:256] Rootbound Crag
+4 [RNA:259] Stomping Ground
+4 [WAR:171] Paradise Druid
+LAYOUT MAIN:(1,7)(EDH_POWER_LEVEL,false,50)|([RIX:92],[RIX:92],[RIX:92],[RIX:92],[M19:314],[M19:314],[M19:314],[HOU:197],[HOU:197],[HOU:197],[HOU:197],[HOU:197],[M19:314],[HOU:198],[HOU:198],[HOU:198],[HOU:198],[HOU:198],[HOU:198],[HOU:198],[RNA:259],[RNA:259],[RNA:259],[RNA:259])([RIX:30],[M20:200],[M20:200])([WAR:133])([XLN:179],[WAR:171],[WAR:171],[WAR:171],[WAR:171])([M20:249],[M20:249],[M20:249],[M20:249],[WAR:232],[WAR:232],[WAR:232],[WAR:232],[RIX:111],[RIX:111],[RIX:111],[RIX:111])([WAR:181],[DOM:35],[WAR:163],[G18:GP5],[RIX:174],[XLN:256],[XLN:256],[XLN:256],[XLN:256])([WAR:169],[WAR:169],[WAR:169],[WAR:160],[WAR:160],[WAR:160])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|
