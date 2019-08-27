@@ -1,0 +1,31 @@
+2 [3ED:283] Bayou
+1 [WWK:132] Bojuka Bog
+4 [JUD:62] Cabal Therapy
+4 [ULG:98] Crop Rotation
+4 [CSP:145] Dark Depths
+1 [FUT:174] Dryad Arbor
+3 [M20:169] Elvish Reclaimer
+1 [M20:277] Forest
+3 [MH1:202] Hogaak, Arisen Necropolis
+3 [WWK:138] Khalni Garden
+1 [RAV:172] Life from the Loam
+3 [STH:138] Mox Diamond
+4 [M15:198] Satyr Wayfinder
+1 [WWK:142] Sejiri Steppe
+4 [M19:121] Stitcher's Supplier
+1 [M20:269] Swamp
+4 [GTC:248] Thespian's Stage
+4 [THS:107] Thoughtseize
+4 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:114] Vampire Hexmage
+4 [ZEN:229] Verdant Catacombs
+1 [TMP:330] Wasteland
+SB: 1 [RTR:141] Abrupt Decay
+SB: 2 [GRN:152] Assassin's Trophy
+SB: 3 [MH1:164] Force of Vigor
+SB: 1 [LEG:303] Karakas
+SB: 2 [RTR:231] Pithing Needle
+SB: 3 [NPH:74] Surgical Extraction
+SB: 3 [JUD:133] Sylvan Safekeeper
+LAYOUT MAIN:(1,5)(EDH_POWER_LEVEL,false,50)|([3ED:283],[3ED:283],[FUT:174],[M20:277],[WWK:138],[WWK:138],[WWK:138],[STH:138],[STH:138],[STH:138],[M15:198],[M15:198],[M15:198],[M15:198],[M19:121],[M19:121],[M19:121],[M19:121],[M20:269],[THS:107],[THS:107],[THS:107],[THS:107])([GTC:248],[GTC:248],[GTC:248],[GTC:248])([WWK:132],[CSP:145],[CSP:145],[CSP:145],[CSP:145],[RAV:172],[WWK:142],[ZEN:114],[ZEN:114],[ZEN:114],[ZEN:114],[TMP:330])([JUD:62],[JUD:62],[JUD:62],[JUD:62],[MH1:202],[MH1:202],[MH1:202],[M15:248],[M15:248],[M15:248],[M15:248])([ULG:98],[ULG:98],[ULG:98],[ULG:98],[M20:169],[M20:169],[M20:169],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:141],[GRN:152],[GRN:152],[MH1:164],[MH1:164],[MH1:164],[LEG:303],[RTR:231],[RTR:231],[NPH:74],[NPH:74],[NPH:74],[JUD:133],[JUD:133],[JUD:133])

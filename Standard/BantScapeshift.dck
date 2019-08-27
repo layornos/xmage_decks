@@ -1,0 +1,39 @@
+3 [WAR:149] Arboreal Grazer
+1 [RNA:243] Azorius Guildgate
+1 [WAR:244] Blast Zone
+1 [M20:243] Blossoming Sands
+2 [RNA:246] Breeding Pool
+4 [GRN:125] Circuitous Route
+2 [RNA:165] Deputy of Detention
+4 [M19:180] Elvish Rejuvenator
+1 [XLN:254] Field of Ruin
+4 [M20:247] Field of the Dead
+2 [M20:277] Forest
+1 [XLN:255] Glacial Fortress
+4 [RNA:178] Growth Spiral
+2 [RNA:251] Hallowed Fountain
+1 [DOM:240] Hinterland Harbor
+4 [RNA:183] Hydroid Krasis
+2 [M20:265] Island
+1 [DOM:243] Memorial to Genius
+1 [M20:261] Plains
+4 [M19:201] Scapeshift
+1 [GRN:255] Selesnya Guildgate
+1 [XLN:34] Settle the Wreckage
+1 [WAR:274] Simic Guildgate
+1 [XLN:257] Sunpetal Grove
+4 [WAR:221] Teferi, Time Raveler
+2 [GRN:258] Temple Garden
+2 [M20:255] Temple of Mystery
+1 [M20:258] Thornwood Falls
+1 [WAR:223] Time Wipe
+1 [M20:259] Tranquil Cove
+SB: 2 [M20:43] Agent of Treachery
+SB: 4 [RIX:1] Baffling End
+SB: 1 [RNA:165] Deputy of Detention
+SB: 3 [WAR:193] Dovin's Veto
+SB: 2 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [WAR:223] Time Wipe
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(EDH_POWER_LEVEL,false,50)|([RNA:243],[M20:243],[RNA:246],[RNA:246],[M19:180],[M19:180],[M19:180],[M19:180],[M20:277],[M20:277],[RNA:178],[RNA:178],[RNA:178],[RNA:178],[RNA:251],[RNA:251],[M20:265],[M20:265],[M20:261],[GRN:255],[WAR:274],[GRN:258],[GRN:258],[M20:255],[M20:255],[M20:258],[M20:259])([GRN:125],[GRN:125],[GRN:125],[GRN:125])([WAR:223])([RNA:165],[RNA:165],[M20:247],[M20:247],[M20:247],[M20:247],[DOM:243],[XLN:34])([WAR:149],[WAR:149],[WAR:149],[WAR:244],[XLN:254],[XLN:255],[DOM:240],[RNA:183],[RNA:183],[RNA:183],[RNA:183],[XLN:257],[WAR:221],[WAR:221],[WAR:221],[WAR:221])([M19:201],[M19:201],[M19:201],[M19:201])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:43],[M20:43],[RIX:1],[RIX:1],[RIX:1],[RIX:1],[RNA:165],[WAR:193],[WAR:193],[WAR:193],[DOM:207],[DOM:207],[WAR:223],[M20:198],[M20:198])
