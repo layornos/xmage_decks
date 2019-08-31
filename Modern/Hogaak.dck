@@ -1,0 +1,31 @@
+1 [SOM:224] Blackcleave Cliffs
+2 [RNA:245] Blood Crypt
+4 [ZEN:83] Bloodghast
+1 [KTK:230] Bloodstained Mire
+4 [SCG:59] Carrion Feeder
+3 [GRN:66] Creeping Chill
+1 [FUT:174] Dryad Arbor
+4 [DKA:87] Faithless Looting
+2 [TSB:119] Gemstone Mine
+2 [RAV:87] Golgari Thug
+4 [DKA:64] Gravecrawler
+4 [MH1:202] Hogaak, Arisen Necropolis
+1 [SOI:170] Lightning Axe
+1 [M20:273] Mountain
+2 [GRN:253] Overgrown Tomb
+4 [M15:198] Satyr Wayfinder
+3 [MBS:130] Shriekhorn
+4 [M19:121] Stitcher's Supplier
+1 [M20:269] Swamp
+4 [ROE:212] Vengevine
+4 [ZEN:229] Verdant Catacombs
+4 [KTK:249] Wooded Foothills
+SB: 3 [GRN:152] Assassin's Trophy
+SB: 2 [MH1:158] Collector Ouphe
+SB: 2 [EMN:86] Cryptbreaker
+SB: 2 [MH1:164] Force of Vigor
+SB: 2 [WWK:108] Nature's Claim
+SB: 2 [MH1:100] Plague Engineer
+SB: 2 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(EDH_POWER_LEVEL,false,50)|([RNA:245],[RNA:245],[FUT:174],[DKA:64],[DKA:64],[DKA:64],[DKA:64],[M20:273],[GRN:253],[GRN:253],[M15:198],[M15:198],[M15:198],[M15:198],[M19:121],[M19:121],[M19:121],[M19:121],[M20:269])([MBS:130],[MBS:130],[MBS:130])([SCG:59],[SCG:59],[SCG:59],[SCG:59],[TSB:119],[TSB:119],[RAV:87],[RAV:87],[ROE:212],[ROE:212],[ROE:212],[ROE:212])([SOM:224],[ZEN:83],[ZEN:83],[ZEN:83],[ZEN:83],[GRN:66],[GRN:66],[GRN:66],[DKA:87],[DKA:87],[DKA:87],[DKA:87],[MH1:202],[MH1:202],[MH1:202],[MH1:202],[SOI:170])([KTK:230],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[KTK:249],[KTK:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([GRN:152],[GRN:152],[GRN:152],[MH1:158],[MH1:158],[EMN:86],[EMN:86],[MH1:164],[MH1:164],[WWK:108],[WWK:108],[MH1:100],[MH1:100],[THS:107],[THS:107])
