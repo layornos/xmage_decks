@@ -1,0 +1,96 @@
+1 [DIS:101] Aethermage's Touch
+1 [ONS:2] Akroma's Vengeance
+1 [C18:6] Aminatou's Augury
+1 [ALA:220] Arcane Sanctum
+1 [DIS:170] Azorius Chancery
+1 [DIS:159] Azorius Signet
+1 [AVR:7] Banishing Stroke
+1 [C18:1] Boreas Charger
+1 [MMQ:61] Brainstorm
+1 [C18:240] Command Tower
+1 [C18:200] Commander's Sphere
+1 [M11:51] Conundrum Sphinx
+1 [M11:203] Crystal Ball
+1 [AVR:48] Devastation Tide
+1 [RAV:276] Dimir Aqueduct
+1 [RAV:260] Dimir Signet
+1 [M19:52] Djinn of Wishes
+1 [6ED:66] Dream Cache
+1 [GTC:159] Duskmantle Seer
+1 [ARB:106] Enigma Sphinx
+1 [AVR:20] Entreat the Angels
+1 [C18:15] Entreat the Dead
+1 [ALA:167] Esper Charm
+1 [WWK:137] Halimar Depths
+3 [M20:265] Island
+1 [ZEN:215] Jwar Isle Refuge
+1 [10E:335] Mind Stone
+1 [RNA:192] Mortify
+1 [LRW:76] Mulldrifter
+1 [GPT:161] Orzhov Basilica
+1 [GPT:155] Orzhov Signet
+1 [INV:115] Phyrexian Delver
+1 [BFZ:226] Pilgrim's Eye
+3 [M20:261] Plains
+1 [M12:73] Ponder
+1 [ODY:94] Predict
+1 [C18:12] Primordial Mist
+1 [TSP:39] Return to Dust
+3 [M20:269] Swamp
+1 [AVR:38] Terminus
+1 [C18:51] Yennett, Cryptic Sovereign
+1 [C18:104] Sphinx of Uthuun
+1 [C16:272] Sol Ring
+1 [CM2:262] Reliquary Tower
+1 [M20:246] Evolving Wilds
+1 [AKH:245] Irrigated Farmland
+1 [DOM:241] Isolated Chapel
+1 [RNA:251] Hallowed Fountain
+1 [XLN:253] Drowned Catacomb
+1 [GRN:259] Watery Grave
+1 [ZEN:222] Piranha Marsh
+1 [RNA:248] Godless Shrine
+1 [M20:256] Temple of Silence
+1 [C13:286] Esper Panorama
+1 [BFZ:241] Prairie Stream
+1 [XLN:255] Glacial Fortress
+1 [WAR:246] Gateway Plaza
+1 [THS:225] Temple of Deceit
+1 [BBD:84] Sea of Clouds
+1 [BBD:83] Morphic Pool
+1 [BFZ:249] Sunken Hollow
+1 [C18:238] Bojuka Bog
+1 [LEA:284] Tundra
+1 [LEB:282] Scrubland
+1 [LEA:285] Underground Sea
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [MM3:239] Marsh Flats
+1 [DOM:200] Oath of Teferi
+1 [KLD:176] Cloudblazer
+1 [BBD:128] Peregrine Drake
+1 [KLD:84] Gonti, Lord of Luxury
+1 [WAR:61] Narset, Parter of Veils
+1 [WAR:68] Spark Double
+1 [BBD:110] Swords to Plowshares
+1 [MM3:54] Temporal Mastery
+1 [C18:97] Portent
+1 [UMA:45] Archaeomancer
+1 [WAR:223] Time Wipe
+1 [EMA:232] Sensei's Divining Top
+1 [PCA:107] Vela the Night-Clad
+1 [RNA:22] Smothering Tithe
+1 [GPT:101] Angel of Despair
+1 [A25:104] Ravenous Chupacabra
+1 [WAR:190] Despark
+1 [A25:50] Counterspell
+1 [GRN:167] Disinformation Campaign
+1 [XLN:223] Hostage Taker
+1 [RNA:156] Basilica Bell-Haunt
+1 [SOI:251] Sorin, Grim Nemesis
+1 [EMA:62] Mystical Tutor
+1 [WAR:221] Teferi, Time Raveler
+1 [CM1:15] Rhystic Study
+SB: 1 [C18:37] Aminatou, the Fateshifter
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ARB:106],[BFZ:226])([DIS:159],[C18:200],[M11:203],[RAV:260],[10E:335],[GPT:155],[C16:272],[EMA:232])([C18:1],[M11:51],[M19:52],[GTC:159],[LRW:76],[INV:115],[C18:104],[C18:51],[KLD:176],[BBD:128],[KLD:84],[WAR:68],[UMA:45],[PCA:107],[GPT:101],[A25:104],[XLN:223],[RNA:156])([C18:12],[DOM:200],[RNA:22],[GRN:167],[CM1:15])([DIS:101],[AVR:7],[MMQ:61],[ALA:167],[RNA:192],[ODY:94],[TSP:39],[BBD:110],[WAR:190],[A25:50],[EMA:62])([ALA:220],[DIS:170],[C18:240],[RAV:276],[WWK:137],[M20:265],[M20:265],[M20:265],[ZEN:215],[GPT:161],[M20:261],[M20:261],[M20:261],[M20:269],[M20:269],[M20:269],[CM2:262],[M20:246],[AKH:245],[DOM:241],[RNA:251],[XLN:253],[GRN:259],[ZEN:222],[RNA:248],[M20:256],[C13:286],[BFZ:241],[XLN:255],[WAR:246],[THS:225],[BBD:84],[BBD:83],[BFZ:249],[C18:238],[LEA:284],[LEB:282],[LEA:285],[KTK:233],[KTK:239],[MM3:239])([WAR:61],[SOI:251],[WAR:221])([ONS:2],[C18:6],[AVR:48],[6ED:66],[AVR:20],[C18:15],[M12:73],[AVR:38],[MM3:54],[C18:97],[WAR:223])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C18:37])
