@@ -1,0 +1,26 @@
+1 [CMA:243] Bojuka Bog
+4 [DD3DVD:45] Dark Ritual
+4 [EMA:92] Hymn to Tourach
+1 [ATQ:80a] Mishra's Factory
+1 [ATQ:80b] Mishra's Factory
+1 [ATQ:80c] Mishra's Factory
+1 [ATQ:80d] Mishra's Factory
+2 [TPR:220] Cursed Scroll
+9 [HOU:187] Swamp
+1 [MH1:98] Nether Spirit
+4 [EMA:106] Sinkhole
+1 [ODY:315] Cabal Pit
+1 [EMA:241] Maze of Ith
+4 [EXP:45] Wasteland
+2 [MEDM:GR2] Liliana, the Last Hope
+3 [DDR:54] Innocent Blood
+4 [DDR:61] Smallpox
+4 [PUMA:U10] Liliana of the Veil
+1 [LEG:307] The Tabernacle at Pendrell Vale
+4 [PUMA:U40] Urborg, Tomb of Yawgmoth
+4 [CN2:140] Inquisition of Kozilek
+1 [WAR:228] Ashiok, Dream Render
+2 [WAR:98] Liliana's Triumph
+1 [ARN:29] Juzam Djinn
+LAYOUT MAIN:(1,5)(RARITY,false,50)|([HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187])([CMA:243],[DD3DVD:45],[DD3DVD:45],[DD3DVD:45],[DD3DVD:45],[DDR:54],[DDR:54],[DDR:54])([WAR:228],[ODY:315],[EMA:92],[EMA:92],[EMA:92],[EMA:92],[WAR:98],[WAR:98],[ATQ:80a],[ATQ:80b],[ATQ:80c],[ATQ:80d],[DDR:61],[DDR:61],[DDR:61],[DDR:61])([CN2:140],[CN2:140],[CN2:140],[CN2:140],[EMA:241],[MH1:98],[EMA:106],[EMA:106],[EMA:106],[EMA:106],[LEG:307],[ARN:29])([TPR:220],[TPR:220],[PUMA:U10],[PUMA:U10],[PUMA:U10],[PUMA:U10],[MEDM:GR2],[MEDM:GR2],[PUMA:U40],[PUMA:U40],[PUMA:U40],[PUMA:U40],[EXP:45],[EXP:45],[EXP:45],[EXP:45])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|
