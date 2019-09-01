@@ -1,0 +1,28 @@
+4 [XLN:1] Adanto Vanguard
+2 [DOM:81] Cast Down
+2 [RIX:64] Champion of Dusk
+4 [RNA:248] Godless Shrine
+4 [DOM:241] Isolated Chapel
+4 [M20:105] Knight of the Ebon Legion
+4 [RIX:163] Legion Lieutenant
+2 [M20:106] Legion's End
+4 [XLN:22] Legion's Landing
+1 [RNA:192] Mortify
+6 [M20:261] Plains
+2 [XLN:120] Sanctum Seeker
+4 [RIX:21] Skymarcher Aspirant
+4 [M20:115] Sorin, Imperious Bloodlord
+7 [M20:269] Swamp
+1 [XLN:258] Unclaimed Territory
+4 [XLN:128] Vicious Conquistador
+1 [XLN:231] Vona, Butcher of Magan
+SB: 1 [WAR:228] Ashiok, Dream Render
+SB: 1 [DOM:81] Cast Down
+SB: 1 [WAR:190] Despark
+SB: 4 [M20:97] Duress
+SB: 2 [WAR:13] Gideon Blackblade
+SB: 2 [M20:106] Legion's End
+SB: 3 [M20:110] Noxious Grasp
+SB: 1 [XLN:231] Vona, Butcher of Magan
+LAYOUT MAIN:(1,5)(EDH_POWER_LEVEL,false,50)|([XLN:1],[XLN:1],[XLN:1],[XLN:1],[RNA:248],[RNA:248],[RNA:248],[RNA:248],[M20:105],[M20:105],[M20:105],[M20:105],[RIX:163],[RIX:163],[RIX:163],[RIX:163],[M20:261],[M20:261],[M20:261],[M20:261],[M20:261],[M20:261],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[XLN:258])([DOM:81],[DOM:81],[RNA:192],[XLN:231])([XLN:22],[XLN:22],[XLN:22],[XLN:22])([M20:115],[M20:115],[M20:115],[M20:115])([RIX:64],[RIX:64],[DOM:241],[DOM:241],[DOM:241],[DOM:241],[M20:106],[M20:106],[XLN:120],[XLN:120],[RIX:21],[RIX:21],[RIX:21],[RIX:21],[XLN:128],[XLN:128],[XLN:128],[XLN:128])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WAR:228],[DOM:81],[WAR:190],[M20:97],[M20:97],[M20:97],[M20:97],[WAR:13],[WAR:13],[M20:106],[M20:106],[M20:110],[M20:110],[M20:110],[XLN:231])
