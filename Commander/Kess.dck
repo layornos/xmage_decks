@@ -1,0 +1,102 @@
+1 [HOU:83] Abrade
+1 [ZEN:211] Arid Mesa
+1 [3ED:282] Badlands
+1 [SOM:224] Blackcleave Cliffs
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [MMQ:61] Brainstorm
+1 [ME3:33] Capture of Jingzhou
+1 [AVR:226] Cavern of Souls
+1 [KLD:110] Chandra, Torch of Defiance
+1 [EMN:85] Collective Brutality
+1 [C18:240] Command Tower
+1 [RTR:153] Counterflux
+1 [7ED:67] Counterspell
+1 [WWK:134] Creeping Tar Pit
+1 [LRW:56] Cryptic Command
+1 [MEDM:RA6] Dack Fayden
+1 [MEDM:GR3] Daretti, Ingenious Iconoclast
+1 [SOM:226] Darkslick Shores
+1 [3ED:105] Demonic Tutor
+1 [KTK:36] Dig Through Time
+1 [NPH:57] Dismember
+1 [BFZ:76] Dispel
+1 [RTR:157] Dreadbore
+1 [XLN:253] Drowned Catacomb
+1 [M20:97] Duress
+1 [INV:57] Fact or Fiction
+1 [ROE:145] Flame Slash
+1 [KTK:233] Flooded Strand
+1 [MH1:255] Flusterstorm
+1 [ISD:55] Forbidden Alchemy
+1 [ALL:28] Force of Will
+1 [NPH:35] Gitaxian Probe
+1 [SHM:272] Graven Cairns
+1 [XLN:223] Hostage Taker
+1 [FEM:38a] Hymn to Tourach
+1 [ROE:115] Inquisition of Kozilek
+1 [TMP:70] Intuition
+1 [M20:265] Island
+1 [WWK:31] Jace, the Mind Sculptor
+1 [DTK:224] Kolaghan's Command
+1 [ISD:105] Liliana of the Veil
+1 [JOU:163] Mana Confluence
+1 [MPS:16] Mana Crypt
+1 [LEG:65] Mana Drain
+1 [M12:63] Mana Leak
+1 [ZEN:219] Marsh Flats
+1 [7ED:88] Memory Lapse
+1 [NPH:38] Mental Misstep
+1 [ULG:36] Miscalculation
+1 [ZEN:220] Misty Rainforest
+1 [M20:273] Mountain
+1 [6ED:83] Mystical Tutor
+1 [SOM:187] Nihil Spellbomb
+1 [10E:94] Peek
+1 [RTR:231] Pithing Needle
+1 [KTK:239] Polluted Delta
+1 [M12:73] Ponder
+1 [5ED:110] Portent
+1 [M11:70] Preordain
+1 [5ED:262] Pyroblast
+1 [4ED:218] Red Elemental Blast
+1 [SHM:278] Reflecting Pool
+1 [RAV:63] Remand
+1 [FUT:179] River of Tears
+1 [ZEN:223] Scalding Tarn
+1 [XLN:74] Search for Azcanta
+1 [5DN:36] Serum Visions
+1 [GPT:75] Shattering Spree
+1 [ORI:251] Shivan Reef
+1 [ISD:78] Snapcaster Mage
+1 [CSP:152] Snow-Covered Island
+1 [CSP:153] Snow-Covered Swamp
+1 [3ED:274] Sol Ring
+1 [KLD:249] Spirebluff Canal
+1 [GRN:257] Steam Vents
+1 [10E:359] Sulfurous Springs
+1 [SHM:280] Sunken Ruins
+1 [M20:269] Swamp
+1 [THS:65] Swan Song
+1 [ODY:164] Tainted Pact
+1 [PUMA:U6] Temporal Manipulation
+1 [SOI:92] Thing in the Ice
+1 [DKA:52] Thought Scour
+1 [THS:107] Thoughtseize
+1 [M10:75] Time Warp
+1 [EMA:108] Toxic Deluge
+1 [UDS:50] Treachery
+1 [KTK:59] Treasure Cruise
+1 [10E:362] Underground River
+1 [3ED:290] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [3ED:291] Volcanic Island
+1 [OGW:182] Wandering Fumarole
+1 [TMP:330] Wasteland
+1 [GRN:259] Watery Grave
+1 [KTK:249] Wooded Foothills
+SB: 1 [MH1:206] Kess, Dissident Mage
+LAYOUT MAIN:(1,5)(RARITY,false,50)|([M20:265],[M20:273],[CSP:152],[CSP:153],[M20:269])([MMQ:61],[C18:240],[7ED:67],[BFZ:76],[M20:97],[ROE:145],[ISD:55],[NPH:35],[FEM:38a],[M12:63],[7ED:88],[ULG:36],[SOM:187],[10E:94],[M12:73],[5ED:110],[M11:70],[4ED:218],[5DN:36],[DKA:52],[KTK:59])([HOU:83],[3ED:105],[NPH:57],[INV:57],[ALL:28],[ROE:115],[LEG:65],[NPH:38],[6ED:83],[5ED:262],[RAV:63],[GPT:75],[3ED:274],[TMP:330])([ZEN:211],[3ED:282],[SOM:224],[RNA:245],[KTK:230],[ME3:33],[AVR:226],[EMN:85],[RTR:153],[WWK:134],[LRW:56],[SOM:226],[KTK:36],[RTR:157],[XLN:253],[KTK:233],[MH1:255],[SHM:272],[XLN:223],[TMP:70],[DTK:224],[JOU:163],[ZEN:219],[ZEN:220],[RTR:231],[KTK:239],[SHM:278],[FUT:179],[ZEN:223],[XLN:74],[ORI:251],[ISD:78],[KLD:249],[GRN:257],[10E:359],[SHM:280],[THS:65],[ODY:164],[SOI:92],[THS:107],[EMA:108],[UDS:50],[10E:362],[3ED:290],[M15:248],[6ED:161],[ZEN:229],[3ED:291],[OGW:182],[GRN:259],[KTK:249])([KLD:110],[WWK:31],[ISD:105],[MPS:16],[M10:75],[MEDM:RA6],[MEDM:GR3],[PUMA:U6])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MH1:206])

@@ -1,0 +1,102 @@
+1 [HOU:83] Abrade
+1 [ALA:154] Ajani Vengeant
+1 [ZEN:211] Arid Mesa
+1 [6ED:4] Armageddon
+1 [3ED:282] Badlands
+1 [MOR:58] Bitterblossom
+1 [RNA:245] Blood Crypt
+1 [9ED:176] Blood Moon
+1 [KTK:230] Bloodstained Mire
+1 [AVR:226] Cavern of Souls
+1 [ORI:245] Caves of Koilos
+1 [LEG:137] Chain Lightning
+1 [KLD:110] Chandra, Torch of Defiance
+1 [EMN:85] Collective Brutality
+1 [C18:240] Command Tower
+1 [VMA:20] Council's Judgment
+1 [ORI:90] Dark Petition
+1 [MMQ:129] Dark Ritual
+1 [NPH:57] Dismember
+1 [XLN:252] Dragonskull Summit
+1 [RTR:157] Dreadbore
+1 [M20:97] Duress
+1 [DKA:87] Faithless Looting
+1 [AER:57] Fatal Push
+1 [EVE:176] Fetid Heath
+1 [CM2:98] Fiery Confluence
+1 [ICE:289] Fire Covenant
+1 [TSP:272] Flagstones of Trokair
+1 [ROE:145] Flame Slash
+1 [KTK:233] Flooded Strand
+1 [APC:102] Gerrard's Verdict
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [RNA:248] Godless Shrine
+1 [SHM:272] Graven Cairns
+1 [ME3:69] Grim Tutor
+1 [THS:90] Hero's Downfall
+1 [FEM:38a] Hymn to Tourach
+1 [ROE:115] Inquisition of Kozilek
+1 [DOM:241] Isolated Chapel
+1 [CN2:75] Kaya, Ghost Assassin
+1 [DTK:224] Kolaghan's Command
+1 [WWK:139] Lavaclaw Reaches
+1 [M11:149] Lightning Bolt
+1 [RAV:213] Lightning Helix
+1 [ISD:105] Liliana of the Veil
+1 [DKA:12] Lingering Souls
+1 [JOU:163] Mana Confluence
+1 [PLC:25] Mana Tithe
+1 [ZEN:219] Marsh Flats
+1 [M20:273] Mountain
+1 [OGW:175] Needle Spires
+1 [ISD:25] Nevermore
+1 [5DN:55] Night's Whisper
+1 [WTH:154] Null Rod
+1 [ROE:40] Oust
+1 [BFZ:120] Painful Truths
+1 [CN2:18] Palace Jailer
+1 [9ED:152] Phyrexian Arena
+1 [RTR:231] Pithing Needle
+1 [M20:261] Plains
+1 [3ED:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [5ED:262] Pyroblast
+1 [JR:97] Ravages of War
+1 [4ED:218] Red Elemental Blast
+1 [SHM:278] Reflecting Pool
+1 [RTR:18] Rest in Peace
+1 [EVE:178] Rugged Prairie
+1 [GRN:254] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [3ED:286] Scrubland
+1 [BFZ:244] Shambling Vent
+1 [2ED:130] Sinkhole
+1 [CSP:154] Snow-Covered Mountain
+1 [CSP:151] Snow-Covered Plains
+1 [CSP:153] Snow-Covered Swamp
+1 [XLN:248] Sorcerous Spyglass
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [ISD:36] Stony Silence
+1 [M20:269] Swamp
+1 [ICE:54] Swords to Plowshares
+1 [TOR:140] Tainted Field
+1 [ODY:164] Tainted Pact
+1 [BNG:164] Temple of Malice
+1 [M20:256] Temple of Silence
+1 [M20:257] Temple of Triumph
+1 [ARB:46] Terminate
+1 [THS:107] Thoughtseize
+1 [VIS:23] Tithe
+1 [EMA:108] Toxic Deluge
+1 [CMA:27] Unexpectedly Absent
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ZEN:229] Verdant Catacombs
+1 [APC:126] Vindicate
+1 [TMP:330] Wasteland
+1 [DGM:135] Wear // Tear
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [AER:75] Yahenni's Expertise
+SB: 1 [CN2:78] Queen Marchesa
+LAYOUT MAIN:(1,5)(RARITY,false,50)|([M20:273],[M20:261],[CSP:154],[CSP:151],[CSP:153],[M20:269])([LEG:137],[C18:240],[MMQ:129],[M20:97],[DKA:87],[ROE:145],[FEM:38a],[M11:149],[PLC:25],[4ED:218],[2ED:130],[ARB:46])([HOU:83],[NPH:57],[AER:57],[ICE:289],[APC:102],[ROE:115],[RAV:213],[DKA:12],[5DN:55],[ROE:40],[CN2:18],[5ED:262],[ICE:54],[TOR:140],[TMP:330],[DGM:135])([ZEN:211],[6ED:4],[3ED:282],[MOR:58],[RNA:245],[9ED:176],[KTK:230],[AVR:226],[ORI:245],[EMN:85],[VMA:20],[ORI:90],[XLN:252],[RTR:157],[EVE:176],[CM2:98],[TSP:272],[KTK:233],[RNA:248],[SHM:272],[ME3:69],[THS:90],[DOM:241],[DTK:224],[WWK:139],[JOU:163],[ZEN:219],[OGW:175],[ISD:25],[WTH:154],[BFZ:120],[9ED:152],[RTR:231],[3ED:284],[KTK:239],[JR:97],[SHM:278],[RTR:18],[EVE:178],[GRN:254],[ZEN:223],[3ED:286],[BFZ:244],[XLN:248],[ISD:36],[ODY:164],[BNG:164],[M20:256],[M20:257],[THS:107],[VIS:23],[EMA:108],[CMA:27],[M15:248],[ZEN:229],[APC:126],[KTK:248],[KTK:249],[AER:75])([ALA:154],[KLD:110],[BFZ:29],[CN2:75],[ISD:105],[DKA:142])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CN2:78])
