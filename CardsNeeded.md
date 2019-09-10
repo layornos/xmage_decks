@@ -9,6 +9,7 @@
 * 4 Thought Seer
 * 1 City of Traitors (*)
 * 1 Inventors' Fair
+* 3 Karn, Scion of Urza
 
 #### Sideboard
 * 4 Grafdigger's Cage
@@ -19,7 +20,6 @@
 * 1 Wurmcoil Engine
 
 ### Ravager Shops
-* 2 Arcbound Ravager
 * 2 Mystic Forge
 * 1 Thorn of Amethyst
 * 4 Sorcerous Spyglass
