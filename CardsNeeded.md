@@ -9,7 +9,7 @@
 * 4 Thought Seer
 * 1 City of Traitors (*)
 * 1 Inventors' Fair
-* 2 Karn, Scion of Urza
+* 1 Karn, Scion of Urza
 
 #### Sideboard
 * 4 Grafdigger's Cage
