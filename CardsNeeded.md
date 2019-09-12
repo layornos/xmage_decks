@@ -20,9 +20,7 @@
 * 1 Wurmcoil Engine
 
 ### Ravager Shops
-* 2 Mystic Forge
 * 1 Thorn of Amethyst
-* 4 Sorcerous Spyglass
 
 ## Legacy
 ### MonoB
