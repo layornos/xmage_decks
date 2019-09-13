@@ -20,6 +20,7 @@
 * 1 Wurmcoil Engine
 
 ### Ravager Shops
+* 1 Walking Ballista
 * 1 Thorn of Amethyst
 
 ## Legacy
@@ -32,5 +33,5 @@
 * 1 The Tabernacle at Pendrell Vale (*)
 * 2 Cursed Scoll
 * 2 Liliana, the Last Hope
-* 4 Urborg, Tomb of Yawgmothi (*)
+* 4 Urborg, Tomb of Yawgmoth (*)
 * 4 Liliana of the Veil (*)
