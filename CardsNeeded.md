@@ -6,7 +6,7 @@
 * 4 Grim Monolith (*)
 * 1 Mox Opal (*)
 * 1 Thorn of Amethyst
-* 4 Thought Seer
+* 3 Thought-Knot Seer
 * 1 City of Traitors (*)
 * 1 Inventors' Fair
 * 1 Karn, Scion of Urza
