@@ -5,8 +5,7 @@
 * 1 Walking Ballista
 * 4 Grim Monolith (*)
 * 1 Mox Opal (*)
-* 1 Thorn of Amethyst
-* 3 Thought-Knot Seer
+* 2 Thought-Knot Seer
 * 1 City of Traitors (*)
 * 1 Inventors' Fair
 * 1 Karn, Scion of Urza
@@ -21,7 +20,6 @@
 
 ### Ravager Shops
 * 1 Walking Ballista
-* 1 Thorn of Amethyst
 
 ## Legacy
 ### MonoB
