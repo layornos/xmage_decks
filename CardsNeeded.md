@@ -36,33 +36,35 @@
 
 
 ## Liliana Collection
-* 97	Liliana of the Dark Realms	D. Alexander Gregory	Black	M	Magic 2013
-* 102	Liliana of the Dark Realms	D. Alexander Gregory	Black	M	Magic 2014 Core Set
-* 105	Liliana of the Veil	Steve Argyle	Black	M	Innistrad
-* 102	Liliana Vess	Aleksi Briclot	Black	M	Magic 2011
-* 102	Liliana Vess	Aleksi Briclot	Black	M	Magic 2010
-* 103	Liliana Vess	Aleksi Briclot	Black	M	Magic 2015 Core Set
-* 121	Liliana Vess	Aleksi Briclot	Black	R	Lorwyn
-* 275	Liliana, Death Wielder	Clint Cearley	Black	M	Amonkhet
-* 97	Liliana, Death's Majesty	Chris Rallis	Black	M	Amonkhet
-* 106	Liliana, Defiant Necromancer	Karla Ortiz	Black	M	Magic Origins
-* 97	Liliana, Dreadhorde General	Chris Rallis	Black	M	War of the Spark
-* 106	Liliana, Heretical Healer	Karla Ortiz	Black	M	Magic Origins
-* 93	Liliana, the Last Hope	Anna Steinbauer	Black	M	Eldritch Moon
-* 291	Liliana, the Necromancer	Livia Prima	Black	M	Core Set 2019
-* 106	Liliana, Untouched by Death	Bastien L. Deharme	Black	M	Core Set 2019
-* 103	Liliana's Caress	Steve Argyle	Black	U	Magic 2011
-* 107	Liliana's Contract	Bastien L. Deharme	Black	R	Core Set 2019
-* 68	Liliana's Defeat	Kieran Yanner	Black	U	Hour of Devastation
-* 94	Liliana's Elite	Deruchenko Alexander	Black	U	Eldritch Moon
-* 120	Liliana's Indignation	Daarken	Black	U	Shadows over Innistrad
-* 277	Liliana's Influence	Winona Nelson	Black	R	Amonkhet
-* 98	Liliana's Mastery	Kieran Yanner	Black	R	Amonkhet
-* 103	Liliana's Reaver	Karl Kopinski	Black	R	Magic 2014 Core Set
-* 147	Liliana's Reaver	Karl Kopinski	Black	R	Commander 2014
-* 98	Liliana's Shade	Eric Deschamps	Black	C	Magic 2013
-* 34	Liliana's Specter	Vance Kovacs	Black	C	Planechase 2012 Edition
-* 104	Liliana's Specter	Vance Kovacs	Black	C	Magic 2011
-* 294	Liliana's Spoils	Tyler Jacobson	Black	R	Core Set 2019
-* 98	Liliana's Triumph	Kieran Yanner	Black	U	War of the Spark
-* 99	Oath of Liliana	Wesley Burt	Black	R	Eldritch Moon
+| Number| Name                                  | Artist                    | Edition                  |
+| ---   | ---                                   | ---                       | ---                      |
+| 97	| Liliana of the Dark Realms	        | D. Alexander Gregory		| Magic 2013               |
+| 102	| Liliana of the Dark Realms	        | D. Alexander Gregory		| Magic 2014 Core Set      |
+| 105	| Liliana of the Veil	                | Steve Argyle		        | Innistrad                |
+| 102	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2011               |
+| 102	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2010               |
+| 103	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2015 Core Set      |
+| 121	| Liliana Vess	                        | Aleksi Briclot		    | Lorwyn                   |
+| 275	| Liliana, Death Wielder	            | Clint Cearley		        | Amonkhet                 |
+| 97	| Liliana, Death's Majesty	            | Chris Rallis		        | Amonkhet                 |
+| 106	| Liliana, Defiant Necromancer	        | Karla Ortiz		        | Magic Origins            |
+| 97	| Liliana, Dreadhorde General	        | Chris Rallis		        | War of the Spark         |
+| 106	| Liliana, Heretical Healer	            | Karla Ortiz		        | Magic Origins            |
+| 93	| Liliana, the Last Hope	            | Anna Steinbauer	    	| Eldritch Moon            |
+| 291	| Liliana, the Necromancer	            | Livia Prima		        | Core Set 2019            |
+| 106	| Liliana, Untouched by Death	        | Bastien L. Deharme		| Core Set 2019            |
+| 103	| Liliana's Caress	                    | Steve Argyle		        | Magic 2011               |
+| 107	| Liliana's Contract	                | Bastien L. Deharme		| Core Set 2019            |
+| 68	| Liliana's Defeat	                    | Kieran Yanner		        | Hour of Devastation      |
+| 94	| Liliana's Elite	                    | Deruchenko Alexander		| Eldritch Moon            |
+| 120	| Liliana's Indignation	                | Daarken		            | Shadows over Innistrad   |
+| 277	| Liliana's Influence	                | Winona Nelson		        | Amonkhet                 |
+| 98	| Liliana's Mastery	                    | Kieran Yanner		        | Amonkhet                 |
+| 103	| Liliana's Reaver	                    | Karl Kopinski		        | Magic 2014 Core Set      |
+| 147	| Liliana's Reaver	                    | Karl Kopinski		        | Commander 2014           |
+| 98	| Liliana's Shade	                    | Eric Deschamps	       	| Magic 2013               |
+| 34	| Liliana's Specter	                    | Vance Kovacs		        | Planechase 2012 Edition  |
+| 104	| Liliana's Specter	                    | Vance Kovacs		        | Magic 2011               |
+| 294	| Liliana's Spoils	                    | Tyler Jacobson        	| Core Set 2019            |
+| 98	| Liliana's Triumph	                    | Kieran Yanner		        | War of the Spark         |
+| 99	| Oath of Liliana	                    | Wesley Burt		        | Eldritch Moon            |
