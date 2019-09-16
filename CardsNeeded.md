@@ -43,13 +43,13 @@
 | 105	| Liliana of the Veil	                | Steve Argyle		        | Innistrad                |          |
 | 102	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2011               |          |
 | 102	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2010               |          |
-| 103	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2015 Core Set      | &#2714;  |
+| 103	| Liliana Vess	                        | Aleksi Briclot		    | Magic 2015 Core Set      | &#x2714;  |
 | 121	| Liliana Vess	                        | Aleksi Briclot		    | Lorwyn                   |          |
 | 275	| Liliana, Death Wielder	            | Clint Cearley		        | Amonkhet                 |          |
 | 97	| Liliana, Death's Majesty	            | Chris Rallis		        | Amonkhet                 |          |
-| 106	| Liliana, Defiant Necromancer	        | Karla Ortiz		        | Magic Origins            | &#2714;  |
+| 106	| Liliana, Defiant Necromancer	        | Karla Ortiz		        | Magic Origins            | &#x2714;  |
 | 97	| Liliana, Dreadhorde General	        | Chris Rallis		        | War of the Spark         |          |
-| 106	| Liliana, Heretical Healer	            | Karla Ortiz		        | Magic Origins            | &#2714;  |
+| 106	| Liliana, Heretical Healer	            | Karla Ortiz		        | Magic Origins            | &#x2714;  |
 | 93	| Liliana, the Last Hope	            | Anna Steinbauer	    	| Eldritch Moon            |          |
 | 291	| Liliana, the Necromancer	            | Livia Prima		        | Core Set 2019            |          |
 | 106	| Liliana, Untouched by Death	        | Bastien L. Deharme		| Core Set 2019            |          |
