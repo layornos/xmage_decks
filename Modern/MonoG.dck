@@ -1,0 +1,32 @@
+4 [ROE:174] Ancient Stirrings
+1 [WAR:244] Blast Zone
+4 [MRD:151] Chromatic Sphere
+4 [10E:314] Chromatic Star
+1 [EMN:6] Emrakul, the Promised End
+4 [ZEN:201] Expedition Map
+4 [M20:277] Forest
+1 [ISD:240] Ghost Quarter
+4 [NPH:1] Karn Liberated
+4 [WAR:1] Karn, the Great Creator
+3 [MRD:222] Oblivion Stone
+1 [BFZ:242] Sanctum of Ugin
+4 [BFZ:192] Sylvan Scrying
+3 [M13:193] Thragtusk
+2 [FRF:1] Ugin, the Spirit Dragon
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+3 [SOM:223] Wurmcoil Engine
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 3 [M20:26] Leyline of Sanctity
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [DST:130] Mycosynth Lattice
+SB: 2 [WWK:108] Nature's Claim
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 1 [OGW:8] Spatial Contortion
+SB: 1 [DST:154] Trinisphere
+SB: 3 [M20:198] Veil of Summer
+SB: 1 [AER:181] Walking Ballista
+LAYOUT MAIN:(1,6)(EDH_POWER_LEVEL,false,50)|([M20:277],[M20:277],[M20:277],[M20:277],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329])([M13:193],[M13:193],[M13:193])([MRD:151],[MRD:151],[MRD:151],[MRD:151],[10E:314],[10E:314],[10E:314],[10E:314],[ISD:240],[NPH:1],[NPH:1],[NPH:1],[NPH:1],[BFZ:15])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[WAR:244],[WAR:1],[WAR:1],[WAR:1],[WAR:1],[MRD:222],[MRD:222],[MRD:222],[FRF:1],[FRF:1],[SOM:223],[SOM:223],[SOM:223])([ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[BFZ:242],[BFZ:192],[BFZ:192],[BFZ:192],[BFZ:192])([EMN:6])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([8ED:300],[M20:26],[M20:26],[M20:26],[SOM:171],[DST:130],[WWK:108],[WWK:108],[XLN:248],[OGW:8],[DST:154],[M20:198],[M20:198],[M20:198],[AER:181])
