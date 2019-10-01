@@ -1,0 +1,21 @@
+1 [CMA:243] Bojuka Bog
+4 [EMA:92] Hymn to Tourach
+9 [HOU:187] Swamp
+1 [MH1:98] Nether Spirit
+4 [EMA:106] Sinkhole
+1 [ODY:315] Cabal Pit
+1 [EMA:241] Maze of Ith
+4 [EXP:45] Wasteland
+3 [DDR:54] Innocent Blood
+4 [DDR:61] Smallpox
+4 [PUMA:U10] Liliana of the Veil
+1 [LEG:307] The Tabernacle at Pendrell Vale
+4 [PUMA:U40] Urborg, Tomb of Yawgmoth
+1 [WAR:228] Ashiok, Dream Render
+2 [WAR:98] Liliana's Triumph
+4 [VMA:113] Dark Ritual
+4 [DDF:73] Mishra's Factory
+4 [THS:107] Thoughtseize
+4 [EMA:86] Duress
+LAYOUT MAIN:(1,4)(EDH_POWER_LEVEL,false,50)|([EMA:92],[EMA:92],[EMA:92],[EMA:92],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[MH1:98],[VMA:113],[VMA:113],[VMA:113],[VMA:113],[DDF:73],[DDF:73],[DDF:73],[DDF:73],[THS:107],[THS:107],[THS:107],[THS:107],[EMA:86],[EMA:86],[EMA:86],[EMA:86])([EMA:106],[EMA:106],[EMA:106],[EMA:106])([CMA:243],[ODY:315],[EMA:241],[EXP:45],[EXP:45],[EXP:45],[EXP:45])([DDR:54],[DDR:54],[DDR:54],[DDR:61],[DDR:61],[DDR:61],[DDR:61],[PUMA:U10],[PUMA:U10],[PUMA:U10],[PUMA:U10],[LEG:307],[PUMA:U40],[PUMA:U40],[PUMA:U40],[PUMA:U40],[WAR:228],[WAR:98],[WAR:98])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

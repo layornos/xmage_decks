@@ -1,0 +1,44 @@
+1 [2ED:48] Ancestral Recall
+3 [GRN:152] Assassin's Trophy
+1 [2ED:233] Black Lotus
+1 [MMQ:61] Brainstorm
+3 [MH1:158] Collector Ouphe
+4 [RTR:213] Deathrite Shaman
+1 [3ED:105] Demonic Tutor
+1 [KTK:36] Dig Through Time
+1 [MH1:52] Force of Negation
+2 [MH1:164] Force of Vigor
+4 [ALL:28] Force of Will
+1 [M20:265] Island
+1 [WWK:31] Jace, the Mind Sculptor
+2 [PUMA:U22] Leovold, Emissary of Trest
+1 [NPH:38] Mental Misstep
+1 [8ED:91] Merchant Scroll
+2 [MMQ:87] Misdirection
+4 [ZEN:220] Misty Rainforest
+1 [2ED:262] Mox Emerald
+1 [2ED:263] Mox Jet
+1 [2ED:266] Mox Sapphire
+3 [WAR:61] Narset, Parter of Veils
+4 [KTK:239] Polluted Delta
+2 [M11:70] Preordain
+2 [ISD:78] Snapcaster Mage
+1 [4ED:363] Strip Mine
+2 [FUT:153] Tarmogoyf
+1 [2ED:84] Time Walk
+3 [3ED:288] Tropical Island
+3 [3ED:290] Underground Sea
+1 [6ED:161] Vampiric Tutor
+1 [TMP:330] Wasteland
+SB: 1 [7ED:60] Arcane Laboratory
+SB: 1 [WAR:228] Ashiok, Dream Render
+SB: 1 [MOR:58] Bitterblossom
+SB: 1 [MRD:150] Chalice of the Void
+SB: 1 [AER:57] Fatal Push
+SB: 2 [MH1:164] Force of Vigor
+SB: 2 [M20:227] Grafdigger's Cage
+SB: 3 [ZEN:109] Ravenous Trap
+SB: 1 [LEG:307] The Tabernacle at Pendrell Vale
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,9)(EDH_POWER_LEVEL,false,50)|([2ED:48],[MMQ:61],[M20:265],[2ED:262],[2ED:263],[2ED:266],[FUT:153],[FUT:153],[3ED:288],[3ED:288],[3ED:288],[3ED:290],[3ED:290],[3ED:290])([GRN:152],[GRN:152],[GRN:152])([MH1:158],[MH1:158],[MH1:158])([M11:70],[M11:70])([2ED:233],[TMP:330])([RTR:213],[RTR:213],[RTR:213],[RTR:213],[KTK:36],[MH1:52],[MH1:164],[MH1:164],[ALL:28],[ALL:28],[ALL:28],[ALL:28],[NPH:38],[MMQ:87],[MMQ:87],[WAR:61],[WAR:61],[WAR:61],[ISD:78],[ISD:78],[4ED:363])([3ED:105],[WWK:31],[8ED:91],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[6ED:161])([2ED:84])([PUMA:U22],[PUMA:U22])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([7ED:60],[WAR:228],[MOR:58],[MRD:150],[AER:57],[MH1:164],[MH1:164],[M20:227],[M20:227],[ZEN:109],[ZEN:109],[ZEN:109],[LEG:307],[M20:198],[M20:198])
