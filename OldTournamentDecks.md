@@ -3,5 +3,6 @@
 * Charbelcher
 * Mono U Control
 * Mindslaver/Welder
-* 
+* Infinite Life (Lightning Graves, Daru Spiritualist)
+* Elves?!
 
