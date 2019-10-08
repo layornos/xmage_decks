@@ -1,0 +1,43 @@
+3 [HOU:83] Abrade
+1 [2ED:48] Ancestral Recall
+1 [ISD:127] Ancient Grudge
+1 [2ED:233] Black Lotus
+1 [MMQ:61] Brainstorm
+1 [KTK:36] Dig Through Time
+2 [KTK:233] Flooded Strand
+4 [CHK:276] Forbidden Orchard
+4 [ALL:28] Force of Will
+1 [DOM:161] Gaea's Blessing
+1 [NPH:35] Gitaxian Probe
+1 [AVR:106] Griselbrand
+1 [M20:265] Island
+1 [NPH:38] Mental Misstep
+2 [ZEN:57] Mindbreak Trap
+1 [ZEN:220] Misty Rainforest
+1 [2ED:262] Mox Emerald
+1 [2ED:263] Mox Jet
+1 [2ED:264] Mox Pearl
+1 [2ED:265] Mox Ruby
+1 [2ED:266] Mox Sapphire
+4 [WAR:61] Narset, Parter of Veils
+1 [GRN:192] Niv-Mizzet, Parun
+4 [EXO:115] Oath of Druids
+1 [KTK:239] Polluted Delta
+1 [M12:73] Ponder
+4 [M11:70] Preordain
+4 [5ED:262] Pyroblast
+1 [ZEN:223] Scalding Tarn
+2 [XLN:81] Spell Pierce
+1 [2ED:84] Time Walk
+2 [3ED:288] Tropical Island
+1 [M20:198] Veil of Summer
+3 [3ED:291] Volcanic Island
+SB: 1 [ISD:127] Ancient Grudge
+SB: 2 [RAV:4] Blazing Archon
+SB: 4 [WWK:108] Nature's Claim
+SB: 4 [ZEN:109] Ravenous Trap
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [ULG:45] Tinker
+LAYOUT MAIN:(1,5)(RARITY,false,50)|([M20:265])([ISD:127],[MMQ:61],[NPH:35],[M12:73],[M11:70],[M11:70],[M11:70],[M11:70],[XLN:81],[XLN:81])([HOU:83],[HOU:83],[HOU:83],[ALL:28],[ALL:28],[ALL:28],[ALL:28],[DOM:161],[NPH:38],[WAR:61],[WAR:61],[WAR:61],[WAR:61],[5ED:262],[5ED:262],[5ED:262],[5ED:262],[M20:198])([2ED:48],[2ED:233],[KTK:36],[KTK:233],[KTK:233],[CHK:276],[CHK:276],[CHK:276],[CHK:276],[ZEN:220],[2ED:262],[2ED:263],[2ED:264],[2ED:265],[2ED:266],[GRN:192],[EXO:115],[EXO:115],[EXO:115],[EXO:115],[KTK:239],[ZEN:223],[2ED:84],[3ED:288],[3ED:288],[3ED:291],[3ED:291],[3ED:291])([AVR:106],[ZEN:57],[ZEN:57])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ISD:127],[RAV:4],[RAV:4],[WWK:108],[WWK:108],[WWK:108],[WWK:108],[ZEN:109],[ZEN:109],[ZEN:109],[ZEN:109],[ARB:110],[NPH:74],[NPH:74],[ULG:45])

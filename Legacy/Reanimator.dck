@@ -1,0 +1,27 @@
+2 [AKH:78] Archfiend of Ifnir
+3 [ODY:118] Buried Alive
+2 [KTK:218] Cranial Archive
+1 [XLN:252] Dragonskull Summit
+4 [AKH:88] Dread Wanderer
+4 [ODY:132] Entomb
+3 [USG:134] Exhume
+4 [SOI:272] Foreboding Ruins
+2 [AVR:106] Griselbrand
+3 [RNA:76] Gutterbones
+3 [EMN:137] Nahiri's Wrath
+4 [TMP:151] Reanimate
+2 [MBS:53] Sangromancer
+2 [DGM:104] Sire of Insanity
+2 [BFZ:247] Smoldering Marsh
+15 [M20:269] Swamp
+1 [HOU:146] The Scorpion God
+3 [USG:166] Victimize
+SB: 1 [KLD:244] Botanical Sanctum
+SB: 1 [BFZ:107] Defiant Bloodlord
+SB: 2 [THS:194] Horizon Chimera
+SB: 1 [ORI:248] Llanowar Wastes
+SB: 4 [KTK:238] Opulent Palace
+SB: 2 [KTK:204] Sultai Charm
+SB: 4 [EMN:78] Turn Aside
+LAYOUT MAIN:(1,5)(RARITY,false,50)|([M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269])([USG:134],[USG:134],[USG:134])([ODY:118],[ODY:118],[ODY:118],[KTK:218],[KTK:218],[TMP:151],[TMP:151],[TMP:151],[TMP:151],[USG:166],[USG:166],[USG:166])([AKH:78],[AKH:78],[XLN:252],[AKH:88],[AKH:88],[AKH:88],[AKH:88],[ODY:132],[ODY:132],[ODY:132],[ODY:132],[SOI:272],[SOI:272],[SOI:272],[SOI:272],[RNA:76],[RNA:76],[RNA:76],[MBS:53],[MBS:53],[DGM:104],[DGM:104],[BFZ:247],[BFZ:247])([AVR:106],[AVR:106],[EMN:137],[EMN:137],[EMN:137],[HOU:146])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KLD:244],[BFZ:107],[THS:194],[THS:194],[ORI:248],[KTK:238],[KTK:238],[KTK:238],[KTK:238],[KTK:204],[KTK:204],[EMN:78],[EMN:78],[EMN:78],[EMN:78])

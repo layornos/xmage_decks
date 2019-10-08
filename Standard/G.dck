@@ -1,0 +1,16 @@
+4 [RNA:128] Growth-Chamber Guardian
+4 [ELD:169] Once Upon a Time
+4 [M20:194] Shifting Ceratops
+2 [ELD:235] Stonecoil Serpent
+18 [UST:216] Forest
+3 [ELD:182] Wildborn Preserver
+4 [ELD:240] Castle Garenbrig
+4 [ELD:171] Questing Beast
+4 [ELD:161] The Great Henge
+3 [ELD:185] Yorvo, Lord of Garenbrig
+4 [GRN:141] Pelt Collector
+2 [ELD:245] Gingerbread Cabin
+2 [PS19:163] God-Eternal Rhonas
+2 [M20:230] Manifold Key
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ELD:235],[ELD:235],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[ELD:240],[ELD:240],[ELD:240],[ELD:240],[ELD:245],[ELD:245])([GRN:141],[GRN:141],[GRN:141],[GRN:141],[M20:230],[M20:230])([RNA:128],[RNA:128],[RNA:128],[RNA:128],[ELD:169],[ELD:169],[ELD:169],[ELD:169],[ELD:182],[ELD:182],[ELD:182])([ELD:185],[ELD:185],[ELD:185])([M20:194],[M20:194],[M20:194],[M20:194],[ELD:171],[ELD:171],[ELD:171],[ELD:171])([PS19:163],[PS19:163])([ELD:161],[ELD:161],[ELD:161],[ELD:161])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,50)|
