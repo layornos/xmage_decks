@@ -1,0 +1,34 @@
+4 [MMQ:61] Brainstorm
+1 [LEG:137] Chain Lightning
+4 [NEM:30] Daze
+4 [ISD:51] Delver of Secrets
+2 [WAR:125] Dreadhorde Arcanist
+1 [MH1:238] Fiery Islet
+1 [MH1:52] Force of Negation
+4 [ALL:28] Force of Will
+4 [M11:149] Lightning Bolt
+4 [KTK:239] Polluted Delta
+4 [M12:73] Ponder
+2 [M11:70] Preordain
+4 [ZEN:223] Scalding Tarn
+1 [XLN:81] Spell Pierce
+1 [DIS:33] Spell Snare
+4 [FUT:153] Tarmogoyf
+3 [3ED:288] Tropical Island
+2 [BBD:136] True-Name Nemesis
+3 [3ED:291] Volcanic Island
+4 [TMP:330] Wasteland
+3 [MH1:217] Wrenn and Six
+SB: 2 [HOU:83] Abrade
+SB: 1 [4ED:63] Blue Elemental Blast
+SB: 1 [ULG:98] Crop Rotation
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [LEG:303] Karakas
+SB: 1 [WTH:154] Null Rod
+SB: 2 [5ED:262] Pyroblast
+SB: 1 [ELD:173] Return to Nature
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [M15:237] Tormod's Crypt
+SB: 1 [NPH:48] Vapor Snag
+LAYOUT MAIN:(1,6)(EDH_POWER_LEVEL,false,50)|([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ISD:51],[ISD:51],[ISD:51],[ISD:51],[M11:149],[M11:149],[M11:149],[M11:149],[M12:73],[M12:73],[M12:73],[M12:73],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[3ED:288],[3ED:288],[3ED:288],[3ED:291],[3ED:291],[3ED:291])([LEG:137])([M11:70],[M11:70])([MH1:238],[BBD:136],[BBD:136],[TMP:330],[TMP:330],[TMP:330],[TMP:330],[MH1:217],[MH1:217],[MH1:217])([NEM:30],[NEM:30],[NEM:30],[NEM:30],[WAR:125],[WAR:125],[MH1:52],[ALL:28],[ALL:28],[ALL:28],[ALL:28],[XLN:81],[DIS:33])([KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:83],[HOU:83],[4ED:63],[ULG:98],[MH1:52],[LEG:303],[WTH:154],[5ED:262],[5ED:262],[ELD:173],[NPH:74],[NPH:74],[M15:237],[NPH:48])
