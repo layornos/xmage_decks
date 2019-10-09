@@ -8,7 +8,7 @@
 2 Engineered Explosives
 3 Solemn Simulacrum 2DE
 1 Sprengstation
-1 Grafdigger's Cage
+1 Grafdiggers Cage
 1 Icon of Ancestry
 4 Oblivion Stone 2DE
 1 Stiller Schiedsrichter
@@ -59,4 +59,32 @@
 1 Legion's End
 1 Mephidros Vampire IT
 1 Goryos Revenge DE
+
+## Lands
+1 Boseiju, who shelters all
+1 Rishadan Port
+1 Forbidden Orchad DE
+3 City of Brass (2 5th, 1 8th) 3DE
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Lotus Field
+1 Karplusan Forest (7th) DE
+Playset of each Urza Land
+
+## Blue
+1 Lord of Atlantis (7th) JP
+2 Lord of Atlantis (5th, 6th) 2DE
+1 Hurkyl's Recall (4th)
+2 Donate
+2 
+1 Mana Severance
+1 Cunning Wish
+1 Gifts Ungiven
+1 Intruder Alarm DE
+1 Primordial Mist DE
+1 Words of Wind DE
+1 Cavalier of Gales
+6 Gush 4JP 2DE
+3 Stifle 2DE 1EN
+4 Brainstorm (IceAge) 2DE 2EN
 
