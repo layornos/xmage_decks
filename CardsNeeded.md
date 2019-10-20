@@ -49,6 +49,7 @@
 | 97	| Liliana, Death's Majesty	            | Chris Rallis		        | Amonkhet                 |          |
 | 106	| Liliana, Defiant Necromancer	        | Karla Ortiz		        | Magic Origins            | &#x2714; |
 | 97	| Liliana, Dreadhorde General	        | Chris Rallis		        | War of the Spark         |          |
+| 97	| Liliana, Dreadhorde General (Jap.)    |                           | War of the Spark         | &#x2714; |
 | 106	| Liliana, Heretical Healer	            | Karla Ortiz		        | Magic Origins            | &#x2714; |
 | 93	| Liliana, the Last Hope	            | Anna Steinbauer	    	| Eldritch Moon            |          |
 | 291	| Liliana, the Necromancer	            | Livia Prima		        | Core Set 2019            |          |
