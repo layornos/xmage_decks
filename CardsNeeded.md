@@ -2,24 +2,16 @@
 
 ## Vintage
 ### MUD STAX
-* 1 Walking Ballista
-* 4 Grim Monolith (*)
-* 1 Mox Opal (*)
 * 2 Thought-Knot Seer
-* 1 City of Traitors (*)
 * 1 Inventors' Fair
 * 1 Karn, Scion of Urza
 
 #### Sideboard
-* 4 Grafdigger's Cage
+* 3 Grafdigger's Cage
 * 4 Mindbreak Trap
-* 1 Mycosynth Lattice
 * 1 Time Vault (*)
 * 1 Tormod's Crypt
 * 1 Wurmcoil Engine
-
-### Ravager Shops
-* 1 Walking Ballista
 
 ## Legacy
 ### MonoB
