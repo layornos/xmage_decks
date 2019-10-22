@@ -18,13 +18,9 @@
 * 1 Cabal Pit
 * 4 Inquisition of Kozilek
 * 1 Maze of Ith
-* 1 Nether Spirit
-* 4 Sinkhole
-* 1 The Tabernacle at Pendrell Vale (*)
 * 2 Cursed Scoll
 * 2 Liliana, the Last Hope
 * 4 Urborg, Tomb of Yawgmoth (*)
-* 4 Liliana of the Veil (*)
 
 
 ## Liliana Collection
