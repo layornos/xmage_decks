@@ -1,3 +1,8 @@
+# Commander
+1   Thrasios, Triton Hero
+1   Tymna the Weaver
+
+# Lands
 1   Underground Sea
 1   Tropical Island
 1   Tundra
