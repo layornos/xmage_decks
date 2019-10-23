@@ -42,3 +42,38 @@
 1   Wasteland
 1   Ancient Tomb
 1   The Tabernacle at Pendrell Vale
+
+# Blue
+1   Pact of Negation
+1   Gitaxian Probe
+1   Mystic Tutor
+1   Swan Song
+1   Ponder
+1   Flusterstorm
+1   Mystic Remora
+1   Brainstorm
+1   Cyclonic Rift
+1   Power Artifact
+1   Merchant Scroll
+1   Mana Drain
+1   Counterspell
+1   Laboratory Maniac
+1   Tinker
+1   Rystic Study
+1   Force of Negation
+1   Narset, Parter of Veils
+1   Fact of Fiction
+1   Jace, the Mind Sculptor
+1   Gush
+1   Force of Will
+1   Deadeye Navigator
+1   Palinchron
+1   Dig Through Time
+
+# White
+1   Swords to Plowshares
+1   Balance
+1   Humility
+
+# Muli-Color
+1   Merciless Eviction
