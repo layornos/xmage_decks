@@ -70,6 +70,18 @@
 1   Palinchron
 1   Dig Through Time
 
+# Black
+1   Vampiric Tutor
+1   Imperial Seal
+1   Dark Ritual
+1   Demonic Tutor
+1   Cabal Ritual
+1   Yawgmoth's Will
+1   Liliana of the Veil
+1   Phyrexian Arena
+1   Doomsday
+1   Necropotence
+
 # White
 1   Swords to Plowshares
 1   Balance
