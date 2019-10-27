@@ -1,0 +1,43 @@
+1 [2ED:48] Ancestral Recall
+4 [TOR:121] Basking Rootwalla
+1 [3ED:283] Bayou
+4 [ARN:70] Bazaar of Baghdad
+1 [2ED:233] Black Lotus
+3 [MH1:158] Collector Ouphe
+1 [UMA:11] Containment Priest
+2 [RTR:213] Deathrite Shaman
+1 [RNA:165] Deputy of Detention
+2 [ALL:89] Elvish Spirit Guide
+1 [MH1:164] Force of Vigor
+1 [ELD:266] Forest
+4 [HOU:163] Hollow One
+2 [RNA:189] Lavinia, Azorius Renegade
+2 [PUMA:U22] Leovold, Emissary of Trest
+1 [NPH:38] Mental Misstep
+2 [ZEN:220] Misty Rainforest
+1 [2ED:262] Mox Emerald
+1 [2ED:263] Mox Jet
+1 [2ED:264] Mox Pearl
+1 [2ED:266] Mox Sapphire
+2 [CON:87] Noble Hierarch
+1 [M15:225] Phyrexian Revoker
+2 [3ED:285] Savannah
+1 [10E:239] Squee, Goblin Nabob
+4 [EXO:129] Survival of the Fittest
+1 [2ED:84] Time Walk
+2 [3ED:288] Tropical Island
+4 [ROE:212] Vengevine
+2 [ZEN:229] Verdant Catacombs
+2 [KTK:248] Windswept Heath
+1 [JUD:54] Wonder
+1 [KTK:249] Wooded Foothills
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [RNA:165] Deputy of Detention
+SB: 2 [MMQ:78] Energy Flux
+SB: 3 [MH1:164] Force of Vigor
+SB: 2 [ZEN:57] Mindbreak Trap
+SB: 1 [MH1:100] Plague Engineer
+SB: 4 [ZEN:109] Ravenous Trap
+SB: 1 [M14:195] Scavenging Ooze
+LAYOUT MAIN:(1,8)(EDH_POWER_LEVEL,false,50)|([2ED:48],[3ED:283],[ARN:70],[ARN:70],[ARN:70],[ARN:70],[ELD:266],[2ED:262],[2ED:263],[2ED:264],[2ED:266],[3ED:285],[3ED:285],[10E:239],[3ED:288],[3ED:288],[JUD:54])([CON:87],[CON:87])([MH1:158],[MH1:158],[MH1:158],[ALL:89],[ALL:89],[M15:225])([2ED:233],[UMA:11],[RNA:165],[ROE:212],[ROE:212],[ROE:212],[ROE:212])([TOR:121],[TOR:121],[TOR:121],[TOR:121],[RTR:213],[RTR:213],[MH1:164],[HOU:163],[HOU:163],[HOU:163],[HOU:163],[RNA:189],[RNA:189],[NPH:38])([ZEN:220],[ZEN:220],[EXO:129],[EXO:129],[EXO:129],[EXO:129],[ZEN:229],[ZEN:229],[KTK:248],[KTK:248],[KTK:249])([2ED:84])([PUMA:U22],[PUMA:U22])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([UMA:11],[RNA:165],[MMQ:78],[MMQ:78],[MH1:164],[MH1:164],[MH1:164],[ZEN:57],[ZEN:57],[MH1:100],[ZEN:109],[ZEN:109],[ZEN:109],[ZEN:109],[M14:195])

@@ -1,0 +1,46 @@
+1 [2ED:48] Ancestral Recall
+1 [2ED:233] Black Lotus
+1 [MMQ:61] Brainstorm
+2 [MEDM:RA6] Dack Fayden
+1 [KTK:36] Dig Through Time
+3 [WAR:125] Dreadhorde Arcanist
+4 [KTK:233] Flooded Strand
+1 [MH1:52] Force of Negation
+4 [ALL:28] Force of Will
+1 [NPH:35] Gitaxian Probe
+1 [MMQ:82] Gush
+2 [RNA:189] Lavinia, Azorius Renegade
+2 [M11:149] Lightning Bolt
+1 [NPH:38] Mental Misstep
+1 [FRF:20] Monastery Mentor
+1 [2ED:264] Mox Pearl
+1 [2ED:265] Mox Ruby
+1 [2ED:266] Mox Sapphire
+3 [WAR:61] Narset, Parter of Veils
+1 [M12:73] Ponder
+4 [M11:70] Preordain
+3 [5ED:262] Pyroblast
+4 [ZEN:223] Scalding Tarn
+1 [GPT:75] Shattering Spree
+1 [ISD:78] Snapcaster Mage
+1 [CSP:152] Snow-Covered Island
+1 [XLN:81] Spell Pierce
+1 [4ED:363] Strip Mine
+2 [ICE:54] Swords to Plowshares
+1 [2ED:84] Time Walk
+1 [KTK:59] Treasure Cruise
+2 [3ED:289] Tundra
+4 [3ED:291] Volcanic Island
+1 [M14:163] Young Pyromancer
+SB: 1 [UMA:11] Containment Priest
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [5ED:262] Pyroblast
+SB: 3 [ZEN:109] Ravenous Trap
+SB: 3 [GPT:75] Shattering Spree
+SB: 1 [CSP:154] Snow-Covered Mountain
+SB: 1 [CSP:151] Snow-Covered Plains
+SB: 1 [ISD:36] Stony Silence
+SB: 1 [ICE:54] Swords to Plowshares
+SB: 2 [M15:237] Tormod's Crypt
+LAYOUT MAIN:(1,9)(EDH_POWER_LEVEL,false,50)|([2ED:48],[MMQ:61],[NPH:35],[M11:149],[M11:149],[2ED:264],[2ED:265],[2ED:266],[M12:73],[CSP:152],[3ED:289],[3ED:289],[3ED:291],[3ED:291],[3ED:291],[3ED:291])([5ED:262],[5ED:262],[5ED:262])([ICE:54],[ICE:54])([M11:70],[M11:70],[M11:70],[M11:70])([2ED:233],[MEDM:RA6],[MEDM:RA6],[FRF:20],[M14:163])([KTK:36],[WAR:125],[WAR:125],[WAR:125],[MH1:52],[ALL:28],[ALL:28],[ALL:28],[ALL:28],[RNA:189],[RNA:189],[NPH:38],[WAR:61],[WAR:61],[WAR:61],[GPT:75],[ISD:78],[XLN:81],[4ED:363],[KTK:59])([KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223])([2ED:84])([MMQ:82])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([UMA:11],[RTR:231],[5ED:262],[ZEN:109],[ZEN:109],[ZEN:109],[GPT:75],[GPT:75],[GPT:75],[CSP:154],[CSP:151],[ISD:36],[ICE:54],[M15:237],[M15:237])
