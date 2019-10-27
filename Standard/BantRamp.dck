@@ -1,0 +1,30 @@
+3 [WAR:149] Arboreal Grazer
+4 [RNA:246] Breeding Pool
+2 [ELD:242] Castle Vantress
+3 [ELD:244] Fabled Passage
+6 [ELD:266] Forest
+4 [ELD:160] Gilded Goose
+4 [RNA:178] Growth Spiral
+4 [RNA:251] Hallowed Fountain
+4 [RNA:183] Hydroid Krasis
+2 [ELD:254] Island
+3 [RNA:42] Mass Manipulation
+4 [WAR:169] Nissa, Who Shakes the World
+4 [ELD:197] Oko, Thief of Crowns
+1 [ELD:250] Plains
+3 [WAR:221] Teferi, Time Raveler
+4 [GRN:258] Temple Garden
+1 [M20:255] Temple of Mystery
+2 [WAR:223] Time Wipe
+2 [ELD:181] Wicked Wolf
+SB: 3 [M20:42] Aether Gust
+SB: 1 [ELD:15] Glass Casket
+SB: 1 [GRN:183] Knight of Autumn
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [M20:69] Negate
+SB: 1 [WAR:221] Teferi, Time Raveler
+SB: 1 [WAR:223] Time Wipe
+SB: 3 [M20:198] Veil of Summer
+SB: 2 [M20:200] Voracious Hydra
+LAYOUT MAIN:(1,5)(EDH_POWER_LEVEL,false,50)|([RNA:246],[RNA:246],[RNA:246],[RNA:246],[ELD:266],[ELD:266],[ELD:266],[ELD:266],[ELD:266],[ELD:266],[RNA:178],[RNA:178],[RNA:178],[RNA:178],[RNA:251],[RNA:251],[RNA:251],[RNA:251],[ELD:254],[ELD:254],[ELD:250],[GRN:258],[GRN:258],[GRN:258],[GRN:258],[M20:255])([WAR:223],[WAR:223])([ELD:244],[ELD:244],[ELD:244],[ELD:160],[ELD:160],[ELD:160],[ELD:160],[RNA:42],[RNA:42],[RNA:42],[ELD:181],[ELD:181])([WAR:149],[WAR:149],[WAR:149],[ELD:242],[ELD:242],[RNA:183],[RNA:183],[RNA:183],[RNA:183],[ELD:197],[ELD:197],[ELD:197],[ELD:197],[WAR:221],[WAR:221],[WAR:221])([WAR:169],[WAR:169],[WAR:169],[WAR:169])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:42],[M20:42],[M20:42],[ELD:15],[GRN:183],[ELD:58],[ELD:58],[M20:69],[WAR:221],[WAR:223],[M20:198],[M20:198],[M20:198],[M20:200],[M20:200])
