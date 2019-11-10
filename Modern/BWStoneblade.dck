@@ -1,0 +1,31 @@
+2 [WWK:133] Celestial Colonnade
+4 [XLN:254] Field of Ruin
+4 [KTK:233] Flooded Strand
+3 [XLN:255] Glacial Fortress
+3 [RNA:251] Hallowed Fountain
+6 [CSP:152] Snow-Covered Island
+2 [CSP:151] Snow-Covered Plains
+4 [ISD:78] Snapcaster Mage
+4 [WWK:20] Stoneforge Mystic
+1 [MOR:55] Vendilion Clique
+3 [WWK:31] Jace, the Mind Sculptor
+2 [WAR:221] Teferi, Time Raveler
+1 [NPH:130] Batterskull
+4 [LRW:56] Cryptic Command
+4 [MH1:52] Force of Negation
+2 [M12:63] Mana Leak
+4 [CON:15] Path to Exile
+2 [DIS:33] Spell Snare
+2 [RTR:201] Supreme Verdict
+1 [MBS:138] Sword of Feast and Famine
+2 [ELD:59] Opt
+SB: 1 [NPH:130] Batterskull
+SB: 1 [M12:11] Celestial Purge
+SB: 3 [GRN:37] Disdainful Stroke
+SB: 1 [M20:14] Disenchant
+SB: 2 [NPH:74] Surgical Extraction
+SB: 3 [M12:40] Timely Reinforcements
+SB: 1 [MOR:55] Vendilion Clique
+SB: 3 [MH1:37] Winds of Abandon
+LAYOUT MAIN:(1,6)(EDH_POWER_LEVEL,false,50)|([WWK:133],[WWK:133],[RNA:251],[RNA:251],[RNA:251],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:151],[CSP:151],[ELD:59],[ELD:59])([CON:15],[CON:15],[CON:15],[CON:15])([NPH:130],[RTR:201],[RTR:201])([MOR:55],[LRW:56],[LRW:56],[LRW:56],[LRW:56],[MBS:138])([XLN:254],[XLN:254],[XLN:254],[XLN:254],[XLN:255],[XLN:255],[XLN:255],[ISD:78],[ISD:78],[ISD:78],[ISD:78],[WAR:221],[WAR:221],[MH1:52],[MH1:52],[MH1:52],[MH1:52],[M12:63],[M12:63],[DIS:33],[DIS:33])([KTK:233],[KTK:233],[KTK:233],[KTK:233],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[WWK:31],[WWK:31],[WWK:31])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NPH:130],[M12:11],[GRN:37],[GRN:37],[GRN:37],[M20:14],[NPH:74],[NPH:74],[M12:40],[M12:40],[M12:40],[MOR:55],[MH1:37],[MH1:37],[MH1:37])
