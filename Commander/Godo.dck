@@ -1,0 +1,85 @@
+1 [MBS:101] Brass Squire
+1 [RIX:99] Dire Fleet Daredevil
+1 [C19:24] Dockside Extortionist
+1 [GRN:103] Goblin Cratermaker
+1 [MH1:128] Goblin Engineer
+1 [7ED:191] Goblin Matron
+1 [ULG:80] Goblin Welder
+1 [A25:136] Imperial Recruiter
+1 [FUT:101] Magus of the Moon
+1 [UDS:135] Metalworker
+1 [PLC:122] Simian Spirit Guide
+1 [CNS:36] Treasonous Ogre
+1 [HOU:83] Abrade
+1 [ELD:331] Arcane Signet
+1 [SOM:137] Argentum Armor
+1 [3ED:235] Basalt Monolith
+1 [9ED:176] Blood Moon
+1 [MRD:150] Chalice of the Void
+1 [C19:136] Chaos Warp
+1 [MRD:152] Chrome Mox
+1 [RTR:228] Codex Shredder
+1 [6ED:278] Cursed Totem
+1 [9ED:293] Defense Grid
+1 [WWK:123] Everflowing Chalice
+1 [ZEN:201] Expedition Map
+1 [9ED:297] Fellwar Stone
+1 [7ED:182] Final Fortune
+1 [ORI:147] Flameshadow Conjuring
+1 [USG:188] Gamble
+1 [M20:227] Grafdigger's Cage
+1 [ULG:126] Grim Monolith
+1 [C17:51] Hammer of Nazahn
+1 [LRW:175] Heat Shimmer
+1 [DOM:217] Helm of the Host
+1 [CHK:254] Honor-Worn Shaku
+1 [ICE:326] Jeweled Amulet
+1 [5DN:134] Krark-Clan Ironworks
+1 [MIR:307] Lion's Eye Diamond
+1 [TMP:294] Lotus Petal
+1 [5DN:74] Magnetic Theft
+1 [MPS:16] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [M20:230] Manifold Key
+1 [10E:335] Mind Stone
+1 [NEM:94] Mogg Salvage
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [KLD:226] Panharmonicon
+1 [DGM:34] Possibility Storm
+1 [TSP:262] Prismatic Lens
+1 [5ED:262] Pyroblast
+1 [ALL:78] Pyrokinesis
+1 [4ED:218] Red Elemental Blast
+1 [WWK:87] Ricochet Trap
+1 [CSP:96] Rite of Flame
+1 [9ED:216] Seething Song
+1 [CHK:268] Sensei's Divining Top
+1 [3ED:274] Sol Ring
+1 [CMA:87] Stranglehold
+1 [AKH:149] Sweltering Suns
+1 [UDS:139] Thran Dynamo
+1 [MMQ:219] Thunderclap
+1 [DST:154] Trinisphere
+1 [JOU:115] Twinflame
+1 [CON:74] Volcanic Fallout
+1 [MRD:274] Welding Jar
+1 [3ED:185] Wheel of Fortune
+1 [TMP:315] Ancient Tomb
+1 [WAR:244] Blast Zone
+1 [M12:224] Buried Ruin
+1 [AVR:226] Cavern of Souls
+1 [EXO:143] City of Traitors
+1 [6ED:322] Crystal Vein
+1 [M15:242] Darksteel Citadel
+1 [6ED:323] Dwarven Ruins
+1 [WAR:245] Emergence Zone
+1 [TSP:274] Gemstone Caverns
+1 [MRD:282] Great Furnace
+1 [KLD:247] Inventors' Fair
+18 [ELD:262] Mountain
+1 [MMQ:326] Sandstone Needle
+1 [KLD:248] Sequestered Stash
+SB: 1 [C16:125] Godo, Bandit Warlord
+LAYOUT MAIN:(1,9)(EDH_POWER_LEVEL,false,50)|([MBS:101],[FUT:101],[CNS:36],[ELD:331],[C19:136],[9ED:297],[M20:227],[CHK:254],[5DN:74],[STH:138],[SOM:179],[KLD:226],[TSP:262],[9ED:216],[UDS:139],[M15:242],[MRD:282],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262],[ELD:262])([HOU:83],[SOM:137],[5ED:262],[4ED:218])([RIX:99],[PLC:122],[MRD:152],[6ED:278],[AVR:226],[TSP:274])([ORI:147],[LRW:175],[DOM:217])([C19:24],[ULG:80],[RTR:228],[C17:51],[MIR:307],[TMP:294],[M20:230],[10E:335],[MRD:274],[M12:224],[EXO:143],[6ED:322],[6ED:323],[WAR:245],[MMQ:326],[KLD:248])([GRN:103],[UDS:135],[9ED:176],[MRD:150],[9ED:293],[WWK:123],[ICE:326],[MPS:16],[5ED:388],[NEM:94],[DGM:34],[ALL:78],[WWK:87],[CSP:96],[3ED:274],[AKH:149],[MMQ:219],[DST:154],[JOU:115],[CON:74],[3ED:185],[TMP:315],[WAR:244])([MH1:128],[7ED:191],[A25:136],[ZEN:201],[USG:188],[KLD:247])([7ED:182],[CMA:87])([3ED:235],[ULG:126],[5DN:134],[CHK:268])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C16:125])
