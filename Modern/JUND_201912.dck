@@ -1,0 +1,35 @@
+3 [GRN:152] Assassin's Trophy
+1 [ONS:312] Barren Moor
+3 [SOM:224] Blackcleave Cliffs
+1 [RNA:245] Blood Crypt
+4 [ARB:50] Bloodbraid Elf
+4 [KTK:230] Bloodstained Mire
+2 [RAV:81] Dark Confidant
+3 [AER:57] Fatal Push
+1 [ELD:266] Forest
+4 [ROE:115] Inquisition of Kozilek
+2 [DTK:224] Kolaghan's Command
+3 [M11:149] Lightning Bolt
+4 [ISD:105] Liliana of the Veil
+1 [ARB:92] Maelstrom Pulse
+1 [ELD:262] Mountain
+1 [MH1:243] Nurturing Peatland
+2 [GRN:253] Overgrown Tomb
+2 [WWK:141] Raging Ravine
+2 [M14:195] Scavenging Ooze
+1 [RNA:259] Stomping Ground
+2 [ELD:258] Swamp
+4 [FUT:153] Tarmogoyf
+2 [THS:107] Thoughtseize
+4 [ZEN:229] Verdant Catacombs
+3 [MH1:217] Wrenn and Six
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 2 [EMN:85] Collective Brutality
+SB: 2 [MH1:158] Collector Ouphe
+SB: 1 [DOM:213] Damping Sphere
+SB: 3 [SHM:188] Fulminator Mage
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 2 [M20:107] Leyline of the Void
+SB: 2 [MH1:100] Plague Engineer
+LAYOUT MAIN:(1,6)(EDH_POWER_LEVEL,false,50)|([ONS:312],[RNA:245],[ELD:266],[M11:149],[M11:149],[M11:149],[ELD:262],[GRN:253],[GRN:253],[WWK:141],[WWK:141],[RNA:259],[ELD:258],[ELD:258],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[THS:107],[THS:107])([GRN:152],[GRN:152],[GRN:152],[ARB:92])([M14:195],[M14:195])([DTK:224],[DTK:224],[MH1:243],[MH1:217],[MH1:217],[MH1:217])([SOM:224],[SOM:224],[SOM:224],[ARB:50],[ARB:50],[ARB:50],[ARB:50],[RAV:81],[RAV:81],[AER:57],[AER:57],[AER:57],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[ISD:105],[ISD:105],[ISD:105],[ISD:105])([KTK:230],[KTK:230],[KTK:230],[KTK:230],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WAR:228],[WAR:228],[EMN:85],[EMN:85],[MH1:158],[MH1:158],[DOM:213],[SHM:188],[SHM:188],[SHM:188],[DKA:140],[M20:107],[M20:107],[MH1:100],[MH1:100])
