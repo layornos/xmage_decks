@@ -1,0 +1,92 @@
+1 [HOU:83] Abrade
+1 [UDS:1] Academy Rector
+1 [JOU:2] Ajani's Presence
+1 [ISD:170] Avacyn's Pilgrim
+1 [AKH:5] Aven Mindcensor
+1 [M15:169] Back to Nature
+1 [M12:165] Birds of Paradise
+1 [NPH:104] Birthing Pod
+1 [KTK:230] Bloodstained Mire
+1 [EVE:66] Bloom Tender
+1 [KLD:146] Blossoming Defense
+1 [NPH:105] Brutalizer Exarch
+1 [USG:240] Carpet of Flowers
+1 [MRD:152] Chrome Mox
+1 [ELD:333] Command Tower
+1 [ULG:98] Crop Rotation
+1 [RNA:97] Dagger Caster
+1 [C19:24] Dockside Extortionist
+1 [PLS:106] Eladamri's Call
+1 [EMN:155] Eldritch Evolution
+1 [ALL:89] Elvish Spirit Guide
+1 [5DN:86] Eternal Witness
+1 [CON:142] Exotic Orchard
+1 [AER:19] Felidar Guardian
+1 [TMP:179] Goblin Bombardment
+1 [ROE:26] Hyena Umbra
+1 [DTK:140] Impact Tremors
+1 [ULG:11] Karmic Guide
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [TSP:202] Krosan Grip
+1 [10E:331] Leonin Scimitar
+1 [M19:314] Llanowar Elves
+1 [FUT:171] Llanowar Reborn
+1 [M20:180] Loaming Shaman
+1 [JOU:163] Mana Confluence
+1 [MPS:16] Mana Crypt
+1 [LRW:31] Mirror Entity
+1 [STH:138] Mox Diamond
+1 [M14:228] Mutavault
+1 [OGW:136] Natural State
+1 [WWK:108] Nature's Claim
+1 [NPH:118] Noxious Revival
+1 [CHK:280] Okina, Temple to the Grandfathers
+1 [SOI:32] Open the Armory
+1 [ICE:210] Orcish Lumberjack
+1 [CON:15] Path to Exile
+1 [SOM:192] Perilous Myr
+1 [M11:154] Pyroclasm
+1 [M19:196] Reclamation Sage
+1 [RNA:201] Rhythm of the Wild
+1 [FUT:136] Riftsweeper
+1 [AER:122] Rishkar, Peema Renegade
+1 [EVE:178] Rugged Prairie
+1 [GRN:254] Sacred Foundry
+1 [TMP:308] Scroll Rack
+1 [CHK:268] Sensei's Divining Top
+1 [C19:5] Sevinne's Reclamation
+1 [DST:140] Skullclamp
+1 [RNA:22] Smothering Tithe
+1 [RNA:259] Stomping Ground
+1 [TSP:179] Sudden Shock
+1 [FUT:139] Summoner's Pact
+1 [EXO:129] Survival of the Fittest
+1 [ICE:54] Swords to Plowshares
+1 [MRD:254] Talisman of Impulse
+1 [MRD:257] Talisman of Unity
+1 [GRN:258] Temple Garden
+1 [LRW:239] Treefolk Harbinger
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [ZEN:193] Vines of Vastwood
+1 [KTK:248] Windswept Heath
+8 [UST:216] Forest
+3 [UST:215] Mountain
+3 [UST:212] Plains
+1 [PUMA:U29] Mana Vault
+1 [LEA:279] Plateau
+1 [LEB:281] Savannah
+1 [PF19:7] Sol Ring
+1 [LEA:282] Taiga
+1 [MMA:221] City of Brass
+1 [LEB:215] Regrowth
+1 [LEG:207] Sylvan Library
+1 [MIR:255] Worldly Tutor
+1 [ICE:213] Pyroblast
+1 [LEB:170] Red Elemental Blast
+1 [MRD:104] Seething Song
+1 [LEA:183] Wheel of Fortune
+1 [P02:100] Goblin Matron
+1 [MIR:14] Enlightened Tutor
+SB: 1 [C19:38] Atla Palani, Nest Tender
+LAYOUT MAIN:(1,5)(COLOR,false,50)|([KTK:230],[MRD:152],[ELD:333],[CON:142],[10E:331],[FUT:171],[JOU:163],[MPS:16],[STH:138],[M14:228],[CHK:280],[SOM:192],[EVE:178],[GRN:254],[TMP:308],[CHK:268],[DST:140],[RNA:259],[MRD:254],[MRD:257],[GRN:258],[ROE:12],[KTK:248],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215],[UST:212],[UST:212],[UST:212],[PUMA:U29],[LEA:279],[LEB:281],[PF19:7],[LEA:282],[MMA:221])([ISD:170],[M15:169],[M12:165],[NPH:104],[EVE:66],[KLD:146],[NPH:105],[USG:240],[ULG:98],[EMN:155],[ALL:89],[5DN:86],[TSP:202],[M19:314],[M20:180],[OGW:136],[WWK:108],[NPH:118],[M19:196],[FUT:136],[AER:122],[FUT:139],[EXO:129],[LRW:239],[ZEN:193],[LEB:215],[LEG:207],[MIR:255])([HOU:83],[RNA:97],[C19:24],[TMP:179],[DTK:140],[CHK:175],[ICE:210],[M11:154],[TSP:179],[ICE:213],[LEB:170],[MRD:104],[LEA:183],[P02:100])([UDS:1],[JOU:2],[AKH:5],[AER:19],[ROE:26],[ULG:11],[LRW:31],[SOI:32],[CON:15],[C19:5],[RNA:22],[ICE:54],[MIR:14])([PLS:106],[RNA:201])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C19:38])
