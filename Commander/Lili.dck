@@ -1,0 +1,79 @@
+1 [TMP:315] Ancient Tomb
+1 [5ED:140] Animate Dead
+1 [VIS:141] Anvil of Bogardan
+1 [SOI:99] Asylum Visitor
+1 [TSB:37] Avatar of Woe
+1 [PLC:63] Big Game Hunter
+1 [MBS:39] Black Sun's Zenith
+1 [7ED:121] Blood Pet
+1 [ZEN:83] Bloodghast
+1 [KTK:230] Bloodstained Mire
+1 [ULG:49] Bone Shredder
+1 [ODY:118] Buried Alive
+1 [TOR:139] Cabal Coffers
+1 [SCG:59] Carrion Feeder
+1 [TMP:111] Carrionette
+1 [TMP:114] Coffin Queen
+1 [M19:229] Crucible of Worlds
+1 [FRF:66] Dark Deal
+1 [DST:40] Death Cloud
+1 [3ED:105] Demonic Tutor
+1 [M13:88] Disciple of Bolas
+1 [SOI:271] Drownyard Temple
+1 [MRD:165] Duplicant
+1 [ZEN:201] Expedition Map
+1 [ORI:98] Fleshbag Marauder
+1 [EMN:203] Geier Reach Sanitarium
+1 [DST:123] Geth's Grimoire
+1 [THB:355] Gray Merchant of Asphodel
+1 [USG:138] Ill-Gotten Gains
+1 [ALL:140] Lake of the Dead
+1 [ISD:105] Liliana of the Veil
+1 [TMP:142] Living Death
+1 [MPS:16] Mana Crypt
+1 [ZEN:219] Marsh Flats
+1 [DRK:117] Maze of Ith
+1 [ULG:129] Memory Jar
+1 [FRF:76] Merciless Executioner
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [9ED:146] Mindslicer
+1 [STH:138] Mox Diamond
+1 [KTK:81] Murderous Cut
+1 [M13:102] Mutilate
+1 [TSP:120] Nether Traitor
+1 [CHK:129] Nezumi Graverobber
+1 [ROE:124] Pestilence Demon
+1 [USG:322] Phyrexian Tower
+1 [KTK:239] Polluted Delta
+1 [SHM:75] Puppeteer Clique
+1 [HOU:73] Razaketh, the Foulblooded
+1 [ORI:114] Read the Bones
+1 [TMP:151] Reanimate
+1 [M19:116] Reassembling Skeleton
+1 [M14:111] Rise of the Dark Realms
+1 [M12:106] Rune-Scarred Demon
+1 [NPH:73] Sheoldred, Whispering One
+1 [RAV:105] Shred Memory
+1 [LRW:139] Shriekmaw
+1 [M15:114] Sign in Blood
+1 [DST:140] Skullclamp
+1 [BFZ:99] Smothering Abomination
+13 [CSP:153] Snow-Covered Swamp
+1 [MMQ:162] Snuff Out
+1 [3ED:274] Sol Ring
+1 [ALL:60a] Soldevi Adnate
+1 [7ED:319] Static Orb
+1 [4ED:363] Strip Mine
+1 [TSP:135] Sudden Spoiling
+12 [THB:252] Swamp
+1 [EMA:108] Toxic Deluge
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [USG:166] Victimize
+1 [M15:122] Waste Not
+1 [5DN:165] Wayfarer's Bauble
+1 [5ED:408] Winter Orb
+SB: 1 [ORI:106] Liliana, Heretical Healer
+LAYOUT MAIN:(1,10)(CMC,false,50)|([TMP:315],[KTK:230],[TOR:139],[SOI:271],[EMN:203],[ALL:140],[MPS:16],[ZEN:219],[DRK:117],[STH:138],[USG:322],[KTK:239],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[4ED:363],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[M15:248],[ZEN:229])([7ED:121],[SCG:59],[ZEN:201],[TMP:151],[DST:140],[3ED:274],[6ED:161],[5DN:165])([5ED:140],[VIS:141],[SOI:99],[MBS:39],[ZEN:83],[TMP:111],[3ED:105],[TSP:120],[CHK:129],[M19:116],[RAV:105],[M15:114],[ALL:60a],[M15:122],[5ED:408])([PLC:63],[ULG:49],[ODY:118],[TMP:114],[M19:229],[FRF:66],[DST:40],[ORI:98],[ISD:105],[FRF:76],[ORI:114],[7ED:319],[TSP:135],[EMA:108],[USG:166])([M13:88],[DST:123],[USG:138],[9ED:146],[M13:102],[BFZ:99],[MMQ:162])([THB:355],[TMP:142],[ULG:129],[KTK:81],[SHM:75],[LRW:139])([MRD:165],[DKA:70])([M12:106],[NPH:73])([TSB:37],[ROE:124],[HOU:73])([M14:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ORI:106])
