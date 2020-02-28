@@ -2,7 +2,6 @@
 1 [ISD:105] Liliana of the Veil
 1 [WAR:97] Liliana, Dreadhorde General
 1 [CHK:268] Sensei's Divining Top
-1 [THB:236] Shadowspear
 1 [THB:235] Nyx Lotus
 1 [MPS:16] Mana Crypt
 1 [5ED:388] Mana Vault
@@ -27,7 +26,6 @@
 1 [THB:355] Gray Merchant of Asphodel
 1 [M20:122] Vilis, Broker of Blood
 1 [M10:100] Hypnotic Specter
-1 [GRN:82] Plaguecrafter
 1 [M11:104] Liliana's Specter
 1 [M20:112] Sanitarium Skeleton
 1 [DST:50] Pulse of the Dross
@@ -35,12 +33,10 @@
 1 [USG:171] Yawgmoth's Will
 1 [10E:169] Plague Wind
 1 [ORI:114] Read the Bones
-1 [SOI:111] From Under the Floorboards
 1 [M13:102] Mutilate
 1 [USG:162] Unnerve
 1 [ME3:69] Grim Tutor
 1 [C19:19] Mire in Misery
-1 [SHM:57] Beseech the Queen
 1 [WAR:98] Liliana's Triumph
 1 [RIX:90] Vona's Hunger
 1 [FRF:88] Tasigur's Cruelty
@@ -53,7 +49,6 @@
 1 [MMQ:129] Dark Ritual
 1 [TOR:51] Cabal Ritual
 1 [6ED:161] Vampiric Tutor
-1 [ODY:145] Innocent Blood
 1 [9ED:152] Phyrexian Arena
 1 [THB:121] Underworld Dreams
 1 [5ED:182] Necropotence
@@ -67,11 +62,17 @@
 1 [TMP:315] Ancient Tomb
 1 [TMP:330] Wasteland
 1 [4ED:363] Strip Mine
-26 [THB:252] Swamp
+25 [THB:252] Swamp
 1 [EMA:92] Hymn to Tourach
 1 [WAR:79] Bolas's Citadel
 1 [LEG:307] The Tabernacle at Pendrell Vale
 1 [WAR:83] Davriel, Rogue Shadowmage
+1 [HOP:132] Cabal Coffers
+1 [DST:123] Geth's Grimoire
+1 [C14:243] Jet Medallion
+1 [USG:143] Oppression
+1 [C16:117] Waste Not
+1 [CHK:126] Myojin of Night's Reach
 SB: 1 [ELD:101] Rankle, Master of Pranks
-LAYOUT MAIN:(1,10)(CMC,false,50)|([MPS:16],[MRD:152],[STH:138],[ELD:241],[ELD:249],[ONS:312],[TMP:315],[TMP:330],[4ED:363],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[LEG:307])([CHK:268],[THB:236],[5ED:388],[3ED:274],[M20:112],[JR:109],[MMQ:129],[6ED:161],[ODY:145])([10E:335],[ULG:126],[SOI:253],[M19:116],[AKH:100],[C19:19],[WAR:98],[3ED:105],[M12:108],[TOR:51],[EMA:92])([EMN:93],[ISD:105],[ORI:106],[WWK:50],[MH1:100],[M10:100],[GRN:82],[M11:104],[DST:50],[USG:171],[ORI:114],[ME3:69],[RIX:90],[FRF:66],[9ED:152],[THB:121],[5ED:182],[AKH:90],[STH:51],[M10:104],[WAR:83])([THB:235],[M13:102],[USG:162],[ONS:175],[KLD:75],[THB:89])([DOM:215],[FRF:62],[C19:15],[WAR:99],[THB:355],[SOI:111],[DOM:90])([WAR:97],[BOK:71],[SHM:57],[FRF:88],[WAR:79])([C19:18])([TSB:37],[M20:122])([10E:169])
+LAYOUT MAIN:(1,10)(CMC,false,50)|([TMP:315],[ONS:312],[HOP:132],[ELD:241],[MRD:152],[MPS:16],[STH:138],[4ED:363],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[LEG:307],[TMP:330],[ELD:249])([MMQ:129],[JR:109],[5ED:388],[M20:112],[CHK:268],[3ED:274],[6ED:161])([TOR:51],[SOI:253],[3ED:105],[ULG:126],[EMA:92],[C14:243],[WAR:98],[AKH:100],[10E:335],[C19:19],[M19:116],[M12:108],[C16:117])([WWK:50],[STH:51],[FRF:66],[WAR:83],[AKH:90],[ME3:69],[M10:100],[ISD:105],[M11:104],[ORI:106],[EMN:93],[M10:104],[5ED:182],[USG:143],[9ED:152],[MH1:100],[DST:50],[ORI:114],[THB:121],[RIX:90],[USG:171])([KLD:75],[THB:89],[DST:123],[M13:102],[THB:235],[ONS:175],[USG:162])([FRF:62],[C19:15],[DOM:215],[THB:355],[WAR:99],[DOM:90])([WAR:79],[BOK:71],[WAR:97],[FRF:88])([C19:18])([TSB:37],[CHK:126],[M20:122])([10E:169])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([ELD:101])
