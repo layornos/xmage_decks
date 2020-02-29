@@ -1,0 +1,29 @@
+4 [TSP:48] Ancestral Vision
+4 [AKH:42] As Foretold
+4 [KTK:230] Bloodstained Mire
+2 [ELD:281] Brazen Borrower
+4 [MH1:160] Crashing Footfalls
+4 [WAR:125] Dreadhorde Arcanist
+3 [RNA:99] Electrodominance
+1 [MH1:238] Fiery Islet
+3 [MH1:52] Force of Negation
+2 [THB:251] Island
+4 [M11:149] Lightning Bolt
+2 [THB:253] Mountain
+2 [KTK:239] Polluted Delta
+4 [RAV:63] Remand
+4 [ZEN:223] Scalding Tarn
+4 [5DN:36] Serum Visions
+2 [XLN:81] Spell Pierce
+2 [DIS:33] Spell Snare
+2 [KLD:249] Spirebluff Canal
+3 [GRN:257] Steam Vents
+SB: 2 [HOU:83] Abrade
+SB: 2 [THS:112] Anger of the Gods
+SB: 2 [9ED:176] Blood Moon
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [M20:26] Leyline of Sanctity
+SB: 3 [M20:107] Leyline of the Void
+LAYOUT MAIN:(1,5)(CMC,false,50)|([TSP:48],[TSP:48],[TSP:48],[TSP:48],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[MH1:160],[MH1:160],[MH1:160],[MH1:160],[MH1:238],[THB:251],[THB:251],[THB:253],[THB:253],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257])([M11:149],[M11:149],[M11:149],[M11:149],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[XLN:81],[XLN:81],[DIS:33],[DIS:33])([WAR:125],[WAR:125],[WAR:125],[WAR:125],[RNA:99],[RNA:99],[RNA:99],[RAV:63],[RAV:63],[RAV:63],[RAV:63])([AKH:42],[AKH:42],[AKH:42],[AKH:42],[MH1:52],[MH1:52],[MH1:52])([ELD:281],[ELD:281])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:40],[KLD:40])([HOU:83],[HOU:83],[DOM:213],[DOM:213])([THS:112],[THS:112],[9ED:176],[9ED:176])([M20:26],[M20:26],[M20:107],[M20:107],[M20:107])

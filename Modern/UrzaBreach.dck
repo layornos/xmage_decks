@@ -1,0 +1,37 @@
+4 [MH1:220] Arcum's Astrolabe
+1 [RNA:245] Blood Crypt
+2 [10E:314] Chromatic Star
+4 [ELD:342] Emry, Lurker of the Loch
+2 [MH1:128] Goblin Engineer
+4 [5DN:127] Grinding Station
+2 [SOM:174] Memnite
+4 [CSP:138] Mishra's Bauble
+2 [ZEN:220] Misty Rainforest
+3 [DOM:224] Mox Amber
+4 [KTK:239] Polluted Delta
+4 [ZEN:223] Scalding Tarn
+1 [AER:175] Scrap Trawler
+4 [CSP:152] Snow-Covered Island
+1 [CSP:154] Snow-Covered Mountain
+1 [CSP:153] Snow-Covered Swamp
+1 [GRN:257] Steam Vents
+2 [FUT:165] Sword of the Meek
+1 [THB:308] Thassa's Oracle
+3 [ARB:133] Thopter Foundry
+4 [THB:161] Underworld Breach
+4 [MH1:75] Urza, Lord High Artificer
+1 [GRN:259] Watery Grave
+1 [ELD:110] Wishclaw Talisman
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 1 [ELD:281] Brazen Borrower
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [DST:21] Echoing Truth
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [AER:57] Fatal Push
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [M19:69] Sai, Master Thopterist
+SB: 1 [MH1:146] Shenanigans
+SB: 1 [MBS:97] Tezzeret, Agent of Bolas
+SB: 2 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(CMC,false,50)|([RNA:245],[SOM:174],[SOM:174],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[ZEN:220],[ZEN:220],[DOM:224],[DOM:224],[DOM:224],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:154],[CSP:153],[GRN:257],[GRN:259])([MH1:220],[MH1:220],[MH1:220],[MH1:220],[10E:314],[10E:314])([MH1:128],[MH1:128],[5DN:127],[5DN:127],[5DN:127],[5DN:127],[FUT:165],[FUT:165],[THB:308],[ARB:133],[ARB:133],[ARB:133],[THB:161],[THB:161],[THB:161],[THB:161],[ELD:110])([ELD:342],[ELD:342],[ELD:342],[ELD:342],[AER:175])([MH1:75],[MH1:75],[MH1:75],[MH1:75])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([AER:57],[THS:107],[THS:107])([EMN:85],[EMN:85],[DST:21],[MH1:146])([WAR:228],[WAR:228],[8ED:300],[ELD:58],[ELD:58],[M19:69])([MBS:97])([ELD:281])
