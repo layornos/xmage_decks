@@ -1,0 +1,96 @@
+1 [10E:249] Abundance
+1 [TMP:213] Aluren
+1 [TMP:315] Ancient Tomb
+1 [M13:160] Arbor Elf
+1 [ISD:170] Avacyn's Pilgrim
+1 [BFZ:170] Beastcaller Savant
+1 [DGM:123] Beck // Call
+1 [ONS:248] Birchlore Rangers
+1 [M12:165] Birds of Paradise
+1 [EVE:66] Bloom Tender
+1 [CSP:105] Boreal Druid
+1 [BBD:81] Bountiful Promenade
+1 [RNA:246] Breeding Pool
+1 [AVR:226] Cavern of Souls
+1 [8ED:322] City of Brass
+1 [RAV:257] Cloudstone Curio
+1 [ELD:333] Command Tower
+1 [LEG:179] Concordant Crossroads
+1 [AVR:172] Craterhoof Behemoth
+1 [ULG:98] Crop Rotation
+1 [OGW:170] Crumbling Vestige
+1 [SHM:110] Devoted Druid
+1 [CHK:205] Dosan the Falling Leaf
+1 [TSP:58] Dream Stalker
+1 [FUT:174] Dryad Arbor
+1 [PLS:106] Eladamri's Call
+1 [M15:173] Elvish Mystic
+1 [M20:169] Elvish Reclaimer
+1 [ALL:89] Elvish Spirit Guide
+1 [ORI:175] Elvish Visionary
+1 [6ED:19] Enlightened Tutor
+1 [5DN:86] Eternal Witness
+1 [USG:250] Exploration
+1 [WAR:160] Finale of Devastation
+1 [CHK:276] Forbidden Orchard
+7 [THB:254] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [USG:321] Gaea's Cradle
+1 [ELD:160] Gilded Goose
+1 [CHK:210] Glimpse of Nature
+1 [MBS:81] Green Sun's Zenith
+1 [RNA:251] Hallowed Fountain
+1 [MOR:126] Heritage Druid
+1 [DOM:240] Hinterland Harbor
+1 [FUT:177] Horizon Canopy
+1 [8ED:86] Intruder Alarm
+1 [THB:251] Island
+1 [MRD:199] Lightning Greaves
+1 [M19:314] Llanowar Elves
+1 [ZEN:168] Lotus Cobra
+1 [JOU:163] Mana Confluence
+1 [SOM:174] Memnite
+1 [ZEN:220] Misty Rainforest
+1 [DOM:224] Mox Amber
+1 [STH:138] Mox Diamond
+1 [6ED:83] Mystical Tutor
+1 [VIS:114] Natural Order
+1 [EVE:71] Nettle Sentinel
+1 [CON:87] Noble Hierarch
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ELD:169] Once Upon a Time
+1 [AER:167] Ornithopter
+1 [USG:88] Peregrine Drake
+1 [VIS:152] Phyrexian Walker
+1 [THB:250] Plains
+1 [USG:270] Priest of Titania
+1 [MH1:244] Prismatic Vista
+1 [VIS:117] Quirion Ranger
+1 [M19:196] Reclamation Sage
+1 [3ED:214] Regrowth
+1 [3ED:285] Savannah
+1 [TSP:215] Scryb Ranger
+1 [CHK:268] Sensei's Divining Top
+1 [VIS:43] Shrieking Drake
+1 [3ED:274] Sol Ring
+1 [4ED:363] Strip Mine
+1 [XLN:257] Sunpetal Grove
+1 [JUD:133] Sylvan Safekeeper
+1 [WAR:221] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+1 [THB:308] Thassa's Oracle
+1 [3ED:288] Tropical Island
+1 [3ED:289] Tundra
+1 [M20:198] Veil of Summer
+1 [ZEN:229] Verdant Catacombs
+1 [AER:181] Walking Ballista
+1 [MH1:249] Waterlogged Grove
+1 [KTK:248] Windswept Heath
+1 [ONS:329] Wirewood Lodge
+1 [SCG:133] Wirewood Symbiote
+1 [KTK:249] Wooded Foothills
+1 [6ED:269] Worldly Tutor
+1 [ORI:252] Yavimaya Coast
+SB: 1 [ELD:326] Chulane, Teller of Tales
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TMP:315],[BBD:81],[RNA:246],[AVR:226],[8ED:322],[ELD:333],[OGW:170],[FUT:174],[CHK:276],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[USG:321],[RNA:251],[DOM:240],[FUT:177],[THB:251],[JOU:163],[SOM:174],[ZEN:220],[DOM:224],[STH:138],[THS:223],[AER:167],[VIS:152],[THB:250],[MH1:244],[3ED:285],[4ED:363],[XLN:257],[GRN:258],[3ED:288],[3ED:289],[ZEN:229],[AER:181],[MH1:249],[KTK:248],[ONS:329],[KTK:249],[ORI:252])([M13:160],[ISD:170],[ONS:248],[M12:165],[CSP:105],[LEG:179],[ULG:98],[M15:173],[M20:169],[6ED:19],[USG:250],[ICE:244],[ELD:160],[CHK:210],[MBS:81],[MOR:126],[M19:314],[6ED:83],[EVE:71],[CON:87],[VIS:117],[CHK:268],[VIS:43],[3ED:274],[JUD:133],[M20:198],[SCG:133],[6ED:269])([BFZ:170],[EVE:66],[SHM:110],[TSP:58],[PLS:106],[ORI:175],[WAR:160],[MRD:199],[ZEN:168],[ELD:169],[USG:270],[3ED:214],[TSP:215],[THB:308])([RAV:257],[CHK:205],[ALL:89],[5DN:86],[8ED:86],[M19:196],[WAR:221])([10E:249],[TMP:213],[VIS:114])([USG:88])([DGM:123],[AVR:172])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([ELD:326])
