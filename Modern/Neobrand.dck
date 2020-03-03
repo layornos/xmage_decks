@@ -1,0 +1,30 @@
+4 [CSP:101] Allosaurus Rider
+2 [RAV:191] Autochthon Wurm
+4 [KLD:244] Botanical Sanctum
+4 [NPH:106] Chancellor of the Tangle
+1 [FUT:144] Edge of Autumn
+4 [EMN:155] Eldritch Evolution
+4 [TSB:119] Gemstone Mine
+2 [AVR:106] Griselbrand
+1 [ISD:61] Laboratory Maniac
+1 [HOU:121] Life Goes On
+4 [SHM:211] Manamorphose
+4 [WAR:206] Neoform
+4 [BOK:137] Nourishing Shoal
+4 [ELD:169] Once Upon a Time
+1 [FUT:42] Pact of Negation
+4 [PLC:122] Simian Spirit Guide
+1 [CSP:155] Snow-Covered Forest
+4 [FUT:139] Summoner's Pact
+1 [M20:198] Veil of Summer
+4 [MH1:249] Waterlogged Grove
+1 [GPT:149] Wild Cantor
+1 [ORI:252] Yavimaya Coast
+SB: 3 [M20:26] Leyline of Sanctity
+SB: 2 [WWK:108] Nature's Claim
+SB: 2 [DST:79] Oxidize
+SB: 3 [FUT:42] Pact of Negation
+SB: 2 [FUT:78] Slaughter Pact
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KLD:244],[KLD:244],[KLD:244],[KLD:244],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[FUT:42],[CSP:155],[FUT:139],[FUT:139],[FUT:139],[FUT:139],[MH1:249],[MH1:249],[MH1:249],[MH1:249],[ORI:252])([HOU:121],[M20:198],[GPT:149])([FUT:144],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[WAR:206],[WAR:206],[WAR:206],[WAR:206],[BOK:137],[BOK:137],[BOK:137],[BOK:137],[ELD:169],[ELD:169],[ELD:169],[ELD:169])([EMN:155],[EMN:155],[EMN:155],[EMN:155],[ISD:61],[PLC:122],[PLC:122],[PLC:122],[PLC:122])([CSP:101],[CSP:101],[CSP:101],[CSP:101],[NPH:106],[NPH:106],[NPH:106],[NPH:106])([AVR:106],[AVR:106])([RAV:191],[RAV:191])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([FUT:42],[FUT:42],[FUT:42],[FUT:78],[FUT:78])([WWK:108],[WWK:108],[DST:79],[DST:79],[M20:198],[M20:198],[M20:198])([M20:26],[M20:26],[M20:26])

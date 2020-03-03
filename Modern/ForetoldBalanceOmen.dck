@@ -1,0 +1,33 @@
+1 [EVE:175] Cascade Bluffs
+2 [UST:213] Island
+2 [UST:215] Mountain
+4 [MM3:244] Scalding Tarn
+4 [KLD:249] Spirebluff Canal
+4 [GRN:257] Steam Vents
+4 [V16:13] Tolaria West
+4 [TSP:161] Greater Gargadon
+2 [A25:148] Simian Spirit Guide
+2 [HOU:83] Abrade
+4 [TSP:48] Ancestral Vision
+4 [RNA:99] Electrodominance
+1 [DDK:60] Flame Slash
+3 [RAV:63] Remand
+4 [TSP:38] Restore Balance
+4 [5DN:36] Serum Visions
+4 [AKH:42] As Foretold
+1 [A25:62] Jace, the Mind Sculptor
+1 [ALA:218] Relic of Progenitus
+1 [XLN:74] Search for Azcanta
+1 [C14:278] Tormod's Crypt
+3 [THB:58] Omen of the Sea
+SB: 1 [HOU:83] Abrade
+SB: 2 [IMA:116] Anger of the Gods
+SB: 1 [MM3:90] Blood Moon
+SB: 3 [BFZ:76] Dispel
+SB: 1 [RTR:231] Pithing Needle
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 1 [RAV:63] Remand
+SB: 2 [GPT:75] Shattering Spree
+SB: 1 [C14:278] Tormod's Crypt
+LAYOUT MAIN:(1,6)(CMC,false,50)|([EVE:175],[UST:213],[UST:213],[UST:215],[UST:215],[MM3:244],[MM3:244],[MM3:244],[MM3:244],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[V16:13],[V16:13],[V16:13],[V16:13],[TSP:48],[TSP:48],[TSP:48],[TSP:48],[TSP:38],[TSP:38],[TSP:38],[TSP:38],[C14:278])([DDK:60],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[ALA:218])([HOU:83],[HOU:83],[RNA:99],[RNA:99],[RNA:99],[RNA:99],[RAV:63],[RAV:63],[RAV:63],[XLN:74],[THB:58],[THB:58],[THB:58])([A25:148],[A25:148],[AKH:42],[AKH:42],[AKH:42],[AKH:42])([A25:62])([TSP:161],[TSP:161],[TSP:161],[TSP:161])
+LAYOUT SIDEBOARD:(2,5)(CMC,false,50)|([HOU:83])([IMA:116],[IMA:116])([MM3:90])()([BFZ:76],[BFZ:76],[BFZ:76])([ALA:218],[ALA:218],[ALA:218])([RAV:63],[C14:278])([RTR:231])([GPT:75],[GPT:75])()
