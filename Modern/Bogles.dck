@@ -1,0 +1,30 @@
+4 [FUT:21] Daybreak Coronet
+1 [FUT:174] Dryad Arbor
+4 [RTR:9] Ethereal Armor
+1 [THB:254] Forest
+4 [M14:176] Gladecover Scout
+2 [SOI:20] Gryff's Boon
+4 [FUT:177] Horizon Canopy
+3 [ROE:26] Hyena Umbra
+4 [ROE:31] Kor Spiritdancer
+3 [M20:26] Leyline of Sanctity
+2 [CON:15] Path to Exile
+1 [THB:250] Plains
+4 [M13:185] Rancor
+4 [SOM:228] Razorverge Thicket
+4 [EVE:160] Slippery Bogle
+4 [ROE:208] Spider Umbra
+2 [M12:35] Spirit Mantle
+4 [GRN:258] Temple Garden
+1 [ZEN:229] Verdant Catacombs
+4 [KTK:248] Windswept Heath
+SB: 1 [DTK:221] Dromoka's Command
+SB: 1 [ALA:10] Ethersworn Canonist
+SB: 3 [LRW:248] Gaddock Teeg
+SB: 2 [CON:15] Path to Exile
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [PLC:153] Seal of Primordium
+SB: 1 [10E:45] Spirit Link
+SB: 3 [ISD:36] Stony Silence
+LAYOUT MAIN:(1,4)(CMC,false,50)|([FUT:174],[THB:254],[FUT:177],[FUT:177],[FUT:177],[FUT:177],[THB:250],[SOM:228],[SOM:228],[SOM:228],[SOM:228],[GRN:258],[GRN:258],[GRN:258],[GRN:258],[ZEN:229],[KTK:248],[KTK:248],[KTK:248],[KTK:248])([RTR:9],[RTR:9],[RTR:9],[RTR:9],[M14:176],[M14:176],[M14:176],[M14:176],[SOI:20],[SOI:20],[ROE:26],[ROE:26],[ROE:26],[CON:15],[CON:15],[M13:185],[M13:185],[M13:185],[M13:185],[EVE:160],[EVE:160],[EVE:160],[EVE:160],[ROE:208],[ROE:208],[ROE:208],[ROE:208])([FUT:21],[FUT:21],[FUT:21],[FUT:21],[ROE:31],[ROE:31],[ROE:31],[ROE:31],[M12:35],[M12:35])([M20:26],[M20:26],[M20:26])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,50)|([CON:15],[CON:15],[10E:45])([DTK:221],[ALA:10],[LRW:248],[LRW:248],[LRW:248],[RTR:18],[RTR:18],[PLC:153],[PLC:153],[ISD:36],[ISD:36],[ISD:36])

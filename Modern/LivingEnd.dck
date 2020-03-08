@@ -1,0 +1,30 @@
+2 [AKH:78] Archfiend of Ifnir
+2 [NPH:103] Beast Within
+4 [SOM:224] Blackcleave Cliffs
+1 [RNA:245] Blood Crypt
+1 [KLD:243] Blooming Marsh
+4 [ARB:38] Demonic Dread
+4 [AKH:128] Desert Cerodon
+1 [THB:254] Forest
+4 [SHM:188] Fulminator Mage
+3 [FUT:176] Grove of the Burnwillows
+4 [AKH:95] Horror of the Broken Lands
+1 [ISD:243] Kessig Wolf Run
+3 [TSP:115] Living End
+4 [ARB:43] Monstrous Carabid
+1 [GRN:253] Overgrown Tomb
+3 [MH1:145] Seasoned Pyromancer
+3 [PLC:122] Simian Spirit Guide
+1 [RNA:259] Stomping Ground
+4 [FUT:90] Street Wraith
+2 [THB:252] Swamp
+4 [ZEN:229] Verdant Catacombs
+4 [ARB:63] Violent Outburst
+SB: 3 [WAR:228] Ashiok, Dream Render
+SB: 2 [8ED:237] Choke
+SB: 2 [MRD:161] Damping Matrix
+SB: 3 [LRW:180] Ingot Chewer
+SB: 2 [WWK:87] Ricochet Trap
+SB: 3 [LRW:139] Shriekmaw
+LAYOUT MAIN:(1,4)(CMC,false,50)|([SOM:224],[SOM:224],[SOM:224],[SOM:224],[RNA:245],[KLD:243],[THB:254],[FUT:176],[FUT:176],[FUT:176],[ISD:243],[TSP:115],[TSP:115],[TSP:115],[GRN:253],[RNA:259],[THB:252],[THB:252],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229])([NPH:103],[NPH:103],[ARB:38],[ARB:38],[ARB:38],[ARB:38],[SHM:188],[SHM:188],[SHM:188],[SHM:188],[MH1:145],[MH1:145],[MH1:145],[PLC:122],[PLC:122],[PLC:122],[ARB:63],[ARB:63],[ARB:63],[ARB:63])([AKH:78],[AKH:78],[AKH:95],[AKH:95],[AKH:95],[AKH:95],[ARB:43],[ARB:43],[ARB:43],[ARB:43],[FUT:90],[FUT:90],[FUT:90],[FUT:90])([AKH:128],[AKH:128],[AKH:128],[AKH:128])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([WAR:228],[WAR:228],[WAR:228],[8ED:237],[8ED:237],[MRD:161],[MRD:161])([WWK:87],[WWK:87])([LRW:180],[LRW:180],[LRW:180],[LRW:139],[LRW:139],[LRW:139])
