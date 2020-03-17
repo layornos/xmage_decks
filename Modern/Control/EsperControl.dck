@@ -1,0 +1,40 @@
+3 [ISD:78] Snapcaster Mage
+4 [MH1:220] Arcum's Astrolabe
+3 [MH1:40] Archmage's Charm
+3 [LRW:56] Cryptic Command
+1 [WAR:193] Dovin's Veto
+2 [AER:57] Fatal Push
+1 [MH1:205] Kaya's Guile
+2 [FUT:52] Logic Knot
+2 [ELD:59] Opt
+2 [CON:15] Path to Exile
+2 [ROE:115] Inquisition of Kozilek
+2 [RTR:201] Supreme Verdict
+1 [THS:107] Thoughtseize
+2 [WWK:31] Jace, the Mind Sculptor
+1 [WAR:61] Narset, Parter of Veils
+2 [DOM:207] Teferi, Hero of Dominaria
+2 [WAR:221] Teferi, Time Raveler
+3 [THB:242] Field of Ruin
+4 [KTK:233] Flooded Strand
+1 [RNA:248] Godless Shrine
+1 [RNA:251] Hallowed Fountain
+1 [ZEN:220] Misty Rainforest
+2 [ELD:247] Mystic Sanctuary
+4 [KTK:239] Polluted Delta
+6 [CSP:152] Snow-Covered Island
+1 [CSP:151] Snow-Covered Plains
+1 [CSP:153] Snow-Covered Swamp
+1 [GRN:259] Watery Grave
+SB: 1 [AER:57] Fatal Push
+SB: 2 [MH1:205] Kaya's Guile
+SB: 1 [CON:15] Path to Exile
+SB: 1 [WAR:221] Teferi, Time Raveler
+SB: 1 [THS:107] Thoughtseize
+SB: 2 [M20:42] Aether Gust
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [M12:40] Timely Reinforcements
+SB: 2 [MOR:55] Vendilion Clique
+LAYOUT MAIN:(1,6)(CMC,false,88)|([THB:242],[THB:242],[THB:242],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:248],[RNA:251],[ZEN:220],[ELD:247],[ELD:247],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:151],[CSP:153],[GRN:259])([MH1:220],[MH1:220],[MH1:220],[MH1:220],[AER:57],[AER:57],[ELD:59],[ELD:59],[CON:15],[CON:15],[ROE:115],[ROE:115],[THS:107])([ISD:78],[ISD:78],[ISD:78],[WAR:193],[FUT:52],[FUT:52])([MH1:40],[MH1:40],[MH1:40],[MH1:205],[WAR:61],[WAR:221],[WAR:221])([LRW:56],[LRW:56],[LRW:56],[RTR:201],[RTR:201],[WWK:31],[WWK:31])([DOM:207],[DOM:207])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([AER:57],[CON:15],[THS:107],[KLD:40],[KLD:40])([M20:42],[M20:42])([MH1:205],[MH1:205],[WAR:221],[ELD:58],[ELD:58],[M12:40],[MOR:55],[MOR:55])
