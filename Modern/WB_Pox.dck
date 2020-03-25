@@ -1,0 +1,24 @@
+4 [M12:108] Smallpox
+4 [DKA:12] Lingering Souls
+4 [THS:107] Thoughtseize
+2 [SOI:131] Relentless Dead
+2 [SOI:242] Anguished Unmaking
+4 [ZEN:83] Bloodghast
+4 [EMN:85] Collective Brutality
+4 [AKH:14] Gideon of the Trials
+2 [M15:248] Urborg, Tomb of Yawgmoth
+4 [TSP:272] Flagstones of Trokair
+4 [RNA:248] Godless Shrine
+4 [ZEN:219] Marsh Flats
+4 [M14:228] Mutavault
+1 [THB:250] Plains
+2 [MH1:246] Silent Clearing
+4 [MH1:205] Kaya's Guile
+3 [UNH:138] Swamp
+4 [DKA:64] Gravecrawler
+SB: 3 [HOU:60] Bontu's Last Reckoning
+SB: 4 [MMA:184] Tidehollow Sculler
+SB: 4 [C14:285] Bojuka Bog
+SB: 4 [MM3:25] Stony Silence
+LAYOUT MAIN:(1,4)(CMC,false,88)|([M15:248],[M15:248],[TSP:272],[TSP:272],[TSP:272],[TSP:272],[RNA:248],[RNA:248],[RNA:248],[RNA:248],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[M14:228],[M14:228],[M14:228],[M14:228],[THB:250],[MH1:246],[MH1:246],[UNH:138],[UNH:138],[UNH:138])([THS:107],[THS:107],[THS:107],[THS:107],[DKA:64],[DKA:64],[DKA:64],[DKA:64])([M12:108],[M12:108],[M12:108],[M12:108],[SOI:131],[SOI:131],[ZEN:83],[ZEN:83],[ZEN:83],[ZEN:83],[EMN:85],[EMN:85],[EMN:85],[EMN:85])([DKA:12],[DKA:12],[DKA:12],[DKA:12],[SOI:242],[SOI:242],[AKH:14],[AKH:14],[AKH:14],[AKH:14],[MH1:205],[MH1:205],[MH1:205],[MH1:205])
+LAYOUT SIDEBOARD:(2,2)(CMC,false,50)|([HOU:60],[HOU:60],[HOU:60])([C14:285],[C14:285],[C14:285],[C14:285])([MMA:184],[MMA:184],[MMA:184],[MMA:184])([MM3:25],[MM3:25],[MM3:25],[MM3:25])
