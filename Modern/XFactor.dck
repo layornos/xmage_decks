@@ -1,0 +1,30 @@
+4 [KLD:243] Blooming Marsh
+1 [RNA:246] Breeding Pool
+2 [EMN:85] Collective Brutality
+2 [SOM:226] Darkslick Shores
+4 [MRD:62] Disciple of the Vault
+2 [ELD:188] Drown in the Loch
+4 [SOK:68] Footsteps of the Goryo
+2 [THB:254] Forest
+4 [EMN:184] Grim Flayer
+1 [THB:251] Island
+2 [LRW:124] Makeshift Mannequin
+1 [GRN:253] Overgrown Tomb
+2 [KTK:239] Polluted Delta
+4 [DIS:90] Protean Hulk
+4 [KLD:235] Smuggler's Copter
+4 [ELD:235] Stonecoil Serpent
+4 [THB:252] Swamp
+4 [THS:107] Thoughtseize
+4 [ZEN:229] Verdant Catacombs
+4 [AER:181] Walking Ballista
+1 [GRN:259] Watery Grave
+SB: 2 [RTR:141] Abrupt Decay
+SB: 1 [WAR:228] Ashiok, Dream Render
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [AER:57] Fatal Push
+SB: 4 [M20:107] Leyline of the Void
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ELD:235],[ELD:235],[ELD:235],[ELD:235],[AER:181],[AER:181],[AER:181],[AER:181])([KLD:235],[KLD:235],[KLD:235],[KLD:235])([MRD:62],[MRD:62],[MRD:62],[MRD:62],[EMN:184],[EMN:184],[EMN:184],[EMN:184],[DIS:90],[DIS:90],[DIS:90],[DIS:90])([ELD:188],[ELD:188],[LRW:124],[LRW:124])([KLD:243],[KLD:243],[KLD:243],[KLD:243],[RNA:246],[SOM:226],[SOM:226],[THB:254],[THB:254],[THB:251],[GRN:253],[KTK:239],[KTK:239],[THB:252],[THB:252],[THB:252],[THB:252],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[GRN:259])([EMN:85],[EMN:85],[SOK:68],[SOK:68],[SOK:68],[SOK:68],[THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([AER:57],[AER:57],[M20:198],[M20:198],[M20:198])([RTR:141],[RTR:141],[GRN:152],[DOM:213],[DOM:213])([WAR:228])([M20:107],[M20:107],[M20:107],[M20:107])
