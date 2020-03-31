@@ -1,0 +1,35 @@
+4 [TSP:48] Ancestral Vision
+4 [AKH:42] As Foretold
+4 [MH1:160] Crashing Footfalls
+2 [WAR:125] Dreadhorde Arcanist
+4 [RNA:99] Electrodominance
+1 [MH1:238] Fiery Islet
+2 [WAR:127] Finale of Promise
+2 [KTK:233] Flooded Strand
+3 [TSP:161] Greater Gargadon
+1 [THB:251] Island
+1 [RTR:172] Izzet Charm
+3 [M11:149] Lightning Bolt
+2 [THB:253] Mountain
+4 [ELD:59] Opt
+4 [TSP:38] Restore Balance
+2 [ZEN:223] Scalding Tarn
+3 [5DN:36] Serum Visions
+3 [PLC:122] Simian Spirit Guide
+4 [KLD:249] Spirebluff Canal
+4 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+2 [DKA:52] Thought Scour
+SB: 1 [ISD:127] Ancient Grudge
+SB: 2 [THS:112] Anger of the Gods
+SB: 1 [WAR:228] Ashiok, Dream Render
+SB: 2 [9ED:176] Blood Moon
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 2 [M12:206] Dragon's Claw
+SB: 1 [M20:69] Negate
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [GPT:75] Shattering Spree
+SB: 1 [NPH:74] Surgical Extraction
+SB: 1 [NPH:162] Torpor Orb
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([WAR:125],[WAR:125],[TSP:161],[TSP:161],[TSP:161],[PLC:122],[PLC:122],[PLC:122])([AKH:42],[AKH:42],[AKH:42],[AKH:42])([RNA:99],[RNA:99],[RNA:99],[RNA:99],[RTR:172],[M11:149],[M11:149],[M11:149],[ELD:59],[ELD:59],[ELD:59],[ELD:59],[DKA:52],[DKA:52])([MH1:238],[KTK:233],[KTK:233],[THB:251],[THB:253],[THB:253],[ZEN:223],[ZEN:223],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[RNA:259])([TSP:48],[TSP:48],[TSP:48],[TSP:48],[MH1:160],[MH1:160],[MH1:160],[MH1:160],[WAR:127],[WAR:127],[TSP:38],[TSP:38],[TSP:38],[TSP:38],[5DN:36],[5DN:36],[5DN:36])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ISD:127],[THS:112],[THS:112],[WAR:228],[9ED:176],[9ED:176],[KLD:40],[KLD:40],[M12:206],[M12:206],[M20:69],[RTR:231],[GPT:75],[NPH:74],[NPH:162])
