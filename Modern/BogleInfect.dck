@@ -1,0 +1,28 @@
+1 [FUT:174] Dryad Arbor
+1 [UST:216] Forest
+1 [EXP:6] Hallowed Fountain
+2 [EXP:40] Horizon Canopy
+1 [EXP:21] Marsh Flats
+4 [EXP:25] Misty Rainforest
+3 [SOM:228] Razorverge Thicket
+2 [EXP:10] Temple Garden
+4 [EXP:20] Windswept Heath
+1 [UST:212] Plains
+4 [RTR:9] Ethereal Armor
+3 [SOI:20] Gryff's Boon
+4 [UMA:21] Hyena Umbra
+2 [CON:15] Path to Exile
+4 [M12:178] Gladecover Scout
+4 [FNMP:56] Rancor
+3 [UMA:184] Spider Umbra
+4 [UMA:223] Slippery Bogle
+4 [ELD:2] All That Glitters
+4 [UMA:14] Daybreak Coronet
+4 [M11:21] Leyline of Sanctity
+SB: 2 [CON:15] Path to Exile
+SB: 3 [RTR:18] Rest in Peace
+SB: 2 [MM3:25] Stony Silence
+SB: 4 [NPH:29] Blighted Agent
+SB: 4 [NPH:111] Glistener Elf
+LAYOUT MAIN:(1,4)(CMC,false,88)|([FUT:174],[UST:216],[EXP:6],[EXP:40],[EXP:40],[EXP:21],[EXP:25],[EXP:25],[EXP:25],[EXP:25],[SOM:228],[SOM:228],[SOM:228],[EXP:10],[EXP:10],[EXP:20],[EXP:20],[EXP:20],[EXP:20],[UST:212])([RTR:9],[RTR:9],[RTR:9],[RTR:9],[SOI:20],[SOI:20],[SOI:20],[UMA:21],[UMA:21],[UMA:21],[UMA:21],[CON:15],[CON:15],[M12:178],[M12:178],[M12:178],[M12:178],[FNMP:56],[FNMP:56],[FNMP:56],[FNMP:56],[UMA:184],[UMA:184],[UMA:184],[UMA:223],[UMA:223],[UMA:223],[UMA:223])([ELD:2],[ELD:2],[ELD:2],[ELD:2],[UMA:14],[UMA:14],[UMA:14],[UMA:14])([M11:21],[M11:21],[M11:21],[M11:21])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([CON:15],[CON:15])([RTR:18],[RTR:18],[RTR:18])([MM3:25],[MM3:25],[NPH:29],[NPH:29],[NPH:29],[NPH:29])([NPH:111],[NPH:111],[NPH:111],[NPH:111])
