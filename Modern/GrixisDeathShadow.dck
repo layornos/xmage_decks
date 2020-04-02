@@ -1,0 +1,33 @@
+4 [WWK:57] Death's Shadow
+2 [NPH:57] Dismember
+4 [AER:57] Fatal Push
+4 [FRF:72] Gurmag Angler
+2 [ROE:115] Inquisition of Kozilek
+1 [DTK:224] Kolaghan's Command
+4 [CSP:138] Mishra's Bauble
+1 [5DN:36] Serum Visions
+3 [ISD:78] Snapcaster Mage
+4 [FUT:90] Street Wraith
+4 [KTK:56] Stubborn Denial
+2 [FRF:116] Temur Battle Rage
+4 [DKA:52] Thought Scour
+4 [THS:107] Thoughtseize
+2 [EXP:8] Blood Crypt
+3 [EXP:18] Bloodstained Mire
+4 [EXP:17] Polluted Delta
+3 [EXP:22] Scalding Tarn
+1 [EXP:12] Steam Vents
+2 [EXP:7] Watery Grave
+1 [UST:213] Island
+1 [UST:214] Swamp
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 3 [EMN:85] Collective Brutality
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [GRN:37] Disdainful Stroke
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [MH1:100] Plague Engineer
+SB: 2 [NPH:74] Surgical Extraction
+LAYOUT MAIN:(1,6)(CMC,false,88)|([CSP:138],[CSP:138],[CSP:138],[CSP:138],[EXP:8],[EXP:8],[EXP:18],[EXP:18],[EXP:18],[EXP:17],[EXP:17],[EXP:17],[EXP:17],[EXP:22],[EXP:22],[EXP:22],[EXP:12],[EXP:7],[EXP:7],[UST:213],[UST:214])([WWK:57],[WWK:57],[WWK:57],[WWK:57],[AER:57],[AER:57],[AER:57],[AER:57],[ROE:115],[ROE:115],[5DN:36],[KTK:56],[KTK:56],[KTK:56],[KTK:56],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[THS:107],[THS:107],[THS:107],[THS:107])([ISD:78],[ISD:78],[ISD:78],[FRF:116],[FRF:116])([NPH:57],[NPH:57],[DTK:224])([FUT:90],[FUT:90],[FUT:90],[FUT:90])([FRF:72],[FRF:72],[FRF:72],[FRF:72])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([KLD:40],[KLD:40],[NPH:74],[NPH:74])([EMN:85],[EMN:85],[EMN:85],[DOM:213],[DOM:213],[GRN:37],[GRN:37])([DTK:224],[ISD:105],[EMN:93],[MH1:100])
