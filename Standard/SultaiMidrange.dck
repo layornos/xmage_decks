@@ -1,0 +1,30 @@
+3 [M20:42] Aether Gust
+3 [WAR:187] Casualties of War
+4 [M20:167] Cavalier of Thorns
+4 [ELD:244] Fabled Passage
+4 [RNA:178] Growth Spiral
+4 [RNA:183] Hydroid Krasis
+3 [WAR:169] Nissa, Who Shakes the World
+2 [THB:224] Polukranos, Unchained
+3 [M20:254] Temple of Malady
+3 [M20:255] Temple of Mystery
+4 [GRN:206] Thought Erasure
+4 [THB:229] Uro, Titan of Nature's Wrath
+4 [EXP:7] Watery Grave
+4 [EXP:13] Overgrown Tomb
+4 [EXP:15] Breeding Pool
+4 [UST:216] Forest
+2 [UST:213] Island
+1 [UST:214] Swamp
+SB: 1 [M20:42] Aether Gust
+SB: 1 [RNA:70] Cry of the Carnarium
+SB: 1 [GRN:37] Disdainful Stroke
+SB: 2 [M20:95] Disfigure
+SB: 2 [ELD:85] Epic Downfall
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [M20:69] Negate
+SB: 3 [GRN:84] Ritual of Soot
+SB: 1 [M20:117] Thought Distortion
+SB: 1 [GRN:213] Vraska, Golgari Queen
+LAYOUT MAIN:(1,6)(CMC,false,88)|([ELD:244],[ELD:244],[ELD:244],[ELD:244],[M20:254],[M20:254],[M20:254],[M20:255],[M20:255],[M20:255],[EXP:7],[EXP:7],[EXP:7],[EXP:7],[EXP:13],[EXP:13],[EXP:13],[EXP:13],[EXP:15],[EXP:15],[EXP:15],[EXP:15],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:214])([M20:42],[M20:42],[M20:42],[RNA:178],[RNA:178],[RNA:178],[RNA:178],[RNA:183],[RNA:183],[RNA:183],[RNA:183],[GRN:206],[GRN:206],[GRN:206],[GRN:206])([THB:229],[THB:229],[THB:229],[THB:229])([THB:224],[THB:224])([M20:167],[M20:167],[M20:167],[M20:167],[WAR:169],[WAR:169],[WAR:169])([WAR:187],[WAR:187],[WAR:187])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([M20:95],[M20:95])([M20:42],[GRN:37],[ELD:85],[ELD:85],[M20:69])([RNA:70],[ELD:58],[ELD:58])([GRN:84],[GRN:84],[GRN:84],[GRN:213])([M20:117])
