@@ -1,0 +1,29 @@
+1 [KTK:130] Become Immense
+4 [NPH:29] Blighted Agent
+4 [KLD:146] Blossoming Defense
+2 [RNA:246] Breeding Pool
+2 [ROE:60] Distortion Strike
+1 [FUT:174] Dryad Arbor
+2 [THB:254] Forest
+4 [NPH:111] Glistener Elf
+3 [WWK:104] Groundswell
+4 [MBS:145] Inkmoth Nexus
+4 [TSP:204] Might of Old Krosa
+4 [NPH:116] Mutagenic Growth
+4 [CON:87] Noble Hierarch
+2 [TSB:120] Pendelhaven
+4 [MH1:179] Scale Up
+2 [XLN:81] Spell Pierce
+4 [ZEN:193] Vines of Vastwood
+2 [MH1:249] Waterlogged Grove
+4 [KTK:248] Windswept Heath
+3 [KTK:249] Wooded Foothills
+SB: 2 [NPH:57] Dismember
+SB: 2 [MH1:164] Force of Vigor
+SB: 2 [M20:227] Grafdigger's Cage
+SB: 2 [ISD:60] Invisible Stalker
+SB: 2 [NPH:159] Spellskite
+SB: 3 [M20:198] Veil of Summer
+SB: 2 [MH1:191] Weather the Storm
+LAYOUT MAIN:(1,4)(CMC,false,88)|([RNA:246],[RNA:246],[FUT:174],[THB:254],[THB:254],[MBS:145],[MBS:145],[MBS:145],[MBS:145],[TSB:120],[TSB:120],[MH1:249],[MH1:249],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249])([KLD:146],[KLD:146],[KLD:146],[KLD:146],[ROE:60],[ROE:60],[NPH:111],[NPH:111],[NPH:111],[NPH:111],[WWK:104],[WWK:104],[WWK:104],[TSP:204],[TSP:204],[TSP:204],[TSP:204],[NPH:116],[NPH:116],[NPH:116],[NPH:116],[CON:87],[CON:87],[CON:87],[CON:87],[MH1:179],[MH1:179],[MH1:179],[MH1:179],[XLN:81],[XLN:81],[ZEN:193],[ZEN:193],[ZEN:193],[ZEN:193])([NPH:29],[NPH:29],[NPH:29],[NPH:29])([KTK:130])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([M20:227],[M20:227],[M20:198],[M20:198],[M20:198])([ISD:60],[ISD:60],[NPH:159],[NPH:159],[MH1:191],[MH1:191])([NPH:57],[NPH:57])([MH1:164],[MH1:164])
