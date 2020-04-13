@@ -1,0 +1,21 @@
+2 [ELD:85] Epic Downfall
+2 [ELD:74] Witching Well
+2 [ELD:70] Unexplained Vision
+2 [ELD:76] Bake into a Pie
+1 [ELD:60] Overwhelmed Apprentice
+3 [ELD:284] Merfolk Secretkeeper
+2 [ELD:42] Didn't Say Please
+1 [ELD:107] Syr Konrad, the Grim
+2 [ELD:68] Tome Raider
+1 [ELD:64] So Tiny
+1 [ELD:195] Lochmere Serpent
+1 [ELD:283] Hypnotic Sprite
+1 [ELD:50] Into the Story
+1 [ELD:47] Frogify
+1 [ELD:188] Drown in the Loch
+7 [THB:252] Swamp
+7 [THB:251] Island
+2 [ELD:247] Mystic Sanctuary
+1 [ELD:353] Clackbridge Troll
+LAYOUT MAIN:(1,8)(CMC,false,88)|([THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[ELD:247],[ELD:247])([ELD:74],[ELD:74],[ELD:60],[ELD:64])([ELD:85],[ELD:85],[ELD:284],[ELD:284],[ELD:284],[ELD:47],[ELD:188])([ELD:42],[ELD:42],[ELD:68],[ELD:68])([ELD:76],[ELD:76])([ELD:70],[ELD:70],[ELD:107],[ELD:283],[ELD:353])([ELD:195])([ELD:50])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,63)|
