@@ -1,0 +1,33 @@
+1 [TSP:269] Academy Ruins
+2 [WAR:228] Ashiok, Dream Render
+4 [RTR:228] Codex Shredder
+4 [ELD:188] Drown in the Loch
+3 [ELD:342] Emry, Lurker of the Loch
+3 [8ED:300] Ensnaring Bridge
+4 [KTK:233] Flooded Strand
+1 [ISD:224] Ghoulcaller's Bell
+4 [ROE:115] Inquisition of Kozilek
+1 [KLD:247] Inventors' Fair
+4 [5DN:135] Lantern of Insight
+4 [CSP:138] Mishra's Bauble
+3 [DOM:224] Mox Amber
+1 [RTR:231] Pithing Needle
+4 [KTK:239] Polluted Delta
+8 [CSP:152] Snow-Covered Island
+1 [FUT:165] Sword of the Meek
+1 [ARB:133] Thopter Foundry
+2 [THS:107] Thoughtseize
+2 [GRN:259] Watery Grave
+3 [AER:49] Whir of Invention
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [M19:229] Crucible of Worlds
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [AER:57] Fatal Push
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [M15:237] Tormod's Crypt
+SB: 1 [ISD:236] Witchbane Orb
+LAYOUT MAIN:(1,4)(CMC,false,88)|([TSP:269],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KLD:247],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[DOM:224],[DOM:224],[DOM:224],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[GRN:259],[GRN:259])([RTR:228],[RTR:228],[RTR:228],[RTR:228],[ISD:224],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[5DN:135],[5DN:135],[5DN:135],[5DN:135],[RTR:231],[THS:107],[THS:107])([ELD:188],[ELD:188],[ELD:188],[ELD:188],[FUT:165],[ARB:133])([WAR:228],[WAR:228],[ELD:342],[ELD:342],[ELD:342],[8ED:300],[8ED:300],[8ED:300],[AER:49],[AER:49],[AER:49])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([M15:237])([KLD:40],[KLD:40],[AER:57],[AER:57],[M20:227],[NPH:74],[NPH:74])([EMN:85],[EMN:85],[DOM:213],[DOM:213],[ELD:233])([M19:229])([ISD:236])
