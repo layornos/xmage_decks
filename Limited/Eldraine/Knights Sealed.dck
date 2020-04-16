@@ -1,0 +1,26 @@
+1 [ELD:103] Reave Soul
+1 [ELD:93] Locthwain Paladin
+1 [ELD:78] Belle of the Brawl
+1 [ELD:354] Oathsworn Knight
+1 [ELD:92] Lash of Thorns
+1 [ELD:94] Lost Legion
+1 [ELD:286] Foulmire Knight
+1 [ELD:76] Bake into a Pie
+2 [ELD:290] Smitten Swordmaster
+1 [ELD:35] Venerable Knight
+1 [ELD:335] Charming Prince
+1 [ELD:32] Syr Alin, the Lion's Claw
+1 [ELD:37] Youthful Knight
+2 [ELD:19] Knight of the Keep
+1 [ELD:4] Ardenvale Paladin
+1 [ELD:33] Trapped in the Tower
+1 [ELD:275] Giant Killer
+1 [ELD:273] Ardenvale Tactician
+1 [ELD:205] Wintermoor Commander
+1 [ELD:393] Glass Casket
+1 [ELD:220] Golden Egg
+1 [ELD:249] Witch's Cottage
+8 [UST:214] Swamp
+8 [UST:212] Plains
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ELD:249],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([ELD:92],[ELD:35])([ELD:103],[ELD:335],[ELD:37],[ELD:33],[ELD:205],[ELD:393],[ELD:220])([ELD:78],[ELD:354],[ELD:94],[ELD:290],[ELD:290],[ELD:19],[ELD:19])([ELD:93],[ELD:286],[ELD:76],[ELD:4],[ELD:275])([ELD:32],[ELD:273])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,50)|

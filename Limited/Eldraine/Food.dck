@@ -1,0 +1,24 @@
+9 [UST:216] Forest
+6 [UST:214] Swamp
+1 [ELD:389] Castle Locthwain
+2 [ELD:200] Savvy Hunter
+1 [ELD:208] Deathless Knight
+1 [ELD:375] Wildborn Preserver
+1 [ELD:170] Outmuscle
+1 [ELD:371] Once Upon a Time
+1 [ELD:179] Trail of Crumbs
+1 [ELD:369] Gilded Goose
+1 [ELD:163] Keeper of Fables
+1 [ELD:159] Giant Opportunity
+3 [ELD:296] Curious Pair
+2 [ELD:154] Fierce Witchstalker
+1 [ELD:88] Foreboding Fruit
+1 [ELD:89] Forever Young
+1 [ELD:103] Reave Soul
+1 [ELD:76] Bake into a Pie
+2 [ELD:108] Tempting Witch
+1 [ELD:81] Cauldron Familiar
+2 [ELD:91] Giant's Skewer
+1 [ELD:220] Golden Egg
+LAYOUT MAIN:(1,6)(CMC,false,50)|([UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[ELD:389])([ELD:369],[ELD:81])([ELD:375],[ELD:371],[ELD:179],[ELD:89],[ELD:103],[ELD:91],[ELD:91],[ELD:220])([ELD:200],[ELD:200],[ELD:159],[ELD:296],[ELD:296],[ELD:296],[ELD:88],[ELD:108],[ELD:108])([ELD:208],[ELD:170],[ELD:154],[ELD:154],[ELD:76])([ELD:163])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,50)|
