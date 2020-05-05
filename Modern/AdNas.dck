@@ -1,0 +1,30 @@
+4 [ALA:63] Ad Nauseam
+4 [TSP:3] Angel's Grace
+2 [8ED:322] City of Brass
+3 [SOM:226] Darkslick Shores
+4 [TSB:119] Gemstone Mine
+1 [THB:251] Island
+1 [CSP:89] Lightning Storm
+4 [TSP:259] Lotus Bloom
+1 [FUT:42] Pact of Negation
+4 [5DN:143] Pentad Prism
+4 [NPH:18] Phyrexian Unlife
+2 [THB:250] Plains
+3 [SOM:229] Seachrome Coast
+4 [5DN:36] Serum Visions
+4 [PLC:122] Simian Spirit Guide
+3 [9ED:99] Sleight of Hand
+4 [MRD:78] Spoils of the Vault
+3 [THB:245] Temple of Deceit
+2 [THB:246] Temple of Enlightenment
+3 [THB:308] Thassa's Oracle
+SB: 1 [DST:21] Echoing Truth
+SB: 4 [M20:26] Leyline of Sanctity
+SB: 2 [FUT:42] Pact of Negation
+SB: 1 [CON:15] Path to Exile
+SB: 2 [FUT:78] Slaughter Pact
+SB: 1 [OGW:63] Sphinx of the Final Word
+SB: 2 [THS:107] Thoughtseize
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([TSP:259],[TSP:259],[TSP:259],[TSP:259],[5DN:143],[5DN:143],[5DN:143],[5DN:143])([PLC:122],[PLC:122],[PLC:122],[PLC:122],[THB:308],[THB:308],[THB:308])([NPH:18],[NPH:18],[NPH:18],[NPH:18])([ALA:63],[ALA:63],[ALA:63],[ALA:63],[TSP:3],[TSP:3],[TSP:3],[TSP:3],[CSP:89],[FUT:42],[MRD:78],[MRD:78],[MRD:78],[MRD:78])([8ED:322],[8ED:322],[SOM:226],[SOM:226],[SOM:226],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[THB:251],[THB:250],[THB:250],[SOM:229],[SOM:229],[SOM:229],[THB:245],[THB:245],[THB:245],[THB:246],[THB:246])([5DN:36],[5DN:36],[5DN:36],[5DN:36],[9ED:99],[9ED:99],[9ED:99])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,86)|([FUT:78],[FUT:78],[THS:107],[THS:107])([DST:21],[FUT:42],[FUT:42],[OGW:63])([M20:198],[M20:198])([M20:26],[M20:26],[M20:26],[M20:26],[CON:15])
