@@ -1,12 +1,9 @@
 4 [ROE:91] Training Grounds
-4 [RTR:73] Pack Rat
+3 [RTR:73] Pack Rat
 2 [M19:218] Nicol Bolas, the Ravager
-3 [PUMA:U5] Snapcaster Mage
 3 [AER:57] Fatal Push
 3 [IMA:48] Cryptic Command
 2 [WWK:31] Jace, the Mind Sculptor
-3 [PF19:1] Lightning Bolt
-2 [ARB:46] Terminate
 2 [IMA:66] Mana Leak
 2 [PUMA:U34] Creeping Tar Pit
 4 [THB:242] Field of Ruin
@@ -19,9 +16,15 @@
 2 [EXP:7] Watery Grave
 1 [EXP:8] Blood Crypt
 1 [DOM:247] Sulfur Falls
-2 [PUMA:U10] Liliana of the Veil
-1 [MM2:67] Vendilion Clique
-2 [DTK:224] Kolaghan's Command
-2 [MM3:63] Damnation
-LAYOUT MAIN:(1,5)(CMC,false,50)|([PUMA:U34],[PUMA:U34],[THB:242],[THB:242],[THB:242],[THB:242],[UST:213],[UST:213],[UST:213],[UST:215],[UST:214],[EXP:17],[EXP:17],[EXP:17],[EXP:17],[EXP:22],[EXP:22],[EXP:22],[EXP:22],[EXP:12],[EXP:12],[EXP:7],[EXP:7],[EXP:8],[DOM:247])([ROE:91],[ROE:91],[ROE:91],[ROE:91],[AER:57],[AER:57],[AER:57],[PF19:1],[PF19:1],[PF19:1])([RTR:73],[RTR:73],[RTR:73],[RTR:73],[PUMA:U5],[PUMA:U5],[PUMA:U5],[ARB:46],[ARB:46],[IMA:66],[IMA:66])([PUMA:U10],[PUMA:U10],[MM2:67],[DTK:224],[DTK:224])([M19:218],[M19:218],[IMA:48],[IMA:48],[IMA:48],[WWK:31],[WWK:31],[MM3:63],[MM3:63])
-LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|
+4 [5DN:36] Serum Visions
+3 [RTR:172] Izzet Charm
+3 [AER:181] Walking Ballista
+4 [WAR:1] Karn, the Great Creator
+2 [MM2:55] Remand
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [PUMA:U28] Engineered Explosives
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [C14:283] Wurmcoil Engine
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,100)|([AER:181],[AER:181],[AER:181])([M19:218],[M19:218],[RTR:73],[RTR:73],[RTR:73])([ROE:91],[ROE:91],[ROE:91],[ROE:91])([IMA:48],[IMA:48],[IMA:48],[AER:57],[AER:57],[AER:57],[RTR:172],[RTR:172],[RTR:172],[IMA:66],[IMA:66],[MM2:55],[MM2:55])([EXP:8],[PUMA:U34],[PUMA:U34],[THB:242],[THB:242],[THB:242],[THB:242],[UST:213],[UST:213],[UST:213],[UST:215],[EXP:17],[EXP:17],[EXP:17],[EXP:17],[EXP:22],[EXP:22],[EXP:22],[EXP:22],[EXP:12],[EXP:12],[DOM:247],[UST:214],[EXP:7],[EXP:7])([WWK:31],[WWK:31],[WAR:1],[WAR:1],[WAR:1],[WAR:1])([5DN:36],[5DN:36],[5DN:36],[5DN:36])
+LAYOUT SIDEBOARD:(2,4)(NONE,false,50)|([SOM:171])([8ED:300])([PUMA:U28])([AER:181])([C14:283])()()()

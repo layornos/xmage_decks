@@ -1,0 +1,26 @@
+4 [A25:159] Ancient Stirrings
+4 [MMA:201] Arcbound Worker
+4 [MM2:236] Blinkmoth Nexus
+4 [WMCQ:2017] Inkmoth Nexus
+6 [UNH:140] Forest
+1 [TSP:274] Gemstone Caverns
+4 [MPS:13] Hangarback Walker
+4 [MPS:31] Arcbound Ravager
+4 [C16:152] Hardened Scales
+4 [C19:258] Llanowar Wastes
+4 [AER:164] Metallic Mimic
+1 [NPH:165] Phyrexia's Core
+2 [MH1:243] Nurturing Peatland
+1 [A25:244] Pendelhaven
+4 [IKO:237] The Ozolith
+2 [SOM:211] Throne of Geth
+3 [MRD:274] Welding Jar
+4 [AER:181] Walking Ballista
+SB: 4 [NPH:57] Dismember
+SB: 4 [M20:227] Grafdigger's Cage
+SB: 3 [WWK:108] Nature's Claim
+SB: 1 [NPH:162] Torpor Orb
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,78)|([MMA:201],[MMA:201],[MMA:201],[MMA:201],[MPS:13],[MPS:13],[MPS:13],[MPS:13],[MPS:31],[MPS:31],[MPS:31],[MPS:31],[AER:164],[AER:164],[AER:164],[AER:164],[AER:181],[AER:181],[AER:181],[AER:181])([IKO:237],[IKO:237],[IKO:237],[IKO:237],[SOM:211],[SOM:211],[MRD:274],[MRD:274],[MRD:274])([C16:152],[C16:152],[C16:152],[C16:152])([MM2:236],[MM2:236],[MM2:236],[MM2:236],[WMCQ:2017],[WMCQ:2017],[WMCQ:2017],[WMCQ:2017],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[TSP:274],[C19:258],[C19:258],[C19:258],[C19:258],[NPH:165],[MH1:243],[MH1:243],[A25:244])([A25:159],[A25:159],[A25:159],[A25:159])
+LAYOUT SIDEBOARD:(2,3)(CMC,false,63)|([M20:227],[M20:227],[M20:227],[M20:227],[WWK:108],[WWK:108],[WWK:108],[M20:198],[M20:198])([NPH:162])([NPH:57],[NPH:57],[NPH:57],[NPH:57])([IKO:226])()()

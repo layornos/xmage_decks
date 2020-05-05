@@ -1,0 +1,28 @@
+4 [M13:160] Arbor Elf
+3 [ELD:115] Bonecrusher Giant
+2 [GPT:105] Burning-Tree Shaman
+1 [ROE:4] Emrakul, the Aeons Torn
+5 [IKO:272] Forest
+2 [MH1:168] Hexdrinker
+3 [SHM:229] Kitchen Finks
+3 [THB:220] Klothys, God of Destiny
+4 [M11:149] Lightning Bolt
+4 [IKO:125] Lukka, Coppercoat Outcast
+4 [FUT:101] Magus of the Moon
+1 [IKO:269] Mountain
+2 [DIS:71] Seal of Fire
+4 [MH1:145] Seasoned Pyromancer
+4 [RNA:259] Stomping Ground
+4 [DIS:99] Utopia Sprawl
+3 [ZEN:229] Verdant Catacombs
+3 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+SB: 1 [THS:112] Anger of the Gods
+SB: 3 [8ED:237] Choke
+SB: 2 [HOU:121] Life Goes On
+SB: 2 [WWK:108] Nature's Claim
+SB: 1 [IKO:228] Obosh, the Preypiercer
+SB: 3 [7ED:207] Pillage
+SB: 3 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,78)|([THB:220],[THB:220],[THB:220])([M13:160],[M13:160],[M13:160],[M13:160],[ELD:115],[ELD:115],[ELD:115],[GPT:105],[GPT:105],[ROE:4],[MH1:168],[MH1:168],[SHM:229],[SHM:229],[SHM:229],[FUT:101],[FUT:101],[FUT:101],[FUT:101],[MH1:145],[MH1:145],[MH1:145],[MH1:145])([DIS:71],[DIS:71],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([M11:149],[M11:149],[M11:149],[M11:149])([IKO:272],[IKO:272],[IKO:272],[IKO:272],[IKO:272],[IKO:269],[RNA:259],[RNA:259],[RNA:259],[RNA:259],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([IKO:125],[IKO:125],[IKO:125],[IKO:125])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([HOU:121],[HOU:121],[WWK:108],[WWK:108],[ALA:218],[ALA:218],[ALA:218])([THS:112],[8ED:237],[8ED:237],[8ED:237],[7ED:207],[7ED:207],[7ED:207])([IKO:228])
