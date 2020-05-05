@@ -1,0 +1,34 @@
+4 [ZEN:41] Archive Trap
+2 [EMN:85] Collective Brutality
+1 [DGM:23] Crypt Incursion
+2 [SOM:226] Darkslick Shores
+4 [ELD:188] Drown in the Loch
+3 [AER:57] Fatal Push
+3 [THB:242] Field of Ruin
+4 [RAV:208] Glimpse the Unthinkable
+4 [ZEN:47] Hedron Crab
+3 [ROE:115] Inquisition of Kozilek
+3 [THB:251] Island
+4 [MRD:204] Mesmeric Orb
+2 [GRN:44] Mission Briefing
+1 [SOK:164] Oboro, Palace in the Clouds
+4 [KTK:239] Polluted Delta
+2 [MH1:244] Prismatic Vista
+1 [XLN:74] Search for Azcanta
+1 [LRW:272] Shelldock Isle
+3 [NPH:74] Surgical Extraction
+3 [THB:252] Swamp
+4 [M12:80] Visions of Beyond
+2 [GRN:259] Watery Grave
+SB: 1 [WAR:228] Ashiok, Dream Render
+SB: 1 [HOU:60] Bontu's Last Reckoning
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [DGM:23] Crypt Incursion
+SB: 1 [PLC:85] Damnation
+SB: 2 [8ED:300] Ensnaring Bridge
+SB: 3 [PLC:71] Extirpate
+SB: 2 [HOU:35] Fraying Sanity
+SB: 1 [NPH:74] Surgical Extraction
+SB: 1 [C14:104] Cyclonic Rift
+LAYOUT MAIN:(1,5)(CMC,false,88)|([SOM:226],[SOM:226],[THB:242],[THB:242],[THB:242],[THB:251],[THB:251],[THB:251],[SOK:164],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[MH1:244],[MH1:244],[LRW:272],[THB:252],[THB:252],[THB:252],[GRN:259],[GRN:259])([AER:57],[AER:57],[AER:57],[ZEN:47],[ZEN:47],[ZEN:47],[ZEN:47],[ROE:115],[ROE:115],[ROE:115],[NPH:74],[NPH:74],[NPH:74],[M12:80],[M12:80],[M12:80],[M12:80])([EMN:85],[EMN:85],[ELD:188],[ELD:188],[ELD:188],[ELD:188],[RAV:208],[RAV:208],[RAV:208],[RAV:208],[MRD:204],[MRD:204],[MRD:204],[MRD:204],[GRN:44],[GRN:44],[XLN:74])([DGM:23])([ZEN:41],[ZEN:41],[ZEN:41],[ZEN:41])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([PLC:71],[PLC:71],[PLC:71],[NPH:74])([EMN:85],[EMN:85])([WAR:228],[HOU:60],[DGM:23],[8ED:300],[8ED:300],[HOU:35],[HOU:35])([PLC:85],[C14:104])
