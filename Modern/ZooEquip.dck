@@ -1,0 +1,41 @@
+1 [ZEN:211] Arid Mesa
+1 [NPH:130] Batterskull
+1 [M12:165] Birds of Paradise
+2 [ELD:115] Bonecrusher Giant
+1 [KLD:110] Chandra, Torch of Defiance
+1 [WAR:191] Domri, Anarch of Bolas
+1 [ELD:120] Embercleave
+2 [THB:254] Forest
+1 [FUT:177] Horizon Canopy
+2 [THB:220] Klothys, God of Destiny
+4 [M11:149] Lightning Bolt
+1 [THB:253] Mountain
+4 [CON:87] Noble Hierarch
+4 [CON:15] Path to Exile
+1 [THB:250] Plains
+2 [ELD:171] Questing Beast
+2 [GRN:254] Sacred Foundry
+2 [M14:195] Scavenging Ooze
+2 [RNA:259] Stomping Ground
+4 [WWK:20] Stoneforge Mystic
+1 [MH1:247] Sunbaked Canyon
+1 [DST:148] Sword of Fire and Ice
+4 [FUT:153] Tarmogoyf
+1 [GRN:258] Temple Garden
+2 [SOI:233] Tireless Tracker
+4 [ALA:152] Wild Nacatl
+4 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+SB: 1 [HOU:83] Abrade
+SB: 1 [8ED:180] Boil
+SB: 1 [8ED:237] Choke
+SB: 1 [RNA:161] Cindervines
+SB: 2 [MH1:158] Collector Ouphe
+SB: 2 [DOM:213] Damping Sphere
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [M11:188] Obstinate Baloth
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([NPH:130],[ELD:120],[DST:148])([THB:220],[THB:220])([M12:165],[ELD:115],[ELD:115],[CON:87],[CON:87],[CON:87],[CON:87],[ELD:171],[ELD:171],[M14:195],[M14:195],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[SOI:233],[SOI:233],[ALA:152],[ALA:152],[ALA:152],[ALA:152])([M11:149],[M11:149],[M11:149],[M11:149],[CON:15],[CON:15],[CON:15],[CON:15])([ZEN:211],[THB:254],[THB:254],[FUT:177],[THB:253],[THB:250],[GRN:254],[GRN:254],[RNA:259],[RNA:259],[MH1:247],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([KLD:110],[WAR:191])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,86)|([DOM:213],[DOM:213],[M20:227])([8ED:237],[MH1:158],[MH1:158],[M11:188],[M20:198],[M20:198])([HOU:83],[8ED:180])([RTR:18],[RTR:18])([RNA:161],[GRN:183])

@@ -1,0 +1,33 @@
+4 [DTK:213] Atarka's Command
+4 [KTK:230] Bloodstained Mire
+4 [GTC:216] Burning-Tree Emissary
+4 [SOM:225] Copperline Gorge
+2 [WAR:191] Domri, Anarch of Bolas
+2 [THB:217] Gallia of the Endless Dance
+4 [ZEN:125] Goblin Bushwhacker
+4 [ZEN:126] Goblin Guide
+3 [AER:110] Hidden Herbalists
+2 [GTC:97] Legion Loyalist
+4 [M11:149] Lightning Bolt
+1 [THB:253] Mountain
+3 [AER:117] Narnam Renegade
+1 [MH1:243] Nurturing Peatland
+4 [ELD:138] Robber of the Rich
+2 [GTC:134] Slaughterhorn
+1 [CSP:155] Snow-Covered Forest
+4 [RNA:259] Stomping Ground
+1 [MH1:249] Waterlogged Grove
+3 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+2 [RNA:215] Zhur-Taa Goblin
+SB: 2 [HOU:83] Abrade
+SB: 2 [MH1:158] Collector Ouphe
+SB: 1 [DOM:213] Damping Sphere
+SB: 2 [M12:206] Dragon's Claw
+SB: 2 [HOU:121] Life Goes On
+SB: 2 [FUT:101] Magus of the Moon
+SB: 1 [THS:162] Mistcutter Hydra
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 2 [M15:237] Tormod's Crypt
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,100)|([GTC:216],[GTC:216],[GTC:216],[GTC:216],[THB:217],[THB:217],[ZEN:125],[ZEN:125],[ZEN:125],[ZEN:125],[ZEN:126],[ZEN:126],[ZEN:126],[ZEN:126],[AER:110],[AER:110],[AER:110],[GTC:97],[GTC:97],[AER:117],[AER:117],[AER:117],[ELD:138],[ELD:138],[ELD:138],[ELD:138],[GTC:134],[GTC:134],[RNA:215],[RNA:215])([DTK:213],[DTK:213],[DTK:213],[DTK:213],[M11:149],[M11:149],[M11:149],[M11:149])([KTK:230],[KTK:230],[KTK:230],[KTK:230],[SOM:225],[SOM:225],[SOM:225],[SOM:225],[THB:253],[MH1:243],[CSP:155],[RNA:259],[RNA:259],[RNA:259],[RNA:259],[MH1:249],[KTK:248],[KTK:248],[KTK:248],[KTK:249])([WAR:191],[WAR:191])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,86)|([DOM:213],[M12:206],[M12:206],[THB:237],[M15:237],[M15:237])([MH1:158],[MH1:158],[FUT:101],[FUT:101],[THS:162])([HOU:83],[HOU:83],[HOU:121],[HOU:121])
