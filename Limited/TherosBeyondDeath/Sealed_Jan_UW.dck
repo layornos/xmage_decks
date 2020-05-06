@@ -1,0 +1,80 @@
+2 [THB:11] Dreadful Apathy
+1 [THB:214] Dream Trawler
+1 [THB:48] Eidolon of Philosophy
+1 [THB:49] Elite Instructor
+1 [THB:14] Elspeth, Sun's Nemesis
+2 [THB:20] Heliod's Pilgrim
+1 [THB:22] Hero of the Pride
+1 [THB:51] Ichthyomorphosis
+1 [THB:25] Indomitable Will
+8 [THB:251] Island
+1 [THB:59] One with the Stars
+1 [THB:31] Phalanx Tactics
+1 [THB:32] Pious Wayfarer
+7 [THB:250] Plains
+1 [THB:306] Protean Thaumaturge
+1 [THB:61] Riptide Turtle
+1 [THB:66] Sleep of the Dead
+1 [THB:67] Starlit Mantle
+1 [THB:38] Sunmane Pegasus
+1 [THB:308] Thassa's Oracle
+1 [THB:5] The Birth of Meletis
+1 [THB:77] Towering-Wave Mystic
+1 [THB:240] Traveler's Amulet
+1 [THB:78] Triton Waverider
+1 [THB:19] Heliod's Intervention
+1 [THB:248] Temple of Plenty
+SB: 1 [THB:56] Naiad of Hidden Coves
+SB: 1 [THB:184] Nexus Wardens
+SB: 1 [THB:186] Nylea's Forerunner
+SB: 2 [THB:187] Nylea's Huntmaster
+SB: 1 [THB:109] Nyxborn Marauder
+SB: 1 [THB:57] Nyxborn Seaguard
+SB: 1 [THB:147] Ox of Agonas
+SB: 2 [THB:193] Pheres-Band Brawler
+SB: 2 [THB:149] Portent of Betrayal
+SB: 1 [THB:195] Relentless Pursuit
+SB: 1 [THB:152] Satyr's Cunning
+SB: 1 [THB:200] Setessan Skirmisher
+SB: 1 [THB:154] Skophos Warleader
+SB: 1 [THB:115] Soulreaper of Mogis
+SB: 1 [THB:155] Stampede Rider
+SB: 1 [THB:69] Stinging Lionfish
+SB: 1 [THB:238] Thaumaturge's Familiar
+SB: 1 [THB:119] Tymaret, Chosen from Death
+SB: 1 [THB:120] Underworld Charger
+SB: 1 [THB:121] Underworld Dreams
+SB: 1 [THB:163] Underworld Rage-Hound
+SB: 1 [THB:203] Voracious Typhon
+SB: 1 [THB:230] Warden of the Chained
+SB: 1 [THB:96] Fruit of Tizerus
+SB: 1 [THB:97] Funeral Rites
+SB: 1 [THB:136] Furious Rise
+SB: 1 [THB:100] Grim Physician
+SB: 1 [THB:173] Hyrax Tower Scout
+SB: 1 [THB:175] Inspire Awe
+SB: 1 [THB:142] Iroas's Blessing
+SB: 1 [THB:143] Irreverent Revelers
+SB: 2 [THB:103] Lampad of Death's Vigil
+SB: 1 [THB:28] Leonin of the Lost Pride
+SB: 1 [THB:177] Loathsome Chimera
+SB: 1 [THB:54] Memory Drain
+SB: 1 [THB:104] Minion's Return
+SB: 1 [THB:223] Mischievous Chimera
+SB: 2 [THB:107] Mogis's Favor
+SB: 1 [THB:179] Moss Viper
+SB: 2 [THB:231] Altar of the Pantheon
+SB: 1 [THB:126] Arena Trickster
+SB: 1 [THB:127] Aspect of Manticore
+SB: 1 [THB:44] Brine Giant
+SB: 1 [THB:232] Bronze Sword
+SB: 1 [THB:6] Captivating Unicorn
+SB: 1 [THB:10] Daybreak Chimera
+SB: 1 [THB:168] Destiny Spinner
+SB: 1 [THB:89] Drag to the Underworld
+SB: 1 [THB:130] Dreamshaper Shaman
+SB: 1 [THB:233] Entrancing Lyre
+SB: 1 [THB:216] Eutropia the Twice-Favored
+SB: 1 [THB:135] Flummoxed Cyclops
+LAYOUT MAIN:(1,1)(NONE,false,88)|([THB:11],[THB:11],[THB:214],[THB:48],[THB:49],[THB:14],[THB:20],[THB:20],[THB:22],[THB:51],[THB:25],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:59],[THB:31],[THB:32],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:306],[THB:61],[THB:66],[THB:67],[THB:38],[THB:308],[THB:5],[THB:77],[THB:240],[THB:78],[THB:19],[THB:248])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,63)|([THB:152],[THB:96],[THB:100],[THB:107],[THB:107],[THB:179],[THB:232])([THB:200],[THB:69],[THB:119],[THB:163],[THB:103],[THB:103],[THB:28],[THB:223],[THB:168])([THB:56],[THB:184],[THB:195],[THB:115],[THB:155],[THB:238],[THB:120],[THB:121],[THB:230],[THB:97],[THB:136],[THB:173],[THB:143],[THB:177],[THB:104],[THB:231],[THB:231],[THB:127],[THB:233],[THB:216])([THB:187],[THB:187],[THB:109],[THB:57],[THB:149],[THB:149],[THB:203],[THB:175],[THB:142],[THB:54],[THB:126],[THB:89],[THB:135])([THB:186],[THB:147],[THB:154],[THB:6],[THB:10])([THB:193],[THB:193],[THB:130])([THB:44])

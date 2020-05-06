@@ -1,0 +1,83 @@
+1 [THB:165] Arasta of the Endless Web
+1 [THB:167] Chainweb Aracnir
+1 [THB:233] Entrancing Lyre
+1 [THB:314] Gravebreaker Lamia
+1 [THB:105] Mire Triton
+1 [THB:106] Mire's Grasp
+1 [THB:107] Mogis's Favor
+1 [THB:179] Moss Viper
+1 [THB:181] Nessian Boar
+1 [THB:182] Nessian Hornbeetle
+1 [THB:189] Nyx Herald
+2 [THB:192] Omen of the Hunt
+1 [THB:112] Pharika's Spawn
+1 [THB:224] Polukranos, Unchained
+1 [THB:195] Relentless Pursuit
+1 [THB:114] Scavenging Harpy
+1 [THB:237] Soul-Guide Lantern
+1 [THB:240] Traveler's Amulet
+1 [THB:203] Voracious Typhon
+1 [THB:241] Wings of Hubris
+1 [THB:205] Wolfwillow Haven
+1 [THB:88] Discordant Piper
+8 [THB:252] Swamp
+9 [THB:254] Forest
+SB: 2 [THB:194] Plummet
+SB: 2 [THB:113] Rage-Scarred Berserker
+SB: 1 [THB:34] Revoke Existence
+SB: 1 [THB:61] Riptide Turtle
+SB: 1 [THB:62] Sage of Mysteries
+SB: 1 [THB:152] Satyr's Cunning
+SB: 1 [THB:63] Sea God's Scorn
+SB: 1 [THB:153] Skophos Maze-Warden
+SB: 1 [THB:154] Skophos Warleader
+SB: 1 [THB:66] Sleep of the Dead
+SB: 1 [THB:67] Starlit Mantle
+SB: 1 [THB:68] Stern Dismissal
+SB: 1 [THB:156] Storm Herald
+SB: 1 [THB:38] Sunmane Pegasus
+SB: 1 [THB:159] Thrill of Possibility
+SB: 1 [THB:78] Triton Waverider
+SB: 1 [THB:41] Triumphant Surge
+SB: 1 [THB:120] Underworld Charger
+SB: 1 [THB:162] Underworld Fires
+SB: 1 [THB:163] Underworld Rage-Hound
+SB: 1 [THB:249] Unknown Shores
+SB: 1 [THB:204] Warbriar Blessing
+SB: 1 [THB:81] Whirlwind Denial
+SB: 1 [THB:82] Witness of Tomorrows
+SB: 1 [THB:164] Wrap in Flames
+SB: 1 [THB:260] Callaphe, Beloved of the Sea
+SB: 1 [THB:7] Commanding Presence
+SB: 1 [THB:47] Deny the Divine
+SB: 1 [THB:213] Devourer of Memory
+SB: 1 [THB:11] Dreadful Apathy
+SB: 1 [THB:12] Eidolon of Obstruction
+SB: 1 [THB:48] Eidolon of Philosophy
+SB: 1 [THB:49] Elite Instructor
+SB: 1 [THB:134] Final Flare
+SB: 1 [THB:16] Flicker of Fate
+SB: 1 [THB:21] Heliod's Punishment
+SB: 2 [THB:137] Hero of the Games
+SB: 1 [THB:22] Hero of the Pride
+SB: 1 [THB:173] Hyrax Tower Scout
+SB: 1 [THB:140] Incendiary Oracle
+SB: 1 [THB:142] Iroas's Blessing
+SB: 1 [THB:143] Irreverent Revelers
+SB: 1 [THB:28] Leonin of the Lost Pride
+SB: 1 [THB:187] Nylea's Huntmaster
+SB: 1 [THB:144] Nyxborn Brute
+SB: 1 [THB:191] Nyxborn Colossus
+SB: 1 [THB:109] Nyxborn Marauder
+SB: 1 [THB:30] Omen of the Sun
+SB: 1 [THB:59] One with the Stars
+SB: 1 [THB:32] Pious Wayfarer
+SB: 1 [THB:126] Arena Trickster
+SB: 2 [THB:85] Aspect of Lamprey
+SB: 1 [THB:127] Aspect of Manticore
+SB: 1 [THB:4] Banishing Light
+SB: 1 [THB:86] Blight-Breath Catoblepas
+SB: 1 [THB:44] Brine Giant
+SB: 1 [THB:232] Bronze Sword
+LAYOUT MAIN:(1,1)(NONE,false,88)|([THB:165],[THB:167],[THB:233],[THB:314],[THB:105],[THB:106],[THB:107],[THB:179],[THB:181],[THB:182],[THB:189],[THB:192],[THB:192],[THB:112],[THB:224],[THB:195],[THB:114],[THB:237],[THB:240],[THB:203],[THB:241],[THB:205],[THB:88],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,63)|([THB:249])([THB:62],[THB:152],[THB:66],[THB:68],[THB:48],[THB:32],[THB:232])([THB:194],[THB:194],[THB:34],[THB:61],[THB:67],[THB:159],[THB:162],[THB:163],[THB:204],[THB:213],[THB:12],[THB:16],[THB:21],[THB:22],[THB:140],[THB:28])([THB:156],[THB:120],[THB:81],[THB:260],[THB:47],[THB:11],[THB:49],[THB:134],[THB:137],[THB:137],[THB:173],[THB:143],[THB:30],[THB:127],[THB:4])([THB:153],[THB:38],[THB:78],[THB:41],[THB:164],[THB:7],[THB:142],[THB:187],[THB:109],[THB:59],[THB:126],[THB:85],[THB:85])([THB:113],[THB:113],[THB:154],[THB:82],[THB:144])([THB:63],[THB:191],[THB:86])([THB:44])
