@@ -1,0 +1,77 @@
+1 [UMA:236] Ancient Tomb
+1 [MH1:236] Barren Moor
+1 [HOP:132] Cabal Coffers
+1 [ELD:249] Witch's Cottage
+1 [ELD:389] Castle Locthwain
+1 [EMA:248] Wasteland
+26 [UST:214] Swamp
+1 [GRN:82] Plaguecrafter
+1 [STH:51] Bottomless Pit
+1 [MEDM:GR2] Liliana, the Last Hope
+1 [V10:10] Mox Diamond
+1 [EMA:219] Chrome Mox
+1 [VMA:283] Sol Ring
+1 [WAR:98] Liliana's Triumph
+1 [UMA:229] Mana Vault
+1 [THS:110] Whip of Erebos
+1 [FRF:66] Dark Deal
+1 [MH1:100] Plague Engineer
+1 [AKH:78] Archfiend of Ifnir
+1 [AKH:90] Faith of the Devoted
+1 [UMA:104] Liliana of the Veil
+1 [CM2:200] Mind Stone
+1 [DST:123] Geth's Grimoire
+1 [THB:345] Shadowspear
+1 [ORI:106] Liliana, Heretical Healer
+1 [WAR:97] Liliana, Dreadhorde General
+1 [ORI:240] Sword of the Animist
+1 [TOR:73] Mutilate
+1 [AKH:100] Miasmic Mummy
+1 [CHK:268] Sensei's Divining Top
+1 [M20:122] Vilis, Broker of Blood
+1 [CNS:116] Liliana's Specter
+1 [CN2:128] Avatar of Woe
+1 [ME3:69] Grim Tutor
+1 [CM2:81] Unnerve
+1 [PTK:78] Imperial Seal
+1 [C19:15] Bone Miser
+1 [WAR:79] Bolas's Citadel
+1 [BOK:71] Ink-Eyes, Servant of Oni
+1 [10E:169] Plague Wind
+1 [THB:355] Gray Merchant of Asphodel
+1 [MM2:213] Expedition Map
+1 [UMA:93] Demonic Tutor
+1 [AKH:212] Never // Return
+1 [ARC:25] Sign in Blood
+1 [SHM:57] Beseech the Queen
+1 [DOM:90] The Eldest Reborn
+1 [C19:19] Mire in Misery
+1 [ONS:175] Syphon Mind
+1 [THS:101] Read the Bones
+1 [C19:113] From Under the Floorboards
+1 [DST:50] Pulse of the Dross
+1 [IMA:98] Necropotence
+1 [FRF:62] Archfiend of Depravity
+1 [FRF:88] Tasigur's Cruelty
+1 [THB:344] Nyx Lotus
+1 [WAR:99] Massacre Girl
+1 [APC:47] Phyrexian Arena
+1 [C19:18] K'rrik, Son of Yawgmoth
+1 [RIX:90] Vona's Hunger
+1 [WWK:50] Bloodhusk Ritualist
+1 [ZEN:92] Guul Draz Specter
+1 [C19:127] Sanitarium Skeleton
+1 [STH:62] Megrim
+1 [ODY:129] Diabolic Tutor
+1 [5DN:165] Wayfarer's Bauble
+1 [EMA:112] Vampiric Tutor
+1 [10E:151] Hypnotic Specter
+1 [EMA:225] Mana Crypt
+1 [ONS:182] Words of Waste
+1 [ARC:22] Reassembling Skeleton
+1 [HOP:24] Dark Ritual
+1 [WAR:83] Davriel, Rogue Shadowmage
+1 [ULG:126] Grim Monolith
+SB: 1 [ELD:356] Rankle, Master of Pranks
+LAYOUT MAIN:(1,10)(CMC,false,100)|([UMA:236],[MH1:236],[HOP:132],[ELD:249],[ELD:389],[EMA:248],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[V10:10],[EMA:219],[EMA:225])([VMA:283],[UMA:229],[THB:345],[CHK:268],[PTK:78],[MM2:213],[C19:127],[5DN:165],[EMA:112],[HOP:24])([WAR:98],[CM2:200],[ORI:240],[AKH:100],[UMA:93],[ARC:25],[C19:19],[ARC:22],[ULG:126])([GRN:82],[STH:51],[MEDM:GR2],[FRF:66],[MH1:100],[AKH:90],[UMA:104],[ORI:106],[CNS:116],[ME3:69],[THS:101],[DST:50],[IMA:98],[APC:47],[RIX:90],[WWK:50],[STH:62],[10E:151],[ONS:182],[WAR:83])([THS:110],[DST:123],[TOR:73],[CM2:81],[ONS:175],[THB:344],[ZEN:92],[ODY:129])([AKH:78],[C19:15],[THB:355],[DOM:90],[C19:113],[FRF:62],[WAR:99])([WAR:97],[WAR:79],[BOK:71],[SHM:57],[FRF:88])([AKH:212],[C19:18])([M20:122],[CN2:128])([10E:169])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([ELD:356])
