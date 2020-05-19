@@ -1,0 +1,78 @@
+1 [UMA:236] Ancient Tomb
+1 [MH1:236] Barren Moor
+1 [HOP:132] Cabal Coffers
+1 [ELD:249] Witch's Cottage
+1 [ELD:389] Castle Locthwain
+1 [EMA:248] Wasteland
+25 [UST:214] Swamp
+1 [GRN:82] Plaguecrafter
+1 [STH:51] Bottomless Pit
+1 [MEDM:GR2] Liliana, the Last Hope
+1 [V10:10] Mox Diamond
+1 [EMA:219] Chrome Mox
+1 [VMA:283] Sol Ring
+1 [WAR:98] Liliana's Triumph
+1 [UMA:229] Mana Vault
+1 [THS:110] Whip of Erebos
+1 [FRF:66] Dark Deal
+1 [AKH:78] Archfiend of Ifnir
+1 [AKH:90] Faith of the Devoted
+1 [UMA:104] Liliana of the Veil
+1 [CM2:200] Mind Stone
+1 [DST:123] Geth's Grimoire
+1 [ORI:106] Liliana, Heretical Healer
+1 [WAR:97] Liliana, Dreadhorde General
+1 [ORI:240] Sword of the Animist
+1 [TOR:73] Mutilate
+1 [AKH:100] Miasmic Mummy
+1 [CHK:268] Sensei's Divining Top
+1 [M20:122] Vilis, Broker of Blood
+1 [CNS:116] Liliana's Specter
+1 [CN2:128] Avatar of Woe
+1 [ME3:69] Grim Tutor
+1 [CM2:81] Unnerve
+1 [PTK:78] Imperial Seal
+1 [C19:15] Bone Miser
+1 [WAR:79] Bolas's Citadel
+1 [BOK:71] Ink-Eyes, Servant of Oni
+1 [10E:169] Plague Wind
+1 [THB:355] Gray Merchant of Asphodel
+1 [MM2:213] Expedition Map
+1 [UMA:93] Demonic Tutor
+1 [AKH:212] Never // Return
+1 [ARC:25] Sign in Blood
+1 [SHM:57] Beseech the Queen
+1 [DOM:90] The Eldest Reborn
+1 [C19:19] Mire in Misery
+1 [ONS:175] Syphon Mind
+1 [THS:101] Read the Bones
+1 [C19:113] From Under the Floorboards
+1 [DST:50] Pulse of the Dross
+1 [IMA:98] Necropotence
+1 [FRF:62] Archfiend of Depravity
+1 [FRF:88] Tasigur's Cruelty
+1 [THB:344] Nyx Lotus
+1 [WAR:99] Massacre Girl
+1 [APC:47] Phyrexian Arena
+1 [C19:18] K'rrik, Son of Yawgmoth
+1 [RIX:90] Vona's Hunger
+1 [WWK:50] Bloodhusk Ritualist
+1 [ZEN:92] Guul Draz Specter
+1 [C19:127] Sanitarium Skeleton
+1 [STH:62] Megrim
+1 [ODY:129] Diabolic Tutor
+1 [5DN:165] Wayfarer's Bauble
+1 [EMA:112] Vampiric Tutor
+1 [10E:151] Hypnotic Specter
+1 [EMA:225] Mana Crypt
+1 [ONS:182] Words of Waste
+1 [ARC:22] Reassembling Skeleton
+1 [HOP:24] Dark Ritual
+1 [C14:243] Jet Medallion
+1 [UDS:54] Bubbling Muck
+1 [C14:235] Charcoal Diamond
+1 [MRD:169] Extraplanar Lens
+1 [PUMA:U40] Urborg, Tomb of Yawgmoth
+SB: 1 [ELD:356] Rankle, Master of Pranks
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([THS:110])([WAR:79],[C14:235],[EMA:219],[MM2:213],[MRD:169],[DST:123],[C14:243],[EMA:225],[UMA:229],[CM2:200],[V10:10],[THB:344],[CHK:268],[VMA:283],[ORI:240],[5DN:165])([FRF:62],[AKH:78],[CN2:128],[WWK:50],[C19:15],[THB:355],[ZEN:92],[10E:151],[BOK:71],[C19:18],[CNS:116],[ORI:106],[WAR:99],[AKH:100],[GRN:82],[ARC:22],[C19:127],[M20:122])([STH:51],[AKH:90],[STH:62],[IMA:98],[APC:47],[DOM:90],[ONS:182])([HOP:24],[WAR:98],[EMA:112],[RIX:90])([UMA:236],[MH1:236],[HOP:132],[ELD:389],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[PUMA:U40],[EMA:248],[ELD:249])([UMA:104],[WAR:97],[MEDM:GR2])([SHM:57],[UDS:54],[FRF:66],[UMA:93],[ODY:129],[C19:113],[ME3:69],[PTK:78],[C19:19],[TOR:73],[AKH:212],[10E:169],[DST:50],[THS:101],[ARC:25],[ONS:175],[FRF:88],[CM2:81])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([ELD:356])
