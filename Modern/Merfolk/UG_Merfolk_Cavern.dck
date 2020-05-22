@@ -1,0 +1,26 @@
+4 [KLD:244] Botanical Sanctum
+2 [RNA:246] Breeding Pool
+3 [NPH:57] Dismember
+3 [MH1:52] Force of Negation
+4 [XLN:196] Kumena's Speaker
+4 [TSB:24] Lord of Atlantis
+4 [M13:59] Master of the Pearl Trident
+4 [RIX:164] Merfolk Mistbinder
+4 [DOM:56] Merfolk Trickster
+3 [M14:228] Mutavault
+4 [RIX:53] Silvergill Adept
+2 [ZEN:70] Spreading Seas
+3 [MH1:249] Waterlogged Grove
+4 [ELD:281] Brazen Borrower
+4 [MPS:6] Aether Vial
+5 [UST:213] Island
+3 [PUMA:U32] Cavern of Souls
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 3 [MRD:150] Chalice of the Void
+SB: 2 [MH1:158] Collector Ouphe
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [ALA:218] Relic of Progenitus
+SB: 2 [XLN:206] Shapers' Sanctuary
+SB: 2 [ZEN:70] Spreading Seas
+LAYOUT MAIN:(1,5)(CMC,false,88)|([KLD:244],[KLD:244],[KLD:244],[KLD:244],[RNA:246],[RNA:246],[M14:228],[M14:228],[M14:228],[MH1:249],[MH1:249],[MH1:249],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[PUMA:U32],[PUMA:U32],[PUMA:U32])([XLN:196],[XLN:196],[XLN:196],[XLN:196],[MPS:6],[MPS:6],[MPS:6],[MPS:6])([TSB:24],[TSB:24],[TSB:24],[TSB:24],[M13:59],[M13:59],[M13:59],[M13:59],[RIX:164],[RIX:164],[RIX:164],[RIX:164],[DOM:56],[DOM:56],[DOM:56],[DOM:56],[RIX:53],[RIX:53],[RIX:53],[RIX:53],[ZEN:70],[ZEN:70])([NPH:57],[NPH:57],[NPH:57],[MH1:52],[MH1:52],[MH1:52])([ELD:281],[ELD:281],[ELD:281],[ELD:281])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([MRD:150],[MRD:150],[MRD:150])([ALA:218],[ALA:218],[XLN:206],[XLN:206])([MH1:158],[MH1:158],[DOM:213],[DOM:213],[ZEN:70],[ZEN:70])([WAR:228],[WAR:228])
