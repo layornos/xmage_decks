@@ -1,0 +1,48 @@
+1 [IKO:116] Fire Prophecy
+2 [IKO:113] Drannith Stinger
+2 [IKO:129] Prickly Marmoset
+1 [IKO:118] Footfall Crater
+2 [IKO:52] Frostveil Ambush
+1 [IKO:55] Hampering Snare
+1 [IKO:211] Sprite Dragon
+1 [IKO:58] Mythos of Illuna
+1 [IKO:5] Checkpoint Officer
+2 [IKO:10] Drannith Healer
+1 [IKO:6] Coordinated Charge
+1 [IKO:205] Savai Thundermane
+1 [IKO:215] Whirlwind of Thought
+2 [IKO:40] Anticipate
+1 [IKO:45] Convolute
+1 [IKO:239] Savai Crystal
+1 [IKO:100] Suffocating Fumes
+2 [IKO:20] Light of Hope
+1 [IKO:258] Wind-Scarred Crag
+1 [IKO:246] Dismal Backwater
+2 [IKO:255] Swiftwater Cliffs
+1 [IKO:247] Evolving Wilds
+3 [IKO:263] Island
+1 [IKO:265] Island
+1 [IKO:264] Island
+1 [IKO:270] Mountain
+1 [IKO:269] Mountain
+1 [IKO:271] Mountain
+2 [IKO:262] Plains
+1 [IKO:260] Plains
+1 [IKO:268] Swamp
+SB: 1 [IKO:232] Yorion, Sky Nomad
+SB: 1 [IKO:3] Mysterious Egg
+SB: 1 [IKO:240] Sleeper Dart
+SB: 1 [IKO:49] Essence Scatter
+SB: 2 [IKO:31] Solid Footing
+SB: 1 [IKO:161] Ivy Elemental
+SB: 1 [IKO:107] Blazing Volley
+SB: 1 [IKO:88] Extinction Event
+SB: 1 [IKO:257] Tranquil Cove
+SB: 1 [IKO:241] Springjaw Trap
+SB: 1 [IKO:143] Almighty Brushwagg
+SB: 1 [IKO:119] Forbidden Friendship
+SB: 1 [IKO:56] Keep Safe
+SB: 1 [IKO:153] Flycatcher Giraffid
+SB: 1 [IKO:150] Excavation Mole
+LAYOUT MAIN:(1,6)(CMC,false,88)|([IKO:258],[IKO:246],[IKO:255],[IKO:255],[IKO:247],[IKO:263],[IKO:265],[IKO:264],[IKO:263],[IKO:263],[IKO:270],[IKO:269],[IKO:271],[IKO:262],[IKO:260],[IKO:262],[IKO:268])([IKO:118],[IKO:20],[IKO:20])([IKO:116],[IKO:113],[IKO:113],[IKO:55],[IKO:211],[IKO:5],[IKO:10],[IKO:10],[IKO:205],[IKO:40],[IKO:40])([IKO:129],[IKO:129],[IKO:45],[IKO:239],[IKO:100])([IKO:58],[IKO:215])([IKO:52],[IKO:52],[IKO:6])
+LAYOUT SIDEBOARD:(1,7)(COLOR_IDENTITY,false,63)|([IKO:3],[IKO:240],[IKO:241])([IKO:161],[IKO:143],[IKO:153],[IKO:150])([IKO:107],[IKO:119])([IKO:88])([IKO:49],[IKO:56])([IKO:31],[IKO:31])([IKO:232],[IKO:257])

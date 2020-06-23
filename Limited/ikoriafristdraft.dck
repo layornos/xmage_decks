@@ -1,0 +1,46 @@
+2 [IKO:61] Ominous Seas
+3 [IKO:10] Drannith Healer
+1 [IKO:113] Drannith Stinger
+2 [IKO:129] Prickly Marmoset
+1 [IKO:195] Narset of the Ancient Way
+1 [IKO:191] Inspired Ultimatum
+2 [IKO:68] Startling Development
+1 [IKO:52] Frostveil Ambush
+1 [IKO:55] Hampering Snare
+1 [IKO:56] Keep Safe
+1 [IKO:4] Blade Banish
+1 [IKO:5] Checkpoint Officer
+1 [IKO:17] Imposing Vantasaur
+1 [IKO:6] Coordinated Charge
+1 [IKO:13] Flourishing Fox
+1 [IKO:50] Facet Reader
+2 [IKO:183] Dire Tactics
+1 [IKO:258] Wind-Scarred Crag
+1 [IKO:255] Swiftwater Cliffs
+2 [IKO:264] Island
+3 [IKO:263] Island
+2 [IKO:270] Mountain
+1 [IKO:269] Mountain
+4 [IKO:261] Plains
+1 [IKO:262] Plains
+1 [IKO:260] Plains
+1 [IKO:267] Swamp
+SB: 1 [IKO:38] Will of the All-Hunter
+SB: 2 [IKO:95] Memory Leak
+SB: 1 [IKO:183] Dire Tactics
+SB: 1 [IKO:50] Facet Reader
+SB: 1 [IKO:103] Unlikely Aid
+SB: 1 [IKO:20] Light of Hope
+SB: 1 [IKO:30] Snare Tactician
+SB: 1 [IKO:45] Convolute
+SB: 1 [IKO:208] Slitherwisp
+SB: 1 [IKO:169] Plummet
+SB: 2 [IKO:40] Anticipate
+SB: 1 [IKO:170] Ram Through
+SB: 2 [IKO:33] Spontaneous Flight
+SB: 1 [IKO:11] Drannith Magistrate
+SB: 1 [IKO:31] Solid Footing
+SB: 1 [IKO:8] Daysquad Marshal
+SB: 1 [IKO:185] Emergent Ultimatum
+LAYOUT MAIN:(1,8)(CMC,false,88)|([IKO:258],[IKO:255],[IKO:264],[IKO:263],[IKO:263],[IKO:264],[IKO:263],[IKO:270],[IKO:270],[IKO:269],[IKO:261],[IKO:262],[IKO:261],[IKO:261],[IKO:261],[IKO:260],[IKO:267])([IKO:13])([IKO:61],[IKO:61],[IKO:10],[IKO:10],[IKO:10],[IKO:113],[IKO:68],[IKO:68],[IKO:55],[IKO:56],[IKO:5],[IKO:50],[IKO:183],[IKO:183])([IKO:129],[IKO:129])([IKO:195],[IKO:4])([IKO:52],[IKO:6])([IKO:17])([IKO:191])
+LAYOUT SIDEBOARD:(1,7)(COLOR_IDENTITY,false,63)|([IKO:169],[IKO:170])([IKO:95],[IKO:103],[IKO:95])([IKO:50],[IKO:45],[IKO:40],[IKO:40])([IKO:208])([IKO:185])([IKO:38],[IKO:20],[IKO:30],[IKO:33],[IKO:11],[IKO:31],[IKO:8],[IKO:33])([IKO:183])
