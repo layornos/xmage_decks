@@ -1,0 +1,41 @@
+4 [WWK:121] Amulet of Vigor
+2 [CHK:201] Azusa, Lost but Seeking
+1 [WWK:132] Bojuka Bog
+1 [RAV:275] Boros Garrison
+1 [RNA:246] Breeding Pool
+3 [ELD:240] Castle Garenbrig
+2 [AVR:226] Cavern of Souls
+1 [OGW:170] Crumbling Vestige
+4 [THB:169] Dryad of the Ilysian Grove
+1 [5DN:118] Engineered Explosives
+4 [WWK:99] Explore
+1 [M20:247] Field of the Dead
+2 [THB:254] Forest
+1 [ISD:240] Ghost Quarter
+4 [GPT:158] Gruul Turf
+1 [THB:220] Klothys, God of Destiny
+1 [FUT:42] Pact of Negation
+4 [M12:188] Primeval Titan
+1 [M15:245] Radiant Fountain
+4 [SOK:144] Sakura-Tribe Scout
+4 [DIS:180] Simic Growth Chamber
+1 [AVR:229] Slayers' Stronghold
+2 [CSP:155] Snow-Covered Forest
+4 [FUT:139] Summoner's Pact
+2 [FUT:173] Tolaria West
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [TSP:281] Vesuva
+1 [KTK:249] Wooded Foothills
+1 [IKO:310] Ketria Triome
+SB: 1 [HOU:83] Abrade
+SB: 1 [NPH:103] Beast Within
+SB: 1 [8ED:180] Boil
+SB: 3 [SHM:205] Firespout
+SB: 1 [MH1:164] Force of Vigor
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [JOU:151] Keranos, God of Storms
+SB: 3 [M20:69] Negate
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 2 [SOI:233] Tireless Tracker
+LAYOUT MAIN:(1,5)(CMC,false,88)|([WWK:132],[RAV:275],[RNA:246],[ELD:240],[ELD:240],[ELD:240],[AVR:226],[AVR:226],[OGW:170],[5DN:118],[M20:247],[THB:254],[THB:254],[ISD:240],[GPT:158],[GPT:158],[GPT:158],[GPT:158],[FUT:42],[M15:245],[DIS:180],[DIS:180],[DIS:180],[DIS:180],[AVR:229],[CSP:155],[CSP:155],[FUT:139],[FUT:139],[FUT:139],[FUT:139],[FUT:173],[FUT:173],[ZEN:228],[TSP:281],[KTK:249],[IKO:310])([WWK:121],[WWK:121],[WWK:121],[WWK:121],[SOK:144],[SOK:144],[SOK:144],[SOK:144])([WWK:99],[WWK:99],[WWK:99],[WWK:99])([CHK:201],[CHK:201],[THB:169],[THB:169],[THB:169],[THB:169],[THB:220])([M12:188],[M12:188],[M12:188],[M12:188])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,63)|([M20:227],[ALA:218])([NPH:103],[MH1:164],[SOI:233],[SOI:233])([HOU:83],[8ED:180])([SHM:205],[SHM:205],[SHM:205])([M20:69],[M20:69],[M20:69])([JOU:151])
