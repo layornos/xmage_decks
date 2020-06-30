@@ -1,0 +1,50 @@
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [UDS:50] Treachery
+1 [M11:58] Jace Beleren
+1 [VIS:34] Impulse
+1 [USG:105] Turnabout
+1 [5ED:249] Mana Flare
+1 [LEG:65] Mana Drain
+1 [EVE:22] Glen Elendra Archmage
+1 [MOR:55] Vendilion Clique
+1 [M12:147] Inferno Titan
+1 [FUT:161] Coalition Relic
+1 [3ED:185] Wheel of Fortune
+1 [ULG:80] Goblin Welder
+1 [VMA:266] Coercive Portal
+1 [MB1:898] Daretti, Scrap Savant
+1 [AKH:134] Glorybringer
+1 [RAV:255] Boros Signet
+1 [ULG:129] Memory Jar
+1 [FEM:18a] High Tide
+1 [SOM:176] Mindslaver
+1 [ULG:126] Grim Monolith
+1 [3ED:235] Basalt Monolith
+1 [MIR:307] Lion's Eye Diamond
+1 [2ED:265] Mox Ruby
+9 [UST:213] Island
+5 [UST:215] Mountain
+1 [3ED:291] Volcanic Island
+1 [KTK:233] Flooded Strand
+1 [WWK:127] Lodestone Golem
+SB: 1 [ARB:110] Sphinx of the Steel Wind
+SB: 1 [M13:22] Oblivion Ring
+SB: 1 [THS:223] Nykthos, Shrine to Nyx
+SB: 1 [THS:187] Ashen Rider
+SB: 1 [NPH:4] Blade Splicer
+SB: 1 [APC:126] Vindicate
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [JOU:94] Eidolon of the Great Revel
+SB: 1 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [MIR:141] Shallow Grave
+SB: 1 [USG:309] Smokestack
+SB: 1 [GRN:207] Thousand-Year Storm
+SB: 1 [AVR:166] Zealous Conscripts
+SB: 1 [M12:146] Incinerate
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [TSP:73] Riftwing Cloudskate
+SB: 1 [TSP:66] Looter il-Kor
+SB: 1 [ROE:235] Island
+LAYOUT MAIN:(1,8)(CMC,false,88)|([UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[MIR:307],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[2ED:265],[3ED:291],[KTK:233])([ULG:80],[FEM:18a])([RAV:255],[ULG:126],[VIS:34],[LEG:65])([3ED:235],[FUT:161],[M11:58],[5ED:249],[MOR:55],[3ED:185])([VMA:266],[MB1:898],[EVE:22],[USG:105],[WWK:127])([AKH:134],[ULG:129],[UDS:50])([M12:147],[SOM:176])([ROE:4])
+LAYOUT SIDEBOARD:(1,10)(COLOR_IDENTITY,false,63)|([THS:223],[USG:309])([SOM:94],[JOU:94],[AVR:166],[M12:146])([ISD:127])([MIR:141])([DTK:224])([TSP:73],[TSP:66],[ROE:235])([GRN:207])([M13:22],[NPH:4],[DKA:24])([THS:187],[APC:126])([ARB:110])
