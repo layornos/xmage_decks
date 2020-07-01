@@ -1,0 +1,50 @@
+1 [ULG:129] Memory Jar
+1 [VIS:34] Impulse
+1 [3ED:235] Basalt Monolith
+1 [4ED:6] Balance
+1 [CON:15] Path to Exile
+1 [EXO:115] Oath of Druids
+1 [EMN:6] Emrakul, the Promised End
+1 [M11:11] Condemn
+1 [PLC:25] Mana Tithe
+1 [4ED:236] Channel
+1 [RAV:255] Boros Signet
+1 [CHK:225] Kodama's Reach
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [MRD:134] Tooth and Nail
+1 [7ED:67] Counterspell
+1 [4ED:34] Land Tax
+1 [GPT:150] Gruul Signet
+1 [UDS:139] Thran Dynamo
+1 [AKH:134] Glorybringer
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [M12:98] Grave Titan
+1 [APC:128] Fire // Ice
+1 [SOI:247] Nahiri, the Harbinger
+1 [3ED:284] Plateau
+1 [2ED:266] Mox Sapphire
+1 [KLD:244] Botanical Sanctum
+1 [USG:330] Tolarian Academy
+1 [ZEN:223] Scalding Tarn
+1 [RNA:246] Breeding Pool
+1 [KLD:246] Inspiring Vantage
+1 [ZEN:211] Arid Mesa
+4 [UST:216] Forest
+1 [UST:213] Island
+4 [UST:212] Plains
+SB: 1 [THB:161] Underworld Breach
+SB: 1 [FEM:18a] High Tide
+SB: 1 [ROE:12] Ulamog, the Infinite Gyre
+SB: 1 [AVR:172] Craterhoof Behemoth
+SB: 1 [TSB:55] Avalanche Riders
+SB: 1 [MBS:46] Massacre Wurm
+SB: 1 [CHK:62] Gifts Ungiven
+SB: 1 [USG:171] Yawgmoth's Will
+SB: 1 [SOM:94] Koth of the Hammer
+SB: 1 [AVR:38] Terminus
+SB: 1 [TMP:116] Corpse Dance
+SB: 1 [GRN:213] Vraska, Golgari Queen
+SB: 1 [PLC:85] Damnation
+SB: 1 [LEG:28] Moat
+LAYOUT MAIN:(1,9)(CMC,false,88)|([UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:212],[UST:212],[UST:212],[UST:212])([CON:15],[M11:11],[PLC:25],[4ED:34])([VIS:34],[4ED:6],[EXO:115],[4ED:236],[7ED:67],[GPT:150],[RAV:255],[APC:128])([3ED:235],[CHK:225])([UDS:139],[SOI:247])([ULG:129])([MRD:134])([ROE:6],[M12:98],[EMN:6],[ROE:4],[AKH:134])([3ED:284],[2ED:266],[KLD:244],[USG:330],[ZEN:223],[RNA:246],[KLD:246],[ZEN:211])
+LAYOUT SIDEBOARD:(1,7)(COLOR_IDENTITY,false,63)|([ROE:12])([AVR:172])([THB:161],[TSB:55],[SOM:94])([MBS:46],[USG:171],[TMP:116],[PLC:85])([GRN:213])([FEM:18a],[CHK:62])([AVR:38],[LEG:28])
