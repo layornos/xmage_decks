@@ -1,0 +1,52 @@
+1 [2ED:48] Ancestral Recall
+1 [4ED:147] Mind Twist
+1 [ROE:190] Joraga Treespeaker
+1 [MBS:81] Green Sun's Zenith
+1 [CON:87] Noble Hierarch
+1 [ULG:126] Grim Monolith
+1 [GPT:150] Gruul Signet
+1 [LEG:65] Mana Drain
+1 [DIS:165] Rakdos Signet
+1 [MBS:21] Consecrated Sphinx
+1 [ODY:113] Upheaval
+1 [MMQ:82] Gush
+1 [UDS:50] Treachery
+1 [ULG:101] Deranged Hermit
+1 [THS:172] Polukranos, World Eater
+1 [NPH:42] Phyrexian Metamorph
+1 [ZEN:172] Oracle of Mul Daya
+1 [CHK:62] Gifts Ungiven
+1 [INV:57] Fact or Fiction
+1 [HOU:129] Ramunap Excavator
+1 [4ED:236] Channel
+1 [SCG:29] Brain Freeze
+1 [4ED:363] Strip Mine
+1 [OGW:171] Hissing Quagmire
+1 [2ED:266] Mox Sapphire
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [3ED:288] Tropical Island
+1 [ARN:76] Library of Alexandria
+1 [2ED:262] Mox Emerald
+1 [2ED:233] Black Lotus
+1 [3ED:291] Volcanic Island
+1 [MMQ:61] Brainstorm
+1 [RAV:260] Dimir Signet
+1 [GRN:207] Thousand-Year Storm
+1 [3ED:214] Regrowth
+3 [UST:213] Island
+1 [UST:214] Swamp
+SB: 1 [ULG:45] Tinker
+SB: 1 [RNA:47] Pteramander
+SB: 1 [BOK:163] Umezawa's Jitte
+SB: 1 [UDS:124] Yavimaya Elder
+SB: 1 [SHM:110] Devoted Druid
+SB: 1 [5ED:329] Sylvan Library
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [DIS:133] Trygon Predator
+SB: 1 [XLN:110] Kitesail Freebooter
+SB: 5 [UST:216] Forest
+SB: 4 [UST:214] Swamp
+SB: 3 [UST:213] Island
+LAYOUT MAIN:(1,7)(CMC,false,88)|([4ED:363],[OGW:171],[2ED:266],[KTK:239],[ZEN:223],[3ED:288],[ARN:76],[2ED:262],[2ED:233],[3ED:291],[UST:213],[UST:213],[UST:213],[UST:214])([2ED:48],[4ED:147],[ROE:190],[MBS:81],[CON:87],[MMQ:61])([ULG:126],[GPT:150],[LEG:65],[DIS:165],[4ED:236],[SCG:29],[RAV:260],[3ED:214])([HOU:129])([THS:172],[NPH:42],[ZEN:172],[CHK:62],[INV:57])([MMQ:82],[UDS:50],[ULG:101])([MBS:21],[ODY:113],[GRN:207])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([UST:216],[UST:214],[UST:213],[UST:213],[UST:213],[UST:214])([RNA:47])([BOK:163],[SHM:110],[5ED:329],[GRN:152],[XLN:110])([ULG:45],[UDS:124],[DIS:133])([UST:216],[UST:216],[UST:216],[UST:216])([UST:214],[UST:214])

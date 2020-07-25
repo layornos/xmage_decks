@@ -1,0 +1,62 @@
+1 [THB:244] Temple of Abandon
+1 [THB:192] Omen of the Hunt
+1 [M20:197] Thrashing Brontodon
+1 [ELD:85] Epic Downfall
+1 [M20:170] Feral Invocation
+2 [ELD:76] Bake into a Pie
+1 [ELD:222] Heraldic Banner
+1 [M20:178] Leafkin Druid
+1 [M20:180] Loaming Shaman
+1 [THB:224] Polukranos, Unchained
+1 [M20:199] Vivien, Arkbow Ranger
+1 [THB:173] Hyrax Tower Scout
+1 [THB:184] Nexus Wardens
+1 [M20:203] Wolfkin Bond
+1 [M20:201] Vorstclaw
+1 [M20:188] Plummet
+2 [M20:195] Silverback Shaman
+1 [M20:181] Mammoth Spider
+1 [THB:174] Ilysian Caryatid
+1 [M20:183] Natural End
+1 [THB:220] Klothys, God of Destiny
+1 [M20:194] Shifting Ceratops
+10 [UST:216] Forest
+1 [UST:215] Mountain
+5 [UST:214] Swamp
+1 [M20:242] Bloodfell Caves
+SB: 1 [ELD:228] Roving Keep
+SB: 1 [ELD:8] Charming Prince
+SB: 1 [ELD:24] Prized Griffin
+SB: 2 [ELD:5] Ardenvale Tactician
+SB: 1 [ELD:30] Silverflame Ritual
+SB: 1 [ELD:38] Animating Faerie
+SB: 1 [ELD:156] Garenbrig Carver
+SB: 1 [ELD:229] Scalding Cauldron
+SB: 1 [ELD:65] Steelgaze Griffin
+SB: 1 [ELD:262] Mountain
+SB: 1 [THB:36] Sentinel's Eyes
+SB: 2 [THB:191] Nyxborn Colossus
+SB: 1 [THB:41] Triumphant Surge
+SB: 1 [THB:29] Nyxborn Courser
+SB: 1 [THB:163] Underworld Rage-Hound
+SB: 1 [THB:152] Satyr's Cunning
+SB: 1 [THB:48] Eidolon of Philosophy
+SB: 1 [M20:218] Skyknight Vanguard
+SB: 2 [THB:286] Forest
+SB: 2 [THB:287] Forest
+SB: 1 [THB:254] Forest
+SB: 1 [THB:285] Mountain
+SB: 3 [THB:284] Mountain
+SB: 1 [THB:253] Mountain
+SB: 5 [THB:250] Plains
+SB: 3 [THB:279] Plains
+SB: 2 [THB:278] Plains
+SB: 3 [THB:283] Swamp
+SB: 1 [THB:252] Swamp
+SB: 1 [THB:282] Swamp
+SB: 5 [UST:216] Forest
+SB: 10 [UST:212] Plains
+SB: 4 [UST:214] Swamp
+SB: 1 [UST:215] Mountain
+LAYOUT MAIN:(1,6)(CMC,false,88)|([THB:244],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[M20:242])([ELD:85],[M20:178],[M20:188],[THB:174])([THB:192],[M20:197],[M20:170],[ELD:222],[M20:180],[THB:173],[THB:184],[M20:183],[THB:220])([ELD:76],[THB:224],[M20:199],[ELD:76],[M20:194])([M20:203],[M20:195],[M20:181],[M20:195])([M20:201])
+LAYOUT SIDEBOARD:(1,7)(COLOR_IDENTITY,false,63)|([ELD:228],[ELD:229])([ELD:156],[THB:191],[THB:191])([ELD:262],[THB:163],[THB:152],[UST:215])([ELD:38],[ELD:65],[THB:48])([ELD:8],[ELD:24],[ELD:5],[ELD:30],[ELD:5],[THB:36],[THB:41],[THB:29])([M20:218])([UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:214],[UST:214],[UST:214],[UST:214])

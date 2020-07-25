@@ -1,0 +1,44 @@
+1 [UMA:162] Devoted Druid
+3 [UMA:166] Golgari Brownscale
+1 [UMA:212] Canker Abomination
+1 [UMA:167] Golgari Grave-Troll
+1 [UMA:159] Boneyard Wurm
+1 [UMA:103] Last Gasp
+2 [UMA:160] Brawn
+1 [UMA:90] Crow of Dark Tidings
+1 [UMA:98] Golgari Thug
+1 [UMA:170] Hooting Mandrills
+1 [UMA:183] Spider Spawning
+1 [UMA:185] Staunch-Hearted Warrior
+1 [UMA:113] Shriekmaw
+2 [UMA:171] Kodama's Reach
+1 [UMA:180] Satyr Wayfinder
+2 [UMA:181] Shed Weakness
+1 [UMA:191] Walker of the Grove
+13 [UST:216] Forest
+5 [UST:214] Swamp
+SB: 1 [UMA:123] Arena Athlete
+SB: 1 [UMA:134] Hissing Iguanar
+SB: 1 [UMA:37] Spirit Cairn
+SB: 1 [UMA:33] Ronom Unicorn
+SB: 1 [UMA:208] Urban Evolution
+SB: 1 [UMA:102] Gurmag Angler
+SB: 1 [UMA:120] Unholy Hunger
+SB: 1 [UMA:177] Penumbra Wurm
+SB: 1 [UMA:186] Stingerfling Spider
+SB: 1 [UMA:18] Gods Willing
+SB: 1 [UMA:16] Faith's Fetters
+SB: 1 [UMA:135] Ingot Chewer
+SB: 1 [UMA:23] Lotus-Eye Mystics
+SB: 1 [UMA:161] Crushing Canopy
+SB: 1 [UMA:179] Pulse of Murasa
+SB: 1 [UMA:193] Wild Hunger
+SB: 1 [UMA:190] Verdant Eidolon
+SB: 1 [UMA:192] Wickerbough Elder
+SB: 1 [UMA:178] Prey Upon
+SB: 1 [UMA:156] Basking Rootwalla
+SB: 1 [UMA:188] Travel Preparations
+SB: 1 [UMA:220] Safehold Elite
+SB: 1 [UMA:216] Kitchen Finks
+LAYOUT MAIN:(1,8)(CMC,false,88)|([UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([UMA:181],[UMA:181])([UMA:159],[UMA:162],[UMA:98],[UMA:103],[UMA:180])([UMA:90],[UMA:166],[UMA:166],[UMA:166],[UMA:171],[UMA:171])([UMA:160],[UMA:160],[UMA:212],[UMA:185])([UMA:167],[UMA:113],[UMA:183])([UMA:170])([UMA:191])
+LAYOUT SIDEBOARD:(1,7)(COLOR_IDENTITY,false,50)|([UMA:177],[UMA:186],[UMA:161],[UMA:179],[UMA:190],[UMA:192],[UMA:178],[UMA:156])([UMA:123],[UMA:134],[UMA:135])([UMA:193])([UMA:102],[UMA:120])([UMA:208])([UMA:37],[UMA:33],[UMA:18],[UMA:16],[UMA:23])([UMA:188],[UMA:220],[UMA:216])
