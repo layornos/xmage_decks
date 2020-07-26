@@ -1,0 +1,33 @@
+4 [LRW:267] Auntie's Hovel
+4 [SOM:224] Blackcleave Cliffs
+2 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+4 [LRW:102] Boggart Harbinger
+4 [AVR:226] Cavern of Souls
+1 [MH1:238] Fiery Islet
+1 [GRN:103] Goblin Cratermaker
+4 [M20:143] Goblin Ringleader
+1 [DOM:130] Goblin Warchief
+1 [M13:138] Krenko, Mob Boss
+3 [TSP:170] Mogg War Marshal
+2 [M21:269] Mountain
+4 [MH1:209] Munitions Expert
+1 [MH1:138] Pashalik Mons
+2 [DOM:144] Skirk Prospector
+2 [MH1:108] Sling-Gang Lieutenant
+1 [M21:266] Swamp
+1 [LRW:194] Tarfire
+1 [XLN:258] Unclaimed Territory
+4 [MPS:6] Aether Vial
+4 [M21:364] Conspicuous Snoop
+4 [MH1:129] Goblin Matron
+1 [IMA:136] Kiki-Jiki, Mirror Breaker
+SB: 2 [9ED:176] Blood Moon
+SB: 1 [DOM:129] Goblin Chainwhirler
+SB: 1 [M19:144] Goblin Trashmaster
+SB: 3 [M20:107] Leyline of the Void
+SB: 3 [MH1:100] Plague Engineer
+SB: 1 [LRW:194] Tarfire
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,6)(CMC,false,88)|([LRW:267],[LRW:267],[LRW:267],[LRW:267],[SOM:224],[SOM:224],[SOM:224],[SOM:224],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[MH1:238],[M21:269],[M21:269],[M21:266],[XLN:258])([DOM:144],[DOM:144],[LRW:194],[MPS:6],[MPS:6],[MPS:6],[MPS:6])([GRN:103],[TSP:170],[TSP:170],[TSP:170],[MH1:209],[MH1:209],[MH1:209],[MH1:209],[M21:364],[M21:364],[M21:364],[M21:364])([LRW:102],[LRW:102],[LRW:102],[LRW:102],[DOM:130],[MH1:138],[MH1:129],[MH1:129],[MH1:129],[MH1:129])([M20:143],[M20:143],[M20:143],[M20:143],[M13:138],[MH1:108],[MH1:108])([IMA:136])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([LRW:194],[THS:107],[THS:107],[THS:107],[THS:107])([9ED:176],[9ED:176],[DOM:129],[MH1:100],[MH1:100],[MH1:100])([M19:144],[M20:107],[M20:107],[M20:107])
