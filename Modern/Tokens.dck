@@ -1,0 +1,23 @@
+4 [KLD:245] Concealed Courtyard
+4 [MH1:10] Force of Virtue
+4 [DKA:8] Gather the Townsfolk
+4 [ISD:19] Intangible Virtue
+4 [XLN:22] Legion's Landing
+4 [DKA:12] Lingering Souls
+4 [CON:15] Path to Exile
+9 [M21:260] Plains
+4 [M20:34] Raise the Alarm
+2 [KLD:27] Servo Exhibition
+3 [HOU:183] Shefet Dunes
+4 [MH1:246] Silent Clearing
+4 [SHM:23] Spectral Procession
+4 [GRN:30] Venerated Loxodon
+2 [LRW:281] Windbrisk Heights
+SB: 4 [5DN:3] Auriok Champion
+SB: 2 [GRN:6] Conclave Tribunal
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [RTR:18] Rest in Peace
+SB: 3 [ISD:36] Stony Silence
+SB: 2 [RTR:223] Sundering Growth
+LAYOUT MAIN:(1,7)(CMC,false,88)|([KLD:245],[KLD:245],[KLD:245],[KLD:245],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[HOU:183],[HOU:183],[HOU:183],[MH1:246],[MH1:246],[MH1:246],[MH1:246],[LRW:281],[LRW:281])([XLN:22],[XLN:22],[XLN:22],[XLN:22],[CON:15],[CON:15],[CON:15],[CON:15])([DKA:8],[DKA:8],[DKA:8],[DKA:8],[ISD:19],[ISD:19],[ISD:19],[ISD:19],[M20:34],[M20:34],[M20:34],[M20:34],[KLD:27],[KLD:27])([DKA:12],[DKA:12],[DKA:12],[DKA:12])([MH1:10],[MH1:10],[MH1:10],[MH1:10])([GRN:30],[GRN:30],[GRN:30],[GRN:30])([SHM:23],[SHM:23],[SHM:23],[SHM:23])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,50)|([5DN:3],[5DN:3],[5DN:3],[5DN:3],[DOM:213],[DOM:213],[RTR:18],[RTR:18],[ISD:36],[ISD:36],[ISD:36],[RTR:223],[RTR:223])([GRN:6],[GRN:6])
