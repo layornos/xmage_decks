@@ -1,0 +1,40 @@
+4 [M12:165] Birds of Paradise
+1 [RNA:246] Breeding Pool
+1 [BFZ:234] Canopy Vista
+2 [M15:172] Chord of Calling
+4 [DIS:107] Coiling Oracle
+1 [RNA:165] Deputy of Detention
+4 [MB1:96] Ephemerate
+3 [5DN:86] Eternal Witness
+4 [MH1:52] Force of Negation
+1 [RNA:251] Hallowed Fountain
+1 [XLN:223] Hostage Taker
+4 [MH1:203] Ice-Fang Coatl
+1 [GRN:183] Knight of Autumn
+4 [ZEN:220] Misty Rainforest
+1 [GRN:253] Overgrown Tomb
+4 [CON:15] Path to Exile
+2 [MH1:244] Prismatic Vista
+1 [KTK:200] Siege Rhino
+3 [CSP:155] Snow-Covered Forest
+2 [CSP:152] Snow-Covered Island
+1 [CSP:151] Snow-Covered Plains
+2 [MH1:214] Soulherder
+1 [M12:37] Stonehorn Dignitary
+1 [GRN:258] Temple Garden
+2 [THB:229] Uro, Titan of Nature's Wrath
+1 [FUT:46] Venser, Shaper Savant
+4 [KTK:248] Windswept Heath
+SB: 1 [M20:42] Aether Gust
+SB: 1 [LRW:7] Burrenton Forge-Tender
+SB: 2 [M12:11] Celestial Purge
+SB: 1 [KLD:40] Ceremonious Rejection
+SB: 2 [GRN:37] Disdainful Stroke
+SB: 2 [RTR:231] Pithing Needle
+SB: 1 [PCY:126] Spore Frog
+SB: 2 [WAR:221] Teferi, Time Raveler
+SB: 1 [M20:198] Veil of Summer
+SB: 1 [MH1:37] Winds of Abandon
+SB: 1 [9ED:55] Worship
+LAYOUT MAIN:(1,5)(CMC,false,88)|([RNA:246],[BFZ:234],[RNA:251],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[GRN:253],[MH1:244],[MH1:244],[CSP:155],[CSP:155],[CSP:155],[CSP:152],[CSP:152],[CSP:151],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248])([M12:165],[M12:165],[M12:165],[M12:165],[MB1:96],[MB1:96],[MB1:96],[MB1:96],[CON:15],[CON:15],[CON:15],[CON:15])([DIS:107],[DIS:107],[DIS:107],[DIS:107],[MH1:203],[MH1:203],[MH1:203],[MH1:203])([M15:172],[M15:172],[RNA:165],[5DN:86],[5DN:86],[5DN:86],[MH1:52],[MH1:52],[MH1:52],[MH1:52],[GRN:183],[MH1:214],[MH1:214],[THB:229],[THB:229])([XLN:223],[KTK:200],[M12:37],[FUT:46])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([LRW:7],[KLD:40],[RTR:231],[RTR:231],[PCY:126],[M20:198])([M20:42],[M12:11],[M12:11],[GRN:37],[GRN:37],[MH1:37])([WAR:221],[WAR:221])([9ED:55])
