@@ -1,0 +1,36 @@
+1 [ROE:1] All Is Dust
+2 [WAR:244] Blast Zone
+1 [AVR:226] Cavern of Souls
+4 [MRD:150] Chalice of the Void
+2 [NPH:57] Dismember
+4 [ROE:227] Eldrazi Temple
+4 [ZEN:201] Expedition Map
+4 [WAR:1] Karn, the Great Creator
+4 [OGW:6] Matter Reshaper
+2 [M21:232] Mazemind Tome
+4 [OGW:7] Reality Smasher
+1 [HOU:182] Scavenger Grounds
+1 [WWK:145] Tectonic Edge
+4 [OGW:9] Thought-Knot Seer
+2 [WAR:2] Ugin, the Ineffable
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+3 [AER:181] Walking Ballista
+2 [OGW:12] Warping Wail
+3 [OGW:183a] Wastes
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [M20:233] Mystic Forge
+SB: 1 [RTR:231] Pithing Needle
+SB: 2 [ALA:218] Relic of Progenitus
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 2 [OGW:8] Spatial Contortion
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [SOM:223] Wurmcoil Engine
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,100)|([AER:181],[AER:181],[AER:181])([MRD:150],[MRD:150],[MRD:150],[MRD:150],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[M21:232],[M21:232])([OGW:6],[OGW:6],[OGW:6],[OGW:6],[OGW:7],[OGW:7],[OGW:7],[OGW:7],[OGW:9],[OGW:9],[OGW:9],[OGW:9])([NPH:57],[NPH:57],[OGW:12],[OGW:12])([WAR:244],[WAR:244],[AVR:226],[ROE:227],[ROE:227],[ROE:227],[ROE:227],[HOU:182],[WWK:145],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[OGW:183a],[OGW:183a],[OGW:183a])([WAR:1],[WAR:1],[WAR:1],[WAR:1],[WAR:2],[WAR:2])([ROE:1])
+LAYOUT SIDEBOARD:(1,8)(CMC,false,100)|([M21:241],[AER:181])([M20:227],[RTR:231],[ALA:218],[ALA:218])([SOM:171],[ELD:233],[OGW:8],[OGW:8])([8ED:300])([M20:233])([KLD:234])([SOM:223])([DST:146])
