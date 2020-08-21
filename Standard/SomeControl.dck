@@ -1,0 +1,32 @@
+1 [WAR:244] Blast Zone
+2 [ELD:281] Brazen Borrower
+4 [RNA:246] Breeding Pool
+2 [ELD:242] Castle Vantress
+4 [GRN:224] Expansion // Explosion
+2 [ELD:244] Fabled Passage
+2 [IKO:272] Forest
+4 [RNA:178] Growth Spiral
+2 [IKO:263] Island
+4 [IKO:250] Ketria Triome
+1 [IKO:269] Mountain
+3 [ELD:58] Mystical Dispute
+3 [M20:185] Nightpack Ambusher
+3 [ELD:59] Opt
+2 [ELD:139] Scorching Dragonfire
+4 [IKO:319] Shark Typhoon
+4 [GRN:257] Steam Vents
+4 [RNA:259] Stomping Ground
+2 [THB:157] Storm's Wrath
+1 [M20:255] Temple of Mystery
+2 [THB:229] Uro, Titan of Nature's Wrath
+4 [RNA:149] Wilderness Reclamation
+SB: 2 [M20:42] Aether Gust
+SB: 2 [WAR:45] Commence the Endgame
+SB: 2 [M20:139] Flame Sweep
+SB: 2 [M20:140] Fry
+SB: 1 [ELD:58] Mystical Dispute
+SB: 3 [M20:69] Negate
+SB: 2 [M14:195] Scavenging Ooze
+SB: 1 [ELD:139] Scorching Dragonfire
+LAYOUT MAIN:(1,7)(CMC,false,88)|([WAR:244],[RNA:246],[RNA:246],[RNA:246],[RNA:246],[ELD:242],[ELD:242],[ELD:244],[ELD:244],[IKO:272],[IKO:272],[IKO:263],[IKO:263],[IKO:250],[IKO:250],[IKO:250],[IKO:250],[IKO:269],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[RNA:259],[RNA:259],[RNA:259],[RNA:259],[M20:255])([ELD:59],[ELD:59],[ELD:59])([RNA:178],[RNA:178],[RNA:178],[RNA:178],[ELD:139],[ELD:139])([ELD:58],[ELD:58],[ELD:58],[THB:229],[THB:229])([M20:185],[M20:185],[M20:185],[THB:157],[THB:157],[RNA:149],[RNA:149],[RNA:149],[RNA:149])([ELD:281],[ELD:281])([GRN:224],[GRN:224],[GRN:224],[GRN:224],[IKO:319],[IKO:319],[IKO:319],[IKO:319])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([M20:42],[M20:42],[M20:140],[M20:140],[M20:69],[M20:69],[M20:69],[M14:195],[M14:195],[ELD:139])([M20:139],[M20:139],[ELD:58])([WAR:45],[WAR:45])
