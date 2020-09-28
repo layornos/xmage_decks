@@ -1,0 +1,102 @@
+1 [SCG:139] Sliver Overlord
+1 [M15:211] Sliver Hivelord
+1 [M14:158] Thorncaster Sliver
+1 [STH:128] Hibernation Sliver
+1 [LGN:25] Ward Sliver
+1 [MH1:195] Cloudshredder Sliver
+1 [M14:185] Megantic Sliver
+1 [TSP:244] Opaline Sliver
+1 [M15:205] Venom Sliver
+1 [M14:184] Manaweft Sliver
+1 [M15:50] Diffusion Sliver
+1 [M15:102] Leeching Sliver
+1 [LGN:63] Crypt Sliver
+1 [TSP:157] Fury Sliver
+1 [FUT:155] Virulent Sliver
+1 [TSP:183] Two-Headed Sliver
+1 [M15:7] Constricting Sliver
+1 [M14:189] Predatory Sliver
+1 [TSP:96] Basal Sliver
+1 [MH1:148] Spiteful Sliver
+1 [TMP:182] Heart Sliver
+1 [FUT:118] Homing Sliver
+1 [M14:30] Sentinel Sliver
+1 [LGN:136] Quick Sliver
+1 [M14:157] Striking Sliver
+1 [M15:129] Belligerent Sliver
+1 [TMP:106] Winged Sliver
+1 [PLC:95] Battering Sliver
+1 [LGN:102] Hunter Sliver
+1 [M14:128] Battle Sliver
+1 [MH1:183] Tempered Sliver
+1 [MH1:207] Lavabelly Sliver
+1 [MH1:88] Dregscape Sliver
+1 [MH1:132] Hollowhead Sliver
+1 [MH1:9] First Sliver's Chosen
+1 [MH1:121] Cleaving Sliver
+1 [ELD:172] Return of the Wildspeaker
+1 [M13:170] Farseek
+1 [M12:190] Rampant Growth
+1 [GRN:125] Circuitous Route
+1 [M21:177] Cultivate
+1 [ORI:174] Elemental Bond
+1 [FUT:158] Sliver Legion
+1 [TSP:205] Might Sliver
+1 [TMP:50] Talon Sliver
+1 [TMP:112] Clot Sliver
+1 [M14:129] Blur Sliver
+1 [MH1:18] Lancer Sliver
+1 [MH1:1] Morophon, the Boundless
+1 [RAV:255] Boros Signet
+1 [RAV:260] Dimir Signet
+1 [RAV:262] Golgari Signet
+1 [RAV:270] Selesnya Signet
+1 [DIS:159] Azorius Signet
+1 [DIS:165] Rakdos Signet
+1 [DIS:166] Simic Signet
+1 [ELD:331] Arcane Signet
+1 [GPT:152] Izzet Signet
+1 [GPT:150] Gruul Signet
+1 [GPT:155] Orzhov Signet
+1 [H09:31] Ancient Ziggurat
+1 [ELD:333] Command Tower
+1 [SLU:3] Verdant Catacombs
+1 [SLU:5] Misty Rainforest
+1 [SLU:4] Arid Mesa
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [KTK:249] Wooded Foothills
+1 [KTK:248] Windswept Heath
+1 [SLU:1] Marsh Flats
+1 [KTK:230] Bloodstained Mire
+1 [SLU:2] Scalding Tarn
+1 [DIS:172] Breeding Pool
+1 [RAV:286] Watery Grave
+1 [GPT:164] Steam Vents
+1 [DIS:174] Hallowed Fountain
+1 [DIS:171] Blood Crypt
+1 [GPT:165] Stomping Ground
+1 [RAV:284] Temple Garden
+1 [GPT:157] Godless Shrine
+1 [RAV:279] Overgrown Tomb
+1 [RAV:280] Sacred Foundry
+1 [UMA:237] Cavern of Souls
+1 [M15:247] Sliver Hive
+1 [SHM:278] Reflecting Pool
+1 [MB1:1693] Unclaimed Territory
+1 [C17:56] Path of Ancestry
+1 [C20:252] Sol Ring
+1 [WAR:206] Neoform
+1 [J20:4] Demonic Tutor
+1 [AER:109] Heroic Intervention
+1 [MH1:197] Eladamri's Call
+1 [MIR:255] Worldly Tutor
+1 [TMP:341] Swamp
+1 [TMP:337] Island
+1 [TMP:345] Mountain
+1 [TMP:332] Plains
+1 [TMP:348] Forest
+1 [MMQ:246] Food Chain
+SB: 1 [MH1:200] The First Sliver
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([RAV:255],[RAV:260],[RAV:262],[RAV:270],[DIS:159],[DIS:165],[DIS:166],[ELD:331],[GPT:152],[GPT:150],[GPT:155],[C20:252])([TSP:96],[PLC:95],[M14:128],[M15:129],[M14:129],[MH1:121],[TMP:112],[MH1:195],[M15:7],[LGN:63],[M15:50],[MH1:88],[MH1:9],[TSP:157],[TMP:182],[STH:128],[MH1:132],[FUT:118],[LGN:102],[MH1:18],[MH1:207],[M15:102],[M14:184],[M14:185],[TSP:205],[MH1:1],[TSP:244],[M14:189],[LGN:136],[M14:30],[M15:211],[FUT:158],[SCG:139],[MH1:148],[M14:157],[TMP:50],[MH1:183],[M14:158],[TSP:183],[M15:205],[FUT:155],[LGN:25],[TMP:106])([ORI:174],[MMQ:246])([ELD:172],[AER:109],[MH1:197],[MIR:255])([H09:31],[ELD:333],[SLU:3],[SLU:5],[SLU:4],[KTK:233],[KTK:239],[KTK:249],[KTK:248],[SLU:1],[KTK:230],[SLU:2],[DIS:172],[RAV:286],[GPT:164],[DIS:174],[DIS:171],[GPT:165],[RAV:284],[GPT:157],[RAV:279],[RAV:280],[UMA:237],[M15:247],[SHM:278],[MB1:1693],[C17:56],[TMP:341],[TMP:337],[TMP:345],[TMP:332],[TMP:348])([GRN:125],[M21:177],[M13:170],[M12:190],[WAR:206],[J20:4])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([MH1:200])
