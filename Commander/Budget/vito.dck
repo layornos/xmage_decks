@@ -1,0 +1,69 @@
+1 [ELD:350] Ayara, First of Locthwain
+1 [GTC:58] Basilica Screecher
+1 [GTC:61] Crypt Ghast
+1 [ALA:71] Deathgreeter
+1 [BFZ:107] Defiant Bloodlord
+1 [MRD:63] Dross Harvester
+1 [M20:99] Epicure of Blood
+1 [ISD:100] Falkenrath Noble
+1 [THB:355] Gray Merchant of Asphodel
+1 [SOM:170] Leaden Myr
+1 [M20:232] Meteor Golem
+1 [DGM:27] Pontiff of Blight
+1 [MBS:53] Sangromancer
+1 [M21:124] Tavern Swindler
+1 [GTC:81] Thrull Parasite
+1 [RNA:90] Vindictive Vampire
+1 [BFZ:126] Zulaport Cutthroat
+1 [BFZ:103] Altar's Reap
+1 [8ED:118] Ambition's Cost
+1 [A25:79] Ancient Craving
+1 [IKO:73] Bastion of Remembrance
+1 [M11:84] Blood Tithe
+1 [ZEN:81] Blood Tribute
+1 [AKH:225] Bontu's Monument
+1 [SHM:248] Cauldron of Souls
+1 [ROE:101] Consuming Vapors
+1 [M14:91] Corrupt
+1 [XLN:96] Costly Plunder
+1 [DGM:23] Crypt Incursion
+1 [C19:16] Curse of Fool's Wisdom
+1 [M12:205] Demon's Horn
+1 [ZEN:200] Eternity Vessel
+1 [WWK:123] Everflowing Chalice
+1 [ELD:88] Foreboding Fruit
+1 [AER:63] Gonti's Machinations
+1 [5DN:128] Guardian Idol
+1 [RNA:77] Ill-Gotten Inheritance
+1 [M19:107] Liliana's Contract
+1 [10E:335] Mind Stone
+1 [FRF:79] Palace Siege
+1 [TSP:260] Paradise Plume
+1 [TSP:262] Prismatic Lens
+1 [NPH:151] Pristine Talisman
+1 [M15:226] Profane Memento
+1 [MRD:74] Promise of Power
+1 [ORI:114] Read the Bones
+1 [BFZ:121] Retreat to Hagra
+1 [ELD:104] Revenge of Ravens
+1 [M14:112] Sanguine Bond
+1 [BFZ:13] Scour from Existence
+1 [M15:114] Sign in Blood
+1 [7ED:315] Sisay's Ring
+1 [M12:111] Sorin's Vengeance
+1 [M15:232] Staff of the Death Magus
+1 [EMN:107] Succumb to Temptation
+1 [MRD:249] Sun Droplet
+1 [AKH:111] Supernatural Stamina
+1 [ONS:176] Syphon Soul
+1 [M10:114] Tendrils of Corruption
+1 [DKA:77] Undying Evil
+1 [9ED:314] Ur-Golem's Eye
+1 [5DN:165] Wayfarer's Bauble
+1 [M21:248] Radiant Fountain
+34 [M21:266] Swamp
+1 [TOR:139] Cabal Coffers
+1 [C14:243] Jet Medallion
+SB: 1 [M21:127] Vito, Thorn of the Dusk Rose
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([SOM:170],[M20:232])([AKH:225],[SHM:248],[M12:205],[ZEN:200],[WWK:123],[5DN:128],[10E:335],[TSP:260],[TSP:262],[NPH:151],[M15:226],[7ED:315],[M15:232],[MRD:249],[9ED:314],[5DN:165],[C14:243])([ELD:350],[GTC:58],[GTC:61],[ALA:71],[BFZ:107],[MRD:63],[M20:99],[ISD:100],[THB:355],[DGM:27],[MBS:53],[M21:124],[GTC:81],[RNA:90],[BFZ:126])([IKO:73],[C19:16],[AER:63],[RNA:77],[M19:107],[FRF:79],[BFZ:121],[ELD:104],[M14:112])([BFZ:103],[XLN:96],[DGM:23],[BFZ:13],[EMN:107],[AKH:111],[M10:114],[DKA:77])([M21:248],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[M21:266],[TOR:139])([8ED:118],[A25:79],[M11:84],[ZEN:81],[ROE:101],[M14:91],[ELD:88],[MRD:74],[ORI:114],[M15:114],[M12:111],[ONS:176])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M21:127])

@@ -1,0 +1,85 @@
+1 [WTH:4] Angelic Renewal
+1 [THS:39] Aqueous Form
+1 [7ED:60] Arcane Laboratory
+1 [RTR:3] Arrest
+1 [AKH:5] Aven Mindcensor
+1 [RNA:243] Azorius Guildgate
+1 [RNA:231] Azorius Locket
+1 [DIS:159] Azorius Signet
+1 [THB:4] Banishing Light
+1 [DTK:7] Battle Mastery
+1 [BOK:62] Blessing of Leeches
+1 [ROE:58] Crab Umbra
+1 [DOM:49] Curator's Ward
+1 [M11:90] Dark Tutelage
+1 [VIS:58] Desolation
+1 [GRN:245] Dimir Guildgate
+1 [GRN:234] Dimir Locket
+1 [RAV:260] Dimir Signet
+1 [MMQ:75] Diplomatic Immunity
+1 [M21:245] Dismal Backwater
+1 [BFZ:76] Dispel
+1 [WAR:229*] Dovin, Hand of Control
+1 [ROE:65] Eel Umbra
+1 [WTH:13] Empyrial Armor
+1 [MMQ:78] Energy Flux
+1 [GRN:40] Enhanced Surveillance
+1 [RTR:9] Ethereal Armor
+1 [IKO:247] Evolving Wilds
+1 [EXO:34] Fade Away
+1 [M19:250] Forsaken Sanctuary
+1 [WAR:238] God-Pharaoh's Statue
+1 [ORI:230] Helm of the Gods
+1 [STH:33] Hesitation
+1 [ALA:173] Hindering Light
+1 [ROE:26] Hyena Umbra
+9 [M21:263] Island
+1 [5ED:39] Island Sanctuary
+1 [ZEN:215] Jwar Isle Refuge
+1 [WAR:94] Kaya's Ghostform
+1 [6ED:27] Kismet
+1 [RNA:189] Lavinia, Azorius Renegade
+1 [RNA:190] Lawmage's Binding
+1 [EMN:68] Lunar Force
+1 [7ED:85] Mana Breach
+1 [M12:63] Mana Leak
+1 [7ED:306] Marble Diamond
+1 [M19:253] Meandering River
+1 [ULG:36] Miscalculation
+1 [FRF:43] Monastery Siege
+1 [M20:69] Negate
+1 [EMN:99] Oath of Liliana
+1 [M13:22] Oblivion Ring
+1 [WAR:269] Orzhov Guildgate
+1 [RNA:236] Orzhov Locket
+1 [GPT:155] Orzhov Signet
+8 [M21:260] Plains
+1 [TSP:262] Prismatic Lens
+1 [WAR:26] Prison Realm
+1 [6ED:92] Recall
+1 [10E:101*] Robe of Mirrors
+1 [M20:35] Rule of Law
+1 [M21:250] Scoured Barrens
+1 [NEM:18] Seal of Cleansing
+1 [NEM:42] Seal of Removal
+1 [ZEN:224] Sejiri Refuge
+1 [SS2:5] Shielded by Faith
+1 [XLN:81] Spell Pierce
+1 [MBS:134] Sphere of the Suns
+1 [10E:45*] Spirit Link
+1 [BNG:27] Spirit of the Labyrinth
+1 [BFZ:50] Stasis Snare
+1 [M19:257] Submerged Boneyard
+3 [M21:266] Swamp
+1 [MH1:233] Talisman of Hierarchy
+1 [M11:229] Terramorphic Expanse
+1 [AER:25] Thopter Arrest
+1 [M21:258] Tranquil Cove
+1 [EMN:78] Turn Aside
+1 [M21:82] Unsubstantiate
+1 [LRW:276] Vivid Creek
+1 [LRW:278] Vivid Marsh
+1 [LRW:279] Vivid Meadow
+SB: 1 [CSP:135] Zur the Enchanter
+LAYOUT MAIN:(1,6)(CMC,false,70)|([RNA:243],[GRN:245],[M21:245],[IKO:247],[M19:250],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[M21:263],[ZEN:215],[M19:253],[WAR:269],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:260],[M21:250],[ZEN:224],[M19:257],[M21:266],[M21:266],[M21:266],[M11:229],[M21:258],[LRW:276],[LRW:278],[LRW:279])([THS:39],[ROE:58],[BFZ:76],[RTR:9],[ORI:230],[ROE:26],[WAR:94],[6ED:92],[10E:101*],[NEM:42],[XLN:81],[10E:45*],[EMN:78])([WTH:4],[DIS:159],[RAV:260],[MMQ:75],[ROE:65],[GRN:40],[STH:33],[ALA:173],[5ED:39],[RNA:189],[M12:63],[7ED:306],[ULG:36],[M20:69],[GPT:155],[TSP:262],[NEM:18],[MBS:134],[BNG:27],[MH1:233],[M21:82])([7ED:60],[RTR:3],[AKH:5],[RNA:231],[THB:4],[DTK:7],[BOK:62],[DOM:49],[M11:90],[VIS:58],[GRN:234],[WAR:229*],[WTH:13],[MMQ:78],[EXO:34],[RNA:190],[EMN:68],[7ED:85],[FRF:43],[EMN:99],[M13:22],[RNA:236],[WAR:26],[M20:35],[SS2:5],[BFZ:50],[AER:25])([6ED:27])([WAR:238])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CSP:135])
