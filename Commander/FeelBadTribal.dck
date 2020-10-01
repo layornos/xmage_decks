@@ -1,0 +1,99 @@
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [6ED:4] Armageddon
+1 [WAR:228*] Ashiok, Dream Render
+1 [USG:62] Back to Basics
+1 [SUM:282] Badlands
+1 [SUM:283] Bayou
+1 [RNA:245] Blood Crypt
+1 [9ED:176] Blood Moon
+1 [KTK:230] Bloodstained Mire
+1 [STH:51] Bottomless Pit
+1 [RNA:246] Breeding Pool
+1 [EXO:3] Cataclysm
+1 [LEG:91] Chains of Mephistopheles
+1 [MRD:150] Chalice of the Void
+1 [MH1:158] Collector Ouphe
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [6ED:278] Cursed Totem
+1 [RTR:35] Cyclonic Rift
+1 [DOM:213] Damping Sphere
+1 [SCG:85] Decree of Annihilation
+1 [JOU:10] Eidolon of Rhetoric
+1 [ALA:10] Ethersworn Canonist
+1 [DTK:186] Explosive Vegetation
+1 [M13:170] Farseek
+1 [KTK:233] Flooded Strand
+2 [M21:272] Forest
+1 [USG:76] Gilded Drake
+1 [WAR:238] God-Pharaoh's Statue
+1 [RNA:248] Godless Shrine
+1 [DIS:112] Grand Arbiter Augustin IV
+1 [RNA:251] Hallowed Fountain
+1 [ZEN:165] Harrow
+1 [BOK:7] Hokori, Dust Drinker
+1 [TMP:24] Humility
+1 [ULG:82] Impending Disaster
+2 [M21:263] Island
+1 [NPH:37] Jin-Gitaxias, Core Augur
+1 [6ED:192] Jokulhaups
+1 [CHK:225] Kodama's Reach
+1 [RNA:189] Lavinia, Azorius Renegade
+1 [ROE:33] Linvala, Keeper of Silence
+1 [FUT:101] Magus of the Moon
+1 [LEG:65] Mana Drain
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [M21:269] Mountain
+1 [5ED:316] Nature's Lore
+1 [MRD:69] Necrogen Mists
+1 [LEG:113] Nether Void
+1 [WTH:154] Null Rod
+1 [8ED:204] Obliterate
+1 [ELD:197] Oko, Thief of Crowns
+1 [7ED:152] Oppression
+1 [GRN:253] Overgrown Tomb
+1 [M21:260] Plains
+1 [SUM:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [M12:190] Rampant Growth
+1 [J15:4] Ravages of War
+1 [STH:95] Ruination
+1 [M20:35] Rule of Law
+1 [GRN:254] Sacred Foundry
+1 [SUM:285] Savannah
+1 [ZEN:223] Scalding Tarn
+1 [SUM:286] Scrubland
+1 [DGM:104] Sire of Insanity
+1 [NEM:117] Skyshroud Claim
+1 [SUM:274] Sol Ring
+1 [EXO:139] Sphere of Resistance
+1 [BNG:27] Spirit of the Labyrinth
+1 [7ED:319] Static Orb
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+1 [ISD:36] Stony Silence
+1 [CMA:87] Stranglehold
+1 [4ED:363] Strip Mine
+1 [RTR:201] Supreme Verdict
+2 [M21:266] Swamp
+1 [SUM:287] Taiga
+1 [GRN:258] Temple Garden
+1 [LEG:307] The Tabernacle at Pendrell Vale
+1 [LRW:262] Thorn of Amethyst
+1 [2XM:110] Toxic Deluge
+1 [DST:154] Trinisphere
+1 [SUM:288] Tropical Island
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [ZEN:229] Verdant Catacombs
+1 [SUM:291] Volcanic Island
+1 [GRN:259] Watery Grave
+1 [KTK:248] Windswept Heath
+1 [5ED:408] Winter Orb
+1 [KTK:249] Wooded Foothills
+1 [CSP:135] Zur the Enchanter
+SB: 1 [M20:226] Golos, Tireless Pilgrim
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([ALA:10])([ELD:331],[MRD:150],[6ED:278],[DOM:213],[WAR:238],[WTH:154],[SUM:274],[EXO:139],[7ED:319],[LRW:262],[DST:154],[5ED:408])([MH1:158],[USG:76],[DIS:112],[BOK:7],[NPH:37],[RNA:189],[ROE:33],[FUT:101],[DGM:104],[CSP:135])([JOU:10],[BNG:27])([USG:62],[9ED:176],[STH:51],[LEG:91],[TMP:24],[ULG:82],[MRD:69],[LEG:113],[7ED:152],[M20:35],[ISD:36],[CMA:87])([RTR:35],[ZEN:165],[LEG:65])([ZEN:211],[SUM:282],[SUM:283],[RNA:245],[KTK:230],[RNA:246],[ELD:333],[KTK:233],[M21:272],[M21:272],[RNA:248],[RNA:251],[M21:263],[M21:263],[ZEN:219],[ZEN:220],[M21:269],[GRN:253],[M21:260],[SUM:284],[KTK:239],[GRN:254],[SUM:285],[ZEN:223],[SUM:286],[GRN:257],[RNA:259],[4ED:363],[M21:266],[M21:266],[SUM:287],[GRN:258],[LEG:307],[SUM:288],[SUM:289],[SUM:290],[ZEN:229],[SUM:291],[GRN:259],[KTK:248],[KTK:249])([WAR:228*],[ELD:197])([6ED:4],[EXO:3],[M21:177],[SCG:85],[DTK:186],[M13:170],[6ED:192],[CHK:225],[5ED:316],[8ED:204],[M12:190],[J15:4],[STH:95],[NEM:117],[RTR:201],[2XM:110])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([M20:226])
