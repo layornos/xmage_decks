@@ -1,0 +1,39 @@
+1 [M19:130] Banefire
+1 [GTC:148] Boros Charm
+1 [M15:133] Burning Anger
+2 [EVE:175] Cascade Bluffs
+2 [THS:155] Commune with the Gods
+2 [KTK:173] Deflecting Palm
+1 [AVR:133] Dual Casting
+1 [M21:272] Forest
+2 [TSP:273] Fungal Reaches
+1 [ISD:239] Gavony Township
+3 [EVE:152] Gilder Bairn
+1 [RNA:251] Hallowed Fountain
+1 [EVE:55] Hateflayer
+1 [M21:263] Island
+2 [MRD:188] Isochron Scepter
+3 [GPT:145] Izzet Guildmage
+1 [ISD:61] Laboratory Maniac
+4 [SHM:211] Manamorphose
+1 [M21:269] Mountain
+1 [RTR:219] Nivmagus Elemental
+1 [DIS:153] Odds // Ends
+4 [5DN:142] Paradise Mantle
+2 [SHM:258] Pili-Pala
+1 [M21:260] Plains
+1 [SHM:146] Puresight Merrow
+1 [WWK:141] Raging Ravine
+2 [M13:64] Redirect
+2 [ZEN:223] Scalding Tarn
+1 [RAV:253] Shadow of Doubt
+1 [RNA:259] Stomping Ground
+4 [ROE:91] Training Grounds
+2 [M10:78] Twincast
+1 [LRW:275] Vivid Crag
+4 [LRW:276] Vivid Creek
+1 [KTK:248] Windswept Heath
+SB: 1 [DGM:94] Ral Zarek
+SB: 1 [M13:123] Chandra, the Firebrand
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,100)|([SHM:258],[SHM:258])([MRD:188],[MRD:188],[5DN:142],[5DN:142],[5DN:142],[5DN:142])([EVE:152],[EVE:152],[EVE:152],[EVE:55],[GPT:145],[GPT:145],[GPT:145],[ISD:61],[RTR:219],[SHM:146])([M15:133],[AVR:133],[ROE:91],[ROE:91],[ROE:91],[ROE:91])([DIS:153])([GTC:148],[KTK:173],[KTK:173],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[M13:64],[M13:64],[RAV:253],[M10:78],[M10:78])([EVE:175],[EVE:175],[M21:272],[TSP:273],[TSP:273],[ISD:239],[RNA:251],[M21:263],[M21:269],[M21:260],[WWK:141],[ZEN:223],[ZEN:223],[RNA:259],[LRW:275],[LRW:276],[LRW:276],[LRW:276],[LRW:276],[KTK:248])([M19:130],[THS:155],[THS:155])
+LAYOUT SIDEBOARD:(1,2)(NONE,false,50)|([DGM:94])([M13:123])
