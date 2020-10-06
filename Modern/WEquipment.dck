@@ -1,0 +1,21 @@
+1 [ELD:238] Castle Ardenvale
+4 [MBS:145] Inkmoth Nexus
+4 [MH1:246] Silent Clearing
+10 [UST:212] Plains
+4 [PSOM:174] Memnite
+4 [CSP:138] Mishra's Bauble
+4 [MPS:42] Ornithopter
+3 [5DN:142] Paradise Mantle
+1 [2XM:307] Welding Jar
+4 [M20:223] Colossus Hammer
+1 [THB:345] Shadowspear
+2 [PF20:1] Path to Exile
+4 [EMN:41] Sigarda's Aid
+4 [5DN:19] Steelshaper's Gift
+2 [2XM:245] Cranial Plating
+4 [PGPX:2016] Stoneforge Mystic
+4 [2XM:26] Puresteel Paladin
+SB: 1 [PF20:1] Path to Exile
+SB: 1 [IKO:355] Lurrus of the Dream-Den
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,88)|([PSOM:174],[PSOM:174],[PSOM:174],[PSOM:174])([CSP:138],[CSP:138],[CSP:138],[CSP:138],[5DN:142],[5DN:142],[5DN:142],[2XM:307],[M20:223],[M20:223],[M20:223],[M20:223],[THB:345],[2XM:245],[2XM:245])([MPS:42],[MPS:42],[MPS:42],[MPS:42])([PGPX:2016],[PGPX:2016],[PGPX:2016],[PGPX:2016],[2XM:26],[2XM:26],[2XM:26],[2XM:26])([EMN:41],[EMN:41],[EMN:41],[EMN:41])([PF20:1],[PF20:1])([ELD:238],[MBS:145],[MBS:145],[MBS:145],[MBS:145],[MH1:246],[MH1:246],[MH1:246],[MH1:246],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([5DN:19],[5DN:19],[5DN:19],[5DN:19])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,63)|([PF20:1])([IKO:355])

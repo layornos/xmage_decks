@@ -1,0 +1,37 @@
+4 [BNG:157] Astral Cornucopia
+2 [WAR:244] Blast Zone
+1 [M12:224] Buried Ruin
+4 [MRD:150] Chalice of the Void
+4 [DST:107] Coretapper
+3 [8ED:300] Ensnaring Bridge
+4 [WWK:123] Everflowing Chalice
+4 [ZEN:201] Expedition Map
+1 [ISD:240] Ghost Quarter
+1 [KLD:247] Inventors' Fair
+4 [WAR:1*] Karn, the Great Creator
+4 [M21:232] Mazemind Tome
+3 [M20:233] Mystic Forge
+1 [HOU:182] Scavenger Grounds
+1 [ELD:233] Sorcerous Spyglass
+4 [NPH:160] Surge Node
+1 [WAR:2*] Ugin, the Ineffable
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+1 [OGW:183a] Wastes
+1 [MRD:274] Welding Jar
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [M20:233] Mystic Forge
+SB: 1 [AER:169] Paradox Engine
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 3 [OGW:8] Spatial Contortion
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [MRD:274] Welding Jar
+SB: 1 [ISD:236] Witchbane Orb
+SB: 1 [SOM:223] Wurmcoil Engine
+LAYOUT MAIN:(1,6)(CMC,false,88)|([BNG:157],[BNG:157],[BNG:157],[BNG:157],[WAR:244],[WAR:244],[M12:224],[MRD:150],[MRD:150],[MRD:150],[MRD:150],[WWK:123],[WWK:123],[WWK:123],[WWK:123],[ISD:240],[KLD:247],[HOU:182],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[OGW:183a],[MRD:274])([ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[NPH:160],[NPH:160],[NPH:160],[NPH:160])([DST:107],[DST:107],[DST:107],[DST:107],[M21:232],[M21:232],[M21:232],[M21:232],[ELD:233])([8ED:300],[8ED:300],[8ED:300])([WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*],[M20:233],[M20:233],[M20:233])([WAR:2*])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([M21:241],[AER:181],[MRD:274])([M20:227],[ALA:218])([SOM:171],[ELD:233],[OGW:8],[OGW:8],[OGW:8])([8ED:300])([M20:233],[ISD:236])([AER:169])([SOM:223])
