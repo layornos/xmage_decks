@@ -1,0 +1,37 @@
+4 [DST:91] Aether Vial
+1 [5DN:3] Auriok Champion
+1 [RNA:246] Breeding Pool
+4 [PLS:106] Eladamri's Call
+3 [MB1:96] Ephemerate
+3 [5DN:86] Eternal Witness
+4 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+2 [RNA:251] Hallowed Fountain
+4 [MH1:203] Ice-Fang Coatl
+1 [ARB:8] Meddling Mage
+3 [ZEN:220] Misty Rainforest
+3 [CON:15] Path to Exile
+2 [CSP:155] Snow-Covered Forest
+2 [CSP:152] Snow-Covered Island
+2 [CSP:151] Snow-Covered Plains
+2 [MH1:214] Soulherder
+3 [WAR:221*] Teferi, Time Raveler
+2 [GRN:258] Temple Garden
+1 [THB:261] Thassa, Deep-Dwelling
+1 [FUT:46] Venser, Shaper Savant
+4 [MH1:76] Watcher for Tomorrow
+3 [KTK:248] Windswept Heath
+2 [RNA:165] Deputy of Detention
+SB: 3 [M20:42] Aether Gust
+SB: 1 [AKH:5] Aven Mindcensor
+SB: 1 [LRW:7] Burrenton Forge-Tender
+SB: 1 [M12:11] Celestial Purge
+SB: 3 [KLD:40] Ceremonious Rejection
+SB: 1 [LRW:248] Gaddock Teeg
+SB: 1 [DOM:161] Gaea's Blessing
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [GPT:41] Vedalken Plotter
+SB: 1 [RNA:165] Deputy of Detention
+LAYOUT MAIN:(1,5)(CMC,false,70)|([RNA:246],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[RNA:251],[ZEN:220],[ZEN:220],[ZEN:220],[CSP:155],[CSP:155],[CSP:152],[CSP:152],[CSP:151],[CSP:151],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248])([DST:91],[DST:91],[DST:91],[DST:91],[MB1:96],[MB1:96],[MB1:96],[CON:15],[CON:15],[CON:15])([5DN:3],[PLS:106],[PLS:106],[PLS:106],[PLS:106],[MH1:203],[MH1:203],[MH1:203],[MH1:203],[ARB:8],[MH1:76],[MH1:76],[MH1:76],[MH1:76])([5DN:86],[5DN:86],[5DN:86],[MH1:52],[MH1:52],[MH1:52],[MH1:214],[MH1:214],[WAR:221*],[WAR:221*],[WAR:221*],[RNA:165],[RNA:165])([THB:261],[FUT:46])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([LRW:7],[KLD:40],[KLD:40],[KLD:40],[RNA:165])([M20:42],[M20:42],[M20:42],[M12:11],[LRW:248],[DOM:161],[M19:33])([AKH:5],[GRN:183],[GPT:41])
