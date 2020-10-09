@@ -1,0 +1,33 @@
+4 [DST:91] Aether Vial
+2 [KLD:244] Botanical Sanctum
+1 [RNA:246] Breeding Pool
+2 [AVR:226] Cavern of Souls
+2 [DTK:177] Collected Company
+4 [DKA:136] Drogskol Captain
+3 [KTK:233] Flooded Strand
+3 [ZNR:60] Glasspool Mimic
+1 [RNA:251] Hallowed Fountain
+2 [FUT:177] Horizon Canopy
+4 [EMN:69] Mausoleum Wanderer
+1 [ZEN:220] Misty Rainforest
+2 [ISD:244] Moorland Haunt
+4 [CON:87] Noble Hierarch
+4 [SOI:81] Rattlechains
+1 [SOM:229] Seachrome Coast
+3 [EMN:40] Selfless Spirit
+4 [ZNR:39] Skyclave Apparition
+1 [CSP:152] Snow-Covered Island
+1 [CSP:151] Snow-Covered Plains
+4 [EMN:189] Spell Queller
+4 [M19:76] Supreme Phantom
+1 [GRN:258] Temple Garden
+2 [KTK:248] Windswept Heath
+SB: 3 [DOM:213] Damping Sphere
+SB: 2 [MH1:52] Force of Negation
+SB: 3 [WWK:11] Kor Firewalker
+SB: 3 [CON:15] Path to Exile
+SB: 1 [M19:33] Remorseful Cleric
+SB: 2 [RTR:18] Rest in Peace
+SB: 1 [ROE:92] Unified Will
+LAYOUT MAIN:(1,5)(CMC,false,50)|([KLD:244],[KLD:244],[RNA:246],[AVR:226],[AVR:226],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[FUT:177],[FUT:177],[ZEN:220],[ISD:244],[ISD:244],[SOM:229],[CSP:152],[CSP:151],[GRN:258],[KTK:248],[KTK:248])([DST:91],[DST:91],[DST:91],[DST:91],[EMN:69],[EMN:69],[EMN:69],[EMN:69],[CON:87],[CON:87],[CON:87],[CON:87])([SOI:81],[SOI:81],[SOI:81],[SOI:81],[EMN:40],[EMN:40],[EMN:40],[M19:76],[M19:76],[M19:76],[M19:76])([DKA:136],[DKA:136],[DKA:136],[DKA:136],[ZNR:60],[ZNR:60],[ZNR:60],[ZNR:39],[ZNR:39],[ZNR:39],[ZNR:39],[EMN:189],[EMN:189],[EMN:189],[EMN:189])([DTK:177],[DTK:177])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([CON:15],[CON:15],[CON:15])([DOM:213],[DOM:213],[DOM:213],[WWK:11],[WWK:11],[WWK:11],[M19:33],[RTR:18],[RTR:18],[ROE:92])([MH1:52],[MH1:52])
