@@ -1,0 +1,28 @@
+2 [RNA:246] Breeding Pool
+4 [GRN:66] Creeping Chill
+4 [RAV:208] Glimpse the Unthinkable
+3 [DKA:64] Gravecrawler
+2 [FRF:72] Gurmag Angler
+4 [ZEN:47] Hedron Crab
+1 [ZNR:269] Island
+4 [ELD:284] Merfolk Secretkeeper
+3 [ZEN:220] Misty Rainforest
+3 [GRN:47] Narcomoeba
+3 [GRN:253] Overgrown Tomb
+4 [KTK:239] Polluted Delta
+3 [SOI:249] Prized Amalgam
+3 [M21:122] Silversmote Ghoul
+4 [M19:121] Stitcher's Supplier
+1 [ZNR:272] Swamp
+2 [THB:229] Uro, Titan of Nature's Wrath
+4 [ROE:212] Vengevine
+4 [ZEN:229] Verdant Catacombs
+2 [GRN:259] Watery Grave
+SB: 2 [RTR:141] Abrupt Decay
+SB: 2 [GRN:152] Assassin's Trophy
+SB: 2 [AER:57] Fatal Push
+SB: 4 [MH1:164] Force of Vigor
+SB: 3 [M20:107] Leyline of the Void
+SB: 2 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,88)|([DKA:64],[DKA:64],[DKA:64],[FRF:72],[FRF:72],[ZEN:47],[ZEN:47],[ZEN:47],[ZEN:47],[ELD:284],[ELD:284],[ELD:284],[ELD:284],[GRN:47],[GRN:47],[GRN:47],[SOI:249],[SOI:249],[SOI:249],[M21:122],[M21:122],[M21:122],[M19:121],[M19:121],[M19:121],[M19:121],[THB:229],[THB:229],[ROE:212],[ROE:212],[ROE:212],[ROE:212])([RNA:246],[RNA:246],[ZNR:269],[ZEN:220],[ZEN:220],[ZEN:220],[GRN:253],[GRN:253],[GRN:253],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZNR:272],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[GRN:259],[GRN:259])([GRN:66],[GRN:66],[GRN:66],[GRN:66],[RAV:208],[RAV:208],[RAV:208],[RAV:208])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([AER:57],[AER:57],[THS:107],[THS:107])([RTR:141],[RTR:141],[GRN:152],[GRN:152])([MH1:164],[MH1:164],[MH1:164],[MH1:164],[M20:107],[M20:107],[M20:107])
