@@ -1,0 +1,32 @@
+4 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+4 [KLD:199] Bomat Courier
+4 [WWK:57] Death's Shadow
+2 [NPH:57] Dismember
+4 [AER:57] Fatal Push
+2 [ROE:115] Inquisition of Kozilek
+4 [M11:149] Lightning Bolt
+3 [ZEN:219] Marsh Flats
+4 [CSP:138] Mishra's Bauble
+4 [KTK:118] Monastery Swiftspear
+2 [5DN:55] Night's Whisper
+3 [KTK:239] Polluted Delta
+4 [ZNR:122] Scourge of the Skyclaves
+1 [DIS:71] Seal of Fire
+1 [MH1:246] Silent Clearing
+2 [MH1:247] Sunbaked Canyon
+2 [ZNR:272] Swamp
+2 [FRF:116] Temur Battle Rage
+4 [THS:107] Thoughtseize
+SB: 1 [HOU:83] Abrade
+SB: 1 [WAR:185] Angrath's Rampage
+SB: 3 [9ED:176] Blood Moon
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 2 [OGW:98] Kozilek's Return
+SB: 1 [THB:221] Kroxa, Titan of Death's Hunger
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [DIS:126] Rain of Gore
+SB: 3 [THB:237] Soul-Guide Lantern
+LAYOUT MAIN:(1,4)(CMC,false,70)|([RNA:245],[RNA:245],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[ZEN:219],[ZEN:219],[ZEN:219],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[KTK:239],[KTK:239],[KTK:239],[MH1:246],[MH1:247],[MH1:247],[ZNR:272],[ZNR:272])([KLD:199],[KLD:199],[KLD:199],[KLD:199],[WWK:57],[WWK:57],[WWK:57],[WWK:57],[AER:57],[AER:57],[AER:57],[AER:57],[ROE:115],[ROE:115],[M11:149],[M11:149],[M11:149],[M11:149],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[DIS:71],[THS:107],[THS:107],[THS:107],[THS:107])([5DN:55],[5DN:55],[ZNR:122],[ZNR:122],[ZNR:122],[ZNR:122],[FRF:116],[FRF:116])([NPH:57],[NPH:57])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118])([THB:237],[THB:237],[THB:237])([HOU:83],[WAR:185],[THB:221],[DIS:126])([9ED:176],[9ED:176],[9ED:176],[DTK:224],[OGW:98],[OGW:98],[IKO:226])

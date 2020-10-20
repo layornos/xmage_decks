@@ -1,0 +1,27 @@
+4 [ZEN:211] Arid Mesa
+2 [EMN:118] Bedlam Reveler
+3 [MH1:238] Fiery Islet
+3 [NPH:86] Gut Shot
+4 [JUD:94] Lava Dart
+4 [RNA:107] Light Up the Stage
+4 [M11:149] Lightning Bolt
+4 [SHM:211] Manamorphose
+4 [KTK:118] Monastery Swiftspear
+3 [M21:269] Mountain
+3 [NPH:116] Mutagenic Growth
+3 [M21:59] Opt
+4 [AKH:148] Soul-Scar Mage
+4 [KLD:249] Spirebluff Canal
+3 [IKO:211] Sprite Dragon
+2 [GRN:257] Steam Vents
+4 [M21:354] Stormwing Entity
+2 [KTK:249] Wooded Foothills
+SB: 2 [HOU:83] Abrade
+SB: 2 [M20:42] Aether Gust
+SB: 2 [9ED:176] Blood Moon
+SB: 3 [M12:206] Dragon's Claw
+SB: 1 [OGW:98] Kozilek's Return
+SB: 3 [XLN:81] Spell Pierce
+SB: 2 [NPH:74] Surgical Extraction
+LAYOUT MAIN:(1,6)(CMC,false,88)|([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[MH1:238],[MH1:238],[MH1:238],[M21:269],[M21:269],[M21:269],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[KTK:249],[KTK:249])([NPH:86],[NPH:86],[NPH:86],[JUD:94],[JUD:94],[JUD:94],[JUD:94],[M11:149],[M11:149],[M11:149],[M11:149],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[NPH:116],[NPH:116],[NPH:116],[M21:59],[M21:59],[M21:59],[AKH:148],[AKH:148],[AKH:148],[AKH:148])([SHM:211],[SHM:211],[SHM:211],[SHM:211],[IKO:211],[IKO:211],[IKO:211])([RNA:107],[RNA:107],[RNA:107],[RNA:107])([M21:354],[M21:354],[M21:354],[M21:354])([EMN:118],[EMN:118])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([XLN:81],[XLN:81],[XLN:81],[NPH:74],[NPH:74])([HOU:83],[HOU:83],[M20:42],[M20:42],[M12:206],[M12:206],[M12:206])([9ED:176],[9ED:176],[OGW:98])
