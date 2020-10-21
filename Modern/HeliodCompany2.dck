@@ -1,0 +1,32 @@
+2 [5DN:3] Auriok Champion
+4 [DTK:177] Collected Company
+4 [SHM:110] Devoted Druid
+2 [PLS:106] Eladamri's Call
+2 [WAR:160] Finale of Devastation
+3 [ZNR:278] Forest
+4 [THB:18] Heliod, Sun-Crowned
+3 [WAR:1*] Karn, the Great Creator
+4 [SHM:229] Kitchen Finks
+4 [CON:87] Noble Hierarch
+3 [ZNR:266] Plains
+4 [SOM:228] Razorverge Thicket
+2 [ZNR:39] Skyclave Apparition
+4 [TSB:84] Spike Feeder
+2 [WWK:144] Stirring Wildwood
+4 [GRN:258] Temple Garden
+3 [AKH:38] Vizier of Remedies
+1 [AER:181] Walking Ballista
+4 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+SB: 1 [KLD:192] Aetherflux Reservoir
+SB: 1 [TMP:276] Altar of Dementia
+SB: 2 [8ED:237] Choke
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 3 [CON:15] Path to Exile
+SB: 1 [M21:241] Tormod's Crypt
+SB: 3 [M20:198] Veil of Summer
+SB: 1 [AER:181] Walking Ballista
+LAYOUT MAIN:(1,5)(CMC,false,70)|([ZNR:278],[ZNR:278],[ZNR:278],[ZNR:266],[ZNR:266],[ZNR:266],[SOM:228],[SOM:228],[SOM:228],[SOM:228],[WWK:144],[WWK:144],[GRN:258],[GRN:258],[GRN:258],[GRN:258],[AER:181],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249])([CON:87],[CON:87],[CON:87],[CON:87])([5DN:3],[5DN:3],[SHM:110],[SHM:110],[SHM:110],[SHM:110],[PLS:106],[PLS:106],[WAR:160],[WAR:160],[AKH:38],[AKH:38],[AKH:38])([THB:18],[THB:18],[THB:18],[THB:18],[SHM:229],[SHM:229],[SHM:229],[SHM:229],[ZNR:39],[ZNR:39],[TSB:84],[TSB:84],[TSB:84],[TSB:84])([DTK:177],[DTK:177],[DTK:177],[DTK:177],[WAR:1*],[WAR:1*],[WAR:1*])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([M21:241],[AER:181])([CON:15],[CON:15],[CON:15],[M20:198],[M20:198],[M20:198])([TMP:276],[DOM:213],[SOM:171])([8ED:237],[8ED:237],[8ED:300])([KLD:192])
