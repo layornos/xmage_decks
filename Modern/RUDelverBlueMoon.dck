@@ -1,0 +1,31 @@
+4 [KTK:233] Flooded Strand
+6 [ZNR:269] Island
+1 [ZEN:220] Misty Rainforest
+1 [ZNR:275] Mountain
+4 [ELD:247] Mystic Sanctuary
+1 [IKO:251] Raugrin Triome
+4 [ZEN:223] Scalding Tarn
+2 [GRN:257] Steam Vents
+3 [ISD:78] Snapcaster Mage
+1 [HOU:83] Abrade
+3 [MH1:40] Archmage's Charm
+2 [ZNR:137] Cleansing Wildfire
+3 [LRW:56] Cryptic Command
+2 [MH1:52] Force of Negation
+4 [M11:149] Lightning Bolt
+4 [M21:59] Opt
+4 [RAV:63] Remand
+2 [DIS:33] Spell Snare
+2 [9ED:176] Blood Moon
+3 [WWK:31] Jace, the Mind Sculptor
+4 [ISD:51] Delver of Secrets
+SB: 2 [M20:42] Aether Gust
+SB: 2 [THS:112] Anger of the Gods
+SB: 1 [M12:11] Celestial Purge
+SB: 3 [XLN:55] Entrancing Melody
+SB: 2 [ALA:218] Relic of Progenitus
+SB: 1 [TSP:83] Teferi, Mage of Zhalfir
+SB: 2 [M12:40] Timely Reinforcements
+SB: 2 [MOR:55] Vendilion Clique
+LAYOUT MAIN:(1,5)(CMC,false,70)|([KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZEN:220],[ZNR:275],[ELD:247],[ELD:247],[ELD:247],[ELD:247],[IKO:251],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257])([M11:149],[M11:149],[M11:149],[M11:149],[M21:59],[M21:59],[M21:59],[M21:59],[DIS:33],[DIS:33],[ISD:51],[ISD:51],[ISD:51],[ISD:51])([ISD:78],[ISD:78],[ISD:78],[HOU:83],[ZNR:137],[ZNR:137],[RAV:63],[RAV:63],[RAV:63],[RAV:63])([MH1:40],[MH1:40],[MH1:40],[MH1:52],[MH1:52],[9ED:176],[9ED:176])([LRW:56],[LRW:56],[LRW:56],[WWK:31],[WWK:31],[WWK:31])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([ALA:218],[ALA:218])([M20:42],[M20:42],[M12:11],[XLN:55],[XLN:55],[XLN:55])([THS:112],[THS:112],[M12:40],[M12:40],[MOR:55],[MOR:55])([TSP:83])
