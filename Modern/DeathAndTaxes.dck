@@ -1,0 +1,24 @@
+4 [DST:91] Aether Vial
+1 [ZNR:4] Archon of Emeria
+1 [NPH:130] Batterskull
+1 [CHK:275] Eiganjo Castle
+4 [THB:242] Field of Ruin
+4 [EVE:6] Flickerwisp
+4 [ISD:240] Ghost Quarter
+4 [MH1:13] Giver of Runes
+4 [SOM:14] Leonin Arbiter
+1 [ZNR:27] Maul of the Skyclaves
+4 [CON:15] Path to Exile
+4 [MH1:246] Silent Clearing
+4 [ZNR:39] Skyclave Apparition
+9 [CSP:151] Snow-Covered Plains
+2 [NPH:159] Spellskite
+4 [WWK:20] Stoneforge Mystic
+1 [DST:148] Sword of Fire and Ice
+4 [DKA:24] Thalia, Guardian of Thraben
+SB: 4 [LRW:7] Burrenton Forge-Tender
+SB: 3 [M19:29] Militia Bugler
+SB: 4 [M15:225] Phyrexian Revoker
+SB: 4 [M19:33] Remorseful Cleric
+LAYOUT MAIN:(1,5)(CMC,false,70)|([CHK:275],[THB:242],[THB:242],[THB:242],[THB:242],[ISD:240],[ISD:240],[ISD:240],[ISD:240],[MH1:246],[MH1:246],[MH1:246],[MH1:246],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151])([DST:91],[DST:91],[DST:91],[DST:91],[MH1:13],[MH1:13],[MH1:13],[MH1:13],[CON:15],[CON:15],[CON:15],[CON:15])([SOM:14],[SOM:14],[SOM:14],[SOM:14],[NPH:159],[NPH:159],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[DKA:24],[DKA:24],[DKA:24],[DKA:24])([ZNR:4],[EVE:6],[EVE:6],[EVE:6],[EVE:6],[ZNR:27],[ZNR:39],[ZNR:39],[ZNR:39],[ZNR:39],[DST:148])([NPH:130])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([LRW:7],[LRW:7],[LRW:7],[LRW:7])([M15:225],[M15:225],[M15:225],[M15:225],[M19:33],[M19:33],[M19:33],[M19:33])([M19:29],[M19:29],[M19:29])
