@@ -1,0 +1,28 @@
+4 [ZNR:90] Agadeem's Awakening
+4 [GTC:57] Balustrade Spy
+4 [GRN:66] Creeping Chill
+4 [ZNR:12] Emeria's Call
+3 [ZNR:106] Hagra Mauling
+4 [M20:26] Leyline of Sanctity
+2 [GRN:47] Narcomoeba
+1 [M19:306] Nexus of Fate
+4 [5DN:143] Pentad Prism
+1 [PLC:77] Phantasmagorian
+1 [ALA:84] Salvage Titan
+4 [ZNR:76] Sea Gate Restoration
+1 [ZNR:161] Shatterskull Smashing
+4 [PLC:122] Simian Spirit Guide
+3 [FUT:165] Sword of the Meek
+4 [MH1:234] Talisman of Resilience
+4 [ZNR:215] Turntimber Symbiosis
+4 [GTC:82] Undercity Informer
+4 [ROE:212] Vengevine
+SB: 1 [M21:96] Duress
+SB: 3 [MRD:176] Goblin Charbelcher
+SB: 3 [WWK:108] Nature's Claim
+SB: 1 [FUT:42] Pact of Negation
+SB: 2 [M14:215] Ratchet Bomb
+SB: 1 [FUT:78] Slaughter Pact
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([ALA:84])([5DN:143],[5DN:143],[5DN:143],[5DN:143],[FUT:165],[FUT:165],[FUT:165],[MH1:234],[MH1:234],[MH1:234],[MH1:234])([GTC:57],[GTC:57],[GTC:57],[GTC:57],[GRN:47],[GRN:47],[PLC:77],[PLC:122],[PLC:122],[PLC:122],[PLC:122],[GTC:82],[GTC:82],[GTC:82],[GTC:82],[ROE:212],[ROE:212],[ROE:212],[ROE:212])([M20:26],[M20:26],[M20:26],[M20:26])([ZNR:106],[ZNR:106],[ZNR:106],[M19:306])([ZNR:90],[ZNR:90],[ZNR:90],[ZNR:90],[GRN:66],[GRN:66],[GRN:66],[GRN:66],[ZNR:12],[ZNR:12],[ZNR:12],[ZNR:12],[ZNR:76],[ZNR:76],[ZNR:76],[ZNR:76],[ZNR:161],[ZNR:215],[ZNR:215],[ZNR:215],[ZNR:215])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([FUT:42],[FUT:78])([M21:96],[WWK:108],[WWK:108],[WWK:108],[THS:107],[THS:107],[THS:107],[THS:107])([M14:215],[M14:215])([MRD:176],[MRD:176],[MRD:176])
