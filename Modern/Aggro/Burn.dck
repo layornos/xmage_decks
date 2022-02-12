@@ -1,0 +1,29 @@
+2 [ZEN:211] Arid Mesa
+2 [KTK:230] Bloodstained Mire
+4 [GTC:148] Boros Charm
+4 [JOU:94] Eidolon of the Great Revel
+1 [MH1:238] Fiery Islet
+4 [ZEN:126] Goblin Guide
+4 [KLD:246] Inspiring Vantage
+4 [CHK:178] Lava Spike
+4 [M11:149] Lightning Bolt
+2 [RAV:213] Lightning Helix
+4 [KTK:118] Monastery Swiftspear
+3 [KHM:397] Mountain
+4 [TSP:176] Rift Bolt
+2 [GRN:254] Sacred Foundry
+3 [WWK:90] Searing Blaze
+4 [RNA:115] Skewer the Critics
+3 [GTC:106] Skullcrack
+4 [MH1:247] Sunbaked Canyon
+2 [KTK:249] Wooded Foothills
+SB: 1 [KTK:173] Deflecting Palm
+SB: 2 [WWK:11] Kor Firewalker
+SB: 3 [CON:15] Path to Exile
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [ZNR:156] Roiling Vortex
+SB: 1 [WWK:90] Searing Blaze
+SB: 1 [GTC:106] Skullcrack
+SB: 3 [ORI:163] Smash to Smithereens
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([ZEN:126],[ZEN:126],[ZEN:126],[ZEN:126],[KTK:118],[KTK:118],[KTK:118],[KTK:118])([JOU:94],[JOU:94],[JOU:94],[JOU:94])([GTC:148],[GTC:148],[GTC:148],[GTC:148],[M11:149],[M11:149],[M11:149],[M11:149],[RAV:213],[RAV:213],[WWK:90],[WWK:90],[WWK:90],[GTC:106],[GTC:106],[GTC:106])([ZEN:211],[ZEN:211],[KTK:230],[KTK:230],[MH1:238],[KLD:246],[KLD:246],[KLD:246],[KLD:246],[KHM:397],[KHM:397],[KHM:397],[GRN:254],[GRN:254],[MH1:247],[MH1:247],[MH1:247],[MH1:247],[KTK:249],[KTK:249])([CHK:178],[CHK:178],[CHK:178],[CHK:178],[TSP:176],[TSP:176],[TSP:176],[TSP:176],[RNA:115],[RNA:115],[RNA:115],[RNA:115])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,63)|([CON:15],[CON:15],[CON:15])([KTK:173],[WWK:11],[WWK:11],[RTR:18],[RTR:18],[ZNR:156],[ZNR:156],[WWK:90],[GTC:106],[ORI:163],[ORI:163],[ORI:163])

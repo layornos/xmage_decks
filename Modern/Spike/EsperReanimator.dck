@@ -1,0 +1,31 @@
+4 [MH2:342] Archon of Cruelty
+3 [KLD:245] Concealed Courtyard
+4 [H1R:1] Ephemerate
+4 [MID:221] Faithful Mending
+4 [KTK:233] Flooded Strand
+1 [XLN:255] Glacial Fortress
+2 [RNA:248] Godless Shrine
+4 [MH2:311] Grief
+1 [RNA:251] Hallowed Fountain
+1 [MID:270] Island
+4 [ZEN:219] Marsh Flats
+3 [LRW:76] Mulldrifter
+4 [MH2:345] Persist
+1 [MID:268] Plains
+1 [KTK:239] Polluted Delta
+3 [MH2:25] Prismatic Ending
+4 [MH2:307] Solitude
+1 [MID:272] Swamp
+3 [WAR:221*] Teferi, Time Raveler
+2 [ISD:122] Unburial Rites
+4 [MH2:106] Unmarked Grave
+2 [GRN:259] Watery Grave
+SB: 2 [AER:57] Fatal Push
+SB: 4 [M20:107] Leyline of the Void
+SB: 1 [MH2:25] Prismatic Ending
+SB: 1 [J21:131] Serra's Emissary
+SB: 2 [ISD:36] Stony Silence
+SB: 1 [WAR:221*] Teferi, Time Raveler
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([MH2:342],[MH2:342],[MH2:342],[MH2:342],[MH2:311],[MH2:311],[MH2:311],[MH2:311],[LRW:76],[LRW:76],[LRW:76],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([H1R:1],[H1R:1],[H1R:1],[H1R:1],[MID:221],[MID:221],[MID:221],[MID:221])([KLD:245],[KLD:245],[KLD:245],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[XLN:255],[RNA:248],[RNA:248],[RNA:251],[MID:270],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[MID:268],[KTK:239],[MID:272],[GRN:259],[GRN:259])([WAR:221*],[WAR:221*],[WAR:221*])([MH2:345],[MH2:345],[MH2:345],[MH2:345],[MH2:25],[MH2:25],[MH2:25],[ISD:122],[ISD:122],[MH2:106],[MH2:106],[MH2:106],[MH2:106])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([AER:57],[AER:57],[MH2:25],[THS:107],[THS:107],[THS:107],[THS:107])([ISD:36],[ISD:36])([WAR:221*])([M20:107],[M20:107],[M20:107],[M20:107])([J21:131])

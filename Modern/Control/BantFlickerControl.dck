@@ -1,0 +1,34 @@
+2 [RNA:246] Breeding Pool
+3 [LRW:56] Cryptic Command
+4 [MB1:96] Ephemerate
+2 [5DN:86] Eternal Witness
+4 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+1 [RNA:251] Hallowed Fountain
+4 [MH1:203] Ice-Fang Coatl
+4 [ZEN:220] Misty Rainforest
+2 [SHM:277] Mystic Gate
+1 [ELD:247] Mystic Sanctuary
+2 [CON:15] Path to Exile
+1 [BFZ:241] Prairie Stream
+3 [RAV:63] Remand
+4 [ZNR:322] Skyclave Apparition
+2 [CSP:155] Snow-Covered Forest
+3 [CSP:152] Snow-Covered Island
+2 [CSP:151] Snow-Covered Plains
+3 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+1 [M10:75] Time Warp
+3 [THB:229] Uro, Titan of Nature's Wrath
+1 [FUT:46] Venser, Shaper Savant
+3 [ROE:53] Wall of Omens
+1 [KTK:248] Windswept Heath
+SB: 4 [M20:42] Aether Gust
+SB: 3 [MH1:20] On Thin Ice
+SB: 3 [M20:77] Tale's End
+SB: 1 [DOM:207] Teferi, Hero of Dominaria
+SB: 2 [SOK:158] Pithing Needle
+SB: 1 [MM3:55] Venser, Shaper Savant
+SB: 1 [CON:15] Path to Exile
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([5DN:86],[5DN:86],[MH1:203],[MH1:203],[MH1:203],[MH1:203],[ZNR:322],[ZNR:322],[ZNR:322],[ZNR:322],[THB:229],[THB:229],[THB:229],[FUT:46],[ROE:53],[ROE:53],[ROE:53])([LRW:56],[LRW:56],[LRW:56],[MB1:96],[MB1:96],[MB1:96],[MB1:96],[MH1:52],[MH1:52],[MH1:52],[CON:15],[CON:15],[RAV:63],[RAV:63],[RAV:63])([RNA:246],[RNA:246],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[SHM:277],[SHM:277],[ELD:247],[BFZ:241],[CSP:155],[CSP:155],[CSP:152],[CSP:152],[CSP:152],[CSP:151],[CSP:151],[GRN:258],[KTK:248])([WAR:221*],[WAR:221*],[WAR:221*])([M10:75])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([MH1:20],[MH1:20],[MH1:20],[SOK:158],[SOK:158],[CON:15])([M20:42],[M20:42],[M20:42],[M20:42],[M20:77],[M20:77],[M20:77])([MM3:55])([DOM:207])

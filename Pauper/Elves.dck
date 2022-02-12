@@ -1,0 +1,23 @@
+2 [M13:160] Arbor Elf
+2 [BFZ:7] Eldrazi Devastator
+2 [LRW:204] Elvish Branchbender
+3 [M15:173] Elvish Mystic
+4 [ONS:259] Elvish Vanguard
+3 [ORI:175] Elvish Visionary
+14 [ZNR:278] Forest
+3 [ICE:244] Fyndhorn Elves
+4 [IKO:163] Lead the Stampede
+3 [M19:314] Llanowar Elves
+4 [LRW:229] Lys Alana Huntmaster
+4 [USG:270] Priest of Titania
+4 [VIS:117] Quirion Ranger
+4 [LGN:140] Timberwatch Elf
+4 [ONS:300] Wellwisher
+SB: 2 [SOM:113] Blunt the Assault
+SB: 2 [M19:190] Naturalize
+SB: 3 [CON:90] Scattershot Archer
+SB: 3 [INV:213] Tangle
+SB: 2 [OGW:146] Vines of the Recluse
+SB: 3 [FUT:141] Wrap in Vigor
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,88)|([M13:160],[M13:160],[BFZ:7],[BFZ:7],[LRW:204],[LRW:204],[M15:173],[M15:173],[M15:173],[ONS:259],[ONS:259],[ONS:259],[ONS:259],[ORI:175],[ORI:175],[ORI:175],[ICE:244],[ICE:244],[ICE:244],[M19:314],[M19:314],[M19:314],[LRW:229],[LRW:229],[LRW:229],[LRW:229],[USG:270],[USG:270],[USG:270],[USG:270],[VIS:117],[VIS:117],[VIS:117],[VIS:117],[LGN:140],[LGN:140],[LGN:140],[LGN:140],[ONS:300],[ONS:300],[ONS:300],[ONS:300])([ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278])([IKO:163],[IKO:163],[IKO:163],[IKO:163])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([CON:90],[CON:90],[CON:90],[OGW:146],[OGW:146])([M19:190],[M19:190],[INV:213],[INV:213],[INV:213],[FUT:141],[FUT:141],[FUT:141])([SOM:113],[SOM:113])

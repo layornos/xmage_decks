@@ -1,0 +1,32 @@
+3 [ZEN:211] Arid Mesa
+4 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+3 [ZEN:219] Marsh Flats
+1 [CSP:154] Snow-Covered Mountain
+1 [CSP:153] Snow-Covered Swamp
+4 [KLD:199] Bomat Courier
+4 [WWK:57] Death's Shadow
+4 [KTK:118] Monastery Swiftspear
+4 [ZNR:122] Scourge of the Skyclaves
+1 [ZNR:90] Agadeem's Awakening
+1 [THB:87] Cling to Dust
+2 [NPH:57] Dismember
+2 [AER:57] Fatal Push
+4 [M11:149] Lightning Bolt
+2 [NPH:116] Mutagenic Growth
+2 [FRF:116] Temur Battle Rage
+4 [THS:107] Thoughtseize
+4 [CSP:138] Mishra's Bauble
+1 [DIS:71] Seal of Fire
+1 [THB:221] Kroxa, Titan of Death's Hunger
+2 [MH1:247] Sunbaked Canyon
+2 [MM3:75] Inquisition of Kozilek
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 3 [ZNR:137] Cleansing Wildfire
+SB: 3 [OGW:98] Kozilek's Return
+SB: 3 [THB:237] Soul-Guide Lantern
+SB: 1 [THB:221] Kroxa, Titan of Death's Hunger
+SB: 2 [SLD:44] Pithing Needle
+SB: 2 [ZNR:102] Feed the Swarm
+LAYOUT MAIN:(1,4)(CMC,false,70)|([ZEN:211],[ZEN:211],[ZEN:211],[RNA:245],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[ZEN:219],[ZEN:219],[ZEN:219],[CSP:154],[CSP:153],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[MH1:247],[MH1:247],[RNA:245])([KLD:199],[KLD:199],[KLD:199],[KLD:199],[WWK:57],[WWK:57],[WWK:57],[WWK:57],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[THB:87],[AER:57],[AER:57],[M11:149],[M11:149],[M11:149],[M11:149],[NPH:116],[NPH:116],[THS:107],[THS:107],[THS:107],[THS:107],[DIS:71],[MM3:75],[MM3:75])([ZNR:122],[ZNR:122],[ZNR:122],[ZNR:122],[FRF:116],[FRF:116],[THB:221])([ZNR:90],[NPH:57],[NPH:57])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([THB:237],[THB:237],[THB:237],[THB:221],[SLD:44],[SLD:44])([ZNR:137],[ZNR:137],[ZNR:137],[ZNR:102],[ZNR:102])([IKO:226],[OGW:98],[OGW:98],[OGW:98])

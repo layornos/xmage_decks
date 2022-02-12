@@ -1,0 +1,35 @@
+3 [KHM:395] Island
+2 [KHM:397] Mountain
+2 [KTK:233] Flooded Strand
+4 [ZEN:223] Scalding Tarn
+3 [GRN:257] Steam Vents
+4 [KLD:249] Spirebluff Canal
+2 [MH1:118] Aria of Flame
+2 [WAR:127] Finale of Promise
+4 [5DN:36] Serum Visions
+2 [9ED:99] Sleight of Hand
+1 [ROE:145] Flame Slash
+1 [MH1:135] Magmatic Sinkhole
+4 [SHM:211] Manamorphose
+4 [DKA:52] Thought Scour
+4 [SOI:92] Thing in the Ice
+4 [GRN:91] Arclight Phoenix
+1 [GRN:163] Crackling Drake
+1 [JUD:94] Lava Dart
+2 [NPH:74] Surgical Extraction
+2 [M21:59] Opt
+4 [M11:149] Lightning Bolt
+4 [ODY:70] Careful Study
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [WAR:61*] Narset, Parter of Veils
+SB: 1 [WAR:234*] Saheeli, Sublime Artificer
+SB: 2 [ZEN:109] Ravenous Trap
+SB: 2 [KTK:230] Bloodstained Mire
+SB: 1 [THS:112] Anger of the Gods
+SB: 1 [MH1:52] Force of Negation
+SB: 2 [XLN:81] Spell Pierce
+SB: 1 [KLD:40] Ceremonious Rejection
+SB: 2 [HOU:83] Abrade
+SB: 1 [MB1:1057] Shenanigans
+LAYOUT MAIN:(1,6)(CMC,false,100)|([KHM:395],[KHM:395],[KHM:395],[KHM:397],[KHM:397],[KTK:233],[KTK:233],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[GRN:257],[KLD:249],[KLD:249],[KLD:249],[KLD:249])([5DN:36],[5DN:36],[5DN:36],[5DN:36],[9ED:99],[9ED:99],[ROE:145],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[JUD:94],[NPH:74],[NPH:74],[M21:59],[M21:59],[M11:149],[M11:149],[M11:149],[M11:149],[ODY:70],[ODY:70],[ODY:70],[ODY:70])([WAR:127],[WAR:127],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[SOI:92],[SOI:92],[SOI:92],[SOI:92])([MH1:118],[MH1:118])([GRN:91],[GRN:91],[GRN:91],[GRN:91],[GRN:163])([MH1:135])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([KTK:230],[KTK:230])([XLN:81],[XLN:81],[KLD:40])([HOU:83],[HOU:83],[MB1:1057])([THS:112],[MH1:52],[WAR:234*],[WAR:61*])([KLD:110],[ZEN:109],[ZEN:109])

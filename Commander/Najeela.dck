@@ -1,0 +1,102 @@
+1 [RTR:141] Abrupt Decay
+1 [ALA:63] Ad Nauseam
+1 [M13:160] Arbor Elf
+1 [ZEN:211] Arid Mesa
+1 [GRN:152] Assassin's Trophy
+1 [ISD:170] Avacyn's Pilgrim
+1 [SUM:282] Badlands
+1 [SUM:283] Bayou
+1 [M12:165] Birds of Paradise
+1 [KTK:230] Bloodstained Mire
+1 [MMQ:61] Brainstorm
+1 [RNA:246] Breeding Pool
+1 [USG:240] Carpet of Flowers
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [RTR:35] Cyclonic Rift
+1 [RAV:81] Dark Confidant
+1 [RTR:213] Deathrite Shaman
+1 [C20:50] Deflecting Swat
+1 [FUT:35] Delay
+1 [ICE:121] Demonic Consultation
+1 [SUM:105] Demonic Tutor
+1 [CMA:176] Derevi, Empyrial Tactician
+1 [PLS:42] Diabolic Intent
+1 [BFZ:76] Dispel
+1 [C19:24] Dockside Extortionist
+1 [WAR:193] Dovin's Veto
+1 [IKO:11] Drannith Magistrate
+1 [PLS:106] Eladamri's Call
+1 [EMN:155] Eldritch Evolution
+1 [RAV:161] Elves of Deep Shadow
+1 [M15:173] Elvish Mystic
+1 [6ED:19] Enlightened Tutor
+1 [CON:142] Exotic Orchard
+1 [C20:35] Fierce Guardianship
+1 [ICE:289] Fire Covenant
+1 [KTK:233] Flooded Strand
+1 [MH1:255] Flusterstorm
+1 [CHK:276] Forbidden Orchard
+1 [ALL:28] Force of Will
+1 [USG:76] Gilded Drake
+1 [NPH:35] Gitaxian Probe
+1 [J16:6] Imperial Seal
+1 [ALL:107] Lim-Dul's Vault
+1 [M19:314] Llanowar Elves
+1 [TMP:294] Lotus Petal
+1 [JOU:163] Mana Confluence
+1 [2XM:270] Mana Crypt
+1 [ZEN:219] Marsh Flats
+1 [NPH:38] Mental Misstep
+1 [BBD:49] Mindblade Render
+1 [M21:57] Miscast
+1 [ZEN:220] Misty Rainforest
+1 [STH:138] Mox Diamond
+1 [ICE:87] Mystic Remora
+1 [6ED:83] Mystical Tutor
+1 [CHK:230] Nature's Will
+1 [WAR:206] Neoform
+1 [CON:87] Noble Hierarch
+1 [NPH:118] Noxious Revival
+1 [ELD:167] Oakhame Adversary
+1 [GRN:253] Overgrown Tomb
+1 [FUT:42] Pact of Negation
+1 [5DN:57] Plunge into Darkness
+1 [KTK:239] Polluted Delta
+1 [M12:73] Ponder
+1 [M11:70] Preordain
+1 [5ED:262] Pyroblast
+1 [4ED:218] Red Elemental Blast
+1 [PCY:45] Rhystic Study
+1 [SUM:285] Savannah
+1 [ZEN:223] Scalding Tarn
+1 [SUM:286] Scrubland
+1 [M14:35] Silence
+1 [ULG:43] Snap
+1 [SUM:274] Sol Ring
+1 [THS:65] Swan Song
+1 [5ED:329] Sylvan Library
+1 [SUM:287] Taiga
+1 [ODY:164] Tainted Pact
+1 [ODY:329] Tarnished Citadel
+1 [GRN:258] Temple Garden
+1 [THB:308] Thassa's Oracle
+1 [SUM:288] Tropical Island
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [DIS:99] Utopia Sprawl
+1 [6ED:161] Vampiric Tutor
+1 [M20:198] Veil of Summer
+1 [ZEN:229] Verdant Catacombs
+1 [SUM:291] Volcanic Island
+1 [MH1:249] Waterlogged Grove
+1 [GRN:259] Watery Grave
+1 [7ED:282] Wild Growth
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [JMP:28] Allosaurus Shepherd
+1 [FUT:139] Summoner's Pact
+SB: 1 [BBD:62] Najeela, the Blade-Blossom
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:211],[SUM:282],[SUM:283],[KTK:230],[RNA:246],[MRD:152],[8ED:322],[ELD:333],[CON:142],[KTK:233],[CHK:276],[TMP:294],[JOU:163],[2XM:270],[ZEN:219],[ZEN:220],[STH:138],[GRN:253],[FUT:42],[KTK:239],[SUM:285],[ZEN:223],[SUM:286],[SUM:287],[ODY:329],[GRN:258],[SUM:288],[SUM:289],[SUM:290],[ZEN:229],[SUM:291],[MH1:249],[GRN:259],[KTK:248],[KTK:249],[FUT:139])([M13:160],[ISD:170],[M12:165],[MMQ:61],[USG:240],[RTR:213],[ICE:121],[BFZ:76],[RAV:161],[M15:173],[6ED:19],[MH1:255],[NPH:35],[J16:6],[M19:314],[NPH:38],[M21:57],[ICE:87],[6ED:83],[CON:87],[NPH:118],[M12:73],[M11:70],[5ED:262],[4ED:218],[M14:35],[SUM:274],[THS:65],[DIS:99],[6ED:161],[M20:198],[7ED:282],[JMP:28])([RTR:141],[GRN:152],[RTR:35],[RAV:81],[FUT:35],[SUM:105],[PLS:42],[C19:24],[WAR:193],[IKO:11],[PLS:106],[USG:76],[ALL:107],[BBD:49],[WAR:206],[5DN:57],[ULG:43],[5ED:329],[ODY:164],[THB:308])([C20:50],[CMA:176],[EMN:155],[C20:35],[ICE:289],[PCY:45])([CHK:230],[ELD:167])([ALA:63],[ALL:28])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BBD:62])

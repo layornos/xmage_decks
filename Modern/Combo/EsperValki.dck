@@ -1,0 +1,27 @@
+4 [DST:91] Aether Vial
+2 [ELD:335] Charming Prince
+4 [KLD:245] Concealed Courtyard
+4 [MB1:96] Ephemerate
+4 [EVE:6] Flickerwisp
+3 [KTK:233] Flooded Strand
+4 [MH1:13] Giver of Runes
+2 [RNA:248] Godless Shrine
+3 [RNA:251] Hallowed Fountain
+3 [ZEN:219] Marsh Flats
+2 [OGW:157] Reflector Mage
+4 [RIX:46] Release to the Wind
+2 [MH1:246] Silent Clearing
+4 [ZNR:322] Skyclave Apparition
+2 [KHM:276] Snow-Covered Plains
+1 [KHM:280] Snow-Covered Swamp
+4 [ALA:202] Tidehollow Sculler
+4 [ROE:53] Wall of Omens
+4 [KHM:308] Valki, God of Lies
+SB: 3 [5DN:3] Auriok Champion
+SB: 3 [AER:57] Fatal Push
+SB: 2 [CON:15] Path to Exile
+SB: 2 [M15:225] Phyrexian Revoker
+SB: 2 [RTR:18] Rest in Peace
+SB: 3 [WAR:221*] Teferi, Time Raveler
+LAYOUT MAIN:(1,4)(CMC,false,100)|([KLD:245],[KLD:245],[KLD:245],[KLD:245],[KTK:233],[KTK:233],[KTK:233],[RNA:248],[RNA:248],[RNA:251],[RNA:251],[RNA:251],[ZEN:219],[ZEN:219],[ZEN:219],[MH1:246],[MH1:246],[KHM:276],[KHM:276],[KHM:280])([DST:91],[DST:91],[DST:91],[DST:91],[MB1:96],[MB1:96],[MB1:96],[MB1:96],[MH1:13],[MH1:13],[MH1:13],[MH1:13])([ELD:335],[ELD:335],[ALA:202],[ALA:202],[ALA:202],[ALA:202],[ROE:53],[ROE:53],[ROE:53],[ROE:53],[KHM:308],[KHM:308],[KHM:308],[KHM:308])([EVE:6],[EVE:6],[EVE:6],[EVE:6],[OGW:157],[OGW:157],[RIX:46],[RIX:46],[RIX:46],[RIX:46],[ZNR:322],[ZNR:322],[ZNR:322],[ZNR:322])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([AER:57],[AER:57],[AER:57],[CON:15],[CON:15])([5DN:3],[5DN:3],[5DN:3],[M15:225],[M15:225],[RTR:18],[RTR:18])([WAR:221*],[WAR:221*],[WAR:221*])

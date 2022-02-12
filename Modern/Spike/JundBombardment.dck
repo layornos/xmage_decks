@@ -1,0 +1,31 @@
+2 [RNA:245] Blood Crypt
+4 [ZEN:83] Bloodghast
+4 [KTK:230] Bloodstained Mire
+4 [DTK:177] Collected Company
+2 [SOM:225] Copperline Gorge
+1 [AFR:278] Forest
+4 [TMP:179] Goblin Bombardment
+1 [SHM:272] Graven Cairns
+4 [MH2:202] Grist, the Hunger Tide
+4 [MH2:166] Ignoble Hierarch
+2 [THB:221] Kroxa, Titan of Death's Hunger
+4 [WAR:204] Mayhem Devil
+2 [AFR:274] Mountain
+1 [MH1:243] Nurturing Peatland
+1 [GRN:253] Overgrown Tomb
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [MH1:145] Seasoned Pyromancer
+1 [RNA:259] Stomping Ground
+1 [AFR:270] Swamp
+2 [ULG:72] Unearth
+3 [ZEN:229] Verdant Catacombs
+3 [KTK:249] Wooded Foothills
+2 [MH1:217] Wrenn and Six
+SB: 1 [MRD:150] Chalice of the Void
+SB: 3 [MH2:157] Endurance
+SB: 4 [SHM:188] Fulminator Mage
+SB: 2 [MH2:242] Void Mirror
+SB: 3 [H1R:21] Force of Vigor
+SB: 2 [STX:172] Culling Ritual
+LAYOUT MAIN:(1,5)(CMC,false,70)|([RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[SOM:225],[SOM:225],[AFR:278],[SHM:272],[AFR:274],[AFR:274],[MH1:243],[GRN:253],[RNA:259],[AFR:270],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[KTK:249])([MH2:166],[MH2:166],[MH2:166],[MH2:166],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[ULG:72],[ULG:72])([ZEN:83],[ZEN:83],[ZEN:83],[ZEN:83],[TMP:179],[TMP:179],[TMP:179],[TMP:179],[THB:221],[THB:221],[MH1:217],[MH1:217])([MH2:202],[MH2:202],[MH2:202],[MH2:202],[WAR:204],[WAR:204],[WAR:204],[WAR:204],[MH1:145],[MH1:145],[MH1:145],[MH1:145])([DTK:177],[DTK:177],[DTK:177],[DTK:177])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,70)|([MRD:150])([MH2:242],[MH2:242])([MH2:157],[MH2:157],[MH2:157],[SHM:188],[SHM:188],[SHM:188],[SHM:188])([H1R:21],[H1R:21],[H1R:21],[STX:172],[STX:172])

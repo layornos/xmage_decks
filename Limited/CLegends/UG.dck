@@ -1,0 +1,38 @@
+3 [CMR:678] Fyndhorn Elves
+1 [CMR:255] Silverback Shaman
+1 [CMR:253] Sentinel Spider
+1 [CMR:229] Gift of Paradise
+1 [CMR:245] Natural Reclamation
+2 [CMR:223] Elvish Visionary
+2 [CMR:216] Annoyed Altisaur
+1 [CMR:258] Stingerfling Spider
+1 [CMR:251] Scaled Behemoth
+1 [CMR:247] Ordeal of Nylea
+1 [CMR:280] Imoti, Celebrant of Bounty
+1 [CMR:232] Hunter's Insight
+1 [CMR:675] Biowaste Blob
+1 [CMR:104] Trove Tracker
+1 [CMR:88] Sailor of Means
+1 [CMR:86] Prying Eyes
+1 [CMR:640] Preordain
+2 [CMR:83] Omenspeaker
+1 [CMR:77] Kitesail Skirmisher
+1 [CMR:70] Galestrike
+1 [CMR:57] Aven Surveyor
+1 [CMR:63] Court of Cunning
+1 [CMR:277] Gor Muldrak, Amphinologist
+2 [CMR:497] Terramorphic Expanse
+1 [CMR:341] Sky Diamond
+1 [CMR:327] Moss Diamond
+1 [CMR:691] Burnished Hart
+1 [CMR:346] Thought Vessel
+1 [CMR:324] Mask of Memory
+1 [CMR:707] Opal Palace
+1 [CMR:349] Command Beacon
+10 [UST:213] Island
+12 [UST:216] Forest
+1 [CMR:319] Jeweled Lotus
+SB: 1 [CMR:579] Halana, Kessig Ranger
+SB: 1 [CMR:556] Eligeth, Crossroads Augur
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([CMR:691])([CMR:341],[CMR:327],[CMR:346],[CMR:324],[CMR:319])([CMR:678],[CMR:678],[CMR:678],[CMR:255],[CMR:253],[CMR:223],[CMR:223],[CMR:216],[CMR:216],[CMR:258],[CMR:251],[CMR:280],[CMR:675],[CMR:104],[CMR:88],[CMR:83],[CMR:83],[CMR:77],[CMR:57],[CMR:277])([CMR:229],[CMR:247],[CMR:63])([CMR:245],[CMR:232],[CMR:86],[CMR:70])([CMR:497],[CMR:497],[CMR:707],[CMR:349],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216])([CMR:640])
+LAYOUT SIDEBOARD:(1,1)(CARD_TYPE,false,50)|([CMR:579],[CMR:556])

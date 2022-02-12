@@ -1,0 +1,83 @@
+1 [AFR:372] Acererak the Archlich
+1 [ELD:331] Arcane Signet
+1 [IKO:73] Bastion of Remembrance
+1 [AVR:86] Blood Artist
+1 [WWK:132] Bojuka Bog
+1 [WAR:79] Bolas's Citadel
+1 [AKH:225] Bontu's Monument
+1 [MMQ:61] Brainstorm
+1 [ODY:118] Buried Alive
+1 [TOR:51] Cabal Ritual
+1 [M12:86] Cemetery Reaper
+1 [7ED:289] Charcoal Diamond
+1 [SOI:270] Choked Estuary
+1 [GRN:233] Chromatic Lantern
+1 [ELD:333] Command Tower
+1 [VOC:163] Commander's Sphere
+1 [MID:388] Consider
+1 [7ED:67] Counterspell
+1 [MIC:17] Crowded Crypt
+1 [MIC:18] Curse of the Restless Dead
+1 [MMQ:129] Dark Ritual
+1 [EMN:87] Dark Salvation
+1 [ODY:319] Darkwater Catacombs
+1 [M19:90] Death Baron
+1 [FUT:35] Delay
+1 [SUM:105] Demonic Tutor
+1 [PLS:42] Diabolic Intent
+1 [RAV:260] Dimir Signet
+1 [DKA:135] Diregraf Captain
+1 [SOI:107] Diregraf Colossus
+1 [MOR:32] Distant Melody
+1 [MIC:113] Dread Summons
+1 [WAR:86] Dreadhorde Invasion
+1 [MIC:13] Drown in Dreams
+1 [MIC:14] Empty the Laboratory
+1 [ISD:99] Endless Ranks of the Dead
+1 [ODY:132] Entomb
+1 [CON:142] Exotic Orchard
+1 [M21:246] Fabled Passage
+1 [M10:52] Fabricate
+1 [ZNR:102] Feed the Swarm
+1 [9ED:297] Fellwar Stone
+1 [ORI:98] Fleshbag Marauder
+1 [SOI:63] Forgotten Creation
+1 [KLD:81] Fortuitous Find
+1 [EMN:183] Gisa and Geralf
+1 [MBS:43] Go for the Throat
+1 [DKA:64] Gravecrawler
+1 [M21:109] Liliana's Devotee
+1 [AKH:99] Lord of the Accursed
+1 [GRN:77] Midnight Reaper
+1 [MID:255] Moonsilver Key
+1 [BFZ:240] Mortuary Mire
+1 [RAV:60] Muddle the Mixture
+1 [VOC:176] Myriad Landscape
+1 [ZNR:71] Negate
+1 [VOC:177] Path of Ancestry
+1 [RAV:217] Perplex
+1 [INV:306] Phyrexian Altar
+1 [M12:73] Ponder
+1 [FRF:46] Reality Shift
+1 [SUM:77] Reconstruction
+1 [PCY:45] Rhystic Study
+1 [ISD:71] Rooftop Storm
+1 [MIC:16] Shadow Kin
+1 [MID:267] Shipwreck Marsh
+1 [7ED:316] Sky Diamond
+1 [SUM:274] Sol Ring
+1 [WAR:106] Spark Reaper
+1 [BFZ:249] Sunken Hollow
+1 [MRD:253] Talisman of Dominance
+1 [THB:245] Temple of Deceit
+1 [XLN:258] Unclaimed Territory
+1 [MIC:130] Undead Augur
+1 [USG:111] Windfall
+1 [BFZ:126] Zulaport Cutthroat
+1 [SLU:15] Clearwater Pathway
+9 [10E:370] Island
+1 [MIC:183] Tainted Isle
+12 [10E:373] Swamp
+SB: 1 [MIC:2] Wilhelt, the Rotcleaver
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([ELD:331],[WAR:79],[AKH:225],[7ED:289],[GRN:233],[VOC:163],[MIC:17],[RAV:260],[9ED:297],[MID:255],[INV:306],[7ED:316],[SUM:274],[MRD:253])([AFR:372],[AVR:86],[M12:86],[M19:90],[DKA:135],[SOI:107],[ORI:98],[SOI:63],[EMN:183],[DKA:64],[M21:109],[AKH:99],[GRN:77],[MIC:16],[WAR:106],[MIC:130],[BFZ:126])([IKO:73],[MIC:18],[WAR:86],[ISD:99],[PCY:45],[ISD:71])([MMQ:61],[TOR:51],[MID:388],[7ED:67],[MMQ:129],[FUT:35],[MIC:13],[ODY:132],[MBS:43],[RAV:60],[ZNR:71],[RAV:217],[FRF:46])([WWK:132],[SOI:270],[ELD:333],[ODY:319],[CON:142],[M21:246],[BFZ:240],[VOC:176],[VOC:177],[MID:267],[BFZ:249],[THB:245],[XLN:258],[SLU:15],[10E:370],[10E:370],[10E:370],[10E:370],[10E:370],[10E:370],[10E:370],[10E:370],[10E:370],[MIC:183],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373])([ODY:118],[EMN:87],[SUM:105],[PLS:42],[MOR:32],[MIC:113],[MIC:14],[M10:52],[ZNR:102],[KLD:81],[M12:73],[SUM:77],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([MIC:2])

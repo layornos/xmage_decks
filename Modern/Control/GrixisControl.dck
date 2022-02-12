@@ -1,0 +1,38 @@
+3 [MH1:40] Archmage's Charm
+1 [RNA:245] Blood Crypt
+1 [EVE:175] Cascade Bluffs
+1 [THB:87] Cling to Dust
+3 [LRW:56] Cryptic Command
+4 [ELD:188] Drown in the Loch
+1 [XLN:253] Drowned Catacomb
+2 [AER:57] Fatal Push
+2 [MH1:52] Force of Negation
+1 [ELD:50] Into the Story
+4 [KHM:395] Island
+1 [DTK:224] Kolaghan's Command
+3 [M11:149] Lightning Bolt
+1 [FUT:52] Logic Knot
+4 [CSP:138] Mishra's Bauble
+1 [KHM:397] Mountain
+4 [KTK:239] Polluted Delta
+1 [ZNE:27] Prismatic Vista
+4 [ZEN:223] Scalding Tarn
+3 [ISD:78] Snapcaster Mage
+4 [IKO:211] Sprite Dragon
+2 [GRN:257] Steam Vents
+1 [SHM:280] Sunken Ruins
+1 [KHM:396] Swamp
+4 [DKA:52] Thought Scour
+1 [ULG:72] Unearth
+2 [GRN:259] Watery Grave
+SB: 2 [M20:42] Aether Gust
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [AER:57] Fatal Push
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 2 [M20:77] Tale's End
+SB: 2 [THS:107] Thoughtseize
+SB: 1 [ULG:72] Unearth
+SB: 3 [FUT:93] Yixlid Jailer
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([CSP:138],[CSP:138],[CSP:138],[CSP:138])([ISD:78],[ISD:78],[ISD:78],[IKO:211],[IKO:211],[IKO:211],[IKO:211])([MH1:40],[MH1:40],[MH1:40],[THB:87],[LRW:56],[LRW:56],[LRW:56],[ELD:188],[ELD:188],[ELD:188],[ELD:188],[AER:57],[AER:57],[MH1:52],[MH1:52],[ELD:50],[DTK:224],[M11:149],[M11:149],[M11:149],[FUT:52],[DKA:52],[DKA:52],[DKA:52],[DKA:52])([RNA:245],[EVE:175],[XLN:253],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:397],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZNE:27],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[SHM:280],[KHM:396],[GRN:259],[GRN:259])([ULG:72])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([5DN:118],[5DN:118])([AER:57],[THS:107],[THS:107],[ULG:72])([M20:42],[M20:42],[M20:77],[M20:77],[FUT:93],[FUT:93],[FUT:93])([MH1:52],[IKO:226])

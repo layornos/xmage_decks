@@ -1,0 +1,31 @@
+1 [KLD:243] Blooming Marsh
+1 [WWK:132] Bojuka Bog
+4 [ULG:98] Crop Rotation
+4 [CSP:145] Dark Depths
+4 [M21:96] Duress
+1 [M20:169] Elvish Reclaimer
+4 [ALL:89] Elvish Spirit Guide
+1 [ZNR:278] Forest
+1 [ISD:240] Ghost Quarter
+1 [LEG:303] Karakas
+2 [RAV:172] Life from the Loam
+1 [ORI:248] Llanowar Wastes
+4 [TMP:294] Lotus Petal
+4 [ROE:8] Not of This World
+4 [MH1:243] Nurturing Peatland
+4 [RTR:231] Pithing Needle
+1 [WWK:142] Sejiri Steppe
+1 [ZNR:272] Swamp
+2 [JUD:133] Sylvan Safekeeper
+3 [BFZ:192] Sylvan Scrying
+4 [GTC:248] Thespian's Stage
+4 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:114] Vampire Hexmage
+SB: 3 [RTR:141] Abrupt Decay
+SB: 1 [MH1:158] Collector Ouphe
+SB: 2 [MH1:164] Force of Vigor
+SB: 3 [M20:107] Leyline of the Void
+SB: 3 [NPH:74] Surgical Extraction
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,5)(CMC,false,70)|([KLD:243],[WWK:132],[CSP:145],[CSP:145],[CSP:145],[CSP:145],[ZNR:278],[ISD:240],[LEG:303],[ORI:248],[TMP:294],[TMP:294],[TMP:294],[TMP:294],[MH1:243],[MH1:243],[MH1:243],[MH1:243],[WWK:142],[ZNR:272],[GTC:248],[GTC:248],[GTC:248],[GTC:248],[M15:248],[M15:248],[M15:248],[M15:248])([ULG:98],[ULG:98],[ULG:98],[ULG:98],[M21:96],[M21:96],[M21:96],[M21:96],[M20:169],[RTR:231],[RTR:231],[RTR:231],[RTR:231],[JUD:133],[JUD:133])([RAV:172],[RAV:172],[BFZ:192],[BFZ:192],[BFZ:192],[ZEN:114],[ZEN:114],[ZEN:114],[ZEN:114])([ALL:89],[ALL:89],[ALL:89],[ALL:89])([ROE:8],[ROE:8],[ROE:8],[ROE:8])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([NPH:74],[NPH:74],[NPH:74],[M20:198],[M20:198],[M20:198])([RTR:141],[RTR:141],[RTR:141],[MH1:158])([MH1:164],[MH1:164],[M20:107],[M20:107],[M20:107])

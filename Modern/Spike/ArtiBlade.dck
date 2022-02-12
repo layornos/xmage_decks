@@ -1,0 +1,32 @@
+4 [M15:242] Darksteel Citadel
+4 [J21:75] Esper Sentinel
+4 [RNA:251] Hallowed Fountain
+4 [AFR:21] Ingenious Smith
+1 [MID:270] Island
+1 [MH2:227] Kaldra Compleat
+4 [AER:39] Metallic Rebuke
+4 [CSP:138] Mishra's Bauble
+1 [J21:752] Nettlecyst
+1 [MID:257] Pithing Needle
+1 [MID:268] Plains
+4 [AFR:33] Portable Hole
+4 [MH2:252] Razortide Bridge
+2 [ALA:218] Relic of Progenitus
+4 [SOM:229] Seachrome Coast
+1 [THB:236] Shadowspear
+1 [BNG:162] Springleaf Drum
+4 [WWK:20] Stoneforge Mystic
+4 [J21:261] Thought Monitor
+4 [MH2:259] Urza's Saga
+2 [H1R:11] Urza, Lord High Artificer
+1 [DOM:1] Karn, Scion of Urza
+SB: 2 [MRD:150] Chalice of the Void
+SB: 3 [DOM:213] Damping Sphere
+SB: 3 [NPH:7] Dispatch
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [SOK:156] Manriki-Gusari
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 2 [WAR:221*] Teferi, Time Raveler
+LAYOUT MAIN:(1,6)(CMC,false,100)|([M15:242],[M15:242],[M15:242],[M15:242],[RNA:251],[RNA:251],[RNA:251],[RNA:251],[MID:270],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[MID:268],[MH2:252],[MH2:252],[MH2:252],[MH2:252],[SOM:229],[SOM:229],[SOM:229],[SOM:229],[MH2:259],[MH2:259],[MH2:259],[MH2:259])([J21:75],[J21:75],[J21:75],[J21:75],[MID:257],[AFR:33],[AFR:33],[AFR:33],[AFR:33],[ALA:218],[ALA:218],[THB:236],[BNG:162])([AFR:21],[AFR:21],[AFR:21],[AFR:21],[WWK:20],[WWK:20],[WWK:20],[WWK:20])([AER:39],[AER:39],[AER:39],[AER:39],[J21:752])([H1R:11],[H1R:11],[DOM:1])([MH2:227],[J21:261],[J21:261],[J21:261],[J21:261])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([MRD:150],[MRD:150],[5DN:118],[5DN:118])([NPH:7],[NPH:7],[NPH:7],[ALA:218],[THB:237])([DOM:213],[DOM:213],[DOM:213],[SOK:156])([WAR:221*],[WAR:221*])

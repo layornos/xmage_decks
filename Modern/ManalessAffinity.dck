@@ -1,0 +1,23 @@
+4 [AER:144] Barricade Breaker
+3 [OGW:161] Bone Saw
+4 [KTK:217] Briber's Purse
+3 [M15:242] Darksteel Citadel
+3 [AER:151] Foundry Assembler
+4 [MRD:172] Frogmite
+4 [SOM:174] Memnite
+4 [CSP:138] Mishra's Bauble
+4 [MRD:211] Myr Enforcer
+4 [AER:167] Ornithopter
+4 [5DN:142] Paradise Mantle
+4 [ALA:84] Salvage Titan
+3 [BFZ:242] Sanctum of Ugin
+4 [MRD:264] Tooth of Chiss-Goria
+4 [M21:241] Tormod's Crypt
+4 [MRD:274] Welding Jar
+SB: 4 [NPH:86] Gut Shot
+SB: 4 [M20:26] Leyline of Sanctity
+SB: 4 [M20:107] Leyline of the Void
+SB: 2 [NPH:15] Marrow Shards
+SB: 1 [OGW:183a] Wastes
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([AER:144],[AER:144],[AER:144],[AER:144],[AER:151],[AER:151],[AER:151],[MRD:172],[MRD:172],[MRD:172],[MRD:172],[SOM:174],[SOM:174],[SOM:174],[SOM:174],[MRD:211],[MRD:211],[MRD:211],[MRD:211],[ALA:84],[ALA:84],[ALA:84],[ALA:84])([M15:242],[M15:242],[M15:242])([OGW:161],[OGW:161],[OGW:161],[KTK:217],[KTK:217],[KTK:217],[KTK:217],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[5DN:142],[5DN:142],[5DN:142],[5DN:142],[MRD:264],[MRD:264],[MRD:264],[MRD:264],[M21:241],[M21:241],[M21:241],[M21:241],[MRD:274],[MRD:274],[MRD:274],[MRD:274])([AER:167],[AER:167],[AER:167],[AER:167])([BFZ:242],[BFZ:242],[BFZ:242])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([OGW:183a])([NPH:86],[NPH:86],[NPH:86],[NPH:86],[NPH:15],[NPH:15])([M20:26],[M20:26],[M20:26],[M20:26],[M20:107],[M20:107],[M20:107],[M20:107])

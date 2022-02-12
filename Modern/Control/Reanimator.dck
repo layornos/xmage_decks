@@ -1,0 +1,29 @@
+4 [H1R:7] Archmage's Charm
+2 [MH2:342] Archon of Cruelty
+4 [MRD:150] Chalice of the Void
+2 [EMN:85] Collective Brutality
+4 [ELD:188] Drown in the Loch
+4 [XLN:253] Drowned Catacomb
+4 [KTK:233] Flooded Strand
+2 [CHK:62] Gifts Ungiven
+4 [XLN:255] Glacial Fortress
+3 [RNA:251] Hallowed Fountain
+3 [STX:368] Island
+4 [MH2:345] Persist
+4 [KTK:239] Polluted Delta
+4 [MH2:25] Prismatic Ending
+1 [ISD:78] Snapcaster Mage
+2 [WAR:221*] Teferi, Time Raveler
+2 [MRD:53] Thirst for Knowledge
+1 [ISD:122] Unburial Rites
+4 [MH2:106] Unmarked Grave
+2 [GRN:259] Watery Grave
+SB: 4 [7ED:67] Counterspell
+SB: 3 [5DN:118] Engineered Explosives
+SB: 1 [H1R:9] Force of Negation
+SB: 3 [SOK:14] Kataki, War's Wage
+SB: 1 [MH2:30] Serra's Emissary
+SB: 2 [DOM:207] Teferi, Hero of Dominaria
+SB: 1 [WAR:221*] Teferi, Time Raveler
+LAYOUT MAIN:(1,7)(CMC,false,70)|([MRD:150],[MRD:150],[MRD:150],[MRD:150],[XLN:253],[XLN:253],[XLN:253],[XLN:253],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[RNA:251],[RNA:251],[RNA:251],[STX:368],[STX:368],[STX:368],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[GRN:259],[GRN:259])([MH2:25],[MH2:25],[MH2:25],[MH2:25])([EMN:85],[EMN:85],[ELD:188],[ELD:188],[ELD:188],[ELD:188],[MH2:345],[MH2:345],[MH2:345],[MH2:345],[ISD:78],[MH2:106],[MH2:106],[MH2:106],[MH2:106])([H1R:7],[H1R:7],[H1R:7],[H1R:7],[WAR:221*],[WAR:221*],[MRD:53],[MRD:53])([CHK:62],[CHK:62])([ISD:122])([MH2:342],[MH2:342])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([5DN:118],[5DN:118],[5DN:118])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[SOK:14],[SOK:14],[SOK:14])([H1R:9],[WAR:221*])([DOM:207],[DOM:207])([MH2:30])

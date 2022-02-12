@@ -1,0 +1,27 @@
+4 [DST:91] Aether Vial
+4 [LRW:267] Auntie's Hovel
+4 [SOM:224] Blackcleave Cliffs
+1 [KHM:252] Blightstep Pathway
+2 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+3 [LRW:102] Boggart Harbinger
+4 [AVR:226] Cavern of Souls
+4 [M21:139] Conspicuous Snoop
+1 [M12:138] Goblin Chieftain
+4 [7ED:191] Goblin Matron
+3 [M20:143] Goblin Ringleader
+2 [CHK:175] Kiki-Jiki, Mirror Breaker
+4 [TSP:170] Mogg War Marshal
+3 [KHM:397] Mountain
+4 [MH1:209] Munitions Expert
+1 [MH1:138] Pashalik Mons
+4 [KHM:241] Pyre of Heroes
+1 [DOM:144] Skirk Prospector
+2 [MH1:108] Sling-Gang Lieutenant
+1 [KHM:396] Swamp
+SB: 4 [MRD:150] Chalice of the Void
+SB: 4 [DOM:213] Damping Sphere
+SB: 3 [ARB:46] Terminate
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,88)|([DST:91],[DST:91],[DST:91],[DST:91],[KHM:241],[KHM:241],[KHM:241],[KHM:241])([LRW:102],[LRW:102],[LRW:102],[M21:139],[M21:139],[M21:139],[M21:139],[M12:138],[7ED:191],[7ED:191],[7ED:191],[7ED:191],[M20:143],[M20:143],[M20:143],[CHK:175],[CHK:175],[TSP:170],[TSP:170],[TSP:170],[TSP:170],[MH1:209],[MH1:209],[MH1:209],[MH1:209],[MH1:138],[DOM:144],[MH1:108],[MH1:108])([LRW:267],[LRW:267],[LRW:267],[LRW:267],[SOM:224],[SOM:224],[SOM:224],[SOM:224],[KHM:252],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[KHM:397],[KHM:397],[KHM:397],[KHM:396])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([MRD:150],[MRD:150],[MRD:150],[MRD:150])([THS:107],[THS:107],[THS:107],[THS:107])([DOM:213],[DOM:213],[DOM:213],[DOM:213],[ARB:46],[ARB:46],[ARB:46])

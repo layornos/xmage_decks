@@ -1,0 +1,82 @@
+1 [CMR:616] Archon of Coronation
+1 [AKH:5] Aven Mindcensor
+1 [DOM:4] Baird, Steward of Argive
+1 [C21:1] Breena, the Demagogue
+1 [PZ2:22] Custodi Lich
+1 [CMR:175] Emberwilde Captain
+1 [KLD:183] Kambal, Consul of Allocation
+1 [AFC:49] Karazikar, the Eye Tyrant
+1 [KHM:216] Kardur, Doomscourge
+1 [WWK:84] Kazuul, Tyrant of the Cliffs
+1 [CMR:27] Keeper of the Accord
+1 [CN2:76] Knights of the Black Rose
+1 [TSR:298] Palace Jailer
+1 [M12:105] Royal Assassin
+1 [STX:230] Shadrix Silverquill
+1 [AFC:140] Skyline Despot
+1 [M21:239] Solemn Simulacrum
+1 [DGM:108] Teysa, Envoy of Ghosts
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [10E:60*] Windborn Muse
+1 [AKH:4] Approach of the Second Sun
+1 [ELD:331] Arcane Signet
+1 [GTC:142] Assemble the Legion
+1 [LRW:3] Austere Command
+1 [RNA:157] Bedevil
+1 [GTC:6] Blind Obedience
+1 [RAV:255] Boros Signet
+1 [M19:9] Cleansing Nova
+1 [CMR:114] Court of Ambition
+1 [CMR:16] Court of Grace
+1 [CMR:170] Court of Ire
+1 [DGM:64] Debt to the Deathless
+1 [AFC:122] Disrupt Decorum
+1 [CMR:127] Feast of Succession
+1 [9ED:297] Fellwar Stone
+1 [STX:188] Fracture
+1 [H1R:2] Generous Gift
+1 [CHK:10] Ghostly Prison
+1 [7ED:140] Greed
+1 [PZ2:20] Marchesa's Decree
+1 [C21:19] Monologue Tax
+1 [RNA:192] Mortify
+1 [5DN:55] Night's Whisper
+1 [GPT:155] Orzhov Signet
+1 [ELD:198] Outlaws' Merriment
+1 [BFZ:120] Painful Truths
+1 [DIS:165] Rakdos Signet
+1 [ORI:114] Read the Bones
+1 [XLN:117] Revel in Riches
+1 [M15:114] Sign in Blood
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [RTR:24] Sphere of Safety
+1 [ICE:54] Swords to Plowshares
+1 [ONS:175] Syphon Mind
+1 [H1R:33] Talisman of Conviction
+1 [H1R:36] Talisman of Hierarchy
+1 [MRD:255] Talisman of Indulgence
+1 [ARB:46] Terminate
+1 [KTK:210] Utter End
+1 [APC:126] Vindicate
+1 [ORI:244] Battlefield Forge
+1 [WWK:132] Bojuka Bog
+1 [ELD:238] Castle Ardenvale
+1 [ORI:245] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [ZNR:111] Malakir Rebirth
+1 [KTK:237] Nomad Outpost
+1 [VOC:177] Path of Ancestry
+1 [BFZ:247] Smoldering Marsh
+1 [TOR:140] Tainted Field
+1 [THB:247] Temple of Malice
+1 [M21:255] Temple of Silence
+1 [M21:256] Temple of Triumph
+6 [UNH:139] Mountain
+9 [UNH:136] Plains
+8 [UNH:138] Swamp
+SB: 1 [CMR:531] Queen Marchesa
+LAYOUT MAIN:(1,8)(CMC,false,70)|([ORI:244],[WWK:132],[ELD:238],[ORI:245],[ELD:333],[CON:142],[KTK:237],[VOC:177],[BFZ:247],[TOR:140],[THB:247],[M21:255],[M21:256],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([DST:140],[SUM:274],[ICE:54],[ZNR:111])([VOW:318],[ELD:331],[GTC:6],[RAV:255],[9ED:297],[STX:188],[5DN:55],[GPT:155],[DIS:165],[M15:114],[H1R:33],[H1R:36],[MRD:255],[ARB:46])([AKH:5],[C21:1],[KLD:183],[M12:105],[EMN:46],[RNA:157],[H1R:2],[CHK:10],[C21:19],[RNA:192],[BFZ:120],[ORI:114],[APC:126])([DOM:4],[CMR:175],[KHM:216],[CMR:27],[TSR:298],[M21:239],[10E:60*],[CMR:114],[CMR:16],[DGM:64],[AFC:122],[7ED:140],[PZ2:20],[ELD:198],[ONS:175],[KTK:210])([PZ2:22],[AFC:49],[WWK:84],[CN2:76],[STX:230],[GTC:142],[M19:9],[CMR:170],[XLN:117],[RTR:24])([CMR:616],[LRW:3],[CMR:127])([AFC:140],[DGM:108],[AKH:4])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CMR:531])

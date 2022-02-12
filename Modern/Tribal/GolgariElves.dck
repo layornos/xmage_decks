@@ -1,0 +1,29 @@
+4 [KLD:243] Blooming Marsh
+4 [DTK:177] Collected Company
+4 [ORI:173] Dwynen's Elite
+4 [M13:168] Elvish Archdruid
+4 [M15:173] Elvish Mystic
+4 [KHM:167] Elvish Warmaster
+2 [SOM:119] Ezuri, Renegade Leader
+2 [KHM:398] Forest
+4 [LRW:268] Gilt-Leaf Palace
+4 [MOR:126] Heritage Druid
+4 [M19:314] Llanowar Elves
+1 [ZEN:220] Misty Rainforest
+4 [EVE:71] Nettle Sentinel
+3 [MH1:243] Nurturing Peatland
+1 [GRN:253] Overgrown Tomb
+1 [TSB:120] Pendelhaven
+4 [KHM:188] Realmwalker
+4 [ORI:217] Shaman of the Pack
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+SB: 3 [AER:57] Fatal Push
+SB: 3 [M21:116] Necromentia
+SB: 2 [ZEN:109] Ravenous Trap
+SB: 2 [M21:204] Scavenging Ooze
+SB: 2 [XLN:206] Shapers' Sanctuary
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [MH1:191] Weather the Storm
+LAYOUT MAIN:(1,5)(CMC,false,88)|([KLD:243],[KLD:243],[KLD:243],[KLD:243],[KHM:398],[KHM:398],[LRW:268],[LRW:268],[LRW:268],[LRW:268],[ZEN:220],[MH1:243],[MH1:243],[MH1:243],[GRN:253],[TSB:120],[ZEN:229],[KTK:248])([M15:173],[M15:173],[M15:173],[M15:173],[MOR:126],[MOR:126],[MOR:126],[MOR:126],[M19:314],[M19:314],[M19:314],[M19:314],[EVE:71],[EVE:71],[EVE:71],[EVE:71])([ORI:173],[ORI:173],[ORI:173],[ORI:173],[KHM:167],[KHM:167],[KHM:167],[KHM:167])([M13:168],[M13:168],[M13:168],[M13:168],[SOM:119],[SOM:119],[KHM:188],[KHM:188],[KHM:188],[KHM:188],[ORI:217],[ORI:217],[ORI:217],[ORI:217])([DTK:177],[DTK:177],[DTK:177],[DTK:177])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([AER:57],[AER:57],[AER:57],[XLN:206],[XLN:206],[M20:198],[M20:198])([M21:204],[M21:204],[MH1:191])([M21:116],[M21:116],[M21:116])([ZEN:109],[ZEN:109])

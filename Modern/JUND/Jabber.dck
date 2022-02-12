@@ -1,0 +1,32 @@
+3 [RTR:141] Abrupt Decay
+1 [GRN:152] Assassin's Trophy
+4 [KLD:243] Blooming Marsh
+4 [RAV:81] Dark Confidant
+4 [AER:57] Fatal Push
+4 [THB:242] Field of Ruin
+1 [KHM:398] Forest
+4 [MH1:168] Hexdrinker
+4 [ROE:115] Inquisition of Kozilek
+1 [ARB:92] Maelstrom Pulse
+4 [CSP:138] Mishra's Bauble
+1 [5DN:55] Night's Whisper
+2 [GRN:253] Overgrown Tomb
+3 [M21:204] Scavenging Ooze
+4 [KHM:396] Swamp
+4 [FUT:153] Tarmogoyf
+4 [THS:107] Thoughtseize
+2 [10E:361*] Treetop Village
+4 [ZEN:229] Verdant Catacombs
+2 [SLU:17] Darkbore Pathway
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [EMN:85] Collective Brutality
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [IKO:366] Heartless Act
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [ARB:92] Maelstrom Pulse
+SB: 2 [5DN:55] Night's Whisper
+SB: 3 [SOM:187] Nihil Spellbomb
+SB: 2 [10E:170] Rain of Tears
+SB: 1 [NPH:74] Surgical Extraction
+LAYOUT MAIN:(1,4)(CMC,false,70)|([KLD:243],[KLD:243],[KLD:243],[KLD:243],[THB:242],[THB:242],[THB:242],[THB:242],[KHM:398],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[GRN:253],[GRN:253],[KHM:396],[KHM:396],[KHM:396],[KHM:396],[10E:361*],[10E:361*],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[SLU:17],[SLU:17])([AER:57],[AER:57],[AER:57],[AER:57],[MH1:168],[MH1:168],[MH1:168],[MH1:168],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[THS:107],[THS:107],[THS:107],[THS:107])([RTR:141],[RTR:141],[RTR:141],[GRN:152],[RAV:81],[RAV:81],[RAV:81],[RAV:81],[5DN:55],[M21:204],[M21:204],[M21:204],[FUT:153],[FUT:153],[FUT:153],[FUT:153])([ARB:92])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118],[5DN:118])([SOM:187],[SOM:187],[SOM:187],[NPH:74])([GRN:152],[EMN:85],[IKO:366],[5DN:55],[5DN:55])([IKO:226],[ARB:92],[10E:170],[10E:170])

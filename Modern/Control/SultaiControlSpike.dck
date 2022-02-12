@@ -1,0 +1,39 @@
+2 [RTR:141] Abrupt Decay
+2 [MH1:40] Archmage's Charm
+1 [GRN:152] Assassin's Trophy
+1 [ZNR:388] Bloodchief's Thirst
+1 [RNA:246] Breeding Pool
+3 [LRW:56] Cryptic Command
+4 [AER:57] Fatal Push
+2 [M20:247] Field of the Dead
+3 [MH1:52] Force of Negation
+1 [ZNR:278] Forest
+4 [RNA:178] Growth Spiral
+2 [ZNR:269] Island
+2 [WWK:31] Jace, the Mind Sculptor
+4 [ZEN:220] Misty Rainforest
+2 [ELD:247] Mystic Sanctuary
+1 [SOK:164] Oboro, Palace in the Clouds
+1 [GRN:253] Overgrown Tomb
+4 [KTK:239] Polluted Delta
+1 [MH1:244] Prismatic Vista
+3 [RAV:63] Remand
+2 [IKO:319] Shark Typhoon
+2 [ISD:78] Snapcaster Mage
+1 [CSP:155] Snow-Covered Forest
+2 [CSP:152] Snow-Covered Island
+1 [DIS:33] Spell Snare
+1 [BFZ:249] Sunken Hollow
+1 [SHM:280] Sunken Ruins
+1 [ZNR:272] Swamp
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+3 [THB:343] Uro, Titan of Nature's Wrath
+SB: 4 [M20:42] Aether Gust
+SB: 2 [M21:179] Elder Gargaroth
+SB: 1 [WAR:61*] Narset, Parter of Veils
+SB: 2 [RTR:231] Pithing Needle
+SB: 3 [M20:77] Tale's End
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([ISD:78],[ISD:78],[THB:343],[THB:343],[THB:343])([IKO:319],[IKO:319])([RTR:141],[RTR:141],[MH1:40],[MH1:40],[GRN:152],[LRW:56],[LRW:56],[LRW:56],[AER:57],[AER:57],[AER:57],[AER:57],[MH1:52],[MH1:52],[MH1:52],[RNA:178],[RNA:178],[RNA:178],[RNA:178],[RAV:63],[RAV:63],[RAV:63],[DIS:33])([RNA:246],[M20:247],[M20:247],[ZNR:278],[ZNR:269],[ZNR:269],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[SOK:164],[GRN:253],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[MH1:244],[CSP:155],[CSP:152],[CSP:152],[BFZ:249],[SHM:280],[ZNR:272],[GRN:259],[IKO:259])([WWK:31],[WWK:31])([ZNR:388])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([RTR:231],[RTR:231],[M20:198],[M20:198])([M20:42],[M20:42],[M20:42],[M20:42],[M20:77],[M20:77],[M20:77])([WAR:61*])([M21:179],[M21:179])

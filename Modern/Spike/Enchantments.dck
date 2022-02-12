@@ -1,0 +1,27 @@
+3 [AKH:42] As Foretold
+2 [ELD:242] Castle Vantress
+4 [7ED:67] Counterspell
+4 [MID:221] Faithful Mending
+4 [KTK:233] Flooded Strand
+4 [XLN:255] Glacial Fortress
+2 [RNA:251] Hallowed Fountain
+3 [MID:270] Island
+4 [AKH:61] Lay Claim
+4 [M19:65] Omniscience
+1 [MID:268] Plains
+4 [MH2:25] Prismatic Ending
+4 [MH2:26] Resurgent Belief
+3 [ZEN:223] Scalding Tarn
+4 [IKO:319] Shark Typhoon
+1 [GRN:257] Steam Vents
+3 [WAR:221*] Teferi, Time Raveler
+4 [THB:354] Thirst for Meaning
+2 [FUT:173] Tolaria West
+SB: 4 [MH1:255] Flusterstorm
+SB: 1 [TSP:274] Gemstone Caverns
+SB: 2 [NPH:86] Gut Shot
+SB: 1 [IKO:224] Kaheera, the Orphanguard
+SB: 4 [ZEN:70] Spreading Seas
+SB: 3 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,7)(CMC,false,70)|([ELD:242],[ELD:242],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[RNA:251],[RNA:251],[MID:270],[MID:270],[MID:270],[MID:268],[MH2:26],[MH2:26],[MH2:26],[MH2:26],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[FUT:173],[FUT:173])([MH2:25],[MH2:25],[MH2:25],[MH2:25])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[MID:221],[MID:221],[MID:221],[MID:221])([AKH:42],[AKH:42],[AKH:42],[WAR:221*],[WAR:221*],[WAR:221*],[THB:354],[THB:354],[THB:354],[THB:354])([IKO:319],[IKO:319],[IKO:319],[IKO:319])([AKH:61],[AKH:61],[AKH:61],[AKH:61])([M19:65],[M19:65],[M19:65],[M19:65])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([TSP:274])([MH1:255],[MH1:255],[MH1:255],[MH1:255],[NPH:86],[NPH:86])([ZEN:70],[ZEN:70],[ZEN:70],[ZEN:70])([IKO:224],[DGM:135],[DGM:135],[DGM:135])

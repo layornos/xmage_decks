@@ -1,0 +1,95 @@
+1 [KLD:203] Cultivator's Caravan
+1 [XLN:243] Primal Amulet
+1 [STX:37] Archmage Emeritus
+1 [GRN:192] Niv-Mizzet, Parun
+1 [LGN:138] Seedborn Muse
+1 [ISD:78] Snapcaster Mage
+1 [STX:115] Storm-Kiln Artist
+1 [M21:142] Double Vision
+1 [ORI:61] Jace's Sanctum
+1 [ICE:87] Mystic Remora
+1 [IKO:67] Shark Typhoon
+1 [LEG:207] Sylvan Library
+1 [GRN:207] Thousand-Year Storm
+1 [RNA:149] Wilderness Reclamation
+1 [GRN:224] Expansion // Explosion
+1 [NPH:103] Beast Within
+1 [GRN:32] Chemister's Insight
+1 [WWK:76] Comet Storm
+1 [ULG:98] Crop Rotation
+1 [RTR:35] Cyclonic Rift
+1 [C20:50] Deflecting Swat
+1 [KTK:36] Dig Through Time
+1 [RNA:99] Electrodominance
+1 [INV:57] Fact or Fiction
+1 [C20:35] Fierce Guardianship
+1 [ULG:32] Frantic Search
+1 [RNA:178] Growth Spiral
+1 [TSP:202] Krosan Grip
+1 [SHM:211] Manamorphose
+1 [MIR:80] Mystical Tutor
+1 [WWK:108] Nature's Claim
+1 [M19:306] Nexus of Fate
+1 [INV:64] Opt
+1 [PLC:44] Pongify
+1 [ELD:172] Return of the Wildspeaker
+1 [M21:74] Sublime Epiphany
+1 [ELD:146] Thrill of Possibility
+1 [LEB:287] Volcanic Island
+1 [LEA:282] Taiga
+1 [LEA:283] Tropical Island
+1 [WAR:211*] Ral, Storm Conduit
+1 [ISD:130] Blasphemous Act
+1 [C15:29] Mizzix's Mastery
+1 [ELD:331] Arcane Signet
+1 [CHK:254] Honor-Worn Shaku
+1 [GPT:152] Izzet Signet
+1 [5DN:142] Paradise Mantle
+1 [LRW:261] Springleaf Drum
+1 [ZNR:201] Roiling Regrowth
+1 [DIS:172] Breeding Pool
+1 [ELD:242] Castle Vantress
+1 [ISD:241] Hinterland Harbor
+1 [IKO:250] Ketria Triome
+1 [ZEN:220] Misty Rainforest
+1 [ELD:247] Mystic Sanctuary
+1 [CMR:354] Rejuvenating Springs
+1 [RTR:245] Rogue's Passage
+1 [M10:227] Rootbound Crag
+1 [ZEN:223] Scalding Tarn
+1 [BBD:85] Spire Garden
+1 [GPT:164] Steam Vents
+1 [GPT:165] Stomping Ground
+1 [ISD:248] Sulfur Falls
+1 [CMR:358] Training Center
+1 [ZNR:180] Bala Ged Recovery
+1 [MPS:14] Lightning Greaves
+1 [J20:3] Spellseeker
+1 [J18:7] Rhystic Study
+1 [F04:12] Brainstorm
+1 [F01:11] Impulse
+1 [J16:5] Mystic Confluence
+1 [UGIN:46] Reality Shift
+1 [F13:3] Farseek
+1 [G11:5] Mana Crypt
+1 [G05:3] Sol Ring
+1 [P10:9] Harrow
+1 [J12:8] Command Tower
+1 [AER:28] Baral, Chief of Compliance
+1 [C19:24] Dockside Extortionist
+1 [DDJ:3] Goblin Electromancer
+1 [J15:6] Dualcaster Mage
+1 [VOW:262] Dreamroot Cascade
+1 [CMR:261] Three Visits
+1 [KTK:249] Wooded Foothills
+1 [MID:266] Rockfall Vale
+1 [VOW:265] Stormcarved Coast
+1 [VOW:170] Manaform Hellkite
+1 [VOW:63] Hullbreaker Horror
+5 [UST:213] Island
+2 [UST:216] Forest
+3 [UST:215] Mountain
+1 [KTK:239] Polluted Delta
+SB: 1 [C20:9] Kalamax, the Stormsire
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,88)|([ELD:331],[KLD:203],[CHK:254],[GPT:152],[MPS:14],[G11:5],[5DN:142],[XLN:243],[G05:3],[LRW:261])([STX:37],[AER:28],[C19:24],[J15:6],[DDJ:3],[VOW:63],[VOW:170],[GRN:192],[LGN:138],[ISD:78],[J20:3],[STX:115])([M21:142],[ORI:61],[ICE:87],[J18:7],[IKO:67],[LEG:207],[GRN:207],[RNA:149])([GRN:224])([NPH:103],[F04:12],[GRN:32],[WWK:76],[ULG:98],[RTR:35],[C20:50],[KTK:36],[RNA:99],[INV:57],[C20:35],[ULG:32],[RNA:178],[P10:9],[F01:11],[TSP:202],[SHM:211],[J16:5],[MIR:80],[WWK:108],[M19:306],[INV:64],[PLC:44],[UGIN:46],[ELD:172],[ZNR:201],[M21:74],[ELD:146])([DIS:172],[ELD:242],[J12:8],[VOW:262],[UST:216],[ISD:241],[UST:213],[UST:213],[UST:213],[IKO:250],[ZEN:220],[UST:215],[UST:215],[ELD:247],[KTK:239],[CMR:354],[MID:266],[RTR:245],[M10:227],[ZEN:223],[BBD:85],[GPT:164],[GPT:165],[VOW:265],[ISD:248],[LEA:282],[CMR:358],[LEA:283],[LEB:287],[KTK:249],[UST:213],[UST:216],[UST:215],[UST:213])([WAR:211*])([ZNR:180],[ISD:130],[F13:3],[C15:29],[CMR:261])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C20:9])

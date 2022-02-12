@@ -1,0 +1,41 @@
+1 [RNA:246] Breeding Pool
+1 [AVR:208] Bruna, Light of Alabaster
+1 [IKO:148] Colossification
+3 [AER:57] Fatal Push
+2 [M20:247] Field of the Dead
+1 [ZNR:278] Forest
+4 [CHK:62] Gifts Ungiven
+4 [BOK:67] Goryo's Vengeance
+1 [AVR:106] Griselbrand
+1 [ROE:115] Inquisition of Kozilek
+1 [ZNR:269] Island
+4 [ORI:60] Jace, Vryn's Prodigy
+1 [RAV:172] Life from the Loam
+3 [ISD:105] Liliana of the Veil
+1 [ONS:320] Lonely Sandbar
+4 [ZEN:220] Misty Rainforest
+2 [ELD:247] Mystic Sanctuary
+1 [GRN:253] Overgrown Tomb
+4 [KTK:239] Polluted Delta
+1 [MH1:244] Prismatic Vista
+1 [GRN:52] Radical Idea
+1 [CSP:155] Snow-Covered Forest
+1 [CSP:152] Snow-Covered Island
+1 [CSP:153] Snow-Covered Swamp
+1 [BFZ:249] Sunken Hollow
+1 [SHM:280] Sunken Ruins
+1 [ZNR:272] Swamp
+4 [THS:107] Thoughtseize
+4 [THB:229] Uro, Titan of Nature's Wrath
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+2 [RTR:141] Abrupt Decay
+SB: 4 [M20:42] Aether Gust
+SB: 1 [ZNR:388] Bloodchief's Thirst
+SB: 1 [M21:96] Duress
+SB: 3 [M21:179] Elder Gargaroth
+SB: 1 [DOM:161] Gaea's Blessing
+SB: 1 [EVE:41] Raven's Crime
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,8)(CMC,false,70)|([RNA:246],[M20:247],[M20:247],[ZNR:278],[ZNR:269],[ONS:320],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[GRN:253],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[MH1:244],[CSP:155],[CSP:152],[CSP:153],[BFZ:249],[SHM:280],[ZNR:272],[GRN:259],[IKO:259])([AER:57],[AER:57],[AER:57],[ROE:115],[THS:107],[THS:107],[THS:107],[THS:107])([BOK:67],[BOK:67],[BOK:67],[BOK:67],[ORI:60],[ORI:60],[ORI:60],[ORI:60],[RAV:172],[GRN:52],[RTR:141],[RTR:141])([ISD:105],[ISD:105],[ISD:105],[THB:229],[THB:229],[THB:229],[THB:229])([CHK:62],[CHK:62],[CHK:62],[CHK:62])([AVR:208])([IKO:148])([AVR:106])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([ZNR:388],[M21:96],[EVE:41],[M20:198],[M20:198])([M20:42],[M20:42],[M20:42],[M20:42],[DOM:161])([M21:179],[M21:179],[M21:179])

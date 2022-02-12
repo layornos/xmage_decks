@@ -1,0 +1,31 @@
+1 [ZNR:328] Glasspool Mimic
+4 [OGW:72] Inverter of Truth
+1 [M21:222] Niambi, Esteemed Speaker
+4 [ZNR:322] Skyclave Apparition
+3 [KHC:93] Soulherder
+4 [THB:308] Thassa's Oracle
+2 [SOI:44] Thraben Inspector
+4 [ALA:202] Tidehollow Sculler
+4 [ROE:53] Wall of Omens
+3 [MH1:76] Watcher for Tomorrow
+4 [MB1:96] Ephemerate
+4 [DST:91] Aether Vial
+3 [KLD:245] Concealed Courtyard
+1 [SOM:226] Darkslick Shores
+3 [RNA:248] Godless Shrine
+3 [RNA:251] Hallowed Fountain
+2 [SHM:277] Mystic Gate
+1 [KHM:394] Plains
+1 [SHM:278] Reflecting Pool
+2 [SOM:229] Seachrome Coast
+2 [MH1:246] Silent Clearing
+2 [SHM:280] Sunken Ruins
+1 [KHM:396] Swamp
+1 [GRN:259] Watery Grave
+SB: 4 [5DN:3] Auriok Champion
+SB: 3 [AER:57] Fatal Push
+SB: 4 [M15:225] Phyrexian Revoker
+SB: 3 [WAR:221*] Teferi, Time Raveler
+SB: 1 [FUT:46] Venser, Shaper Savant
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([ALA:202],[ALA:202],[ALA:202],[ALA:202])([DST:91],[DST:91],[DST:91],[DST:91])([ZNR:328],[OGW:72],[OGW:72],[OGW:72],[OGW:72],[M21:222],[ZNR:322],[ZNR:322],[ZNR:322],[ZNR:322],[KHC:93],[KHC:93],[KHC:93],[THB:308],[THB:308],[THB:308],[THB:308],[SOI:44],[SOI:44],[ROE:53],[ROE:53],[ROE:53],[ROE:53],[MH1:76],[MH1:76],[MH1:76])([MB1:96],[MB1:96],[MB1:96],[MB1:96])([KLD:245],[KLD:245],[KLD:245],[SOM:226],[RNA:248],[RNA:248],[RNA:248],[RNA:251],[RNA:251],[RNA:251],[SHM:277],[SHM:277],[KHM:394],[SHM:278],[SOM:229],[SOM:229],[MH1:246],[MH1:246],[SHM:280],[SHM:280],[KHM:396],[GRN:259])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([AER:57],[AER:57],[AER:57])([5DN:3],[5DN:3],[5DN:3],[5DN:3],[M15:225],[M15:225],[M15:225],[M15:225])([WAR:221*],[WAR:221*],[WAR:221*])([FUT:46])

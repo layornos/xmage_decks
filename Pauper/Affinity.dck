@@ -1,0 +1,27 @@
+4 [MRD:86] Atog
+4 [SOM:114] Carapace Forger
+4 [10E:314] Chromatic Star
+4 [M15:242] Darksteel Citadel
+2 [ELD:126] Fling
+4 [MRD:172] Frogmite
+4 [SOM:91] Galvanic Blast
+2 [KLD:48] Gearseeker Serpent
+4 [MRD:282] Great Furnace
+2 [AER:39] Metallic Rebuke
+4 [MRD:211] Myr Enforcer
+4 [KLD:229] Prophetic Prism
+1 [ALA:218] Relic of Progenitus
+4 [MRD:283] Seat of the Synod
+3 [BNG:162] Springleaf Drum
+1 [FRF:116] Temur Battle Rage
+4 [MRD:54] Thoughtcast
+4 [MRD:285] Tree of Tales
+1 [MRD:286] Vault of Whispers
+SB: 4 [4ED:63] Blue Elemental Blast
+SB: 1 [BFZ:76] Dispel
+SB: 2 [ALL:72a] Gorilla Shaman
+SB: 3 [MRD:98] Krark-Clan Shaman
+SB: 1 [SCG:72] Reaping the Graves
+SB: 4 [4ED:218] Red Elemental Blast
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([MRD:172],[MRD:172],[MRD:172],[MRD:172],[MRD:211],[MRD:211],[MRD:211],[MRD:211])([M15:242],[M15:242],[M15:242],[M15:242],[MRD:282],[MRD:282],[MRD:282],[MRD:282],[MRD:283],[MRD:283],[MRD:283],[MRD:283],[MRD:285],[MRD:285],[MRD:285],[MRD:285],[MRD:286])([10E:314],[10E:314],[10E:314],[10E:314],[KLD:229],[KLD:229],[KLD:229],[KLD:229],[ALA:218],[BNG:162],[BNG:162],[BNG:162])([MRD:86],[MRD:86],[MRD:86],[MRD:86],[SOM:114],[SOM:114],[SOM:114],[SOM:114],[KLD:48],[KLD:48])([ELD:126],[ELD:126],[SOM:91],[SOM:91],[SOM:91],[SOM:91],[AER:39],[AER:39],[FRF:116])([MRD:54],[MRD:54],[MRD:54],[MRD:54])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,63)|([4ED:63],[4ED:63],[4ED:63],[4ED:63],[BFZ:76],[ALL:72a],[ALL:72a],[MRD:98],[MRD:98],[MRD:98],[4ED:218],[4ED:218],[4ED:218],[4ED:218])([SCG:72])

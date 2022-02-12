@@ -1,0 +1,86 @@
+1 [NPH:78] Act of Aggression
+1 [ELD:331] Arcane Signet
+1 [STX:295] Archmage Emeritus
+1 [ISD:130] Blasphemous Act
+1 [RNA:245] Blood Crypt
+1 [AVR:87] Bloodflow Connoisseur
+1 [CHK:273] Boseiju, Who Shelters All
+1 [8ED:64] Bribery
+1 [XLN:137] Captivating Crew
+1 [SCG:59] Carrion Feeder
+1 [EVE:175] Cascade Bluffs
+1 [ODY:76] Chamber of Manipulation
+1 [ELD:333] Command Tower
+1 [7ED:67] Counterspell
+1 [DIS:23] Cytoplast Manipulator
+1 [8ED:127] Deepwood Ghoul
+1 [SUM:105] Demonic Tutor
+1 [M21:142] Double Vision
+1 [AVR:133] Dual Casting
+1 [C21:165] Dualcaster Mage
+1 [CON:142] Exotic Orchard
+1 [M21:246] Fabled Passage
+1 [DKA:138] Falkenrath Aristocrat
+1 [ZNR:102] Feed the Swarm
+1 [9ED:297] Fellwar Stone
+1 [DKA:89] Flayer of the Hatebound
+1 [TMP:179] Goblin Bombardment
+1 [KTK:73] Grim Haruspex
+1 [XLN:59] Herald of Secret Streams
+1 [MMQ:320] High Market
+1 [MH2:281] Imperial Recruiter
+1 [6ED:75] Insight
+1 [GPT:152] Izzet Signet
+1 [KHM:216] Kardur, Doomscourge
+1 [AER:88] Kari Zev's Expertise
+1 [MRD:199] Lightning Greaves
+1 [JOU:163] Mana Confluence
+1 [M13:141] Mark of Mutiny
+1 [6ED:144] Mischievous Poltergeist
+1 [FRF:109] Mob Rule
+1 [GTC:101] Molten Primordial
+1 [KHM:346] Mystic Reflection
+1 [C21:306] Opal Palace
+1 [KLD:226] Panharmonicon
+1 [INV:306] Phyrexian Altar
+1 [USG:322] Phyrexian Tower
+1 [RIX:81] Pitiless Plunderer
+1 [THB:150] Purphoros, Bronze-Blooded
+1 [PCY:45] Rhystic Study
+1 [KHM:76] Saw It Coming
+1 [GTC:75] Sepulchral Primordial
+1 [KHM:150] Shackles of Treachery
+1 [USG:218] Sneak Attack
+1 [SUM:274] Sol Ring
+1 [STX:54] Solve the Equation
+1 [LRW:88] Sower of Temptation
+1 [GRN:257] Steam Vents
+1 [THB:68] Stern Dismissal
+1 [SHM:280] Sunken Ruins
+1 [M12:219] Swiftfoot Boots
+1 [H1R:34] Talisman of Creativity
+1 [M21:164] Terror of the Peaks
+1 [CMR:153] Tevesh Szat, Doom of Fools
+1 [THB:261] Thassa, Deep-Dwelling
+1 [IKO:237] The Ozolith
+1 [AFC:271] Thriving Moor
+1 [M21:241] Tormod's Crypt
+1 [2XM:110] Toxic Deluge
+1 [CMR:358] Training Center
+1 [M21:166] Traitorous Greed
+1 [AFR:79] Trickster's Talisman
+1 [ZNR:173] Tuktuk Rubblefort
+1 [SCG:79] Unspeakable Symbol
+1 [5DN:163] Vedalken Orrery
+1 [GRN:259] Watery Grave
+1 [AFR:370] Wizard's Spellbook
+1 [AER:74] Yahenni, Undying Partisan
+1 [J21:405] Yawgmoth, Thran Physician
+1 [AVR:166] Zealous Conscripts
+1 [ZNR:80] Silundi Vision
+3 [JMP:50] Island
+9 [JMP:66] Mountain
+7 [JMP:55] Swamp
+SB: 1 [C17:177] Marchesa, the Black Rose
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,88)|([ELD:331],[9ED:297],[GPT:152],[MRD:199],[KLD:226],[INV:306],[SUM:274],[M12:219],[H1R:34],[IKO:237],[M21:241],[AFR:79],[5DN:163],[AFR:370])([STX:295],[AVR:87],[XLN:137],[SCG:59],[DIS:23],[8ED:127],[C21:165],[DKA:138],[DKA:89],[KTK:73],[XLN:59],[MH2:281],[KHM:216],[6ED:144],[GTC:101],[RIX:81],[GTC:75],[LRW:88],[M21:164],[ZNR:173],[AER:74],[J21:405],[AVR:166])([THB:150],[THB:261])([ODY:76],[M21:142],[AVR:133],[TMP:179],[6ED:75],[PCY:45],[USG:218],[SCG:79])([NPH:78],[7ED:67],[KHM:346],[KHM:76],[THB:68],[ZNR:80])([RNA:245],[CHK:273],[EVE:175],[ELD:333],[CON:142],[M21:246],[MMQ:320],[JOU:163],[C21:306],[USG:322],[GRN:257],[SHM:280],[AFC:271],[CMR:358],[GRN:259],[JMP:50],[JMP:50],[JMP:50],[JMP:66],[JMP:66],[JMP:66],[JMP:66],[JMP:66],[JMP:66],[JMP:66],[JMP:66],[JMP:66],[JMP:55],[JMP:55],[JMP:55],[JMP:55],[JMP:55],[JMP:55],[JMP:55])([CMR:153])([ISD:130],[8ED:64],[SUM:105],[ZNR:102],[AER:88],[M13:141],[FRF:109],[KHM:150],[STX:54],[2XM:110],[M21:166])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C17:177])

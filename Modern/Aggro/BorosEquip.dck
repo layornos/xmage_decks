@@ -1,0 +1,31 @@
+1 [NPH:130] Batterskull
+4 [9ED:176] Blood Moon
+4 [J21:75] Esper Sentinel
+4 [ELD:124] Fervent Champion
+2 [MH2:126] Fury
+4 [KLD:246] Inspiring Vantage
+1 [MH2:227] Kaldra Compleat
+1 [ZNR:27] Maul of the Skyclaves
+2 [MH2:25] Prismatic Ending
+4 [H1R:40] Prismatic Vista
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [J21:115] Ranger-Captain of Eos
+3 [GRN:254] Sacred Foundry
+1 [KHM:282] Snow-Covered Mountain
+4 [KHM:276] Snow-Covered Plains
+4 [MH2:307] Solitude
+4 [WWK:20] Stoneforge Mystic
+2 [MH1:247] Sunbaked Canyon
+3 [DST:148] Sword of Fire and Ice
+4 [ZEN:211] Arid Mesa
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 1 [ELD:14] Giant Killer
+SB: 3 [RTR:18] Rest in Peace
+SB: 2 [M14:35] Silence
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [ISD:235] Trepanation Blade
+SB: 3 [DGM:135] Wear // Tear
+SB: 1 [MH2:384] Prismatic Ending
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([J21:75],[J21:75],[J21:75],[J21:75])([NPH:130],[MH2:227],[ZNR:27],[DST:148],[DST:148],[DST:148])([ELD:124],[ELD:124],[ELD:124],[ELD:124],[MH2:126],[MH2:126],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[J21:115],[J21:115],[J21:115],[J21:115],[MH2:307],[MH2:307],[MH2:307],[MH2:307],[WWK:20],[WWK:20],[WWK:20],[WWK:20])([9ED:176],[9ED:176],[9ED:176],[9ED:176])([KLD:246],[KLD:246],[KLD:246],[KLD:246],[H1R:40],[H1R:40],[H1R:40],[H1R:40],[GRN:254],[GRN:254],[GRN:254],[KHM:282],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[MH1:247],[MH1:247],[ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211])([MH2:25],[MH2:25])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([LRW:7],[LRW:7],[ELD:14],[M14:35],[M14:35])([RTR:18],[RTR:18],[RTR:18],[MH2:384])([MBS:138],[ISD:235],[DGM:135],[DGM:135],[DGM:135])([ROE:4])

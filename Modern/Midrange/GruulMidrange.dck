@@ -1,0 +1,32 @@
+4 [M13:160] Arbor Elf
+4 [9ED:176] Blood Moon
+4 [ARB:50] Bloodbraid Elf
+3 [ELD:115] Bonecrusher Giant
+2 [KLD:110] Chandra, Torch of Defiance
+1 [M21:179] Elder Gargaroth
+4 [KHM:398] Forest
+2 [AKH:134] Glorybringer
+3 [THB:220] Klothys, God of Destiny
+4 [M11:149] Lightning Bolt
+3 [FUT:101] Magus of the Moon
+2 [KHM:397] Mountain
+2 [MH1:244] Prismatic Vista
+4 [MH1:145] Seasoned Pyromancer
+4 [RNA:259] Stomping Ground
+1 [ONS:326] Tranquil Thicket
+4 [DIS:99] Utopia Sprawl
+1 [ZEN:229] Verdant Catacombs
+2 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+2 [MH1:217] Wrenn and Six
+SB: 2 [HOU:83] Abrade
+SB: 2 [8ED:237] Choke
+SB: 2 [RNA:161] Cindervines
+SB: 1 [MH1:158] Collector Ouphe
+SB: 1 [M21:179] Elder Gargaroth
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 2 [M11:188] Obstinate Baloth
+SB: 2 [7ED:207] Pillage
+SB: 2 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,6)(CMC,false,88)|([KHM:398],[KHM:398],[KHM:398],[KHM:398],[KHM:397],[KHM:397],[MH1:244],[MH1:244],[RNA:259],[RNA:259],[RNA:259],[RNA:259],[ONS:326],[ZEN:229],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([M13:160],[M13:160],[M13:160],[M13:160],[M11:149],[M11:149],[M11:149],[M11:149],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([MH1:217],[MH1:217])([9ED:176],[9ED:176],[9ED:176],[9ED:176],[THB:220],[THB:220],[THB:220],[FUT:101],[FUT:101],[FUT:101],[MH1:145],[MH1:145],[MH1:145],[MH1:145])([ARB:50],[ARB:50],[ARB:50],[ARB:50],[KLD:110],[KLD:110])([ELD:115],[ELD:115],[ELD:115],[M21:179],[AKH:134],[AKH:134])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([M20:227],[ALA:218],[ALA:218])([HOU:83],[HOU:83],[RNA:161],[RNA:161],[MH1:158])([8ED:237],[8ED:237],[7ED:207],[7ED:207])([M11:188],[M11:188])([M21:179])

@@ -1,0 +1,25 @@
+4 [KTK:230] Bloodstained Mire
+4 [GTC:148] Boros Charm
+4 [MH2:121] Dragon's Rage Channeler
+4 [JOU:94] Eidolon of the Great Revel
+4 [KLD:246] Inspiring Vantage
+4 [CHK:178] Lava Spike
+4 [M11:149] Lightning Bolt
+4 [RAV:213] Lightning Helix
+4 [CSP:138] Mishra's Bauble
+4 [KTK:118] Monastery Swiftspear
+3 [STX:372] Mountain
+2 [MH2:138] Ragavan, Nimble Pilferer
+4 [TSP:176] Rift Bolt
+2 [GRN:254] Sacred Foundry
+2 [ZEN:223] Scalding Tarn
+4 [WWK:90] Searing Blaze
+3 [MH1:247] Sunbaked Canyon
+SB: 3 [MRD:150] Chalice of the Void
+SB: 3 [KTK:173] Deflecting Palm
+SB: 3 [WWK:11] Kor Firewalker
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 4 [ORI:163] Smash to Smithereens
+SB: 1 [ZNR:156] Roiling Vortex
+LAYOUT MAIN:(1,4)(CMC,false,70)|([KTK:230],[KTK:230],[KTK:230],[KTK:230],[KLD:246],[KLD:246],[KLD:246],[KLD:246],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[STX:372],[STX:372],[STX:372],[GRN:254],[GRN:254],[ZEN:223],[ZEN:223],[MH1:247],[MH1:247],[MH1:247])([MH2:121],[MH2:121],[MH2:121],[MH2:121],[CHK:178],[CHK:178],[CHK:178],[CHK:178],[M11:149],[M11:149],[M11:149],[M11:149],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[MH2:138],[MH2:138])([GTC:148],[GTC:148],[GTC:148],[GTC:148],[JOU:94],[JOU:94],[JOU:94],[JOU:94],[RAV:213],[RAV:213],[RAV:213],[RAV:213],[WWK:90],[WWK:90],[WWK:90],[WWK:90])([TSP:176],[TSP:176],[TSP:176],[TSP:176])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([MRD:150],[MRD:150],[MRD:150])([KTK:173],[KTK:173],[KTK:173],[WWK:11],[WWK:11],[WWK:11],[ORI:163],[ORI:163],[ORI:163],[ORI:163],[ZNR:156])([IKO:226])

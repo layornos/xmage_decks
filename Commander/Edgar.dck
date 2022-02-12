@@ -1,0 +1,93 @@
+1 [WWK:49] Anowon, the Ruin Sage
+1 [AVR:86] Blood Artist
+1 [ISD:90] Bloodline Keeper
+1 [WWK:53] Butcher of Malakir
+1 [M11:87] Captivating Vampire
+1 [RIX:64] Champion of Dusk
+1 [VOC:125] Cordial Vampire
+1 [WAR:188] Cruel Celebrant
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [VOW:236] Edgar, Charmed Groom
+1 [RIX:157] Elenda, the Dusk Rose
+1 [MID:137] Falkenrath Pit Fighter
+1 [MID:223] Florian, Voldaren Scion
+1 [RIX:9] Forerunner of the Legion
+1 [AER:61] Gifted Aetherborn
+1 [SOI:118] Indulgent Aristocrat
+1 [M20:105] Knight of the Ebon Legion
+1 [RIX:163] Legion Lieutenant
+1 [ZEN:100] Malakir Bloodwitch
+1 [XLN:24] Mavren Fein, Dusk Apostle
+1 [ZNR:115] Nighthawk Scavenger
+1 [ISD:215] Olivia Voldaren
+1 [VOC:135] Patron of the Vein
+1 [ISD:158] Rakish Heir
+1 [XLN:120] Sanctum Seeker
+1 [DKA:143] Stromkirk Captain
+1 [RIX:88] Twilight Prophet
+1 [M13:112] Vampire Nighthawk
+1 [MID:249] Vampire Socialite
+1 [M20:120] Vampire of the Dire Moon
+1 [M11:120] Viscera Seer
+1 [M21:127] Vito, Thorn of the Dusk Rose
+1 [VOW:287] Welcoming Vampire
+1 [AER:74] Yahenni, Undying Partisan
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [ORI:245] Caves of Koilos
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [XLN:252] Dragonskull Summit
+1 [VOW:263] Evolving Wilds
+1 [RNA:248] Godless Shrine
+1 [DOM:241] Isolated Chapel
+1 [ZEN:219] Marsh Flats
+1 [KTK:237] Nomad Outpost
+1 [GPT:161] Orzhov Basilica
+1 [VOC:177] Path of Ancestry
+1 [GRN:254] Sacred Foundry
+1 [IKO:253] Savai Triome
+1 [CMR:356] Spectator Seating
+1 [XLN:258] Unclaimed Territory
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [CMR:360] Vault of Champions
+1 [VOW:267] Voldaren Estate
+2 [VOW:268] Plains
+8 [VOW:272] Swamp
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [ZEN:196] Blade of the Bloodchief
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [XLN:22] Legion's Landing
+2 [VOW:274] Mountain
+1 [SOI:242] Anguished Unmaking
+1 [GTC:148] Boros Charm
+1 [KTK:171] Crackling Doom
+1 [RNA:192] Mortify
+1 [STA:11] Teferi's Protection
+1 [MH2:396] Damn
+1 [SUM:105] Demonic Tutor
+1 [ORI:114] Read the Bones
+1 [ELD:331] Arcane Signet
+1 [RAV:255] Boros Signet
+1 [JMP:469] Herald's Horn
+1 [GPT:155] Orzhov Signet
+1 [DIS:165] Rakdos Signet
+1 [9ED:152] Phyrexian Arena
+1 [MOR:104] Shared Animosity
+1 [SOI:184] Stensia Masquerade
+1 [M20:115] Sorin, Imperious Bloodlord
+1 [ZEN:81] Blood Tribute
+1 [GTC:177] Merciless Eviction
+1 [C17:19] New Blood
+1 [M14:208] Door of Destinies
+1 [XLN:251] Vanquisher's Banner
+1 [AKH:2] Anointed Procession
+1 [M14:112] Sanguine Bond
+1 [WAR:217*] Sorin, Vengeful Bloodlord
+1 [IKO:204] Ruinous Ultimatum
+SB: 1 [PZ2:65693] Edgar Markov
+LAYOUT MAIN:(1,7)(CMC,false,70)|([MID:137],[SOI:118],[M20:105],[M20:120],[M11:120])([AVR:86],[VOC:125],[WAR:188],[AER:61],[RIX:163],[MID:249])([M11:87],[BFZ:109],[MID:223],[RIX:9],[XLN:24],[ZNR:115],[ISD:158],[DKA:143],[M13:112],[M21:127],[VOW:287],[AER:74])([ISD:90],[VOW:236],[RIX:157],[ISD:215],[XLN:120],[RIX:88])([WWK:49],[RIX:64],[ZEN:100])([VOC:135])([WWK:53],[RNA:245],[KTK:230],[WWK:132],[ORI:245],[DOM:239],[ELD:333],[XLN:252],[VOW:263],[IKO:204],[ZEN:81],[GTC:177],[C17:19],[M14:208],[XLN:251],[AKH:2],[M14:112],[WAR:217*],[RNA:248],[SOI:242],[GTC:148],[KTK:171],[RNA:192],[STA:11],[MH2:396],[SUM:105],[ORI:114],[ELD:331],[RAV:255],[JMP:469],[GPT:155],[DIS:165],[9ED:152],[MOR:104],[SOI:184],[M20:115],[CON:15],[ICE:54],[ZEN:196],[DST:140],[SUM:274],[XLN:22],[VOW:272],[VOW:272],[VOW:274],[VOW:274],[DOM:241],[ZEN:219],[IKO:253],[CMR:356],[XLN:258],[M15:248],[CMR:360],[VOW:267],[VOW:268],[VOW:268],[VOW:272],[VOW:272],[VOW:272],[VOW:272],[VOW:272],[VOW:272],[KTK:237],[GPT:161],[VOC:177],[GRN:254])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([PZ2:65693])

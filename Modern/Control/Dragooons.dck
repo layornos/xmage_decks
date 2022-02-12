@@ -1,0 +1,28 @@
+4 [MH1:40] Archmage's Charm
+2 [EVE:175] Cascade Bluffs
+2 [ELD:242] Castle Vantress
+3 [LRW:56] Cryptic Command
+4 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+4 [KHM:139] Goldspan Dragon
+6 [KHM:395] Island
+4 [M11:149] Lightning Bolt
+1 [FUT:52] Logic Knot
+1 [MH1:135] Magmatic Sinkhole
+1 [KHM:397] Mountain
+4 [M21:59] Opt
+4 [ZEN:223] Scalding Tarn
+4 [DTK:78] Silumgar's Scorn
+3 [ISD:78] Snapcaster Mage
+1 [DIS:33] Spell Snare
+4 [IKO:211] Sprite Dragon
+3 [GRN:257] Steam Vents
+1 [DOM:247] Sulfur Falls
+1 [MH1:244] Prismatic Vista
+SB: 4 [M20:42] Aether Gust
+SB: 4 [KLD:122] Madcap Experiment
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [GRN:192] Niv-Mizzet, Parun
+SB: 2 [SOM:193] Platinum Emperion
+LAYOUT MAIN:(1,7)(CMC,false,88)|([EVE:175],[EVE:175],[ELD:242],[ELD:242],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:397],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[GRN:257],[DOM:247],[MH1:244])([M11:149],[M11:149],[M11:149],[M11:149],[M21:59],[M21:59],[M21:59],[M21:59],[DIS:33])([FUT:52],[DTK:78],[DTK:78],[DTK:78],[DTK:78],[ISD:78],[ISD:78],[ISD:78],[IKO:211],[IKO:211],[IKO:211],[IKO:211])([MH1:40],[MH1:40],[MH1:40],[MH1:40],[MH1:52],[MH1:52],[MH1:52])([LRW:56],[LRW:56],[LRW:56])([KHM:139],[KHM:139],[KHM:139],[KHM:139])([MH1:135])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([M20:42],[M20:42],[M20:42],[M20:42])([ELD:58],[ELD:58])([KLD:122],[KLD:122],[KLD:122],[KLD:122])([GRN:192],[GRN:192])([SOM:193],[SOM:193])

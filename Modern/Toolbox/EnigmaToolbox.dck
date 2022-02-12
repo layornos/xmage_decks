@@ -1,0 +1,55 @@
+4 [AVR:167] Abundant Growth
+3 [M12:165] Birds of Paradise
+1 [JOU:62] Brain Maggot
+1 [RNA:246] Breeding Pool
+1 [THB:211] Calix, Destiny's Hand
+1 [ELD:335] Charming Prince
+1 [RNA:165] Deputy of Detention
+4 [THB:215] Enigmatic Incarnation
+1 [MB1:96] Ephemerate
+1 [5DN:86] Eternal Witness
+3 [ZNR:278] Forest
+1 [ZNR:328] Glasspool Mimic
+1 [RNA:251] Hallowed Fountain
+1 [ZNR:269] Island
+1 [IKO:250] Ketria Triome
+1 [SHM:229] Kitchen Finks
+1 [ZNR:109] Lithoform Blight
+1 [IKO:226] Lurrus of the Dream-Den
+1 [FUT:101] Magus of the Moon
+1 [ARB:8] Meddling Mage
+4 [ZEN:220] Misty Rainforest
+1 [ZNR:275] Mountain
+2 [THB:145] Omen of the Forge
+4 [THB:58] Omen of the Sea
+1 [GRN:253] Overgrown Tomb
+1 [M12:72] Phantasmal Image
+1 [ZNR:266] Plains
+4 [MH1:244] Prismatic Vista
+1 [OGW:157] Reflector Mage
+2 [AER:133] Renegade Rallier
+1 [M21:204] Scavenging Ooze
+1 [DIS:71] Seal of Fire
+3 [ZNR:322] Skyclave Apparition
+1 [NPH:159] Spellskite
+4 [ZEN:70] Spreading Seas
+1 [RNA:259] Stomping Ground
+3 [WAR:221*] Teferi, Time Raveler
+2 [GRN:258] Temple Garden
+1 [THB:229] Uro, Titan of Nature's Wrath
+4 [DIS:99] Utopia Sprawl
+4 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+SB: 1 [5DN:3] Auriok Champion
+SB: 1 [MH1:158] Collector Ouphe
+SB: 1 [RTR:173] Izzet Staticaster
+SB: 1 [WWK:11] Kor Firewalker
+SB: 1 [THB:222] Kunoros, Hound of Athreos
+SB: 1 [RNA:189] Lavinia, Azorius Renegade
+SB: 3 [DIS:71] Seal of Fire
+SB: 2 [XLN:81] Spell Pierce
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [FUT:93] Yixlid Jailer
+SB: 1 [IKO:232] Yorion, Sky Nomad
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,88)|([NPH:159])([M12:165],[M12:165],[M12:165],[ELD:335],[RNA:165],[5DN:86],[ZNR:328],[SHM:229],[IKO:226],[FUT:101],[ARB:8],[M12:72],[OGW:157],[AER:133],[AER:133],[M21:204],[ZNR:322],[ZNR:322],[ZNR:322],[THB:229])([JOU:62])([AVR:167],[AVR:167],[AVR:167],[AVR:167],[THB:215],[THB:215],[THB:215],[THB:215],[ZNR:109],[THB:145],[THB:145],[THB:58],[THB:58],[THB:58],[THB:58],[DIS:71],[ZEN:70],[ZEN:70],[ZEN:70],[ZEN:70],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([MB1:96])([RNA:246],[ZNR:278],[ZNR:278],[ZNR:278],[RNA:251],[ZNR:269],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ZNR:275],[GRN:253],[ZNR:266],[MH1:244],[MH1:244],[MH1:244],[MH1:244],[RNA:259],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([THB:211],[WAR:221*],[WAR:221*],[WAR:221*])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([DIS:71],[DIS:71],[DIS:71],[XLN:81],[XLN:81],[M20:198],[M20:198])([5DN:3],[MH1:158],[WWK:11],[RNA:189],[FUT:93])([RTR:173],[THB:222])([IKO:232])

@@ -1,0 +1,81 @@
+1 [M13:159] Acidic Slime
+1 [SOI:241] Altered Ego
+1 [PLC:35] Body Double
+1 [2XM:193] Brudiclad, Telchor Engineer
+1 [KTK:34] Clever Impersonator
+1 [M14:47] Clone
+1 [DIS:107] Coiling Oracle
+1 [GTC:33] Diluvian Primordial
+1 [MRD:165] Duplicant
+1 [RNA:124] End-Raze Forerunners
+1 [M12:55] Frost Titan
+1 [ZNC:6] Geode Rager
+1 [DKA:93] Hellrider
+1 [M15:178] Hornet Queen
+1 [M12:147] Inferno Titan
+1 [M19:61] Mirror Image
+1 [GTC:101] Molten Primordial
+1 [LRW:76] Mulldrifter
+1 [USG:88] Peregrine Drake
+1 [NPH:41] Phyrexian Ingester
+1 [DGM:92] Progenitor Mimic
+1 [RIX:167] Protean Raider
+1 [ZEN:178] Rampaging Baloths
+1 [M19:196] Reclamation Sage
+1 [M20:217] Risen Reef
+1 [CHK:239] Sakura-Tribe Elder
+1 [ZNC:83] Springbloom Druid
+1 [MB1:509] Stunt Double
+1 [WWK:115] Terastodon
+1 [ELD:323] Thorn Mammoth
+1 [DIS:34] Tidespout Tyrant
+1 [AVR:162] Tyrant of Discord
+1 [TSP:90] Vesuvan Shapeshifter
+1 [AKH:74] Vizier of Many Faces
+1 [RIX:94] Brass's Bounty
+1 [ISD:46] Cackling Counterpart
+1 [GRN:125] Circuitous Route
+1 [M21:177] Cultivate
+1 [GRN:37] Disdainful Stroke
+1 [SOI:59] Epiphany at the Drownyard
+1 [INV:57] Fact or Fiction
+1 [BNG:39] Fated Infatuation
+1 [ULG:32] Frantic Search
+1 [M21:186] Garruk's Uprising
+1 [DOM:164] Grow from the Ashes
+1 [RNA:178] Growth Spiral
+1 [ZEN:165] Harrow
+1 [IKO:164] Migration Path
+1 [IKO:318] Mythos of Illuna
+1 [ZNR:71] Negate
+1 [IKO:59] Neutralize
+1 [GRN:51] Quasiduplicate
+1 [M21:61] Rain of Revelation
+1 [M12:190] Rampant Growth
+1 [ONS:104] Read the Runes
+1 [MH1:211] Reap the Past
+1 [RNA:227] Repudiate // Replicate
+1 [ZEN:61] Rite of Replication
+1 [TSP:216] Search for Tomorrow
+1 [SOI:227] Second Harvest
+1 [KTK:207] Temur Ascendancy
+1 [ZNR:217] Vastwood Surge
+1 [5DN:165] Wayfarer's Bauble
+1 [2XM:310] Ash Barrens
+1 [BFZ:233] Blighted Woodland
+1 [ELD:333] Command Tower
+1 [IKO:247] Evolving Wilds
+1 [CON:142] Exotic Orchard
+11 [ZNR:278] Forest
+1 [KTK:234] Frontier Bivouac
+10 [ZNR:269] Island
+3 [ZNR:275] Mountain
+1 [ZNC:135] Myriad Landscape
+1 [WAR:274] Simic Guildgate
+1 [M11:229] Terramorphic Expanse
+1 [M21:257] Thornwood Falls
+1 [M19:260] Woodland Stream
+1 [ZNR:60] Glasspool Mimic
+SB: 1 [2XM:214] Riku of Two Reflections
+LAYOUT MAIN:(1,9)(CMC,false,70)|([2XM:310],[BFZ:233],[ELD:333],[IKO:247],[CON:142],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[KTK:234],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:275],[ZNR:275],[ZNR:275],[ZNC:135],[WAR:274],[M11:229],[M21:257],[M19:260])([SOI:59],[ONS:104],[5DN:165])([DIS:107],[CHK:239],[GRN:37],[RNA:178],[ZNR:71],[M12:190],[MH1:211])([M19:61],[RIX:167],[M19:196],[M20:217],[ZNC:83],[ISD:46],[M21:177],[BNG:39],[ULG:32],[M21:186],[DOM:164],[ZEN:165],[IKO:59],[GRN:51],[TSP:216],[KTK:207],[ZNR:60])([SOI:241],[KTK:34],[M14:47],[DKA:93],[MB1:509],[AKH:74],[GRN:125],[INV:57],[IKO:164],[IKO:318],[M21:61],[ZEN:61],[SOI:227],[ZNR:217])([M13:159],[PLC:35],[LRW:76],[USG:88],[TSP:90],[RNA:227])([2XM:193],[MRD:165],[M12:55],[ZNC:6],[M12:147],[DGM:92],[ZEN:178])([GTC:33],[M15:178],[GTC:101],[NPH:41],[ELD:323],[AVR:162],[RIX:94])([RNA:124],[WWK:115],[DIS:34])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([2XM:214])

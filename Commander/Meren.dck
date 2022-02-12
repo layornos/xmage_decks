@@ -1,0 +1,94 @@
+1 [M13:159] Acidic Slime
+1 [MH2:342] Archon of Cruelty
+1 [2XM:310] Ash Barrens
+1 [WWK:96] Avenger of Zendikar
+1 [M21:173] Azusa, Lost but Seeking
+1 [CC1:3] Bane of Progress
+1 [GRN:123] Beast Whisperer
+1 [STX:163] Beledros Witherbloom
+1 [M12:165] Birds of Paradise
+1 [NPH:104] Birthing Pod
+1 [AVR:86] Blood Artist
+1 [WWK:132] Bojuka Bog
+1 [JOU:62] Brain Maggot
+1 [ODY:118] Buried Alive
+1 [TOR:139] Cabal Coffers
+1 [ELD:241] Castle Locthwain
+1 [M15:172] Chord of Calling
+1 [MH1:158] Collector Ouphe
+1 [ELD:333] Command Tower
+1 [AVR:172] Craterhoof Behemoth
+1 [ULG:98] Crop Rotation
+1 [M19:229] Crucible of Worlds
+1 [PLC:85] Damnation
+1 [RTR:213] Deathrite Shaman
+1 [FUT:174] Dryad Arbor
+1 [RAV:161] Elves of Deep Shadow
+1 [M15:173] Elvish Mystic
+1 [ODY:132] Entomb
+1 [5DN:86] Eternal Witness
+1 [M21:246] Fabled Passage
+1 [WAR:160] Finale of Devastation
+7 [VOW:276] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [MID:103] Gisa, Glorious Resurrector
+1 [RAV:167] Golgari Grave-Troll
+1 [MBS:81] Green Sun's Zenith
+1 [MH2:202] Grist, the Hunger Tide
+1 [C21:389] Guardian Augmenter
+1 [MMQ:320] High Market
+1 [HOU:120] Hour of Promise
+1 [IKO:162] Kogla, the Titan Ape
+1 [RAV:172] Life from the Loam
+1 [M19:314] Llanowar Elves
+1 [ORI:248] Llanowar Wastes
+1 [M20:249] Lotus Field
+1 [KHM:184] Masked Vandal
+1 [TOR:69] Mesmeric Fiend
+1 [ZEN:220] Misty Rainforest
+1 [LRW:270] Mosswort Bridge
+1 [CMR:141] Opposition Agent
+1 [MID:190] Outland Liberator
+1 [GRN:253] Overgrown Tomb
+1 [INV:115] Phyrexian Delver
+1 [ULG:63] Phyrexian Reclamation
+1 [RNA:83] Priest of Forgotten Gods
+1 [HOU:129] Ramunap Excavator
+1 [M19:196] Reclamation Sage
+1 [ODY:159] Sadistic Hypnotist
+1 [CHK:239] Sakura-Tribe Elder
+1 [M15:198] Satyr Wayfinder
+1 [SOI:226] Seasons Past
+1 [NPH:73] Sheoldred, Whispering One
+1 [DTK:120] Sidisi, Undead Vizier
+1 [SUM:274] Sol Ring
+1 [PCY:126] Spore Frog
+1 [RAV:107] Stinkweed Imp
+3 [VOW:272] Swamp
+1 [SOI:245] The Gitrog Monster
+1 [DOM:173] The Mending of Dominaria
+1 [SOI:233] Tireless Tracker
+1 [MH2:287] Titania, Protector of Argoth
+1 [SOI:234] Traverse the Ulvenwald
+1 [KHM:272] Tyrite Sanctum
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ZEN:229] Verdant Catacombs
+1 [USG:166] Victimize
+1 [M11:120] Viscera Seer
+1 [KHM:199] Vorinclex, Monstrous Raider
+1 [NPH:127] Vorinclex, Voice of Hunger
+1 [STH:125] Wall of Blossoms
+1 [TSB:89] Wall of Roots
+1 [BFZ:102] Wasteland Strangler
+1 [OGW:183a] Wastes
+1 [SOI:281] Westvale Abbey
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [DOM:248] Woodland Cemetery
+1 [6ED:269] Worldly Tutor
+1 [MH2:261] Yavimaya, Cradle of Growth
+1 [J21:405] Yawgmoth, Thran Physician
+1 [C21:397] Yedora, Grave Gardener
+SB: 1 [SLD:52] Meren of Clan Nel Toth
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([NPH:104],[M19:229],[SUM:274])([M13:159],[MH2:342],[WWK:96],[M21:173],[CC1:3],[GRN:123],[STX:163],[M12:165],[AVR:86],[MH1:158],[AVR:172],[RTR:213],[RAV:161],[M15:173],[5DN:86],[ICE:244],[MID:103],[RAV:167],[C21:389],[IKO:162],[M19:314],[KHM:184],[TOR:69],[CMR:141],[MID:190],[INV:115],[RNA:83],[HOU:129],[M19:196],[ODY:159],[CHK:239],[M15:198],[NPH:73],[DTK:120],[PCY:126],[RAV:107],[SOI:245],[SOI:233],[MH2:287],[M11:120],[KHM:199],[NPH:127],[STH:125],[TSB:89],[BFZ:102],[J21:405],[C21:397])([JOU:62])([ULG:63],[DOM:173])([M15:172],[ULG:98],[ODY:132],[6ED:269])([FUT:174])([2XM:310],[WWK:132],[TOR:139],[ELD:241],[ELD:333],[M21:246],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[MMQ:320],[ORI:248],[M20:249],[ZEN:220],[LRW:270],[GRN:253],[VOW:272],[VOW:272],[VOW:272],[KHM:272],[M15:248],[ZEN:229],[OGW:183a],[SOI:281],[KTK:248],[KTK:249],[DOM:248],[MH2:261])([MH2:202])([ODY:118],[PLC:85],[WAR:160],[MBS:81],[HOU:120],[RAV:172],[SOI:226],[SOI:234],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([SLD:52])

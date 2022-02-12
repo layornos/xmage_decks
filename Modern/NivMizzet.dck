@@ -1,0 +1,48 @@
+2 [SOI:247] Nahiri, the Harbinger
+4 [WAR:221*] Teferi, Time Raveler
+4 [MH1:217] Wrenn and Six
+2 [M12:165] Birds of Paradise
+3 [WAR:208] Niv-Mizzet Reborn
+4 [ZNR:232] Omnath, Locus of Creation
+1 [KHM:114] Valki, God of Lies
+4 [BFZ:209] Bring to Light
+1 [RTR:157] Dreadbore
+1 [RTR:201] Supreme Verdict
+1 [GRN:212] Unmoored Ego
+3 [RTR:141] Abrupt Decay
+1 [GRN:152] Assassin's Trophy
+4 [MH1:205] Kaya's Guile
+1 [DTK:224] Kolaghan's Command
+4 [RAV:213] Lightning Helix
+4 [AVR:167] Abundant Growth
+4 [DIS:99] Utopia Sprawl
+1 [RNA:246] Breeding Pool
+1 [KHM:398] Forest
+1 [RNA:248] Godless Shrine
+1 [IKO:248] Indatha Triome
+1 [IKO:250] Ketria Triome
+3 [ZEN:220] Misty Rainforest
+1 [GRN:253] Overgrown Tomb
+3 [DIS:176] Pillar of the Paruns
+1 [KHM:278] Snow-Covered Island
+1 [KHM:282] Snow-Covered Mountain
+1 [KHM:276] Snow-Covered Plains
+1 [KHM:280] Snow-Covered Swamp
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+1 [GRN:258] Temple Garden
+2 [ZEN:229] Verdant Catacombs
+3 [KTK:248] Windswept Heath
+3 [KTK:249] Wooded Foothills
+1 [KHM:284] Snow-Covered Forest
+4 [MH1:244] Prismatic Vista
+SB: 1 [BFZ:128] Crumble to Dust
+SB: 1 [GRN:165] Deafening Clarion
+SB: 1 [JOU:7] Deicide
+SB: 3 [AER:57] Fatal Push
+SB: 1 [WAR:209] Oath of Kaya
+SB: 4 [THS:107] Thoughtseize
+SB: 3 [M20:198] Veil of Summer
+SB: 1 [IKO:232] Yorion, Sky Nomad
+LAYOUT MAIN:(1,6)(CMC,false,88)|([RNA:246],[KHM:398],[RNA:248],[IKO:248],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[GRN:253],[DIS:176],[DIS:176],[DIS:176],[KHM:278],[KHM:282],[KHM:276],[KHM:280],[GRN:257],[RNA:259],[GRN:258],[ZEN:229],[ZEN:229],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KHM:284],[MH1:244],[MH1:244],[MH1:244],[MH1:244])([M12:165],[M12:165],[AVR:167],[AVR:167],[AVR:167],[AVR:167],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([MH1:217],[MH1:217],[MH1:217],[MH1:217],[KHM:114],[RTR:157],[RTR:141],[RTR:141],[RTR:141],[GRN:152],[RAV:213],[RAV:213],[RAV:213],[RAV:213])([WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*],[GRN:212],[MH1:205],[MH1:205],[MH1:205],[MH1:205],[DTK:224])([SOI:247],[SOI:247],[ZNR:232],[ZNR:232],[ZNR:232],[ZNR:232],[RTR:201])([WAR:208],[WAR:208],[WAR:208],[BFZ:209],[BFZ:209],[BFZ:209],[BFZ:209])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([AER:57],[AER:57],[AER:57],[THS:107],[THS:107],[THS:107],[THS:107],[M20:198],[M20:198],[M20:198])([JOU:7])([GRN:165],[WAR:209])([BFZ:128])([IKO:232])

@@ -1,0 +1,90 @@
+1 [M21:173] Azusa, Lost but Seeking
+1 [ZNR:7] Canyon Jerboa
+1 [PLC:40] Dreamscape Artist
+1 [ZEN:11] Emeria Angel
+1 [BFZ:22] Emeria Shepherd
+1 [WAR:203] Living Twister
+1 [DOM:170] Llanowar Scout
+1 [ZNR:193] Lotus Cobra
+1 [OGW:156] Mina and Denn, Wildborn
+1 [ZNR:229] Murasa Rootgrazer
+1 [M20:216] Omnath, Locus of the Roil
+1 [ZNR:234] Phylath, World Sculptor
+1 [ZEN:178] Rampaging Baloths
+1 [WWK:19] Ruin Ghost
+1 [CHK:239] Sakura-Tribe Elder
+1 [SOK:144] Sakura-Tribe Scout
+1 [ZNR:203] Scute Swarm
+1 [10E:297] Skyshroud Ranger
+1 [WAR:68] Spark Double
+1 [M14:196] Sporemound
+1 [ZNC:83] Springbloom Druid
+1 [DOM:206] Tatyova, Benthic Druid
+1 [WWK:131] Walking Atlas
+1 [ORI:169] Animist's Awakening
+1 [M13:162] Boundless Realms
+1 [DOM:157] Broken Bond
+1 [AVR:12] Cloudshift
+1 [GRN:7] Crush Contraband
+1 [M21:177] Cultivate
+1 [FUT:144] Edge of Autumn
+1 [MB1:96] Ephemerate
+1 [ELD:189] Escape to the Wilds
+1 [SOI:61] Essence Flux
+1 [WWK:99] Explore
+1 [M13:170] Farseek
+1 [ZNR:16] Felidar Retreat
+1 [JOU:123] Font of Fertility
+1 [AVR:57] Ghostly Flicker
+1 [DOM:164] Grow from the Ashes
+1 [RNA:178] Growth Spiral
+1 [ZEN:165] Harrow
+1 [ZEN:167] Khalni Heart Expedition
+1 [IKO:164] Migration Path
+1 [TSP:29] Momentary Blink
+1 [ZNR:151] Nahiri's Lithoforming
+1 [ZNR:71] Negate
+1 [IKO:59] Neutralize
+1 [M12:190] Rampant Growth
+1 [MH1:211] Reap the Past
+1 [BFZ:82] Retreat to Coralhelm
+1 [BFZ:44] Retreat to Emeria
+1 [M21:63] Rewind
+1 [ZNR:201] Roiling Regrowth
+1 [TSP:216] Search for Tomorrow
+1 [DIS:180] Simic Growth Chamber
+1 [BNG:143] Unravel the Aether
+1 [GTC:204] Urban Evolution
+1 [ZNR:175] Valakut Exploration
+1 [ZNR:217] Vastwood Surge
+1 [5DN:165] Wayfarer's Bauble
+1 [ORI:209] Zendikar's Roil
+1 [DIS:170] Azorius Chancery
+1 [ALA:221] Bant Panorama
+1 [BFZ:233] Blighted Woodland
+1 [RAV:275] Boros Garrison
+1 [ELD:333] Command Tower
+1 [VIS:160] Coral Atoll
+1 [ALA:223] Esper Panorama
+1 [IKO:247] Evolving Wilds
+1 [MIR:326] Flood Plain
+10 [ZNR:278] Forest
+1 [MIR:327] Grasslands
+1 [ALA:224] Grixis Panorama
+1 [GPT:158] Gruul Turf
+2 [ZNR:269] Island
+1 [GPT:159] Izzet Boilerworks
+1 [ALA:225] Jund Panorama
+1 [JUD:141] Krosan Verge
+2 [ZNR:275] Mountain
+1 [MIR:328] Mountain Valley
+1 [ZNC:135] Myriad Landscape
+1 [ALA:227] Naya Panorama
+2 [ZNR:266] Plains
+1 [RAV:281] Selesnya Sanctuary
+1 [M11:229] Terramorphic Expanse
+1 [SOI:280] Warped Landscape
+1 [CHK:202] Budoka Gardener
+SB: 1 [ZNR:232] Omnath, Locus of Creation
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DIS:170],[ALA:221],[BFZ:233],[RAV:275],[ELD:333],[VIS:160],[ALA:223],[IKO:247],[MIR:326],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[MIR:327],[ALA:224],[GPT:158],[ZNR:269],[ZNR:269],[GPT:159],[ALA:225],[JUD:141],[ZNR:275],[ZNR:275],[MIR:328],[ZNC:135],[ALA:227],[ZNR:266],[ZNR:266],[RAV:281],[DIS:180],[M11:229],[SOI:280])([ORI:169],[AVR:12],[MB1:96],[SOI:61],[JOU:123],[SOK:144],[10E:297],[5DN:165])([DOM:157],[CHK:202],[PLC:40],[FUT:144],[WWK:99],[M13:170],[RNA:178],[ZEN:167],[DOM:170],[ZNR:193],[TSP:29],[ZNR:229],[ZNR:151],[ZNR:71],[M12:190],[MH1:211],[WWK:19],[CHK:239],[BNG:143],[WWK:131])([M21:173],[ZNR:7],[M21:177],[AVR:57],[DOM:164],[ZEN:165],[WAR:203],[IKO:59],[BFZ:82],[ZNR:201],[ZNR:203],[TSP:216],[ZNC:83],[ZNR:175])([GRN:7],[ZEN:11],[ZNR:16],[IKO:164],[OGW:156],[M20:216],[BFZ:44],[M21:63],[WAR:68],[ZNR:217])([ELD:189],[M14:196],[DOM:206],[GTC:204],[ORI:209])([ZNR:234],[ZEN:178])([M13:162],[BFZ:22])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNR:232])

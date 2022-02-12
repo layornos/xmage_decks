@@ -1,0 +1,82 @@
+1 [STX:119] Accomplished Alchemist
+1 [C21:11] Angel of the Ruins
+1 [ISD:170] Avacyn's Pilgrim
+1 [RNA:158] Biomancer's Familiar
+1 [FRF:64] Brutal Hordechief
+1 [THS:213] Burnished Hart
+1 [XLN:137] Captivating Crew
+1 [ORI:170] Caustic Caterpillar
+1 [VOC:82] Custodi Soulbinders
+1 [MMQ:17] Devout Witness
+1 [ODY:237] Diligent Farmhand
+1 [XLN:187] Drover of the Mighty
+1 [ALA:128] Druid of the Anima
+1 [M15:173] Elvish Mystic
+1 [C21:387] Ezzaroot Channeler
+1 [ELD:316] Faerie Formation
+1 [IKO:152] Fertilid
+1 [ZEN:161] Frontier Guide
+1 [ICE:244] Fyndhorn Elves
+1 [TSR:378] Grenzo, Dungeon Warden
+1 [AFR:223] Gretchen Titchwillow
+1 [JUD:120] Harvester Druid
+1 [MIC:26] Heronblade Elite
+1 [THB:174] Ilysian Caryatid
+1 [RNA:131] Incubation Druid
+1 [M12:181] Jade Mage
+1 [M21:191] Jolrael, Mwonvuli Recluse
+1 [C20:92] Kalemne's Captain
+1 [THS:160] Karametra's Acolyte
+1 [ZNR:226] Linvala, Shield of Sea Gate
+1 [M19:314] Llanowar Elves
+1 [DOM:170] Llanowar Scout
+1 [TSP:203] Magus of the Candelabra
+1 [DOM:172] Marwyn, the Nurturer
+1 [AKH:176] Naga Vitalist
+1 [J21:753] Ornithopter of Paradise
+1 [MID:190] Outland Liberator
+1 [WAR:171] Paradise Druid
+1 [DIS:123] Plaxcaster Frogling
+1 [PLS:90] Quirion Explorer
+1 [KTK:144] Rattleclaw Mystic
+1 [C16:162] Realm Seekers
+1 [CHK:239] Sakura-Tribe Elder
+1 [AFR:204] Scaled Herbalist
+1 [FRF:113] Shaman of the Great Hunt
+1 [TMP:255] Skyshroud Elf
+1 [10E:297] Skyshroud Ranger
+1 [DOM:205] Slimefoot, the Stowaway
+1 [DIS:94] Sporeback Troll
+1 [SOM:205] Steel Hellkite
+1 [KHM:230] Svella, Ice Shaper
+1 [5DN:93] Sylvok Explorer
+1 [C20:16] Tayam, Luminous Enigma
+1 [APC:90] Urborg Elf
+1 [MRD:138] Viridian Joiner
+1 [GTC:206] Vizkopa Guildmage
+1 [LGN:144] Wirewood Channeler
+1 [ONS:80] Dispersing Orb
+1 [AFR:180] Druid Class
+1 [GTC:229] Glaring Spotlight
+1 [10E:29*] Mobilization
+1 [ALA:181] Necrogenesis
+1 [2XM:310] Ash Barrens
+1 [BFZ:233] Blighted Woodland
+1 [ELD:333] Command Tower
+1 [VOW:263] Evolving Wilds
+1 [CON:142] Exotic Orchard
+17 [VOW:276] Forest
+3 [VOW:270] Island
+1 [JUD:141] Krosan Verge
+2 [VOW:274] Mountain
+1 [VOC:176] Myriad Landscape
+1 [VOC:177] Path of Ancestry
+2 [VOW:268] Plains
+1 [RIX:166] Profane Procession
+2 [VOW:272] Swamp
+1 [ZNR:211] Tangled Florahedron
+1 [M11:229] Terramorphic Expanse
+SB: 1 [ELD:303] Kenrith, the Returned King
+SB: 1 [IKO:233] Zirda, the Dawnwaker
+LAYOUT MAIN:(1,8)(CMC,false,70)|([2XM:310],[BFZ:233],[ELD:333],[VOW:263],[CON:142],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:270],[VOW:270],[VOW:270],[JUD:141],[VOW:274],[VOW:274],[VOC:176],[VOC:177],[VOW:268],[VOW:268],[VOW:272],[VOW:272],[M11:229])([ISD:170],[ORI:170],[ODY:237],[M15:173],[ICE:244],[M19:314],[TSP:203],[10E:297],[GTC:229])([RNA:158],[XLN:187],[ALA:128],[ZEN:161],[TSR:378],[AFR:223],[JUD:120],[THB:174],[RNA:131],[M12:181],[M21:191],[DOM:170],[AKH:176],[J21:753],[MID:190],[WAR:171],[PLS:90],[KTK:144],[CHK:239],[AFR:204],[TMP:255],[5DN:93],[APC:90],[GTC:206],[AFR:180],[ALA:181],[ZNR:211])([THS:213],[MMQ:17],[IKO:152],[MIC:26],[ZNR:226],[DOM:172],[DIS:123],[DOM:205],[KHM:230],[MRD:138],[10E:29*],[RIX:166])([STX:119],[FRF:64],[XLN:137],[VOC:82],[THS:160],[FRF:113],[DIS:94],[C20:16],[LGN:144])([ELD:316],[C20:92],[ONS:80])([C21:387],[C16:162],[SOM:205])([C21:11])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([ELD:303])([IKO:233])

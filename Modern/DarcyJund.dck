@@ -1,0 +1,37 @@
+1 [ZEN:201] Expedition Map
+1 [SOM:187] Nihil Spellbomb
+1 [THB:236] Shadowspear
+2 [THS:107] Thoughtseize
+2 [M11:149] Lightning Bolt
+2 [ARB:46] Terminate
+4 [CSP:138] Mishra's Bauble
+4 [MH2:145] Unholy Heat
+4 [MH1:217] Wrenn and Six
+4 [ROE:115] Inquisition of Kozilek
+4 [FUT:153] Tarmogoyf
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [MH2:121] Dragon's Rage Channeler
+1 [STX:372] Mountain
+1 [GRN:253] Overgrown Tomb
+1 [RNA:259] Stomping Ground
+1 [STX:370] Swamp
+1 [STX:374] Forest
+2 [ZEN:229] Verdant Catacombs
+2 [RNA:245] Blood Crypt
+2 [KTK:249] Wooded Foothills
+4 [MH2:259] Urza's Saga
+4 [SOM:224] Blackcleave Cliffs
+4 [KTK:230] Bloodstained Mire
+SB: 1 [MH2:242] Void Mirror
+SB: 2 [NPH:162] Torpor Orb
+SB: 1 [MRD:232] Pyrite Spellbomb
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [5DN:118] Engineered Explosives
+SB: 2 [MRD:150] Chalice of the Void
+SB: 1 [ISD:127] Ancient Grudge
+SB: 2 [M19:128] Alpine Moon
+SB: 1 [SOM:187] Nihil Spellbomb
+SB: 1 [THS:107] Thoughtseize
+SB: 2 [ARB:46] Terminate
+LAYOUT MAIN:(1,3)(CMC,false,70)|([CSP:138],[CSP:138],[CSP:138],[CSP:138],[STX:372],[GRN:253],[RNA:259],[STX:370],[STX:374],[ZEN:229],[ZEN:229],[RNA:245],[RNA:245],[KTK:249],[KTK:249],[MH2:259],[MH2:259],[MH2:259],[MH2:259],[SOM:224],[SOM:224],[SOM:224],[SOM:224],[KTK:230],[KTK:230],[KTK:230],[KTK:230])([ZEN:201],[SOM:187],[THB:236],[THS:107],[THS:107],[M11:149],[M11:149],[MH2:145],[MH2:145],[MH2:145],[MH2:145],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[MH2:121],[MH2:121],[MH2:121],[MH2:121])([ARB:46],[ARB:46],[MH1:217],[MH1:217],[MH1:217],[MH1:217],[FUT:153],[FUT:153],[FUT:153],[FUT:153])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118],[MRD:150],[MRD:150])([MRD:232],[M19:128],[M19:128],[SOM:187],[THS:107])([MH2:242],[NPH:162],[NPH:162],[ISD:127],[ARB:46],[ARB:46])([IKO:226])

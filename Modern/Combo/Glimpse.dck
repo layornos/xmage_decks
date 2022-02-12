@@ -1,0 +1,38 @@
+4 [MH2:342] Archon of Cruelty
+3 [ARB:38] Demonic Dread
+1 [ROE:4] Emrakul, the Aeons Torn
+1 [STX:374] Forest
+1 [TSP:274] Gemstone Caverns
+4 [TSB:119] Gemstone Mine
+3 [MH2:129] Glimpse of Tomorrow
+3 [MH2:311] Grief
+1 [STX:368] Island
+1 [IKO:250] Ketria Triome
+4 [WWK:138] Khalni Garden
+1 [M20:26] Leyline of Sanctity
+3 [M20:107] Leyline of the Void
+3 [ZEN:220] Misty Rainforest
+2 [ELD:58] Mystical Dispute
+2 [M13:199] Nicol Bolas, Planeswalker
+3 [M19:65] Omniscience
+3 [MH2:292] Shardless Agent
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+1 [STX:370] Swamp
+2 [M21:1] Ugin, the Spirit Dragon
+3 [ZEN:229] Verdant Catacombs
+4 [ARB:63] Violent Outburst
+1 [GRN:259] Watery Grave
+3 [MH2:217] Wavesifter
+1 [IKO:259] Zagoth Triome
+SB: 2 [NPH:103] Beast Within
+SB: 1 [TSP:274] Gemstone Caverns
+SB: 2 [LRW:180] Ingot Chewer
+SB: 2 [M20:26] Leyline of Sanctity
+SB: 1 [M20:107] Leyline of the Void
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [WWK:87] Ricochet Trap
+SB: 2 [M20:194] Shifting Ceratops
+SB: 1 [M21:1] Ugin, the Spirit Dragon
+LAYOUT MAIN:(1,7)(CMC,false,70)|([STX:374],[TSP:274],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[MH2:129],[MH2:129],[MH2:129],[STX:368],[IKO:250],[WWK:138],[WWK:138],[WWK:138],[WWK:138],[ZEN:220],[ZEN:220],[ZEN:220],[GRN:257],[RNA:259],[STX:370],[ZEN:229],[ZEN:229],[ZEN:229],[GRN:259],[IKO:259])([ARB:38],[ARB:38],[ARB:38],[ELD:58],[ELD:58],[MH2:292],[MH2:292],[MH2:292],[ARB:63],[ARB:63],[ARB:63],[ARB:63])([MH2:311],[MH2:311],[MH2:311],[M20:26],[M20:107],[M20:107],[M20:107])([MH2:217],[MH2:217],[MH2:217])([MH2:342],[MH2:342],[MH2:342],[MH2:342],[M13:199],[M13:199],[M21:1],[M21:1])([M19:65],[M19:65],[M19:65])([ROE:4])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([TSP:274])([NPH:103],[NPH:103],[ELD:58],[ELD:58])([M20:26],[M20:26],[M20:107],[WWK:87],[WWK:87],[M20:194],[M20:194])([LRW:180],[LRW:180])([M21:1])

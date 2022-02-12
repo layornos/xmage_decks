@@ -1,0 +1,25 @@
+4 [MH1:40] Archmage's Charm
+4 [EVE:175] Cascade Bluffs
+4 [LRW:56] Cryptic Command
+4 [ROE:4] Emrakul, the Aeons Torn
+2 [5DN:118] Engineered Explosives
+7 [KHM:395] Island
+4 [M11:149] Lightning Bolt
+4 [M21:59] Opt
+1 [SHM:278] Reflecting Pool
+4 [RAV:63] Remand
+4 [ZNR:264] Riverglide Pathway
+4 [ISD:78] Snapcaster Mage
+4 [KLD:249] Spirebluff Canal
+2 [GRN:257] Steam Vents
+4 [CHK:193] Through the Breach
+4 [ZNR:174] Valakut Awakening
+SB: 2 [M20:42] Aether Gust
+SB: 2 [THS:112] Anger of the Gods
+SB: 2 [ROE:145] Flame Slash
+SB: 4 [KLD:122] Madcap Experiment
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [SOM:193] Platinum Emperion
+SB: 1 [MOR:55] Vendilion Clique
+LAYOUT MAIN:(1,7)(CMC,false,70)|([EVE:175],[EVE:175],[EVE:175],[EVE:175],[5DN:118],[5DN:118],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[SHM:278],[ZNR:264],[ZNR:264],[ZNR:264],[ZNR:264],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257])([M11:149],[M11:149],[M11:149],[M11:149],[M21:59],[M21:59],[M21:59],[M21:59])([RAV:63],[RAV:63],[RAV:63],[RAV:63],[ISD:78],[ISD:78],[ISD:78],[ISD:78])([MH1:40],[MH1:40],[MH1:40],[MH1:40],[ZNR:174],[ZNR:174],[ZNR:174],[ZNR:174])([LRW:56],[LRW:56],[LRW:56],[LRW:56])([CHK:193],[CHK:193],[CHK:193],[CHK:193])([ROE:4],[ROE:4],[ROE:4],[ROE:4])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([ROE:145],[ROE:145])([M20:42],[M20:42])([THS:112],[THS:112],[ELD:58],[ELD:58],[MOR:55])([KLD:122],[KLD:122],[KLD:122],[KLD:122])([SOM:193],[SOM:193])

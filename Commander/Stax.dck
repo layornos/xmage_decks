@@ -1,0 +1,84 @@
+1 [ZNR:315] Archon of Emeria
+1 [AKH:5] Aven Mindcensor
+1 [RTR:210] Azor's Elocutors
+1 [MBS:21] Consecrated Sphinx
+1 [IKO:11] Drannith Magistrate
+1 [J21:75] Esper Sentinel
+1 [MRD:36] Fatespinner
+1 [M12:19] Grand Abolisher
+1 [ELD:18] Hushbringer
+1 [RNA:189] Lavinia, Azorius Renegade
+1 [ROE:33] Linvala, Keeper of Silence
+1 [M21:27] Mangara, the Diplomat
+1 [GPT:18] Spelltithe Enforcer
+1 [STX:294] Strict Proctor
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [STX:286] Wandering Archaic
+1 [10E:60*] Windborn Muse
+1 [MMQ:61] Brainstorm
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [WAR:193] Dovin's Veto
+1 [6ED:19] Enlightened Tutor
+1 [C20:35] Fierce Guardianship
+1 [ALL:28] Force of Will
+1 [LEG:65] Mana Drain
+1 [6ED:83] Mystical Tutor
+1 [ZNR:71] Negate
+1 [CON:15] Path to Exile
+1 [DGM:96] Render Silent
+1 [RTR:200] Sphinx's Revelation
+1 [THS:65] Swan Song
+1 [ICE:54] Swords to Plowshares
+1 [AKH:4] Approach of the Second Sun
+1 [M12:73] Ponder
+1 [M11:70] Preordain
+1 [STX:54] Solve the Equation
+1 [RTR:201] Supreme Verdict
+1 [WAR:223] Time Wipe
+1 [10E:61] Wrath of God
+1 [ELD:331] Arcane Signet
+1 [DIS:159] Azorius Signet
+1 [9ED:297] Fellwar Stone
+1 [WAR:238] God-Pharaoh's Statue
+1 [CMR:319] Jeweled Lotus
+1 [2XM:270] Mana Crypt
+1 [NPH:17] Norn's Annex
+1 [CHK:268] Sensei's Divining Top
+1 [SUM:274] Sol Ring
+1 [MRD:256] Talisman of Progress
+1 [5ED:408] Winter Orb
+1 [10E:6] Aura of Silence
+1 [KLD:5] Authority of the Consuls
+1 [GTC:6] Blind Obedience
+1 [CHK:10] Ghostly Prison
+1 [4ED:34] Land Tax
+1 [ICE:87] Mystic Remora
+1 [TMP:80] Propaganda
+1 [RTR:18] Rest in Peace
+1 [PCY:45] Rhystic Study
+1 [RNA:22] Smothering Tithe
+1 [RTR:24] Sphere of Safety
+1 [WAR:229*] Dovin, Hand of Control
+1 [WAR:61*] Narset, Parter of Veils
+1 [MID:245] Teferi, Who Slows the Sunset
+1 [DIS:170] Azorius Chancery
+1 [ELD:333] Command Tower
+1 [MID:260] Deserted Beach
+1 [KTK:233] Flooded Strand
+1 [XLN:255] Glacial Fortress
+1 [RNA:251] Hallowed Fountain
+1 [KHM:260] Hengegate Pathway
+1 [AKH:245] Irrigated Farmland
+1 [FUT:178] Nimbus Maze
+1 [SOI:278] Port Town
+1 [BFZ:241] Prairie Stream
+1 [M19:254] Reliquary Tower
+1 [ZNE:16] Sea of Clouds
+1 [THB:246] Temple of Enlightenment
+11 [VOW:268] Plains
+9 [VOW:270] Island
+SB: 1 [DIS:112] Grand Arbiter Augustin IV
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([J21:75])([ELD:331],[DIS:159],[9ED:297],[WAR:238],[CMR:319],[2XM:270],[NPH:17],[CHK:268],[SUM:274],[MRD:256],[5ED:408])([ZNR:315],[AKH:5],[RTR:210],[MBS:21],[IKO:11],[MRD:36],[M12:19],[ELD:18],[RNA:189],[ROE:33],[M21:27],[GPT:18],[STX:294],[VOW:318],[EMN:46],[STX:286],[10E:60*])([10E:6],[KLD:5],[GTC:6],[CHK:10],[4ED:34],[ICE:87],[TMP:80],[RTR:18],[PCY:45],[RNA:22],[RTR:24])([MMQ:61],[7ED:67],[RTR:35],[WAR:193],[6ED:19],[C20:35],[ALL:28],[LEG:65],[6ED:83],[ZNR:71],[CON:15],[DGM:96],[RTR:200],[THS:65],[ICE:54])([DIS:170],[ELD:333],[MID:260],[KTK:233],[XLN:255],[RNA:251],[KHM:260],[AKH:245],[FUT:178],[SOI:278],[BFZ:241],[M19:254],[ZNE:16],[THB:246],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270])([WAR:229*],[WAR:61*],[MID:245])([AKH:4],[M12:73],[M11:70],[STX:54],[RTR:201],[WAR:223],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([DIS:112])

@@ -1,0 +1,37 @@
+2 [RTR:141] Abrupt Decay
+4 [MH1:220] Arcum's Astrolabe
+4 [MMQ:61] Brainstorm
+2 [MH1:85] Dead of Winter
+1 [KTK:233] Flooded Strand
+2 [MH1:52] Force of Negation
+4 [ALL:28] Force of Will
+4 [MH1:203] Ice-Fang Coatl
+1 [LEG:303] Karakas
+4 [ZEN:220] Misty Rainforest
+3 [ELD:197] Oko, Thief of Crowns
+2 [KTK:239] Polluted Delta
+4 [M12:73] Ponder
+2 [MH1:244] Prismatic Vista
+2 [CSP:155] Snow-Covered Forest
+3 [CSP:152] Snow-Covered Island
+1 [CSP:151] Snow-Covered Plains
+1 [CSP:153] Snow-Covered Swamp
+4 [ICE:54] Swords to Plowshares
+2 [5ED:329] Sylvan Library
+1 [SUM:288] Tropical Island
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+4 [THB:229] Uro, Titan of Nature's Wrath
+1 [SUM:291] Volcanic Island
+SB: 2 [USG:240] Carpet of Flowers
+SB: 1 [M12:11] Celestial Purge
+SB: 1 [ELD:10] Deafening Silence
+SB: 2 [ZEN:57] Mindbreak Trap
+SB: 1 [SOM:187] Nihil Spellbomb
+SB: 2 [MH1:100] Plague Engineer
+SB: 2 [5ED:262] Pyroblast
+SB: 1 [4ED:218] Red Elemental Blast
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,5)(CMC,false,70)|([KTK:233],[LEG:303],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[MH1:244],[MH1:244],[CSP:155],[CSP:155],[CSP:152],[CSP:152],[CSP:152],[CSP:151],[CSP:153],[SUM:288],[SUM:289],[SUM:290],[SUM:291])([MH1:220],[MH1:220],[MH1:220],[MH1:220],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[M12:73],[M12:73],[M12:73],[M12:73],[ICE:54],[ICE:54],[ICE:54],[ICE:54])([RTR:141],[RTR:141],[MH1:203],[MH1:203],[MH1:203],[MH1:203],[5ED:329],[5ED:329])([MH1:85],[MH1:85],[MH1:52],[MH1:52],[ELD:197],[ELD:197],[ELD:197],[THB:229],[THB:229],[THB:229],[THB:229])([ALL:28],[ALL:28],[ALL:28],[ALL:28])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([USG:240],[USG:240],[ELD:10],[SOM:187],[5ED:262],[5ED:262],[4ED:218],[NPH:74],[NPH:74],[M20:198])([M12:11])([MH1:100],[MH1:100])([ZEN:57],[ZEN:57])

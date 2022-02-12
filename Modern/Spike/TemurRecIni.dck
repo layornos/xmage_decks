@@ -1,0 +1,28 @@
+4 [H1R:7] Archmage's Charm
+1 [RNA:246] Breeding Pool
+2 [ELD:242] Castle Vantress
+4 [7ED:67] Counterspell
+3 [RNA:178] Growth Spiral
+3 [DOM:240] Hinterland Harbor
+4 [AFR:266] Island
+3 [IKO:250] Ketria Triome
+4 [M11:149] Lightning Bolt
+3 [MID:62] Memory Deluge
+4 [ZEN:220] Misty Rainforest
+1 [M19:306] Nexus of Fate
+2 [SHM:278*] Reflecting Pool
+4 [ZEN:223] Scalding Tarn
+4 [IKO:319] Shark Typhoon
+4 [ISD:78] Snapcaster Mage
+1 [GRN:257] Steam Vents
+3 [MH2:145] Unholy Heat
+3 [RNA:149] Wilderness Reclamation
+3 [MH1:217] Wrenn and Six
+SB: 2 [M19:128] Alpine Moon
+SB: 2 [ISD:127] Ancient Grudge
+SB: 3 [MH2:157] Endurance
+SB: 3 [5DN:118] Engineered Explosives
+SB: 3 [MH1:255] Flusterstorm
+SB: 2 [H1R:24] Weather the Storm
+LAYOUT MAIN:(1,7)(CMC,false,70)|([RNA:246],[ELD:242],[ELD:242],[DOM:240],[DOM:240],[DOM:240],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[IKO:250],[IKO:250],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[SHM:278*],[SHM:278*],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257])([M11:149],[M11:149],[M11:149],[M11:149],[MH2:145],[MH2:145],[MH2:145])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[RNA:178],[RNA:178],[RNA:178],[ISD:78],[ISD:78],[ISD:78],[ISD:78],[MH1:217],[MH1:217],[MH1:217])([H1R:7],[H1R:7],[H1R:7],[H1R:7])([MID:62],[MID:62],[MID:62],[RNA:149],[RNA:149],[RNA:149])([IKO:319],[IKO:319],[IKO:319],[IKO:319])([M19:306])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118],[5DN:118],[5DN:118])([M19:128],[M19:128],[MH1:255],[MH1:255],[MH1:255])([ISD:127],[ISD:127],[H1R:24],[H1R:24])([MH2:157],[MH2:157],[MH2:157])

@@ -1,0 +1,37 @@
+1 [IKO:311] Raugrin Triome
+4 [SLU:2] Scalding Tarn
+4 [KTK:233] Flooded Strand
+1 [RNA:251] Hallowed Fountain
+1 [GRN:257] Steam Vents
+3 [UST:213] Island
+1 [UST:212] Plains
+1 [UST:215] Mountain
+3 [PF19:1] Lightning Bolt
+3 [ISD:78] Snapcaster Mage
+2 [EMA:57] Jace, the Mind Sculptor
+3 [PRM:72233] Teferi, Time Raveler
+2 [DOM:207] Teferi, Hero of Dominaria
+3 [MH1:52] Force of Negation
+3 [IKO:67] Shark Typhoon
+3 [P06:7] Lightning Helix
+3 [P09:1] Cryptic Command
+4 [UMA:243] Flagstones of Trokair
+4 [ZNR:137] Cleansing Wildfire
+2 [P07:2] Condemn
+2 [P05:5] Mana Leak
+1 [RTR:201] Supreme Verdict
+1 [MMA:51] Logic Knot
+1 [ELD:390] Castle Vantress
+1 [C20:299] Prairie Stream
+1 [SHM:278] Reflecting Pool
+1 [GRN:254] Sacred Foundry
+1 [BBD:132] Spell Snare
+SB: 4 [KLD:122] Madcap Experiment
+SB: 3 [M20:42] Aether Gust
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [SOM:193] Platinum Emperion
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 1 [M19:306] Nexus of Fate
+SB: 1 [MH1:52] Force of Negation
+LAYOUT MAIN:(1,7)(CMC,false,70)|([IKO:311],[SLU:2],[SLU:2],[SLU:2],[SLU:2],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[GRN:257],[UST:213],[UST:213],[UST:213],[UST:212],[UST:215],[UMA:243],[UMA:243],[UMA:243],[UMA:243],[ELD:390],[C20:299],[SHM:278],[GRN:254])([PF19:1],[PF19:1],[PF19:1],[P07:2],[P07:2],[P05:5],[P05:5],[ISD:78],[ISD:78],[ISD:78],[ZNR:137],[ZNR:137],[ZNR:137],[ZNR:137],[P06:7],[P06:7],[P06:7],[BBD:132])([MMA:51])([PRM:72233],[PRM:72233],[MH1:52],[MH1:52],[MH1:52],[PRM:72233],[RTR:201])([EMA:57],[EMA:57],[P09:1],[P09:1],[P09:1])([DOM:207],[DOM:207])([IKO:67],[IKO:67],[IKO:67])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([ELD:58],[ELD:58],[MH1:52])([KLD:122],[KLD:122],[KLD:122],[KLD:122])([M20:42],[M20:42],[M20:42])([M19:306])([SOM:193],[KLD:40],[KLD:40],[SOM:193])

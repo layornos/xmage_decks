@@ -1,0 +1,51 @@
+3 [ZNR:278] Forest
+1 [ISD:239] Gavony Township
+4 [ISD:240] Ghost Quarter
+1 [FUT:177] Horizon Canopy
+2 [ZNR:266] Plains
+4 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [M21:173] Azusa, Lost but Seeking
+4 [M12:165] Birds of Paradise
+4 [BNG:119] Courser of Kruphix
+1 [5DN:86] Eternal Witness
+4 [CON:113] Knight of the Reliquary
+4 [CON:87] Noble Hierarch
+2 [HOU:129] Ramunap Excavator
+1 [M21:204] Scavenging Ooze
+2 [SOI:233] Tireless Tracker
+2 [DTK:177] Collected Company
+4 [CON:15] Path to Exile
+4 [MH1:197] Eladamri's Call
+1 [ZNR:39] Skyclave Apparition
+1 [DGM:114] Voice of Resurgence
+4 [UMA:243] Flagstones of Trokair
+1 [AKH:5] Aven Mindcensor
+4 [RTR:248] Temple Garden
+SB: 6 [JOU:10] Eidolon of Rhetoric
+SB: 1 [EMN:155] Eldritch Evolution
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [AKH:15] Gideon's Intervention
+SB: 1 [SOK:14] Kataki, War's Wage
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [AVR:210] Sigarda, Host of Herons
+SB: 2 [ISD:36] Stony Silence
+SB: 2 [NPH:74] Surgical Extraction
+SB: 4 [M20:198] Veil of Summer
+SB: 4 [TMP:219] Choke
+SB: 3 [ZNR:39] Skyclave Apparition
+SB: 4 [DOM:213] Damping Sphere
+SB: 4 [5DN:3] Auriok Champion
+SB: 4 [JMP:119] Linvala, Keeper of Silence
+SB: 4 [ALA:218] Relic of Progenitus
+SB: 2 [DGM:114] Voice of Resurgence
+SB: 1 [AKH:5] Aven Mindcensor
+SB: 2 [RAV:172] Life from the Loam
+SB: 1 [M21:204] Scavenging Ooze
+SB: 2 [5DN:86] Eternal Witness
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 2 [DTK:177] Collected Company
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,88)|([M21:173],[M12:165],[M12:165],[M12:165],[M12:165],[5DN:86],[CON:113],[CON:113],[CON:113],[CON:113],[CON:87],[CON:87],[CON:87],[CON:87],[HOU:129],[HOU:129],[SOI:233],[SOI:233])([BNG:119],[BNG:119],[BNG:119],[BNG:119])([DTK:177],[DTK:177],[CON:15],[CON:15],[CON:15],[CON:15],[MH1:197],[MH1:197],[MH1:197],[MH1:197])([ZNR:278],[ZNR:278],[ZNR:278],[ISD:239],[ISD:240],[ISD:240],[ISD:240],[ISD:240],[FUT:177],[ZNR:266],[ZNR:266],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[UMA:243],[UMA:243],[UMA:243],[UMA:243],[RTR:248],[RTR:248],[RTR:248],[RTR:248])([ZNR:39],[AKH:5])([M21:204])([DGM:114])
+LAYOUT SIDEBOARD:(2,12)(CMC,false,63)|([5DN:118],[5DN:118])()([M20:198],[M20:198],[M20:198],[M20:198],[NPH:74],[NPH:74])([DOM:213],[DOM:213],[DOM:213],[DOM:213],[SOK:14],[ISD:36],[ISD:36])([TMP:219],[TMP:219],[TMP:219],[TMP:219],[EMN:155],[JOU:10],[JOU:10],[M19:196])([JOU:10],[JOU:10],[JOU:10],[JOU:10])([ZNR:39],[ZNR:39],[ZNR:39])([5DN:3],[5DN:3],[5DN:3],[5DN:3])([JMP:119],[JMP:119],[JMP:119],[JMP:119],[ROE:33],[AKH:15])([ALA:218],[ALA:218],[ALA:218],[ALA:218])([AVR:210])([THS:9])([AKH:5])([DGM:114],[DGM:114])([RAV:172],[RAV:172])([M21:204],[5DN:86],[HOU:129])([DTK:177],[5DN:86],[DTK:177])()()()()()()()

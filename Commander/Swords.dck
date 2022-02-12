@@ -1,0 +1,89 @@
+1 [AFC:218] Sword of the Animist
+1 [2XM:300] Sword of War and Peace
+1 [CMR:475] Sword of Vengeance
+1 [MH1:229] Sword of Truth and Justice
+1 [MH1:228] Sword of Sinew and Steel
+1 [2XM:298] Sword of Light and Shadow
+1 [MH2:238] Sword of Hearth and Home
+1 [2XM:297] Sword of Fire and Ice
+1 [2XM:296] Sword of Feast and Famine
+1 [2XM:295] Sword of Body and Mind
+1 [KHM:299] Halvar, God of Battle
+1 [DOM:217] Helm of the Host
+1 [CHK:169] Godo, Bandit Warlord
+1 [CMR:384] Sigarda's Aid
+1 [MH2:328] Esper Sentinel
+1 [AFC:69] Puresteel Paladin
+1 [PGPX:2016] Stoneforge Mystic
+1 [5DN:19] Steelshaper's Gift
+1 [CMR:387] Swords to Plowshares
+1 [ONS:185] Aggravated Assault
+1 [MOR:24] Stonehewer Giant
+1 [CMR:34] Open the Armory
+1 [KHM:250] Axgard Armory
+1 [J20:2] Enlightened Tutor
+1 [CMR:617] Armored Skyhunter
+1 [CMR:10] Ardenn, Intrepid Archaeologist
+1 [CMR:370] Danitha Capashen, Paragon
+1 [VOC:92] Knight of the White Orchid
+1 [AFR:222] Fighter Class
+1 [AFC:72] Sram, Senior Edificer
+1 [ZNR:220] Akiri, Fearless Voyager
+1 [DDG:17] Kinsbaile Cavalier
+1 [ELD:122] Embereth Shieldbreaker
+1 [PM11:35*] Sun Titan
+1 [CMR:290] Reyav, Master Smith
+1 [E02:3] Path to Exile
+1 [SLD:138] Anguished Unmaking
+1 [H1R:2] Generous Gift
+1 [STX:188] Fracture
+1 [VMA:154] Chaos Warp
+1 [CMR:656] Vampiric Tutor
+1 [PUMA:U8] Demonic Tutor
+1 [CM2:160] Merciless Eviction
+1 [5DN:55] Night's Whisper
+1 [C16:275] Sunforger
+1 [2XM:260] Hammer of Nazahn
+1 [C21:12] Archaeomancer's Map
+1 [2XM:20] Land Tax
+1 [RNA:22] Smothering Tithe
+1 [KHM:211] Forging the Tyrite Sword
+1 [C14:286] Buried Ruin
+1 [TSR:287] Urborg, Tomb of Yawgmoth
+1 [UMA:236] Ancient Tomb
+1 [AFC:214] Rakdos Signet
+1 [CMD:255] Orzhov Signet
+1 [C15:247] Boros Signet
+1 [AFC:197] Arcane Signet
+1 [MPS:24] Sol Ring
+1 [AFC:219] Talisman of Indulgence
+1 [MH1:233] Talisman of Hierarchy
+1 [MH1:230] Talisman of Conviction
+1 [C19:237] Command Tower
+1 [RNA:248] Godless Shrine
+1 [GTC:245] Sacred Foundry
+1 [IKO:312] Savai Triome
+1 [C20:294] Nomad Outpost
+1 [RTR:238] Blood Crypt
+1 [MD1:16] Isolated Chapel
+1 [PDOM:239p] Clifftop Retreat
+1 [M11:223] Dragonskull Summit
+1 [CMR:356] Spectator Seating
+1 [CMR:715] Vault of Champions
+1 [BBD:82] Luxury Suite
+1 [SLU:1] Marsh Flats
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:211] Arid Mesa
+7 [UNH:136] Plains
+5 [UNH:139] Mountain
+4 [UNH:138] Swamp
+1 [PM20:105p] Knight of the Ebon Legion
+1 [ELD:360] Fervent Champion
+1 [ELD:97] Murderous Rider
+1 [MID:235] Rem Karolus, Stalwart Slayer
+1 [PELD:1p] Acclaimed Contender
+1 [ELD:205] Wintermoor Commander
+1 [C14:247] Loxodon Warhammer
+SB: 1 [ELD:330] Syr Gwyn, Hero of Ashvale
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MH2:328])([C21:12],[2XM:260],[DOM:217],[C16:275],[2XM:295],[2XM:296],[2XM:297],[MH2:238],[2XM:298],[MH1:228],[MH1:229],[CMR:475],[2XM:300],[AFC:218],[AFC:214],[CMD:255],[C15:247],[AFC:197],[MPS:24],[AFC:219],[MH1:233],[MH1:230],[C14:247])([ZNR:220],[CMR:10],[CMR:617],[CMR:370],[ELD:122],[CHK:169],[KHM:299],[DDG:17],[VOC:92],[AFC:69],[CMR:290],[AFC:72],[PGPX:2016],[MOR:24],[PM11:35*],[PM20:105p],[ELD:360],[ELD:97],[MID:235],[PELD:1p],[ELD:205])([ONS:185],[AFR:222],[KHM:211],[2XM:20],[CMR:384],[RNA:22])([SLD:138],[VMA:154],[J20:2],[STX:188],[H1R:2],[E02:3],[CMR:387],[CMR:656])([UMA:236],[KHM:250],[C14:286],[TSR:287],[C19:237],[RNA:248],[GTC:245],[IKO:312],[C20:294],[RTR:238],[MD1:16],[PDOM:239p],[M11:223],[CMR:356],[CMR:715],[BBD:82],[SLU:1],[KTK:230],[ZEN:211],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:139],[UNH:138],[UNH:138],[UNH:138],[UNH:138])([PUMA:U8],[CM2:160],[5DN:55],[CMR:34],[5DN:19])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([ELD:330])

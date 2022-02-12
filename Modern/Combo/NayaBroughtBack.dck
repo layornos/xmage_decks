@@ -1,0 +1,31 @@
+4 [ZEN:211] Arid Mesa
+4 [M20:9] Brought Back
+1 [BFZ:234] Canopy Vista
+3 [ZNR:16] Felidar Retreat
+1 [ISD:240] Ghost Quarter
+1 [MH1:241] Hall of Heliod's Generosity
+2 [CON:113] Knight of the Reliquary
+3 [IKO:226] Lurrus of the Dream-Den
+4 [CSP:138] Mishra's Bauble
+2 [ZNE:27] Prismatic Vista
+3 [AER:133] Renegade Rallier
+1 [GRN:254] Sacred Foundry
+4 [CHK:239] Sakura-Tribe Elder
+4 [DIS:71] Seal of Fire
+4 [KHM:229] Showdown of the Skalds
+2 [KHM:284] Snow-Covered Forest
+2 [KHM:282] Snow-Covered Mountain
+4 [KHM:276] Snow-Covered Plains
+1 [RNA:259] Stomping Ground
+1 [M12:39] Sun Titan
+1 [MH1:247] Sunbaked Canyon
+1 [GRN:258] Temple Garden
+4 [KTK:248] Windswept Heath
+3 [MH1:217] Wrenn and Six
+SB: 4 [TSB:55] Avalanche Riders
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 2 [JOU:7] Deicide
+SB: 4 [MH1:20] On Thin Ice
+SB: 3 [THB:237] Soul-Guide Lantern
+LAYOUT MAIN:(1,6)(CMC,false,70)|([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[BFZ:234],[ISD:240],[MH1:241],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[ZNE:27],[ZNE:27],[GRN:254],[KHM:284],[KHM:284],[KHM:282],[KHM:282],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[RNA:259],[MH1:247],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248])([DIS:71],[DIS:71],[DIS:71],[DIS:71])([M20:9],[M20:9],[M20:9],[M20:9],[CHK:239],[CHK:239],[CHK:239],[CHK:239],[MH1:217],[MH1:217],[MH1:217])([CON:113],[CON:113],[IKO:226],[IKO:226],[IKO:226],[AER:133],[AER:133],[AER:133])([ZNR:16],[ZNR:16],[ZNR:16],[KHM:229],[KHM:229],[KHM:229],[KHM:229])([M12:39])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([LRW:7],[LRW:7],[MH1:20],[MH1:20],[MH1:20],[MH1:20],[THB:237],[THB:237],[THB:237])([JOU:7],[JOU:7])([TSB:55],[TSB:55],[TSB:55],[TSB:55])

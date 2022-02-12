@@ -1,0 +1,38 @@
+3 [ELD:115] Bonecrusher Giant
+4 [MMQ:61] Brainstorm
+1 [ELD:281] Brazen Borrower
+4 [NEM:30] Daze
+4 [ISD:51] Delver of Secrets
+2 [C20:34] Ethereal Forager
+4 [ALL:28] Force of Will
+1 [ROE:146] Forked Bolt
+4 [M11:149] Lightning Bolt
+3 [KTK:239] Polluted Delta
+4 [M12:73] Ponder
+2 [M11:70] Preordain
+1 [5ED:262] Pyroblast
+4 [ZEN:223] Scalding Tarn
+1 [ISD:78] Snapcaster Mage
+2 [KHM:278] Snow-Covered Island
+1 [KHM:282] Snow-Covered Mountain
+1 [XLN:81] Spell Pierce
+1 [DIS:33] Spell Snare
+4 [IKO:211] Sprite Dragon
+1 [SUM:288] Tropical Island
+3 [SUM:291] Volcanic Island
+4 [TMP:330] Wasteland
+1 [KTK:249] Wooded Foothills
+SB: 1 [HOU:83] Abrade
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [MH1:255] Flusterstorm
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [LEG:303] Karakas
+SB: 1 [THB:220] Klothys, God of Destiny
+SB: 2 [5ED:262] Pyroblast
+SB: 1 [PLC:114] Rough // Tumble
+SB: 2 [NEM:48] Submerge
+SB: 1 [SCG:106] Sulfuric Vortex
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [5ED:329] Sylvan Library
+LAYOUT MAIN:(1,6)(CMC,false,100)|([KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KHM:278],[KHM:278],[KHM:282],[SUM:288],[SUM:291],[SUM:291],[SUM:291],[TMP:330],[TMP:330],[TMP:330],[TMP:330],[KTK:249])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ISD:51],[ISD:51],[ISD:51],[ISD:51],[ROE:146],[M11:149],[M11:149],[M11:149],[M11:149],[M12:73],[M12:73],[M12:73],[M12:73],[M11:70],[M11:70],[5ED:262],[XLN:81],[DIS:33])([NEM:30],[NEM:30],[NEM:30],[NEM:30],[ISD:78],[IKO:211],[IKO:211],[IKO:211],[IKO:211])([ELD:115],[ELD:115],[ELD:115],[ELD:281])([ALL:28],[ALL:28],[ALL:28],[ALL:28])([C20:34],[C20:34])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([LEG:303])([MH1:255],[M20:227],[5ED:262],[5ED:262],[NPH:74],[NPH:74])([HOU:83],[ISD:127],[5ED:329])([THB:220],[SCG:106])([NEM:48],[NEM:48])([PLC:114])

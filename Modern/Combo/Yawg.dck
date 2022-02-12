@@ -1,0 +1,36 @@
+2 [M12:165] Birds of Paradise
+1 [AVR:86] Blood Artist
+3 [KLD:243] Blooming Marsh
+4 [M15:172] Chord of Calling
+1 [FUT:174] Dryad Arbor
+4 [EMN:155] Eldritch Evolution
+1 [PLC:145] Essence Warden
+2 [MID:276] Forest
+3 [DKA:63] Geralf's Messenger
+2 [MH2:202] Grist, the Hunger Tide
+1 [AKH:199] Hapatra, Vizier of Poisons
+4 [MH2:166] Ignoble Hierarch
+1 [ZEN:220] Misty Rainforest
+2 [MH1:243] Nurturing Peatland
+2 [GRN:253] Overgrown Tomb
+4 [DKA:127] Strangleroot Geist
+1 [MID:272] Swamp
+3 [EVE:180] Twilight Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:229] Verdant Catacombs
+4 [TSB:89] Wall of Roots
+1 [KTK:249] Wooded Foothills
+1 [MH2:261] Yavimaya, Cradle of Growth
+4 [J21:405] Yawgmoth, Thran Physician
+4 [DKA:134] Young Wolf
+SB: 1 [MID:168] Augur of Autumn
+SB: 2 [MH2:157] Endurance
+SB: 2 [H1R:21] Force of Vigor
+SB: 3 [M21:116] Necromentia
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [M21:204] Scavenging Ooze
+SB: 3 [THS:107] Thoughtseize
+SB: 1 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([M12:165],[M12:165],[AVR:86],[PLC:145],[DKA:63],[DKA:63],[DKA:63],[AKH:199],[MH2:166],[MH2:166],[MH2:166],[MH2:166],[DKA:127],[DKA:127],[DKA:127],[DKA:127],[TSB:89],[TSB:89],[TSB:89],[TSB:89],[J21:405],[J21:405],[J21:405],[J21:405],[DKA:134],[DKA:134],[DKA:134],[DKA:134])([M15:172],[M15:172],[M15:172],[M15:172])([FUT:174])([KLD:243],[KLD:243],[KLD:243],[MID:276],[MID:276],[ZEN:220],[MH1:243],[MH1:243],[GRN:253],[GRN:253],[MID:272],[EVE:180],[EVE:180],[EVE:180],[M15:248],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[MH2:261])([MH2:202],[MH2:202])([EMN:155],[EMN:155],[EMN:155],[EMN:155])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([THS:107],[THS:107],[THS:107],[M20:198])([M21:204])([MID:168],[MH2:157],[MH2:157],[M21:116],[M21:116],[M21:116],[M19:196])([H1R:21],[H1R:21],[M11:188])

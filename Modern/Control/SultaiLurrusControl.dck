@@ -1,0 +1,35 @@
+3 [MH1:40] Archmage's Charm
+1 [RNA:246] Breeding Pool
+1 [THB:87] Cling to Dust
+3 [LRW:56] Cryptic Command
+4 [ELD:188] Drown in the Loch
+4 [AER:57] Fatal Push
+2 [MH1:52] Force of Negation
+2 [DOM:240] Hinterland Harbor
+4 [MH1:203] Ice-Fang Coatl
+1 [FUT:52] Logic Knot
+4 [CSP:138] Mishra's Bauble
+4 [ZEN:220] Misty Rainforest
+4 [KTK:239] Polluted Delta
+1 [ZNE:27] Prismatic Vista
+1 [SHM:278] Reflecting Pool
+3 [ISD:78] Snapcaster Mage
+1 [KHM:284] Snow-Covered Forest
+4 [KHM:278] Snow-Covered Island
+1 [KHM:280] Snow-Covered Swamp
+1 [SHM:280] Sunken Ruins
+3 [FUT:153] Tarmogoyf
+4 [DKA:52] Thought Scour
+1 [ULG:72] Unearth
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+SB: 2 [M20:42] Aether Gust
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 2 [THB:180] Mystic Repeal
+SB: 2 [SOM:187] Nihil Spellbomb
+SB: 2 [RTR:231] Pithing Needle
+SB: 2 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(CMC,false,70)|([RNA:246],[DOM:240],[DOM:240],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZNE:27],[SHM:278],[KHM:284],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:280],[SHM:280],[ZEN:229],[GRN:259],[IKO:259])([THB:87],[AER:57],[AER:57],[AER:57],[AER:57],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[ULG:72])([ELD:188],[ELD:188],[ELD:188],[ELD:188],[MH1:203],[MH1:203],[MH1:203],[MH1:203],[FUT:52],[ISD:78],[ISD:78],[ISD:78],[FUT:153],[FUT:153],[FUT:153])([MH1:40],[MH1:40],[MH1:40],[MH1:52],[MH1:52])([LRW:56],[LRW:56],[LRW:56])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118],[5DN:118])([THB:180],[THB:180],[SOM:187],[SOM:187],[RTR:231],[RTR:231],[THS:107],[THS:107])([M20:42],[M20:42])([IKO:226])

@@ -1,0 +1,22 @@
+4 [NPH:57] Dismember
+4 [XLN:196] Kumena's Speaker
+4 [TSB:24] Lord of Atlantis
+4 [M13:59] Master of the Pearl Trident
+4 [RIX:164] Merfolk Mistbinder
+4 [DOM:56] Merfolk Trickster
+4 [RIX:53] Silvergill Adept
+2 [ZEN:70] Spreading Seas
+4 [MPS:6] Aether Vial
+4 [KLD:244] Botanical Sanctum
+4 [PUMA:U32] Cavern of Souls
+4 [M14:228] Mutavault
+4 [UST:213] Island
+2 [MH1:249] Waterlogged Grove
+4 [ZNR:60] Glasspool Mimic
+4 [DTK:177] Collected Company
+SB: 4 [MRD:150] Chalice of the Void
+SB: 4 [ALA:218] Relic of Progenitus
+SB: 3 [XLN:206] Shapers' Sanctuary
+SB: 4 [MH1:52] Force of Negation
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([MPS:6],[MPS:6],[MPS:6],[MPS:6])([ZNR:60],[ZNR:60],[ZNR:60],[ZNR:60],[XLN:196],[XLN:196],[XLN:196],[XLN:196],[TSB:24],[TSB:24],[TSB:24],[TSB:24],[M13:59],[M13:59],[M13:59],[M13:59],[RIX:164],[RIX:164],[RIX:164],[RIX:164],[DOM:56],[DOM:56],[DOM:56],[DOM:56],[RIX:53],[RIX:53],[RIX:53],[RIX:53])([ZEN:70],[ZEN:70])([DTK:177],[DTK:177],[DTK:177],[DTK:177],[NPH:57],[NPH:57],[NPH:57],[NPH:57])([KLD:244],[KLD:244],[KLD:244],[KLD:244],[PUMA:U32],[PUMA:U32],[PUMA:U32],[PUMA:U32],[UST:213],[UST:213],[UST:213],[M14:228],[M14:228],[M14:228],[M14:228],[MH1:249],[MH1:249],[UST:213])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([MRD:150],[MRD:150],[MRD:150],[MRD:150])([ALA:218],[ALA:218],[XLN:206],[XLN:206],[ALA:218],[ALA:218],[XLN:206])([MH1:52],[MH1:52],[MH1:52],[MH1:52])

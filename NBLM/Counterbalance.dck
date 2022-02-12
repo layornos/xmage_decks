@@ -1,0 +1,23 @@
+4 [CSP:31] Counterbalance
+4 [LRW:79] Ponder
+2 [2XM:56] Jace, the Mind Sculptor
+3 [MM3:26] Terminus
+4 [EMA:232] Sensei's Divining Top
+3 [PRM:72233] Teferi, Time Raveler
+4 [STA:15] Counterspell
+2 [CMR:84] Preordain
+4 [MH2:25] Prismatic Ending
+4 [NPH:38] Mental Misstep
+2 [E02:3] Path to Exile
+2 [FRF:20] Monastery Mentor
+1 [IKO:251] Raugrin Triome
+5 [PGRU:2] Island
+4 [ONS:316] Flooded Strand
+4 [ONS:321] Polluted Delta
+3 [PGRU:1] Plains
+3 [RTR:241] Hallowed Fountain
+2 [TSR:408] Mystic Sanctuary
+SB: 2 [FRF:20] Monastery Mentor
+SB: 1 [PRM:72233] Teferi, Time Raveler
+LAYOUT MAIN:(1,6)(CMC,false,70)|([IKO:251],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[PGRU:2],[ONS:316],[ONS:316],[ONS:316],[ONS:316],[ONS:321],[ONS:321],[ONS:321],[ONS:321],[PGRU:1],[PGRU:1],[PGRU:1],[RTR:241],[RTR:241],[RTR:241],[TSR:408],[TSR:408])([NPH:38],[NPH:38],[NPH:38],[NPH:38],[E02:3],[E02:3],[LRW:79],[LRW:79],[LRW:79],[LRW:79],[CMR:84],[CMR:84],[MH2:25],[MH2:25],[MH2:25],[MH2:25],[EMA:232],[EMA:232],[EMA:232],[EMA:232])([CSP:31],[CSP:31],[CSP:31],[CSP:31],[STA:15],[STA:15],[STA:15],[STA:15])([FRF:20],[FRF:20],[PRM:72233],[PRM:72233],[PRM:72233])([2XM:56],[2XM:56])([MM3:26],[MM3:26],[MM3:26])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([FRF:20],[FRF:20],[PRM:72233])

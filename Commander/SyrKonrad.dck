@@ -1,0 +1,81 @@
+1 [ELD:350] Ayara, First of Locthwain
+1 [AVR:86] Blood Artist
+1 [GTC:61] Crypt Ghast
+1 [RAV:81] Dark Confidant
+1 [ZNR:97] Demon's Disciple
+1 [ORI:98] Fleshbag Marauder
+1 [RAV:87] Golgari Thug
+1 [DKA:64] Gravecrawler
+1 [THB:355] Gray Merchant of Asphodel
+1 [KTK:73] Grim Haruspex
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [FRF:76] Merciless Executioner
+1 [ELD:287] Murderous Rider
+1 [CMR:141] Opposition Agent
+1 [ROE:122] Pawn of Ulamog
+1 [RIX:81] Pitiless Plunderer
+1 [GRN:82] Plaguecrafter
+1 [M19:116] Reassembling Skeleton
+1 [M21:239] Solemn Simulacrum
+1 [RAV:107] Stinkweed Imp
+1 [M19:121] Stitcher's Supplier
+1 [CMR:155] Tormod, the Desecrator
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [VOW:133] Undead Butler
+1 [M11:120] Viscera Seer
+1 [BFZ:126] Zulaport Cutthroat
+1 [TOR:51] Cabal Ritual
+1 [MMQ:129] Dark Ritual
+1 [C20:42] Deadly Rollick
+1 [ODY:132] Entomb
+1 [ZNR:111] Malakir Rebirth
+1 [SOM:80] Tainted Strike
+1 [6ED:161] Vampiric Tutor
+1 [ODY:118] Buried Alive
+1 [PLC:85] Damnation
+1 [SUM:105] Demonic Tutor
+1 [PLS:42] Diabolic Intent
+1 [ZNR:102] Feed the Swarm
+1 [TMP:142] Living Death
+1 [JUD:70] Morality Shift
+1 [5DN:55] Night's Whisper
+1 [TMP:151] Reanimate
+1 [M15:114] Sign in Blood
+1 [2XM:110] Toxic Deluge
+1 [TMP:276] Altar of Dementia
+1 [KTK:216] Altar of the Brood
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [SUM:235] Basalt Monolith
+1 [ZEN:201] Expedition Map
+1 [TMP:292] Jet Medallion
+1 [CMR:319] Jeweled Lotus
+1 [MRD:199] Lightning Greaves
+1 [2XM:270] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [MRD:204] Mesmeric Orb
+1 [NPH:144] Mindcrank
+1 [INV:306] Phyrexian Altar
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [5ED:140] Animate Dead
+1 [ZEN:82] Bloodchief Ascension
+1 [10E:144] Grave Pact
+1 [5ED:182] Necropotence
+1 [9ED:152] Phyrexian Arena
+1 [MID:112] The Meathook Massacre
+1 [STH:74] Tortured Existence
+1 [WAR:97*] Liliana, Dreadhorde General
+1 [TMP:315] Ancient Tomb
+1 [WWK:132] Bojuka Bog
+1 [TOR:139] Cabal Coffers
+1 [DOM:238] Cabal Stronghold
+1 [ZEN:212] Crypt of Agadeem
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [USG:322] Phyrexian Tower
+1 [KHM:280] Snow-Covered Swamp
+1 [M15:248] Urborg, Tomb of Yawgmoth
+22 [SWS:260a] Swamp
+SB: 1 [ELD:107] Syr Konrad, the Grim
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,88)|([M21:239])([TMP:276],[KTK:216],[ELD:331],[6ED:274],[SUM:235],[ZEN:201],[TMP:292],[CMR:319],[MRD:199],[2XM:270],[5ED:388],[MRD:204],[NPH:144],[INV:306],[DST:140],[SUM:274])([ELD:350],[AVR:86],[GTC:61],[RAV:81],[ZNR:97],[ORI:98],[RAV:87],[DKA:64],[THB:355],[KTK:73],[ROE:6],[FRF:76],[ELD:287],[CMR:141],[ROE:122],[RIX:81],[GRN:82],[M19:116],[RAV:107],[M19:121],[CMR:155],[ROE:12],[VOW:133],[M11:120],[BFZ:126])([5ED:140],[ZEN:82],[10E:144],[5ED:182],[9ED:152],[MID:112],[STH:74])([TOR:51],[MMQ:129],[C20:42],[ODY:132],[ZNR:111],[SOM:80],[6ED:161])([TMP:315],[WWK:132],[TOR:139],[DOM:238],[ZEN:212],[THS:223],[USG:322],[KHM:280],[M15:248],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a],[SWS:260a])([WAR:97*])([ODY:118],[PLC:85],[SUM:105],[PLS:42],[ZNR:102],[TMP:142],[JUD:70],[5DN:55],[TMP:151],[M15:114],[2XM:110])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([ELD:107])

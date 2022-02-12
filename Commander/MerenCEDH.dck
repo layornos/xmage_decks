@@ -1,0 +1,95 @@
+1 [RTR:141] Abrupt Decay
+1 [TMP:315] Ancient Tomb
+1 [5ED:140] Animate Dead
+1 [UDS:51] Apprentice Necromancer
+1 [M13:160] Arbor Elf
+1 [GRN:152] Assassin's Trophy
+1 [SUM:283] Bayou
+1 [M12:165] Birds of Paradise
+1 [NPH:104] Birthing Pod
+1 [KTK:230] Bloodstained Mire
+1 [UDS:53] Body Snatcher
+1 [ODY:118] Buried Alive
+1 [USG:240] Carpet of Flowers
+1 [SCG:59] Carrion Feeder
+1 [ORI:170] Caustic Caterpillar
+1 [MRD:150] Chalice of the Void
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [MH1:158] Collector Ouphe
+1 [ELD:333] Command Tower
+1 [STX:172] Culling Ritual
+1 [EXO:55] Culling the Weak
+1 [RAV:81] Dark Confidant
+1 [MMQ:129] Dark Ritual
+1 [MH2:397] Dauthi Voidwalker
+1 [RTR:213] Deathrite Shaman
+1 [SUM:105] Demonic Tutor
+1 [PLS:42] Diabolic Intent
+1 [MRD:62] Disciple of the Vault
+1 [FUT:174] Dryad Arbor
+1 [TMP:222] Earthcraft
+1 [EMN:155] Eldritch Evolution
+1 [RAV:161] Elves of Deep Shadow
+1 [M15:173] Elvish Mystic
+1 [ODY:132] Entomb
+1 [5DN:86] Eternal Witness
+1 [WAR:160] Finale of Devastation
+1 [SOK:68] Footsteps of the Goryo
+1 [ICE:244] Fyndhorn Elves
+1 [USG:321] Gaea's Cradle
+1 [TSP:274] Gemstone Caverns
+1 [MBS:81] Green Sun's Zenith
+1 [J16:6] Imperial Seal
+1 [MH1:225] Lesser Masticore
+1 [APC:130] Life // Death
+1 [M19:314] Llanowar Elves
+1 [ORI:248] Llanowar Wastes
+1 [JOU:163] Mana Confluence
+1 [2XM:270] Mana Crypt
+1 [AKH:175] Manglehorn
+1 [ZEN:219] Marsh Flats
+1 [NPH:115] Melira, Sylvok Outcast
+1 [9ED:146] Mindslicer
+1 [ZEN:220] Misty Rainforest
+1 [STH:138] Mox Diamond
+1 [VIS:64] Necromancy
+1 [5ED:182] Necropotence
+1 [WTH:154] Null Rod
+1 [MH1:243] Nurturing Peatland
+1 [SLD:237] Ohran Frostfang
+1 [CMR:141] Opposition Agent
+1 [GRN:253] Overgrown Tomb
+1 [USG:322] Phyrexian Tower
+1 [GRN:82] Plaguecrafter
+1 [5DN:57] Plunge into Darkness
+1 [KTK:239] Polluted Delta
+1 [H1R:40] Prismatic Vista
+1 [DIS:90] Protean Hulk
+1 [HOU:73] Razaketh, the Foulblooded
+1 [TMP:151] Reanimate
+1 [10E:292] Root Maze
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [ODY:274] Squirrel Nest
+1 [EXO:129] Survival of the Fittest
+1 [5ED:329] Sylvan Library
+1 [JUD:133] Sylvan Safekeeper
+1 [CMR:359] Undergrowth Stadium
+1 [MH2:106] Unmarked Grave
+1 [DIS:99] Utopia Sprawl
+1 [6ED:161] Vampiric Tutor
+1 [M20:198] Veil of Summer
+1 [ZEN:229] Verdant Catacombs
+1 [M11:120] Viscera Seer
+1 [7ED:282] Wild Growth
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [6ED:269] Worldly Tutor
+1 [J21:405] Yawgmoth, Thran Physician
+1 [KHM:292] Darkbore Pathway
+6 [UST:216] Forest
+3 [UST:214] Swamp
+SB: 1 [SLD:52] Meren of Clan Nel Toth
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,88)|([MH1:225])([NPH:104],[MRD:150],[MRD:152],[2XM:270],[STH:138],[WTH:154],[DST:140],[SUM:274])([UDS:51],[M13:160],[M12:165],[UDS:53],[SCG:59],[ORI:170],[MH1:158],[RAV:81],[MH2:397],[RTR:213],[MRD:62],[RAV:161],[M15:173],[5DN:86],[ICE:244],[M19:314],[AKH:175],[NPH:115],[9ED:146],[SLD:237],[CMR:141],[GRN:82],[DIS:90],[HOU:73],[JUD:133],[M11:120],[J21:405])([5ED:140],[USG:240],[TMP:222],[VIS:64],[5ED:182],[10E:292],[ODY:274],[EXO:129],[5ED:329],[DIS:99],[7ED:282])([RTR:141],[GRN:152],[EXO:55],[MMQ:129],[ODY:132],[5DN:57],[6ED:161],[M20:198],[6ED:269])([FUT:174])([TMP:315],[SUM:283],[KTK:230],[8ED:322],[ELD:333],[USG:321],[TSP:274],[ORI:248],[JOU:163],[ZEN:219],[ZEN:220],[MH1:243],[GRN:253],[USG:322],[KTK:239],[H1R:40],[CMR:359],[ZEN:229],[KTK:248],[KTK:249],[KHM:292],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:214],[UST:214],[UST:214])([APC:130])([ODY:118],[STX:172],[SUM:105],[PLS:42],[EMN:155],[WAR:160],[SOK:68],[MBS:81],[J16:6],[TMP:151],[MH2:106])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([SLD:52])

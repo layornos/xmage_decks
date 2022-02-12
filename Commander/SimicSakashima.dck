@@ -1,0 +1,83 @@
+1 [M13:159] Acidic Slime
+1 [CMR:365] Aesi, Tyrant of Gyre Strait
+1 [M20:43] Agent of Treachery
+1 [SOI:241] Altered Ego
+1 [WWK:96] Avenger of Zendikar
+1 [BBD:65] Bramble Sovereign
+1 [KTK:34] Clever Impersonator
+1 [M14:47] Clone
+1 [AVR:47] Deadeye Navigator
+1 [5DN:86] Eternal Witness
+1 [SHM:113] Farhaven Elf
+1 [PZ1:27] Gigantoplasm
+1 [ZNR:328] Glasspool Mimic
+1 [KHM:221] Koma, Cosmos Serpent
+1 [M19:314] Llanowar Elves
+1 [M19:61] Mirror Image
+1 [VOW:361] Mirrorhall Mimic
+1 [KHM:223] Moritte of the Frost
+1 [LRW:76] Mulldrifter
+1 [RIX:45] Nezahal, Primal Tide
+1 [M12:72] Phantasmal Image
+1 [NPH:42] Phyrexian Metamorph
+1 [GTC:188] Prime Speaker Zegana
+1 [DGM:92] Progenitor Mimic
+1 [M19:196] Reclamation Sage
+1 [SOK:53] Sakashima the Impostor
+1 [CMR:641] Sakashima's Protege
+1 [CHK:239] Sakura-Tribe Elder
+1 [W16:16] Soul of the Harvest
+1 [WAR:68] Spark Double
+1 [MB1:509] Stunt Double
+1 [DOM:206] Tatyova, Benthic Druid
+1 [THB:261] Thassa, Deep-Dwelling
+1 [AKH:74] Vizier of Many Faces
+1 [C19:13] Wall of Stolen Identity
+1 [ALL:22a] Arcane Denial
+1 [NPH:103] Beast Within
+1 [ISD:46] Cackling Counterpart
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [STX:179] Double Major
+1 [RNA:178] Growth Spiral
+1 [M21:188] Heroic Intervention
+1 [M21:355] Sublime Epiphany
+1 [MID:215] Croaking Counterpart
+1 [M21:177] Cultivate
+1 [M13:170] Farseek
+1 [CHK:225] Kodama's Reach
+1 [GRN:51] Quasiduplicate
+1 [M12:190] Rampant Growth
+1 [ZEN:61] Rite of Replication
+1 [CMR:642] Sakashima's Will
+1 [CMR:261] Three Visits
+1 [ELD:331] Arcane Signet
+1 [DOM:217] Helm of the Host
+1 [MRD:199] Lightning Greaves
+1 [HOU:165] Mirage Mirror
+1 [DIS:166] Simic Signet
+1 [SUM:274] Sol Ring
+1 [ELD:161] The Great Henge
+1 [CMR:220] Court of Bounty
+1 [RNA:130] Guardian Project
+1 [ELD:347] Mirrormade
+1 [PCY:45] Rhystic Study
+1 [OGW:147] Zendikar Resurgent
+1 [WAR:232*] Kiora, Behemoth Beckoner
+1 [RNA:246] Breeding Pool
+1 [ELD:333] Command Tower
+1 [VOW:262] Dreamroot Cascade
+1 [EVE:177] Flooded Grove
+1 [DOM:240] Hinterland Harbor
+1 [KHM:264] Littjara Mirrorlake
+1 [CMR:354] Rejuvenating Springs
+1 [M19:254] Reliquary Tower
+1 [DIS:180] Simic Growth Chamber
+1 [M21:254] Temple of Mystery
+1 [ORI:252] Yavimaya Coast
+10 [UST:216] Forest
+11 [UST:213] Island
+SB: 1 [CMR:239] Kodama of the East Tree
+SB: 1 [CMR:561] Sakashima of a Thousand Faces
+LAYOUT MAIN:(1,9)(CMC,false,70)|([RNA:246],[ELD:333],[VOW:262],[EVE:177],[DOM:240],[KHM:264],[CMR:354],[M19:254],[DIS:180],[M21:254],[ORI:252],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:216],[UST:216])([M19:314],[SUM:274])([M12:72],[CHK:239],[ALL:22a],[7ED:67],[RTR:35],[STX:179],[RNA:178],[M21:188],[M13:170],[M12:190],[CMR:261],[ELD:331],[MRD:199],[DIS:166])([5DN:86],[SHM:113],[ZNR:328],[M19:61],[M19:196],[NPH:103],[ISD:46],[MID:215],[M21:177],[CHK:225],[GRN:51],[HOU:165],[ELD:347],[PCY:45],[WAR:232*])([SOI:241],[BBD:65],[KTK:34],[M14:47],[PZ1:27],[VOW:361],[NPH:42],[SOK:53],[WAR:68],[MB1:509],[THB:261],[AKH:74],[C19:13],[ZEN:61],[CMR:642],[DOM:217],[CMR:220],[RNA:130])([M13:159],[KHM:223],[LRW:76],[DOM:206])([CMR:365],[AVR:47],[GTC:188],[DGM:92],[CMR:641],[W16:16],[M21:355])([M20:43],[WWK:96],[KHM:221],[RIX:45],[OGW:147])([ELD:161])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([CMR:561])([CMR:239])

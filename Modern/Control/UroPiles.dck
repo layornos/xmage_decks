@@ -1,0 +1,44 @@
+2 [M20:42] Aether Gust
+2 [RNA:246] Breeding Pool
+3 [LRW:56] Cryptic Command
+1 [5DN:118] Engineered Explosives
+2 [THB:242] Field of Ruin
+2 [M20:247] Field of the Dead
+4 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+1 [M21:272] Forest
+3 [RNA:178] Growth Spiral
+1 [RNA:251] Hallowed Fountain
+1 [HOU:120] Hour of Promise
+2 [M21:263] Island
+1 [WWK:31] Jace, the Mind Sculptor
+2 [M12:63] Mana Leak
+4 [ZEN:220] Misty Rainforest
+2 [ELD:247] Mystic Sanctuary
+1 [SOK:164] Oboro, Palace in the Clouds
+4 [CON:15] Path to Exile
+1 [BFZ:241] Prairie Stream
+1 [ALA:229] Seaside Citadel
+1 [CSP:155] Snow-Covered Forest
+2 [CSP:152] Snow-Covered Island
+1 [CSP:151] Snow-Covered Plains
+1 [DIS:33] Spell Snare
+1 [RTR:201] Supreme Verdict
+1 [DOM:207] Teferi, Hero of Dominaria
+3 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+4 [THB:229] Uro, Titan of Nature's Wrath
+2 [ROE:53] Wall of Omens
+SB: 1 [M20:42] Aether Gust
+SB: 1 [WAR:228*] Ashiok, Dream Render
+SB: 1 [M12:11] Celestial Purge
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 1 [WAR:193] Dovin's Veto
+SB: 1 [M21:179] Elder Gargaroth
+SB: 2 [M19:17] Isolate
+SB: 1 [WAR:61*] Narset, Parter of Veils
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 2 [M12:40] Timely Reinforcements
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CMC,false,100)|([RNA:246],[RNA:246],[5DN:118],[THB:242],[THB:242],[M20:247],[M20:247],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[M21:272],[RNA:251],[M21:263],[M21:263],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[SOK:164],[BFZ:241],[ALA:229],[CSP:155],[CSP:152],[CSP:152],[CSP:151],[GRN:258])([CON:15],[CON:15],[CON:15],[CON:15],[DIS:33])([M20:42],[M20:42],[RNA:178],[RNA:178],[RNA:178],[M12:63],[M12:63],[ROE:53],[ROE:53])([MH1:52],[MH1:52],[MH1:52],[WAR:221*],[WAR:221*],[WAR:221*],[THB:229],[THB:229],[THB:229],[THB:229])([LRW:56],[LRW:56],[LRW:56],[WWK:31],[RTR:201])([HOU:120],[DOM:207])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([KLD:40],[KLD:40],[M19:17],[M19:17],[M20:198],[M20:198])([M20:42],[M12:11],[WAR:193])([WAR:228*],[WAR:61*],[HOU:129],[M12:40],[M12:40])([M21:179])

@@ -1,0 +1,26 @@
+2 [IKO:311] Raugrin Triome
+4 [SLU:2] Scalding Tarn
+4 [KTK:233] Flooded Strand
+3 [RNA:251] Hallowed Fountain
+3 [GRN:257] Steam Vents
+2 [UST:213] Island
+1 [UST:212] Plains
+1 [UST:215] Mountain
+2 [ELD:247] Mystic Sanctuary
+3 [PF19:1] Lightning Bolt
+2 [PF20:1] Path to Exile
+4 [ISD:78] Snapcaster Mage
+3 [EMA:57] Jace, the Mind Sculptor
+2 [PRM:72233] Teferi, Time Raveler
+1 [DOM:207] Teferi, Hero of Dominaria
+3 [MH1:52] Force of Negation
+3 [IKO:67] Shark Typhoon
+3 [P06:7] Lightning Helix
+4 [P09:1] Cryptic Command
+4 [UMA:243] Flagstones of Trokair
+4 [MM2:55] Remand
+2 [CSP:31] Counterbalance
+SB: 1 [MH1:52] Force of Negation
+SB: 2 [RTR:201] Supreme Verdict
+LAYOUT MAIN:(1,7)(CMC,false,70)|([IKO:311],[IKO:311],[SLU:2],[SLU:2],[SLU:2],[SLU:2],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[RNA:251],[RNA:251],[GRN:257],[GRN:257],[GRN:257],[UST:213],[UST:213],[UST:212],[UST:215],[ELD:247],[ELD:247],[UMA:243],[UMA:243],[UMA:243],[UMA:243])([PF19:1],[PF19:1],[PF19:1],[PF20:1],[PF20:1])([ISD:78],[ISD:78],[ISD:78],[ISD:78],[P06:7],[P06:7],[P06:7],[MM2:55],[MM2:55],[MM2:55],[MM2:55],[CSP:31],[CSP:31])([PRM:72233],[PRM:72233],[MH1:52],[MH1:52],[MH1:52])([EMA:57],[EMA:57],[P09:1],[P09:1],[P09:1],[P09:1],[EMA:57])([DOM:207])([IKO:67],[IKO:67],[IKO:67])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([MH1:52],[RTR:201],[RTR:201])

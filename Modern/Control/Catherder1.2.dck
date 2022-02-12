@@ -1,0 +1,31 @@
+4 [DST:91] Aether Vial
+4 [ZEN:211] Arid Mesa
+3 [5DN:3] Auriok Champion
+4 [MB1:96] Ephemerate
+4 [AER:19] Felidar Guardian
+4 [KTK:233] Flooded Strand
+1 [RNA:251] Hallowed Fountain
+2 [M19:29] Militia Bugler
+1 [SHM:277] Mystic Gate
+1 [BFZ:241] Prairie Stream
+1 [ZNE:27] Prismatic Vista
+1 [GRN:254] Sacred Foundry
+3 [KLD:186] Saheeli Rai
+4 [ZNR:322] Skyclave Apparition
+1 [KHM:278] Snow-Covered Island
+1 [KHM:282] Snow-Covered Mountain
+4 [KHM:276] Snow-Covered Plains
+3 [KHC:93] Soulherder
+1 [GRN:257] Steam Vents
+1 [FUT:46] Venser, Shaper Savant
+4 [ROE:53] Wall of Omens
+4 [MH1:76] Watcher for Tomorrow
+4 [ZNR:328] Glasspool Mimic
+SB: 1 [5DN:3] Auriok Champion
+SB: 2 [TSB:55] Avalanche Riders
+SB: 3 [DOM:213] Damping Sphere
+SB: 3 [MH1:52] Force of Negation
+SB: 4 [MH1:20] On Thin Ice
+SB: 2 [RTR:18] Rest in Peace
+LAYOUT MAIN:(1,5)(CMC,false,100)|([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[SHM:277],[BFZ:241],[ZNE:27],[GRN:254],[KHM:278],[KHM:282],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[GRN:257])([DST:91],[DST:91],[DST:91],[DST:91],[MB1:96],[MB1:96],[MB1:96],[MB1:96])([5DN:3],[5DN:3],[5DN:3],[ROE:53],[ROE:53],[ROE:53],[ROE:53],[MH1:76],[MH1:76],[MH1:76],[MH1:76])([M19:29],[M19:29],[KLD:186],[KLD:186],[KLD:186],[ZNR:322],[ZNR:322],[ZNR:322],[ZNR:322],[KHC:93],[KHC:93],[KHC:93],[ZNR:328],[ZNR:328],[ZNR:328],[ZNR:328])([AER:19],[AER:19],[AER:19],[AER:19],[FUT:46])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([MH1:20],[MH1:20],[MH1:20],[MH1:20])([5DN:3],[DOM:213],[DOM:213],[DOM:213],[RTR:18],[RTR:18])([MH1:52],[MH1:52],[MH1:52])([TSB:55],[TSB:55])

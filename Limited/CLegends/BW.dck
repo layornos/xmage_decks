@@ -1,0 +1,37 @@
+1 [TSB:111] Mindless Automaton
+2 [ELD:333] Command Tower
+10 [ZNR:266] Plains
+12 [ZNR:272] Swamp
+1 [CMR:11] Armored Skyhunter
+1 [AVR:35] Seraph of Dawn
+1 [KLD:29] Skywhaler's Shot
+1 [ORI:28] Patron of the Valiant
+1 [KLD:22] Ninth Bridge Patrol
+1 [ZEN:18] Kor Cartographer
+1 [M13:9] Captain's Call
+1 [CMR:13] Benevolent Blessing
+1 [M20:5] Angelic Gift
+2 [CMR:124] Eyeblight Cullers
+1 [CMR:154] Thorn of the Black Rose
+1 [CMR:149] Sengir, the Dark Baron
+1 [ORI:99] Gilt-Leaf Winnower
+1 [AVR:112] Maalfeld Twins
+1 [M11:120] Viscera Seer
+1 [MBS:51] Phyrexian Rager
+2 [CMR:136] Nadier's Nightblade
+1 [ORI:98] Fleshbag Marauder
+1 [CMR:127] Feast of Succession
+1 [ORI:95] Eyeblight Assassin
+2 [CMR:122] Exquisite Huntmaster
+1 [CMR:114] Court of Ambition
+1 [CMR:111] Briarblade Adept
+1 [KLD:229] Prophetic Prism
+1 [CMR:344] Staunch Throneguard
+1 [CMR:346] Thought Vessel
+1 [M20:3] Ancestral Blade
+2 [7ED:306] Marble Diamond
+1 [CMR:319] Jeweled Lotus
+SB: 1 [CMR:38] Prava of the Steel Legion
+SB: 1 [CMR:153] Tevesh Szat, Doom of Fools
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([TSB:111],[CMR:344])([KLD:229],[CMR:346],[M20:3],[7ED:306],[7ED:306],[CMR:319])([CMR:11],[AVR:35],[ORI:28],[KLD:22],[ZEN:18],[CMR:124],[CMR:124],[CMR:154],[CMR:149],[ORI:99],[AVR:112],[M11:120],[MBS:51],[CMR:136],[CMR:136],[ORI:98],[ORI:95],[CMR:122],[CMR:122],[CMR:111])([CMR:13],[M20:5],[CMR:114])([KLD:29])([ELD:333],[ELD:333],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272])([M13:9],[CMR:127])
+LAYOUT SIDEBOARD:(1,2)(CARD_TYPE,false,50)|([CMR:38])([CMR:153])

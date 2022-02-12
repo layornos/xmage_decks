@@ -1,0 +1,39 @@
+4 [ZEN:211] Arid Mesa
+1 [RNA:246] Breeding Pool
+4 [MRD:150] Chalice of the Void
+4 [STX:186] Expressive Iteration
+1 [KTK:233] Flooded Strand
+1 [AFR:278] Forest
+3 [MH2:126] Fury
+4 [MH2:198] General Ferrous Rokiric
+1 [RNA:251] Hallowed Fountain
+1 [AFR:266] Island
+1 [IKO:250] Ketria Triome
+3 [RAV:213] Lightning Helix
+4 [SHM:211] Manamorphose
+1 [ZEN:220] Misty Rainforest
+1 [AFR:274] Mountain
+3 [ZNR:232] Omnath, Locus of Creation
+1 [AFR:262] Plains
+1 [STX:214] Prismari Command
+4 [MH2:25] Prismatic Ending
+1 [IKO:251] Raugrin Triome
+1 [SHM:278*] Reflecting Pool
+1 [GRN:254] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [KHM:229] Showdown of the Skalds
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+3 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+1 [KTK:248] Windswept Heath
+2 [KTK:249] Wooded Foothills
+3 [MH1:217] Wrenn and Six
+SB: 1 [M19:128] Alpine Moon
+SB: 3 [WAR:193] Dovin's Veto
+SB: 2 [NPH:86] Gut Shot
+SB: 4 [MH2:137] Obsidian Charmaw
+SB: 2 [RTR:18] Rest in Peace
+SB: 3 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,6)(CMC,false,70)|([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[RNA:246],[MRD:150],[MRD:150],[MRD:150],[MRD:150],[KTK:233],[AFR:278],[RNA:251],[AFR:266],[IKO:250],[ZEN:220],[AFR:274],[AFR:262],[IKO:251],[SHM:278*],[GRN:254],[ZEN:223],[GRN:257],[RNA:259],[GRN:258],[KTK:248],[KTK:249],[KTK:249])([MH2:25],[MH2:25],[MH2:25],[MH2:25])([STX:186],[STX:186],[STX:186],[STX:186],[RAV:213],[RAV:213],[RAV:213],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[MH1:217],[MH1:217],[MH1:217])([MH2:198],[MH2:198],[MH2:198],[MH2:198],[STX:214],[WAR:221*],[WAR:221*],[WAR:221*])([ZNR:232],[ZNR:232],[ZNR:232],[KHM:229])([MH2:126],[MH2:126],[MH2:126])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,70)|([M19:128],[NPH:86],[NPH:86])([WAR:193],[WAR:193],[WAR:193],[RTR:18],[RTR:18])([DGM:135],[DGM:135],[DGM:135])([MH2:137],[MH2:137],[MH2:137],[MH2:137])

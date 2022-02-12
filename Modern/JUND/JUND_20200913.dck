@@ -1,0 +1,38 @@
+2 [SOM:224] Blackcleave Cliffs
+1 [RNA:245] Blood Crypt
+3 [ARB:50] Bloodbraid Elf
+2 [KTK:230] Bloodstained Mire
+1 [KLD:243] Blooming Marsh
+2 [RAV:81] Dark Confidant
+3 [AER:57] Fatal Push
+1 [M21:272] Forest
+1 [DKA:140] Huntmaster of the Fells
+4 [ROE:115] Inquisition of Kozilek
+1 [THB:220] Klothys, God of Destiny
+2 [DTK:224] Kolaghan's Command
+3 [M11:149] Lightning Bolt
+3 [ISD:105] Liliana of the Veil
+2 [ARB:92] Maelstrom Pulse
+1 [M21:269] Mountain
+1 [MH1:243] Nurturing Peatland
+2 [GRN:253] Overgrown Tomb
+2 [WWK:141] Raging Ravine
+2 [M21:204] Scavenging Ooze
+2 [MH1:145] Seasoned Pyromancer
+1 [RNA:259] Stomping Ground
+2 [M21:266] Swamp
+4 [FUT:153] Tarmogoyf
+1 [ARB:46] Terminate
+2 [THS:107] Thoughtseize
+4 [ZEN:229] Verdant Catacombs
+2 [KTK:249] Wooded Foothills
+3 [MH1:217] Wrenn and Six
+SB: 2 [WAR:228*] Ashiok, Dream Render
+SB: 2 [8ED:180] Boil
+SB: 1 [8ED:237] Choke
+SB: 3 [EMN:85] Collective Brutality
+SB: 2 [SOM:187] Nihil Spellbomb
+SB: 3 [7ED:207] Pillage
+SB: 2 [MH1:100] Plague Engineer
+LAYOUT MAIN:(1,5)(CMC,false,70)|([SOM:224],[SOM:224],[RNA:245],[KTK:230],[KTK:230],[KLD:243],[M21:272],[M21:269],[MH1:243],[GRN:253],[GRN:253],[WWK:141],[WWK:141],[RNA:259],[M21:266],[M21:266],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249])([AER:57],[AER:57],[AER:57],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[M11:149],[M11:149],[M11:149],[THS:107],[THS:107])([RAV:81],[RAV:81],[M21:204],[M21:204],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[ARB:46],[MH1:217],[MH1:217],[MH1:217])([THB:220],[DTK:224],[DTK:224],[ISD:105],[ISD:105],[ISD:105],[ARB:92],[ARB:92],[MH1:145],[MH1:145])([ARB:50],[ARB:50],[ARB:50],[DKA:140])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([SOM:187],[SOM:187])([EMN:85],[EMN:85],[EMN:85])([WAR:228*],[WAR:228*],[8ED:237],[7ED:207],[7ED:207],[7ED:207],[MH1:100],[MH1:100])([8ED:180],[8ED:180])

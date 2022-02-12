@@ -1,0 +1,30 @@
+4 [2XM:350] Doubling Season
+2 [M21:279] Ugin, the Spirit Dragon
+3 [JMP:436] Thragtusk
+4 [2XM:372] Urza's Tower
+4 [2XM:371] Urza's Power Plant
+4 [2XM:370] Urza's Mine
+4 [2XM:333] Karn Liberated
+4 [IMA:185] Search for Tomorrow
+4 [2XM:359] Expedition Map
+5 [UST:216] Forest
+4 [OGW:184] Wastes
+4 [SLD:501] Karn, the Great Creator
+3 [PRM:72261] Nissa, Who Shakes the World
+3 [NPH:57] Dismember
+4 [2XM:151] Ancient Stirrings
+4 [2XM:239] Chromatic Star
+SB: 1 [IMA:223] Oblivion Stone
+SB: 1 [SLD:44] Pithing Needle
+SB: 1 [NPH:162] Torpor Orb
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [SLD:58] Walking Ballista
+SB: 1 [CM2:197] Liquimetal Coating
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [2XM:368] Wurmcoil Engine
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [2XM:303] Trinisphere
+SB: 3 [M20:198] Veil of Summer
+SB: 2 [IKO:176] Wilt
+LAYOUT MAIN:(1,7)(CMC,false,70)|([2XM:372],[2XM:372],[2XM:372],[2XM:372],[2XM:371],[2XM:371],[2XM:371],[2XM:371],[2XM:370],[2XM:370],[2XM:370],[2XM:370],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[OGW:184],[OGW:184],[OGW:184],[OGW:184])([2XM:359],[2XM:359],[2XM:359],[2XM:359],[2XM:151],[2XM:151],[2XM:151],[2XM:151],[2XM:239],[2XM:239],[2XM:239],[2XM:239])([IMA:185],[IMA:185],[IMA:185],[IMA:185],[NPH:57],[NPH:57],[NPH:57])([SLD:501],[SLD:501],[SLD:501],[SLD:501])([2XM:350],[2XM:350],[2XM:350],[2XM:350],[JMP:436],[JMP:436],[JMP:436],[PRM:72261],[PRM:72261],[PRM:72261])([2XM:333],[2XM:333],[2XM:333],[2XM:333])([M21:279],[M21:279])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,51)|([SLD:58])([SLD:44],[M20:227],[M20:198],[M20:198],[M20:198])([NPH:162],[CM2:197],[IKO:176],[IKO:176])([IMA:223],[8ED:300],[2XM:303])([KLD:234])([2XM:368])

@@ -1,0 +1,37 @@
+4 [WWK:121] Amulet of Vigor
+4 [WAR:149] Arboreal Grazer
+1 [M21:173] Azusa, Lost but Seeking
+1 [WWK:132] Bojuka Bog
+2 [RNA:246] Breeding Pool
+3 [ELD:240] Castle Garenbrig
+2 [AVR:226] Cavern of Souls
+4 [THB:169] Dryad of the Ilysian Grove
+4 [WWK:99] Explore
+1 [M20:247] Field of the Dead
+2 [ZNR:278] Forest
+1 [ISD:240] Ghost Quarter
+3 [RAV:278] Golgari Rot Farm
+2 [GPT:158] Gruul Turf
+1 [EMN:204] Hanweir Battlements
+1 [FUT:42] Pact of Negation
+4 [M12:188] Primeval Titan
+1 [M21:248] Radiant Fountain
+4 [DIS:180] Simic Growth Chamber
+2 [CSP:155] Snow-Covered Forest
+4 [FUT:139] Summoner's Pact
+2 [FUT:173] Tolaria West
+3 [ZNR:215] Turntimber Symbiosis
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [TSP:281] Vesuva
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+SB: 4 [NPH:57] Dismember
+SB: 3 [5DN:118] Engineered Explosives
+SB: 1 [ISD:240] Ghost Quarter
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [M19:196] Reclamation Sage
+SB: 3 [SOI:233] Tireless Tracker
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [EMA:168] Gaea's Blessing
+LAYOUT MAIN:(1,6)(CMC,false,50)|([WWK:132],[RNA:246],[RNA:246],[ELD:240],[ELD:240],[ELD:240],[AVR:226],[AVR:226],[M20:247],[ZNR:278],[ZNR:278],[ISD:240],[RAV:278],[RAV:278],[RAV:278],[GPT:158],[GPT:158],[EMN:204],[FUT:42],[M21:248],[DIS:180],[DIS:180],[DIS:180],[DIS:180],[CSP:155],[CSP:155],[FUT:139],[FUT:139],[FUT:139],[FUT:139],[FUT:173],[FUT:173],[ZEN:228],[TSP:281],[KTK:248],[KTK:249])([WWK:121],[WWK:121],[WWK:121],[WWK:121],[WAR:149],[WAR:149],[WAR:149],[WAR:149])([WWK:99],[WWK:99],[WWK:99],[WWK:99])([M21:173],[THB:169],[THB:169],[THB:169],[THB:169])([M12:188],[M12:188],[M12:188],[M12:188])([ZNR:215],[ZNR:215],[ZNR:215])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([5DN:118],[5DN:118],[5DN:118],[ISD:240],[M21:241])([EMA:168])([NPH:57],[NPH:57],[NPH:57],[NPH:57],[HOU:129],[M19:196],[SOI:233],[SOI:233],[SOI:233])

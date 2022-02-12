@@ -1,0 +1,35 @@
+2 [RTR:141] Abrupt Decay
+3 [SUM:283] Bayou
+1 [WWK:132] Bojuka Bog
+4 [ULG:98] Crop Rotation
+4 [RAV:81] Dark Confidant
+4 [CSP:145] Dark Depths
+4 [M20:169] Elvish Reclaimer
+3 [ALL:89] Elvish Spirit Guide
+1 [ISD:240] Ghost Quarter
+3 [ROE:115] Inquisition of Kozilek
+1 [MH1:243] Nurturing Peatland
+4 [ELD:169] Once Upon a Time
+2 [RTR:231] Pithing Needle
+1 [WWK:142] Sejiri Steppe
+1 [CSP:155] Snow-Covered Forest
+1 [CSP:153] Snow-Covered Swamp
+4 [GTC:248] Thespian's Stage
+4 [THS:107] Thoughtseize
+3 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:114] Vampire Hexmage
+4 [ZEN:229] Verdant Catacombs
+1 [TMP:330] Wasteland
+1 [KTK:249] Wooded Foothills
+SB: 2 [RTR:141] Abrupt Decay
+SB: 2 [AER:57] Fatal Push
+SB: 2 [MH1:164] Force of Vigor
+SB: 1 [LEG:303] Karakas
+SB: 1 [RTR:231] Pithing Needle
+SB: 2 [MH1:100] Plague Engineer
+SB: 1 [ONS:286] Steely Resolve
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [5ED:329] Sylvan Library
+SB: 1 [JUD:133] Sylvan Safekeeper
+LAYOUT MAIN:(1,4)(CMC,false,70)|([SUM:283],[SUM:283],[SUM:283],[WWK:132],[CSP:145],[CSP:145],[CSP:145],[CSP:145],[ISD:240],[MH1:243],[WWK:142],[CSP:155],[CSP:153],[GTC:248],[GTC:248],[GTC:248],[GTC:248],[M15:248],[M15:248],[M15:248],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[TMP:330],[KTK:249])([ULG:98],[ULG:98],[ULG:98],[ULG:98],[M20:169],[M20:169],[M20:169],[M20:169],[ROE:115],[ROE:115],[ROE:115],[RTR:231],[RTR:231],[THS:107],[THS:107],[THS:107],[THS:107])([RTR:141],[RTR:141],[RAV:81],[RAV:81],[RAV:81],[RAV:81],[ELD:169],[ELD:169],[ELD:169],[ELD:169],[ZEN:114],[ZEN:114],[ZEN:114],[ZEN:114])([ALL:89],[ALL:89],[ALL:89])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([LEG:303])([AER:57],[AER:57],[RTR:231],[NPH:74],[NPH:74],[JUD:133])([RTR:141],[RTR:141],[ONS:286],[5ED:329])([MH1:100],[MH1:100])([MH1:164],[MH1:164])

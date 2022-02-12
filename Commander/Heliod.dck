@@ -1,0 +1,79 @@
+1 [WAR:4] Ajani's Pridemate
+1 [THB:1] Alseid of Life's Bounty
+1 [M14:5] Archangel of Thune
+1 [ZNR:315] Archon of Emeria
+1 [AKH:5] Aven Mindcensor
+1 [THB:258] Daxos, Blessed by the Sun
+1 [IKO:11] Drannith Magistrate
+1 [J21:75] Esper Sentinel
+1 [BFZ:26] Felidar Sovereign
+1 [H1R:3] Giver of Runes
+1 [M12:19] Grand Abolisher
+1 [CMR:27] Keeper of the Accord
+1 [ORI:21] Knight of the White Orchid
+1 [ELD:20] Linden, the Steadfast Queen
+1 [M21:27] Mangara, the Diplomat
+1 [M19:27] Mentor of the Meek
+1 [ULG:14] Mother of Runes
+1 [ALA:21] Ranger of Eos
+1 [J21:115] Ranger-Captain of Eos
+1 [MB1:206] Recruiter of the Guard
+1 [M11:28] Serra Ascendant
+1 [M10:34] Soul Warden
+1 [ROE:44] Soul's Attendant
+1 [M21:347] Speaker of the Heavens
+1 [M12:39] Sun Titan
+1 [DTK:41] Sunscorch Regent
+1 [NPH:25] Suture Priest
+1 [M11:218] Triskelion
+1 [VOW:354] Voice of the Blessed
+1 [AER:181] Walking Ballista
+1 [9ED:54] Weathered Wayfarer
+1 [ZNR:10] Disenchant
+1 [6ED:19] Enlightened Tutor
+1 [H1R:2] Generous Gift
+1 [THB:19] Heliod's Intervention
+1 [CON:15] Path to Exile
+1 [M14:35] Silence
+1 [ICE:54] Swords to Plowshares
+1 [STA:11] Teferi's Protection
+1 [LRW:3] Austere Command
+1 [ZNR:12] Emeria's Call
+1 [KLD:15] Fumigate
+1 [THB:24] Idyllic Tutor
+1 [KLD:192] Aetherflux Reservoir
+1 [THB:231] Altar of the Pantheon
+1 [ELD:331] Arcane Signet
+1 [C21:12] Archaeomancer's Map
+1 [KHM:237] Cosmos Elixir
+1 [10E:335] Mind Stone
+1 [THB:235] Nyx Lotus
+1 [AKH:233] Oketra's Monument
+1 [TMP:300] Pearl Medallion
+1 [NPH:151] Pristine Talisman
+1 [SUM:274] Sol Ring
+1 [AFR:359] The Book of Exalted Deeds
+1 [DST:159] Well of Lost Dreams
+1 [M19:6] Ajani's Welcome
+1 [KLD:5] Authority of the Consuls
+1 [GTC:6] Blind Obedience
+1 [AFR:6] Cleric Class
+1 [GRN:8] Dawn of Hope
+1 [ELD:10] Deafening Silence
+1 [4ED:34] Land Tax
+1 [MID:33] Sigarda's Splendor
+1 [RNA:22] Smothering Tithe
+1 [M20:2] Ajani, Strength of the Pride
+1 [TMP:315] Ancient Tomb
+1 [M12:224] Buried Ruin
+1 [ELD:238] Castle Ardenvale
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [H1R:39] Hall of Heliod's Generosity
+1 [KLD:247] Inventors' Fair
+1 [VOC:176] Myriad Landscape
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [CMR:361] War Room
+24 [VOW:268] Plains
+SB: 1 [THB:259] Heliod, Sun-Crowned
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([J21:75],[M11:218],[AER:181])([KLD:192],[THB:231],[ELD:331],[C21:12],[KHM:237],[10E:335],[THB:235],[AKH:233],[TMP:300],[NPH:151],[SUM:274],[AFR:359],[DST:159])([WAR:4],[M14:5],[ZNR:315],[AKH:5],[IKO:11],[BFZ:26],[H1R:3],[M12:19],[CMR:27],[ORI:21],[ELD:20],[M21:27],[M19:27],[ULG:14],[ALA:21],[J21:115],[MB1:206],[M11:28],[M10:34],[ROE:44],[M21:347],[M12:39],[DTK:41],[NPH:25],[VOW:354],[9ED:54])([THB:1],[THB:258])([M19:6],[KLD:5],[GTC:6],[AFR:6],[GRN:8],[ELD:10],[4ED:34],[MID:33],[RNA:22])([ZNR:10],[6ED:19],[H1R:2],[THB:19],[CON:15],[M14:35],[ICE:54],[STA:11])([TMP:315],[M12:224],[ELD:238],[ZEN:213],[H1R:39],[KLD:247],[VOC:176],[THS:223],[CMR:361],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268])([M20:2])([LRW:3],[ZNR:12],[KLD:15],[THB:24])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([THB:259])

@@ -1,0 +1,15 @@
+4 [MH2:121] Dragon's Rage Channeler
+4 [MH1:217] Wrenn and Six
+4 [TSR:334] Thoughtseize
+4 [STA:31] Inquisition of Kozilek
+4 [STA:42] Lightning Bolt
+4 [MH2:145] Unholy Heat
+4 [MM2:165] Tarmogoyf
+4 [CMA:195] Terminate
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [THB:221] Kroxa, Titan of Death's Hunger
+4 [MH2:397] Dauthi Voidwalker
+4 [MH2:259] Urza's Saga
+SB: 1 [IKO:355] Lurrus of the Dream-Den
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([MH2:397],[MH2:397],[MH2:397],[MH2:397],[MH2:121],[MH2:121],[MH2:121],[MH2:121],[THB:221],[THB:221],[THB:221],[THB:221],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[MM2:165],[MM2:165],[MM2:165],[MM2:165])([MH2:259],[MH2:259],[MH2:259],[MH2:259])([STA:42],[STA:42],[STA:42],[STA:42],[CMA:195],[CMA:195],[CMA:195],[CMA:195],[MH2:145],[MH2:145],[MH2:145],[MH2:145])([MH1:217],[MH1:217],[MH1:217],[MH1:217])([STA:31],[STA:31],[STA:31],[STA:31],[TSR:334],[TSR:334],[TSR:334],[TSR:334])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([IKO:355])

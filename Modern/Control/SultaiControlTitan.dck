@@ -1,0 +1,40 @@
+1 [M20:42] Aether Gust
+1 [ZNR:388] Bloodchief's Thirst
+1 [DIS:33] Spell Snare
+2 [RTR:141] Abrupt Decay
+2 [MH1:52] Force of Negation
+3 [LRW:56] Cryptic Command
+3 [WWK:31] Jace, the Mind Sculptor
+3 [THS:107] Thoughtseize
+4 [AER:57] Fatal Push
+4 [MH1:40] Archmage's Charm
+4 [THB:229] Uro, Titan of Nature's Wrath
+1 [ZNR:272] Swamp
+1 [FUT:179] River of Tears
+1 [CSP:155] Snow-Covered Forest
+1 [IKO:259] Zagoth Triome
+2 [ELD:247] Mystic Sanctuary
+2 [M20:247] Field of the Dead
+2 [THB:242] Field of Ruin
+2 [KTK:233] Flooded Strand
+2 [CSP:152] Snow-Covered Island
+2 [RNA:246] Breeding Pool
+2 [ZNR:269] Island
+2 [GRN:259] Watery Grave
+4 [ZEN:220] Misty Rainforest
+4 [KTK:239] Polluted Delta
+3 [MM2:55] Remand
+1 [IMA:183] Primeval Titan
+SB: 2 [WAR:228*] Ashiok, Dream Render
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [PLC:85] Damnation
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [RAV:172] Life from the Loam
+SB: 2 [M20:42] Aether Gust
+SB: 1 [ZNR:388] Bloodchief's Thirst
+SB: 1 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([IMA:183],[THB:229],[THB:229],[THB:229],[THB:229])([RTR:141],[RTR:141],[M20:42],[MH1:40],[MH1:40],[MH1:40],[MH1:40],[LRW:56],[LRW:56],[LRW:56],[AER:57],[AER:57],[AER:57],[AER:57],[MH1:52],[MH1:52],[MM2:55],[MM2:55],[MM2:55],[DIS:33])([RNA:246],[RNA:246],[THB:242],[THB:242],[M20:247],[M20:247],[KTK:233],[KTK:233],[ZNR:269],[ZNR:269],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[FUT:179],[CSP:155],[CSP:152],[CSP:152],[ZNR:272],[GRN:259],[GRN:259],[IKO:259])([WWK:31],[WWK:31],[WWK:31])([ZNR:388],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([5DN:118])([M20:198],[M20:198],[ZNR:388],[THS:107])([GRN:152],[RAV:172],[M20:42],[M20:42])([ELD:58],[ELD:58],[WAR:228*],[WAR:228*])([PLC:85])([ROE:6])

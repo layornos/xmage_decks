@@ -1,0 +1,39 @@
+1 [RNA:245] Blood Crypt
+1 [RNA:246] Breeding Pool
+1 [KHM:398] Forest
+1 [RNA:251] Hallowed Fountain
+2 [KHM:395] Island
+3 [IKO:250] Ketria Triome
+4 [ZEN:220] Misty Rainforest
+2 [IKO:251] Raugrin Triome
+4 [ZEN:223] Scalding Tarn
+2 [GRN:257] Steam Vents
+1 [GRN:254] Sacred Foundry
+2 [RNA:259] Stomping Ground
+2 [ZEN:228] Valakut, the Molten Pinnacle
+2 [WAR:221*] Teferi, Time Raveler
+1 [WWK:31] Jace, the Mind Sculptor
+2 [MH1:217] Wrenn and Six
+3 [ZNR:232] Omnath, Locus of Creation
+2 [ISD:78] Snapcaster Mage
+3 [BFZ:209] Bring to Light
+1 [M19:201] Scapeshift
+1 [RTR:201] Supreme Verdict
+2 [LRW:56] Cryptic Command
+2 [MH1:52] Force of Negation
+4 [RNA:178] Growth Spiral
+2 [M11:149] Lightning Bolt
+3 [CON:15] Path to Exile
+4 [RAV:63] Remand
+2 [KHM:308] Valki, God of Lies
+SB: 2 [M20:42] Aether Gust
+SB: 2 [THS:112] Anger of the Gods
+SB: 1 [WAR:228*] Ashiok, Dream Render
+SB: 2 [M12:11] Celestial Purge
+SB: 2 [ZNR:137] Cleansing Wildfire
+SB: 1 [WAR:193] Dovin's Veto
+SB: 1 [ELD:58] Mystical Dispute
+SB: 2 [M12:40] Timely Reinforcements
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([ZNR:232],[ZNR:232],[ZNR:232],[ISD:78],[ISD:78],[KHM:308],[KHM:308])([LRW:56],[LRW:56],[MH1:52],[MH1:52],[RNA:178],[RNA:178],[RNA:178],[RNA:178],[M11:149],[M11:149],[CON:15],[CON:15],[CON:15],[RAV:63],[RAV:63],[RAV:63],[RAV:63])([RNA:245],[RNA:246],[KHM:398],[RNA:251],[KHM:395],[KHM:395],[IKO:250],[IKO:250],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[IKO:251],[IKO:251],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[GRN:254],[RNA:259],[RNA:259],[ZEN:228],[ZEN:228])([WAR:221*],[WAR:221*],[WWK:31],[MH1:217],[MH1:217])([BFZ:209],[BFZ:209],[BFZ:209],[M19:201],[RTR:201])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([M20:198],[M20:198])([M20:42],[M20:42],[M12:11],[M12:11],[ZNR:137],[ZNR:137],[WAR:193])([THS:112],[THS:112],[WAR:228*],[ELD:58],[M12:40],[M12:40])

@@ -1,0 +1,37 @@
+2 [ISD:105] Liliana of the Veil
+3 [MH1:217] Wrenn and Six
+4 [ARB:50] Bloodbraid Elf
+2 [THB:221] Kroxa, Titan of Death's Hunger
+3 [MH1:145] Seasoned Pyromancer
+4 [FUT:153] Tarmogoyf
+3 [ROE:115] Inquisition of Kozilek
+1 [ARB:92] Maelstrom Pulse
+3 [THS:107] Thoughtseize
+2 [AER:57] Fatal Push
+3 [M11:149] Lightning Bolt
+2 [THB:237] Soul-Guide Lantern
+3 [SOM:224] Blackcleave Cliffs
+2 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+1 [KHM:398] Forest
+1 [ONS:317] Forgotten Cave
+1 [KHM:397] Mountain
+1 [MH1:243] Nurturing Peatland
+1 [GRN:253] Overgrown Tomb
+2 [WWK:141] Raging Ravine
+1 [RNA:259] Stomping Ground
+2 [KHM:396] Swamp
+2 [ZEN:229] Verdant Catacombs
+3 [KTK:249] Wooded Foothills
+2 [KHM:114] Valki, God of Lies
+2 [RTR:141] Abrupt Decay
+SB: 2 [AER:57] Fatal Push
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [WAR:228*] Ashiok, Dream Render
+SB: 3 [8ED:180] Boil
+SB: 2 [ZNR:137] Cleansing Wildfire
+SB: 2 [5DN:118] Engineered Explosives
+SB: 2 [NPH:74] Surgical Extraction
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([THB:237],[THB:237])([ARB:50],[ARB:50],[ARB:50],[ARB:50],[THB:221],[THB:221],[MH1:145],[MH1:145],[MH1:145],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[KHM:114],[KHM:114])([AER:57],[AER:57],[M11:149],[M11:149],[M11:149],[RTR:141],[RTR:141])([SOM:224],[SOM:224],[SOM:224],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[KHM:398],[ONS:317],[KHM:397],[MH1:243],[GRN:253],[WWK:141],[WWK:141],[RNA:259],[KHM:396],[KHM:396],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[KTK:249])([ISD:105],[ISD:105],[MH1:217],[MH1:217],[MH1:217])([ROE:115],[ROE:115],[ROE:115],[ARB:92],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,63)|([5DN:118],[5DN:118])([AER:57],[AER:57],[NPH:74],[NPH:74],[M20:198],[M20:198])([ISD:127],[ZNR:137],[ZNR:137])([WAR:228*])([8ED:180],[8ED:180],[8ED:180])

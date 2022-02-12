@@ -1,0 +1,31 @@
+9 [KHM:395] Island
+1 [KHM:397] Mountain
+4 [KTK:233] Flooded Strand
+4 [SLU:2] Scalding Tarn
+1 [KTK:239] Polluted Delta
+1 [IKO:311] Raugrin Triome
+3 [RTR:247] Steam Vents
+4 [ELD:59] Opt
+2 [BBD:132] Spell Snare
+4 [PF19:1] Lightning Bolt
+1 [MM2:50] Mana Leak
+4 [MM2:55] Remand
+4 [ISD:78] Snapcaster Mage
+2 [MM3:90] Blood Moon
+2 [MH1:40] Archmage's Charm
+2 [P09:1] Cryptic Command
+3 [MH1:52] Force of Negation
+2 [EMA:57] Jace, the Mind Sculptor
+3 [KHM:46] Behold the Multiverse
+2 [IKO:67] Shark Typhoon
+1 [GRN:195] Ral, Izzet Viceroy
+1 [MH1:135] Magmatic Sinkhole
+SB: 2 [M12:40] Timely Reinforcements
+SB: 2 [ZNR:137] Cleansing Wildfire
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 3 [M20:42] Aether Gust
+SB: 2 [ALA:218] Relic of Progenitus
+SB: 2 [UMA:227] Engineered Explosives
+SB: 2 [KHM:139] Goldspan Dragon
+LAYOUT MAIN:(1,7)(CMC,false,48)|([KTK:233],[KTK:233],[KTK:233],[KTK:233],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:397],[KTK:239],[IKO:311],[SLU:2],[SLU:2],[SLU:2],[SLU:2],[RTR:247],[RTR:247],[RTR:247])([PF19:1],[PF19:1],[PF19:1],[PF19:1],[ELD:59],[ELD:59],[ELD:59],[ELD:59],[BBD:132],[BBD:132])([MM2:50],[MM2:55],[MM2:55],[MM2:55],[MM2:55],[ISD:78],[ISD:78],[ISD:78],[ISD:78])([MH1:40],[MH1:40],[MM3:90],[MM3:90],[MH1:52],[MH1:52],[MH1:52])([P09:1],[P09:1],[EMA:57],[EMA:57],[KHM:46],[KHM:46],[KHM:46])([GRN:195])([IKO:67],[IKO:67],[MH1:135])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,63)|([M12:40],[M12:40])([ZNR:137],[ZNR:137])([KLD:40],[KLD:40])([M20:42],[M20:42],[M20:42])([ALA:218],[ALA:218])([UMA:227],[UMA:227])([KHM:139],[KHM:139])

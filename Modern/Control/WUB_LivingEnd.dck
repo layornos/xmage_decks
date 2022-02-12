@@ -1,0 +1,23 @@
+3 [WAR:221*] Teferi, Time Raveler
+4 [AKH:49] Curator of Mysteries
+4 [FUT:90] Street Wraith
+4 [HOU:48] Striped Riverwinder
+4 [M21:84] Waker of Waves
+4 [MB1:548] Windcaller Aven
+4 [TSP:115] Living End
+3 [LRW:56] Cryptic Command
+4 [MH1:52] Force of Negation
+4 [ARB:1] Ardent Plea
+4 [AKH:42] As Foretold
+4 [KTK:233] Flooded Strand
+4 [XLN:255] Glacial Fortress
+1 [RNA:251] Hallowed Fountain
+8 [KHM:395] Island
+1 [KHM:394] Plains
+SB: 2 [ELD:281] Brazen Borrower
+SB: 3 [SHM:66] Faerie Macabre
+SB: 4 [M20:26] Leyline of Sanctity
+SB: 3 [ELD:58] Mystical Dispute
+SB: 3 [M12:40] Timely Reinforcements
+LAYOUT MAIN:(1,6)(CMC,false,70)|([TSP:115],[TSP:115],[TSP:115],[TSP:115],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[RNA:251],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:394])([WAR:221*],[WAR:221*],[WAR:221*],[MH1:52],[MH1:52],[MH1:52],[MH1:52],[ARB:1],[ARB:1],[ARB:1],[ARB:1],[AKH:42],[AKH:42],[AKH:42],[AKH:42])([AKH:49],[AKH:49],[AKH:49],[AKH:49],[LRW:56],[LRW:56],[LRW:56])([FUT:90],[FUT:90],[FUT:90],[FUT:90])([MB1:548],[MB1:548],[MB1:548],[MB1:548])([HOU:48],[HOU:48],[HOU:48],[HOU:48],[M21:84],[M21:84],[M21:84],[M21:84])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([ELD:281],[ELD:281],[SHM:66],[SHM:66],[SHM:66],[ELD:58],[ELD:58],[ELD:58],[M12:40],[M12:40],[M12:40])([M20:26],[M20:26],[M20:26],[M20:26])

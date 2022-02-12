@@ -1,0 +1,41 @@
+4 [TMP:315] Ancient Tomb
+1 [WAR:244] Blast Zone
+1 [AKH:240] Cascading Cataracts
+1 [EXO:143] City of Traitors
+4 [MRD:280] Cloudpost
+1 [ROE:227] Eldrazi Temple
+4 [SOM:227] Glimmerpost
+1 [KLD:247] Inventors' Fair
+1 [LEG:303] Karakas
+1 [GTC:248] Thespian's Stage
+1 [M15:248] Urborg, Tomb of Yawgmoth
+3 [TSP:281] Vesuva
+1 [OGW:183a] Wastes
+2 [M20:226] Golos, Tireless Pilgrim
+4 [OGW:9] Thought-Knot Seer
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [AER:181] Walking Ballista
+2 [OGW:12] Warping Wail
+2 [SUM:235] Basalt Monolith
+4 [MRD:150] Chalice of the Void
+2 [ZNR:244] Forsaken Monument
+3 [ULG:126] Grim Monolith
+4 [WAR:1*] Karn, the Great Creator
+1 [M20:230] Manifold Key
+3 [ELD:233] Sorcerous Spyglass
+1 [UDS:139] Thran Dynamo
+3 [DST:154] Trinisphere
+2 [WAR:2*] Ugin, the Ineffable
+2 [M21:1] Ugin, the Spirit Dragon
+SB: 1 [SUM:235] Basalt Monolith
+SB: 2 [NPH:57] Dismember
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [ZNR:244] Forsaken Monument
+SB: 3 [M20:26] Leyline of Sanctity
+SB: 3 [M20:107] Leyline of the Void
+SB: 1 [DST:130] Mycosynth Lattice
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 1 [AER:181] Walking Ballista
+LAYOUT MAIN:(1,9)(CMC,false,70)|([TMP:315],[TMP:315],[TMP:315],[TMP:315],[WAR:244],[AKH:240],[EXO:143],[MRD:280],[MRD:280],[MRD:280],[MRD:280],[ROE:227],[SOM:227],[SOM:227],[SOM:227],[SOM:227],[KLD:247],[LEG:303],[GTC:248],[M15:248],[TSP:281],[TSP:281],[TSP:281],[OGW:183a],[AER:181],[MRD:150],[MRD:150],[MRD:150],[MRD:150])([M20:230])([OGW:12],[OGW:12],[ULG:126],[ULG:126],[ULG:126],[ELD:233],[ELD:233],[ELD:233])([SUM:235],[SUM:235],[DST:154],[DST:154],[DST:154])([OGW:9],[OGW:9],[OGW:9],[OGW:9],[WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*],[UDS:139])([M20:226],[M20:226],[ZNR:244],[ZNR:244])([WAR:2*],[WAR:2*])([M21:1],[M21:1])([BFZ:15])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([AER:181])([M14:215],[ELD:233])([SUM:235],[NPH:57],[NPH:57],[8ED:300])([M20:26],[M20:26],[M20:26],[M20:107],[M20:107],[M20:107])([ZNR:244])([DST:130])

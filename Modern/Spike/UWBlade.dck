@@ -1,0 +1,33 @@
+4 [J21:166] Archmage's Charm
+1 [NPH:130] Batterskull
+1 [AFR:253] Cave of the Frost Dragon
+4 [7ED:67] Counterspell
+4 [J21:75] Esper Sentinel
+4 [KTK:233] Flooded Strand
+2 [H1R:9] Force of Negation
+1 [AFR:257] Hall of Storm Giants
+3 [RNA:251] Hallowed Fountain
+1 [MH2:227] Kaldra Compleat
+1 [ZNR:27] Maul of the Skyclaves
+3 [SHM:277] Mystic Gate
+2 [KTK:239] Polluted Delta
+4 [MH2:25] Prismatic Ending
+2 [MH2:491] Sanctum Prelate
+3 [SOM:229] Seachrome Coast
+2 [KHM:278] Snow-Covered Island
+1 [KHM:276] Snow-Covered Plains
+4 [MH2:307] Solitude
+4 [ZEN:70] Spreading Seas
+1 [GRN:257] Steam Vents
+4 [WWK:20] Stoneforge Mystic
+3 [WAR:221*] Teferi, Time Raveler
+1 [KHM:260] Hengegate Pathway
+SB: 1 [MRD:150] Chalice of the Void
+SB: 2 [WAR:193] Dovin's Veto
+SB: 3 [5DN:118] Engineered Explosives
+SB: 1 [H1R:9] Force of Negation
+SB: 3 [RTR:18] Rest in Peace
+SB: 4 [IKO:319] Shark Typhoon
+SB: 1 [MBS:138] Sword of Feast and Famine
+LAYOUT MAIN:(1,6)(CMC,false,100)|([AFR:253],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[AFR:257],[RNA:251],[RNA:251],[RNA:251],[SHM:277],[SHM:277],[SHM:277],[KTK:239],[KTK:239],[SOM:229],[SOM:229],[SOM:229],[KHM:278],[KHM:278],[KHM:276],[GRN:257],[KHM:260])([J21:75],[J21:75],[J21:75],[J21:75],[MH2:25],[MH2:25],[MH2:25],[MH2:25])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[ZEN:70],[ZEN:70],[ZEN:70],[ZEN:70],[WWK:20],[WWK:20],[WWK:20],[WWK:20])([J21:166],[J21:166],[J21:166],[J21:166],[H1R:9],[H1R:9],[ZNR:27],[MH2:491],[MH2:491],[WAR:221*],[WAR:221*],[WAR:221*])([NPH:130],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([MH2:227])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([MRD:150],[5DN:118],[5DN:118],[5DN:118])([WAR:193],[WAR:193],[RTR:18],[RTR:18],[RTR:18])([H1R:9],[MBS:138])([IKO:319],[IKO:319],[IKO:319],[IKO:319])

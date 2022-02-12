@@ -1,0 +1,33 @@
+2 [RNA:246] Breeding Pool
+3 [LRW:56] Cryptic Command
+2 [M20:247] Field of the Dead
+1 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+1 [ZNR:278] Forest
+4 [RNA:178] Growth Spiral
+3 [ZNR:269] Island
+2 [WWK:31] Jace, the Mind Sculptor
+2 [IKO:250] Ketria Triome
+4 [M11:149] Lightning Bolt
+1 [ONS:320] Lonely Sandbar
+4 [ZEN:220] Misty Rainforest
+1 [ZNR:275] Mountain
+3 [ELD:247] Mystic Sanctuary
+4 [RAV:63] Remand
+4 [ZEN:223] Scalding Tarn
+2 [IKO:319] Shark Typhoon
+1 [CSP:155] Snow-Covered Forest
+1 [CSP:152] Snow-Covered Island
+1 [DIS:33] Spell Snare
+1 [GRN:257] Steam Vents
+3 [M10:75] Time Warp
+3 [THB:229] Uro, Titan of Nature's Wrath
+3 [MH1:217] Wrenn and Six
+1 [ZNR:174] Valakut Awakening
+SB: 4 [M20:42] Aether Gust
+SB: 4 [ZNR:137] Cleansing Wildfire
+SB: 2 [M20:185] Nightpack Ambusher
+SB: 3 [M20:77] Tale's End
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,7)(CMC,false,70)|([RNA:246],[RNA:246],[M20:247],[M20:247],[KTK:233],[ZNR:278],[ZNR:269],[ZNR:269],[ZNR:269],[IKO:250],[IKO:250],[ONS:320],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ZNR:275],[ELD:247],[ELD:247],[ELD:247],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[CSP:155],[CSP:152],[GRN:257])([M11:149],[M11:149],[M11:149],[M11:149],[DIS:33])([RNA:178],[RNA:178],[RNA:178],[RNA:178],[RAV:63],[RAV:63],[RAV:63],[RAV:63],[MH1:217],[MH1:217],[MH1:217])([MH1:52],[MH1:52],[MH1:52],[THB:229],[THB:229],[THB:229],[ZNR:174])([LRW:56],[LRW:56],[LRW:56],[WWK:31],[WWK:31])([M10:75],[M10:75],[M10:75])([IKO:319],[IKO:319])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([M20:198],[M20:198])([M20:42],[M20:42],[M20:42],[M20:42],[ZNR:137],[ZNR:137],[ZNR:137],[ZNR:137],[M20:77],[M20:77],[M20:77])([M20:185],[M20:185])

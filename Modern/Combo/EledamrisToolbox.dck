@@ -1,0 +1,40 @@
+1 [WAR:244] Blast Zone
+1 [WWK:132] Bojuka Bog
+3 [ELD:240] Castle Garenbrig
+1 [AVR:226] Cavern of Souls
+4 [THB:169] Dryad of the Ilysian Grove
+4 [PLS:106] Eladamri's Call
+4 [M20:169] Elvish Reclaimer
+4 [WWK:99] Explore
+2 [M20:247] Field of the Dead
+4 [TSP:272] Flagstones of Trokair
+2 [ZNR:278] Forest
+1 [ISD:240] Ghost Quarter
+1 [ZEN:220] Misty Rainforest
+4 [CON:15] Path to Exile
+1 [ZNR:266] Plains
+4 [M12:188] Primeval Titan
+1 [M21:248] Radiant Fountain
+1 [RAV:281] Selesnya Sanctuary
+1 [ZNR:322] Skyclave Apparition
+2 [CSP:155] Snow-Covered Forest
+1 [CSP:151] Snow-Covered Plains
+1 [ZNC:83] Springbloom Druid
+1 [ZNR:211] Tangled Florahedron
+2 [GRN:258] Temple Garden
+2 [ZEN:228] Valakut, the Molten Pinnacle
+1 [ZEN:229] Verdant Catacombs
+1 [TSP:281] Vesuva
+4 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+SB: 1 [AKH:5] Aven Mindcensor
+SB: 4 [M12:11] Celestial Purge
+SB: 1 [MH1:158] Collector Ouphe
+SB: 1 [JOU:10] Eidolon of Rhetoric
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 4 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,5)(CMC,false,70)|([WAR:244],[WWK:132],[ELD:240],[ELD:240],[ELD:240],[AVR:226],[M20:247],[M20:247],[TSP:272],[TSP:272],[TSP:272],[TSP:272],[ZNR:278],[ZNR:278],[ISD:240],[ZEN:220],[ZNR:266],[M21:248],[RAV:281],[CSP:155],[CSP:155],[CSP:151],[GRN:258],[GRN:258],[ZEN:228],[ZEN:228],[ZEN:229],[TSP:281],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249])([M20:169],[M20:169],[M20:169],[M20:169],[CON:15],[CON:15],[CON:15],[CON:15])([PLS:106],[PLS:106],[PLS:106],[PLS:106],[WWK:99],[WWK:99],[WWK:99],[WWK:99],[ZNR:211])([THB:169],[THB:169],[THB:169],[THB:169],[ZNR:322],[ZNC:83])([M12:188],[M12:188],[M12:188],[M12:188])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([ALA:218],[ALA:218],[ALA:218],[ALA:218])([M12:11],[M12:11],[M12:11],[M12:11],[MH1:158])([AKH:5],[JOU:10],[GRN:183],[HOU:129])([ROE:33])([ROE:6])

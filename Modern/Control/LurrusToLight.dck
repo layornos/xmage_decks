@@ -1,0 +1,37 @@
+4 [MH1:40] Archmage's Charm
+1 [RNA:246] Breeding Pool
+3 [BFZ:209] Bring to Light
+1 [THB:87] Cling to Dust
+3 [LRW:56] Cryptic Command
+1 [PLC:85] Damnation
+4 [ELD:188] Drown in the Loch
+2 [XLN:253] Drowned Catacomb
+4 [AER:57] Fatal Push
+2 [MH1:52] Force of Negation
+1 [IKO:250] Ketria Triome
+1 [FUT:52] Logic Knot
+4 [CSP:138] Mishra's Bauble
+4 [ZEN:220] Misty Rainforest
+4 [KTK:239] Polluted Delta
+1 [SHM:278] Reflecting Pool
+3 [ISD:78] Snapcaster Mage
+4 [KHM:278] Snow-Covered Island
+1 [KHM:280] Snow-Covered Swamp
+1 [BFZ:249] Sunken Hollow
+1 [SHM:280] Sunken Ruins
+4 [DKA:52] Thought Scour
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+1 [FUT:179] River of Tears
+2 [KHM:308] Valki, God of Lies
+SB: 3 [M20:42] Aether Gust
+SB: 1 [ZNR:388] Bloodchief's Thirst
+SB: 1 [BFZ:128] Crumble to Dust
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 3 [SOM:187] Nihil Spellbomb
+SB: 2 [THS:107] Thoughtseize
+SB: 1 [GRN:212] Unmoored Ego
+LAYOUT MAIN:(1,6)(CMC,false,70)|([RNA:246],[XLN:253],[XLN:253],[IKO:250],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[SHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:280],[BFZ:249],[SHM:280],[ZEN:229],[GRN:259],[IKO:259],[FUT:179])([THB:87],[AER:57],[AER:57],[AER:57],[AER:57],[DKA:52],[DKA:52],[DKA:52],[DKA:52])([ELD:188],[ELD:188],[ELD:188],[ELD:188],[FUT:52],[ISD:78],[ISD:78],[ISD:78],[KHM:308],[KHM:308])([MH1:40],[MH1:40],[MH1:40],[MH1:40],[MH1:52],[MH1:52])([LRW:56],[LRW:56],[LRW:56],[PLC:85])([BFZ:209],[BFZ:209],[BFZ:209])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([5DN:118],[5DN:118])([ZNR:388],[SOM:187],[SOM:187],[SOM:187],[THS:107],[THS:107])([M20:42],[M20:42],[M20:42])([IKO:226],[GRN:212])([BFZ:128])

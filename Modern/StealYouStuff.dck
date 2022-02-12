@@ -1,0 +1,36 @@
+3 [HOU:83] Abrade
+4 [M13:160] Arbor Elf
+1 [M12:165] Birds of Paradise
+3 [9ED:176] Blood Moon
+1 [RNA:246] Breeding Pool
+2 [ZNR:278] Forest
+1 [ZNR:269] Island
+4 [WAR:1*] Karn, the Great Creator
+3 [SOM:171] Liquimetal Coating
+4 [ZEN:220] Misty Rainforest
+1 [ZNR:275] Mountain
+3 [WAR:61*] Narset, Parter of Veils
+4 [OGW:140] Oath of Nissa
+2 [MH1:244] Prismatic Vista
+4 [MH1:145] Seasoned Pyromancer
+2 [MB1:1057] Shenanigans
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+4 [ZNR:335] Thieving Skydiver
+4 [DIS:99] Utopia Sprawl
+4 [KTK:249] Wooded Foothills
+3 [CSP:155] Snow-Covered Forest
+1 [CSP:152] Snow-Covered Island
+SB: 1 [THB:165] Arasta of the Endless Web
+SB: 2 [M21:179] Elder Gargaroth
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 3 [M11:149] Lightning Bolt
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [9ED:312] Teferi's Puzzle Box
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [SOM:223] Wurmcoil Engine
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,88)|([SOM:171],[SOM:171],[SOM:171])([M13:160],[M13:160],[M13:160],[M13:160],[M12:165],[MH1:145],[MH1:145],[MH1:145],[MH1:145],[ZNR:335],[ZNR:335],[ZNR:335],[ZNR:335])([9ED:176],[9ED:176],[9ED:176],[OGW:140],[OGW:140],[OGW:140],[OGW:140],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([HOU:83],[HOU:83],[HOU:83])([RNA:246],[ZNR:278],[ZNR:278],[ZNR:269],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ZNR:275],[MH1:244],[MH1:244],[GRN:257],[RNA:259],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[CSP:155],[CSP:155],[CSP:155],[CSP:152])([WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*],[WAR:61*],[WAR:61*],[WAR:61*])([MB1:1057],[MB1:1057])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([5DN:118],[M21:241],[AER:181])([M11:149],[M11:149],[M11:149],[RTR:231],[ALA:218])([8ED:300])([THB:165],[9ED:312])([M21:179],[M21:179])([SOM:223])

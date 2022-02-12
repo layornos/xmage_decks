@@ -1,0 +1,32 @@
+2 [ELD:281] Brazen Borrower
+2 [RNA:246] Breeding Pool
+4 [KTK:233] Flooded Strand
+4 [MH1:52] Force of Negation
+1 [KHM:257] Glacial Floodplain
+1 [RNA:251] Hallowed Fountain
+4 [MH1:203] Ice-Fang Coatl
+3 [M12:63] Mana Leak
+4 [ZEN:220] Misty Rainforest
+4 [CON:87] Noble Hierarch
+4 [MH1:20] On Thin Ice
+1 [MH1:244] Prismatic Vista
+3 [RAV:63] Remand
+2 [KHM:284] Snow-Covered Forest
+3 [KHM:278] Snow-Covered Island
+2 [KHM:276] Snow-Covered Plains
+4 [WWK:20] Stoneforge Mystic
+1 [MBS:138] Sword of Feast and Famine
+1 [DST:148] Sword of Fire and Ice
+4 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+3 [KHM:197] Toski, Bearer of Secrets
+1 [KTK:248] Windswept Heath
+1 [NPH:130] Batterskull
+SB: 3 [M12:11] Celestial Purge
+SB: 2 [M21:179] Elder Gargaroth
+SB: 2 [M20:198] Veil of Summer
+SB: 3 [UMA:227] Engineered Explosives
+SB: 2 [SOK:158] Pithing Needle
+SB: 3 [RTR:18] Rest in Peace
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,48)|([MBS:138],[DST:148],[NPH:130])([ELD:281],[ELD:281],[MH1:203],[MH1:203],[MH1:203],[MH1:203],[CON:87],[CON:87],[CON:87],[CON:87],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[KHM:197],[KHM:197],[KHM:197])([MH1:20],[MH1:20],[MH1:20],[MH1:20])([MH1:52],[MH1:52],[MH1:52],[MH1:52],[M12:63],[M12:63],[M12:63],[RAV:63],[RAV:63],[RAV:63])([RNA:246],[RNA:246],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KHM:257],[RNA:251],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[MH1:244],[KHM:284],[KHM:284],[KHM:278],[KHM:278],[KHM:278],[KHM:276],[KHM:276],[GRN:258],[KTK:248])([WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([M20:198],[M20:198])([M12:11],[M12:11],[M12:11])([M21:179],[M21:179])([UMA:227],[UMA:227],[UMA:227])([SOK:158],[SOK:158])([RTR:18],[RTR:18],[RTR:18])

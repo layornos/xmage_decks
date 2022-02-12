@@ -1,0 +1,29 @@
+2 [M14:5] Archangel of Thune
+4 [5DN:3] Auriok Champion
+4 [M12:165] Birds of Paradise
+4 [DTK:177] Collected Company
+3 [M21:216] Conclave Mentor
+2 [KHM:398] Forest
+4 [THB:18] Heliod, Sun-Crowned
+4 [FUT:177] Horizon Canopy
+2 [ZEN:220] Misty Rainforest
+4 [CON:87] Noble Hierarch
+2 [KHM:394] Plains
+3 [MH1:244] Prismatic Vista
+4 [MH1:21] Ranger-Captain of Eos
+3 [SOM:228] Razorverge Thicket
+3 [ZNR:322] Skyclave Apparition
+4 [TSB:84] Spike Feeder
+2 [GRN:258] Temple Garden
+2 [AER:181] Walking Ballista
+4 [KTK:248] Windswept Heath
+SB: 1 [LRW:7] Burrenton Forge-Tender
+SB: 3 [DOM:213] Damping Sphere
+SB: 1 [ELD:14] Giant Killer
+SB: 3 [CON:15] Path to Exile
+SB: 2 [EMN:40] Selfless Spirit
+SB: 1 [ZNR:322] Skyclave Apparition
+SB: 2 [M20:198] Veil of Summer
+SB: 2 [SHM:243] Wheel of Sun and Moon
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([AER:181],[AER:181])([M14:5],[M14:5],[5DN:3],[5DN:3],[5DN:3],[5DN:3],[M12:165],[M12:165],[M12:165],[M12:165],[M21:216],[M21:216],[M21:216],[CON:87],[CON:87],[CON:87],[CON:87],[MH1:21],[MH1:21],[MH1:21],[MH1:21],[ZNR:322],[ZNR:322],[ZNR:322],[TSB:84],[TSB:84],[TSB:84],[TSB:84])([THB:18],[THB:18],[THB:18],[THB:18])([DTK:177],[DTK:177],[DTK:177],[DTK:177])([KHM:398],[KHM:398],[FUT:177],[FUT:177],[FUT:177],[FUT:177],[ZEN:220],[ZEN:220],[KHM:394],[KHM:394],[MH1:244],[MH1:244],[MH1:244],[SOM:228],[SOM:228],[SOM:228],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([LRW:7],[ELD:14],[CON:15],[CON:15],[CON:15],[M20:198],[M20:198])([DOM:213],[DOM:213],[DOM:213],[EMN:40],[EMN:40],[SHM:243],[SHM:243])([ZNR:322])

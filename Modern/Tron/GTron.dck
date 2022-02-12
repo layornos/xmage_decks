@@ -1,0 +1,31 @@
+4 [ROE:174] Ancient Stirrings
+1 [WAR:244] Blast Zone
+4 [MRD:151] Chromatic Sphere
+4 [10E:314] Chromatic Star
+4 [ZEN:201] Expedition Map
+4 [ZNR:278] Forest
+4 [NPH:1] Karn Liberated
+4 [WAR:1*] Karn, the Great Creator
+4 [ALA:218] Relic of Progenitus
+1 [BFZ:242] Sanctum of Ugin
+4 [BFZ:192] Sylvan Scrying
+2 [M21:1] Ugin, the Spirit Dragon
+2 [BFZ:15] Ulamog, the Ceaseless Hunger
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+2 [AER:181] Walking Ballista
+4 [SOM:223] Wurmcoil Engine
+SB: 1 [M19:229] Crucible of Worlds
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [ROE:6] Kozilek, Butcher of Truth
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [M11:212] Platinum Angel
+SB: 2 [OGW:8] Spatial Contortion
+SB: 1 [DST:146] Sundering Titan
+SB: 2 [M13:193] Thragtusk
+SB: 1 [DST:154] Trinisphere
+SB: 2 [OGW:12] Warping Wail
+SB: 2 [IKO:176] Wilt
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([AER:181],[AER:181],[SOM:223],[SOM:223],[SOM:223],[SOM:223])([MRD:151],[MRD:151],[MRD:151],[MRD:151],[10E:314],[10E:314],[10E:314],[10E:314],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[ALA:218],[ALA:218],[ALA:218],[ALA:218])([BFZ:15],[BFZ:15])([WAR:244],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[BFZ:242],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329])([NPH:1],[NPH:1],[NPH:1],[NPH:1],[WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*],[M21:1],[M21:1])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[BFZ:192],[BFZ:192],[BFZ:192],[BFZ:192])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([SOM:171],[OGW:8],[OGW:8],[OGW:12],[OGW:12],[IKO:176],[IKO:176])([M19:229],[8ED:300],[DST:154])([M13:193],[M13:193])([M11:212])([DST:146])([ROE:6])

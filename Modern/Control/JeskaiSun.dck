@@ -1,0 +1,30 @@
+4 [DOM:207] Teferi, Hero of Dominaria
+3 [ISD:78] Snapcaster Mage
+4 [ZNR:137] Cleansing Wildfire
+4 [5DN:36] Serum Visions
+4 [LRW:56] Cryptic Command
+2 [MH1:52] Force of Negation
+4 [M11:149] Lightning Bolt
+1 [M19:306] Nexus of Fate
+3 [M20:77] Tale's End
+2 [ZNR:174] Valakut Awakening
+3 [RIX:92] Blood Sun
+3 [IKO:319] Shark Typhoon
+4 [TSP:272] Flagstones of Trokair
+1 [RNA:251] Hallowed Fountain
+1 [ZNR:269] Island
+4 [M20:249] Lotus Field
+1 [ZNR:275] Mountain
+1 [ZNR:266] Plains
+2 [IKO:251] Raugrin Triome
+1 [GRN:254] Sacred Foundry
+4 [KLD:249] Spirebluff Canal
+4 [GRN:257] Steam Vents
+SB: 4 [M20:42] Aether Gust
+SB: 4 [KLD:122] Madcap Experiment
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [SOM:193] Platinum Emperion
+SB: 1 [XLN:34] Settle the Wreckage
+SB: 2 [WAR:221*] Teferi, Time Raveler
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([ISD:78],[ISD:78],[ISD:78])([RIX:92],[RIX:92],[RIX:92],[IKO:319],[IKO:319],[IKO:319])([LRW:56],[LRW:56],[LRW:56],[LRW:56],[MH1:52],[MH1:52],[M11:149],[M11:149],[M11:149],[M11:149],[M19:306],[M20:77],[M20:77],[M20:77],[ZNR:174],[ZNR:174])([TSP:272],[TSP:272],[TSP:272],[TSP:272],[RNA:251],[ZNR:269],[M20:249],[M20:249],[M20:249],[M20:249],[ZNR:275],[ZNR:266],[IKO:251],[IKO:251],[GRN:254],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257],[GRN:257])([DOM:207],[DOM:207],[DOM:207],[DOM:207])([ZNR:137],[ZNR:137],[ZNR:137],[ZNR:137],[5DN:36],[5DN:36],[5DN:36],[5DN:36])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([M20:42],[M20:42],[M20:42],[M20:42])([ELD:58],[ELD:58],[WAR:221*],[WAR:221*])([KLD:122],[KLD:122],[KLD:122],[KLD:122],[XLN:34])([SOM:193],[SOM:193])

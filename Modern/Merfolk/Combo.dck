@@ -1,0 +1,22 @@
+4 [TSB:24] Lord of Atlantis
+4 [M13:59] Master of the Pearl Trident
+4 [DOM:56] Merfolk Trickster
+4 [RIX:53] Silvergill Adept
+4 [MPS:6] Aether Vial
+4 [KLD:235] Smuggler's Copter
+3 [PUMA:U32] Cavern of Souls
+2 [M14:228] Mutavault
+7 [UST:213] Island
+4 [MMA:211] Paradise Mantle
+4 [THB:308] Thassa's Oracle
+4 [SHM:146] Puresight Merrow
+4 [J19:7] Chalice of the Void
+4 [SOM:226] Darkslick Shores
+4 [LRW:280] Wanderwine Hub
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 4 [MH1:52] Force of Negation
+SB: 3 [NPH:57] Dismember
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 4 [SLD:44] Pithing Needle
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,88)|([MPS:6],[MPS:6],[MPS:6],[MPS:6],[MMA:211],[MMA:211],[MMA:211],[MMA:211],[KLD:235],[KLD:235],[KLD:235],[KLD:235],[J19:7],[J19:7],[J19:7],[J19:7])([TSB:24],[TSB:24],[TSB:24],[TSB:24],[M13:59],[M13:59],[M13:59],[M13:59],[DOM:56],[DOM:56],[DOM:56],[DOM:56],[SHM:146],[SHM:146],[SHM:146],[SHM:146],[RIX:53],[RIX:53],[RIX:53],[RIX:53],[THB:308],[THB:308],[THB:308],[THB:308])([PUMA:U32],[PUMA:U32],[PUMA:U32],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[M14:228],[M14:228],[SOM:226],[SOM:226],[SOM:226],[SOM:226],[LRW:280],[LRW:280],[LRW:280],[LRW:280])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([ALA:218],[ALA:218],[ALA:218],[SLD:44],[SLD:44],[SLD:44],[SLD:44])([MH1:52],[MH1:52],[MH1:52],[MH1:52])([NPH:57],[NPH:57],[NPH:57])([IKO:226])

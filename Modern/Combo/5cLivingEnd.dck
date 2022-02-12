@@ -1,0 +1,30 @@
+4 [ARB:1] Ardent Plea
+2 [KLD:244] Botanical Sanctum
+4 [ELD:281] Brazen Borrower
+1 [RNA:246] Breeding Pool
+4 [AKH:49] Curator of Mysteries
+4 [AKH:128] Desert Cerodon
+4 [KTK:233] Flooded Strand
+4 [MH1:52] Force of Negation
+2 [ARB:7] Glassdust Hulk
+1 [RNA:251] Hallowed Fountain
+1 [KLD:246] Inspiring Vantage
+3 [TSP:115] Living End
+1 [JOU:163] Mana Confluence
+1 [GRN:254] Sacred Foundry
+4 [ZEN:223] Scalding Tarn
+1 [KHM:278] Snow-Covered Island
+2 [KLD:249] Spirebluff Canal
+1 [GRN:257] Steam Vents
+4 [FUT:90] Street Wraith
+4 [HOU:48] Striped Riverwinder
+4 [ARB:63] Violent Outburst
+4 [MB1:548] Windcaller Aven
+SB: 3 [PLC:113] Dead // Gone
+SB: 1 [TSP:274] Gemstone Caverns
+SB: 3 [LRW:180] Ingot Chewer
+SB: 4 [M20:107] Leyline of the Void
+SB: 3 [ELD:58] Mystical Dispute
+SB: 1 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,6)(CMC,false,70)|([KLD:244],[KLD:244],[RNA:246],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[KLD:246],[TSP:115],[TSP:115],[TSP:115],[JOU:163],[GRN:254],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KHM:278],[KLD:249],[KLD:249],[GRN:257])([ARB:1],[ARB:1],[ARB:1],[ARB:1],[ELD:281],[ELD:281],[ELD:281],[ELD:281],[MH1:52],[MH1:52],[MH1:52],[MH1:52],[ARB:63],[ARB:63],[ARB:63],[ARB:63])([AKH:49],[AKH:49],[AKH:49],[AKH:49])([ARB:7],[ARB:7],[FUT:90],[FUT:90],[FUT:90],[FUT:90])([AKH:128],[AKH:128],[AKH:128],[AKH:128],[MB1:548],[MB1:548],[MB1:548],[MB1:548])([HOU:48],[HOU:48],[HOU:48],[HOU:48])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([TSP:274])([ELD:58],[ELD:58],[ELD:58],[DGM:135])([PLC:113],[PLC:113],[PLC:113],[M20:107],[M20:107],[M20:107],[M20:107])([LRW:180],[LRW:180],[LRW:180])

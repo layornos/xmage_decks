@@ -1,0 +1,34 @@
+4 [M12:165] Birds of Paradise
+4 [KLD:243] Blooming Marsh
+1 [M20:94] Cavalier of Night
+4 [M15:172] Chord of Calling
+1 [FUT:174] Dryad Arbor
+4 [EMN:155] Eldritch Evolution
+2 [ZNR:278] Forest
+4 [DKA:63] Geralf's Messenger
+2 [CON:87] Noble Hierarch
+3 [MH1:243] Nurturing Peatland
+2 [GRN:253] Overgrown Tomb
+1 [TSB:120] Pendelhaven
+1 [M21:204] Scavenging Ooze
+4 [DKA:127] Strangleroot Geist
+1 [ZNR:272] Swamp
+4 [EVE:180] Twilight Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:229] Verdant Catacombs
+4 [TSB:89] Wall of Roots
+4 [MH1:116] Yawgmoth, Thran Physician
+4 [DKA:134] Young Wolf
+1 [BFZ:126] Zulaport Cutthroat
+SB: 2 [WAR:228*] Ashiok, Dream Render
+SB: 2 [DOM:213] Damping Sphere
+SB: 1 [AER:57] Fatal Push
+SB: 1 [SHM:229] Kitchen Finks
+SB: 2 [M20:107] Leyline of the Void
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [M19:196] Reclamation Sage
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CMC,false,70)|([KLD:243],[KLD:243],[KLD:243],[KLD:243],[FUT:174],[ZNR:278],[ZNR:278],[MH1:243],[MH1:243],[MH1:243],[GRN:253],[GRN:253],[TSB:120],[ZNR:272],[EVE:180],[EVE:180],[EVE:180],[EVE:180],[M15:248],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229])([M12:165],[M12:165],[M12:165],[M12:165],[CON:87],[CON:87],[DKA:134],[DKA:134],[DKA:134],[DKA:134])([M21:204],[DKA:127],[DKA:127],[DKA:127],[DKA:127],[TSB:89],[TSB:89],[TSB:89],[TSB:89],[BFZ:126])([M15:172],[M15:172],[M15:172],[M15:172],[EMN:155],[EMN:155],[EMN:155],[EMN:155],[DKA:63],[DKA:63],[DKA:63],[DKA:63])([MH1:116],[MH1:116],[MH1:116],[MH1:116])([M20:94])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([AER:57],[M20:198],[M20:198],[M20:198])([DOM:213],[DOM:213],[M15:225])([WAR:228*],[WAR:228*],[SHM:229],[MH1:100],[M19:196])([M20:107],[M20:107],[M11:188])

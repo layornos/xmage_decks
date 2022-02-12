@@ -1,0 +1,102 @@
+1 [ELD:331] Arcane Signet
+1 [WAR:228*] Ashiok, Dream Render
+1 [SUM:282] Badlands
+1 [STX:301] Baleful Mastery
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [M10:128] Burning Inquiry
+1 [EVE:175] Cascade Bluffs
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [MBS:21] Consecrated Sphinx
+1 [RTR:35] Cyclonic Rift
+1 [MED:RA6] Dack Fayden
+1 [FRF:66] Dark Deal
+1 [MH2:397] Dauthi Voidwalker
+1 [ORI:51] Day's Undoing
+1 [C20:50] Deflecting Swat
+1 [SUM:105] Demonic Tutor
+1 [RAV:260] Dimir Signet
+1 [C19:24] Dockside Extortionist
+1 [XLN:252] Dragonskull Summit
+1 [XLN:253] Drowned Catacomb
+1 [MH1:46] Echo of Eons
+1 [BNG:68] Fate Unraveler
+1 [9ED:297] Fellwar Stone
+1 [SOI:244] Fevered Visions
+1 [C20:35] Fierce Guardianship
+1 [H1R:9] Force of Negation
+1 [ALL:28] Force of Will
+1 [DST:123] Geth's Grimoire
+1 [SHM:272] Graven Cairns
+1 [M10:212] Howling Mine
+1 [ELD:128] Irencrag Pyromancer
+1 [GPT:152] Izzet Signet
+1 [M11:58] Jace Beleren
+1 [M12:59] Jace's Archivist
+1 [CMR:187] Jeska's Will
+1 [SOK:42] Kami of the Crescent Moon
+1 [MH1:206] Kess, Dissident Mage
+1 [M11:103] Liliana's Caress
+1 [ZNE:18] Luxury Suite
+1 [JOU:163] Mana Confluence
+1 [2XM:270] Mana Crypt
+1 [LEG:65] Mana Drain
+1 [5ED:388] Mana Vault
+1 [M10:104] Megrim
+1 [ULG:129] Memory Jar
+1 [ZNE:17] Morphic Pool
+1 [ELD:247] Mystic Sanctuary
+1 [6ED:83] Mystical Tutor
+1 [THB:305] Nadir Kraken
+1 [WAR:61*] Narset, Parter of Veils
+1 [DGM:88] Notion Thief
+1 [CMR:141] Opposition Agent
+1 [KTK:239] Polluted Delta
+1 [MH2:401] Profane Tutor
+1 [6ED:89] Prosperity
+1 [DIS:165] Rakdos Signet
+1 [SHM:278*] Reflecting Pool
+1 [AVR:151] Reforge the Soul
+1 [M19:254] Reliquary Tower
+1 [PCY:45] Rhystic Study
+1 [ZEN:223] Scalding Tarn
+1 [M20:113] Scheming Symmetry
+1 [CHK:143] Seizan, Perverter of Truth
+1 [CHK:268] Sensei's Divining Top
+1 [SUM:274] Sol Ring
+1 [SHM:198] Spiteful Visions
+1 [GRN:257] Steam Vents
+1 [DOM:247] Sulfur Falls
+1 [SHM:280] Sunken Ruins
+1 [THS:65] Swan Song
+1 [H1R:34] Talisman of Creativity
+1 [MRD:253] Talisman of Dominance
+1 [MRD:255] Talisman of Indulgence
+1 [9ED:312] Teferi's Puzzle Box
+1 [KHM:112] Tergrid, God of Fright
+1 [HOU:139] The Locust God
+1 [CMR:346] Thought Vessel
+1 [M12:77] Time Reversal
+1 [USG:103] Time Spiral
+1 [CMR:358] Training Center
+1 [SUM:290] Underground Sea
+1 [THB:121] Underworld Dreams
+1 [MH2:259] Urza's Saga
+1 [ZNR:174] Valakut Awakening
+1 [6ED:161] Vampiric Tutor
+1 [SUM:291] Volcanic Island
+1 [M15:122] Waste Not
+1 [GRN:259] Watery Grave
+1 [ONS:121] Wheel and Deal
+1 [TSP:187] Wheel of Fate
+1 [SUM:185] Wheel of Fortune
+1 [CMR:211] Wheel of Misfortune
+1 [GTC:207] Whispering Madness
+1 [USG:111] Windfall
+1 [5ED:275] Winds of Change
+1 [2ED:85] Timetwister
+SB: 1 [CMR:529] Nekusar, the Mindrazer
+LAYOUT MAIN:(1,7)(CMC,false,70)|([SUM:282],[RNA:245],[KTK:230],[EVE:175],[MRD:152],[8ED:322],[ELD:333],[XLN:252],[XLN:253],[SHM:272],[ZNE:18],[JOU:163],[2XM:270],[ZNE:17],[ELD:247],[KTK:239],[MH2:401],[SHM:278*],[M19:254],[ZEN:223],[GRN:257],[DOM:247],[SHM:280],[CMR:358],[SUM:290],[MH2:259],[SUM:291],[GRN:259],[TSP:187])([M10:128],[5ED:388],[6ED:83],[6ED:89],[M20:113],[CHK:268],[SUM:274],[THS:65],[6ED:161],[5ED:275])([ELD:331],[RTR:35],[MH2:397],[SUM:105],[RAV:260],[C19:24],[9ED:297],[M10:212],[GPT:152],[SOK:42],[M11:103],[LEG:65],[DIS:165],[H1R:34],[MRD:253],[MRD:255],[CMR:346],[M15:122])([WAR:228*],[MED:RA6],[FRF:66],[ORI:51],[C20:50],[SOI:244],[C20:35],[H1R:9],[ELD:128],[M11:58],[M12:59],[CMR:187],[M10:104],[THB:305],[WAR:61*],[CMR:141],[PCY:45],[2ED:85],[THB:121],[ZNR:174],[SUM:185],[CMR:211],[USG:111])([STX:301],[BNG:68],[DST:123],[MH1:206],[DGM:88],[SHM:198],[9ED:312],[ONS:121],[GTC:207])([ALL:28],[ULG:129],[AVR:151],[CHK:143],[KHM:112],[M12:77])([MBS:21],[MH1:46],[HOU:139],[USG:103])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CMR:529])

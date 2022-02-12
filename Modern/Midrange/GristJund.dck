@@ -1,0 +1,30 @@
+1 [SOM:224] Blackcleave Cliffs
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+4 [ELD:115] Bonecrusher Giant
+4 [DTK:177] Collected Company
+3 [SOM:225] Copperline Gorge
+4 [MH2:157] Endurance
+1 [STX:374] Forest
+4 [MH2:202] Grist, the Hunger Tide
+4 [MH2:166] Ignoble Hierarch
+3 [THB:221] Kroxa, Titan of Death's Hunger
+4 [MH1:208] Lightning Skelemental
+1 [STX:372] Mountain
+1 [MH1:243] Nurturing Peatland
+1 [GRN:253] Overgrown Tomb
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [MH1:145] Seasoned Pyromancer
+2 [RNA:259] Stomping Ground
+1 [STX:370] Swamp
+4 [ULG:72] Unearth
+4 [ZEN:229] Verdant Catacombs
+4 [KTK:249] Wooded Foothills
+SB: 2 [MH1:158] Collector Ouphe
+SB: 3 [DIS:150] Crime // Punishment
+SB: 3 [SHM:188] Fulminator Mage
+SB: 3 [SHM:229] Kitchen Finks
+SB: 2 [H1R:14] Plague Engineer
+SB: 2 [M19:196] Reclamation Sage
+LAYOUT MAIN:(1,5)(CMC,false,70)|([SOM:224],[RNA:245],[KTK:230],[SOM:225],[SOM:225],[SOM:225],[STX:374],[STX:372],[MH1:243],[GRN:253],[RNA:259],[RNA:259],[STX:370],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([MH2:166],[MH2:166],[MH2:166],[MH2:166],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[ULG:72],[ULG:72],[ULG:72],[ULG:72])([THB:221],[THB:221],[THB:221])([ELD:115],[ELD:115],[ELD:115],[ELD:115],[MH2:157],[MH2:157],[MH2:157],[MH2:157],[MH2:202],[MH2:202],[MH2:202],[MH2:202],[MH1:208],[MH1:208],[MH1:208],[MH1:208],[MH1:145],[MH1:145],[MH1:145],[MH1:145])([DTK:177],[DTK:177],[DTK:177],[DTK:177])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([MH1:158],[MH1:158])([SHM:188],[SHM:188],[SHM:188],[SHM:229],[SHM:229],[SHM:229],[H1R:14],[H1R:14],[M19:196],[M19:196])([DIS:150],[DIS:150],[DIS:150])

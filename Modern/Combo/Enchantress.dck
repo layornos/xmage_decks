@@ -1,0 +1,35 @@
+4 [AVR:167] Abundant Growth
+1 [THB:4] Banishing Light
+2 [9ED:176] Blood Moon
+3 [THB:168] Destiny Spinner
+4 [ONS:261] Enchantress's Presence
+1 [H1R:39] Hall of Heliod's Generosity
+1 [RTR:130] Mana Bloom
+4 [MH1:20] On Thin Ice
+2 [H1R:40] Prismatic Vista
+4 [MH2:171] Sanctum Weaver
+1 [DIS:71] Seal of Fire
+1 [ORI:31] Sigil of the Empty Throne
+5 [KHM:284] Snow-Covered Forest
+2 [KHM:276] Snow-Covered Plains
+2 [JUD:24] Solitary Confinement
+4 [INV:278] Sterling Grove
+1 [RNA:259] Stomping Ground
+4 [MH2:214] Sythis, Harvest's Hand
+2 [GRN:258] Temple Garden
+4 [DIS:99] Utopia Sprawl
+1 [ZEN:229] Verdant Catacombs
+4 [KTK:248] Windswept Heath
+2 [KTK:249] Wooded Foothills
+1 [MH2:261] Yavimaya, Cradle of Growth
+SB: 1 [9ED:176] Blood Moon
+SB: 2 [8ED:237] Choke
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 1 [ZEN:14] Journey to Nowhere
+SB: 1 [MH2:25] Prismatic Ending
+SB: 4 [RTR:18] Rest in Peace
+SB: 1 [DIS:71] Seal of Fire
+SB: 2 [PLC:153] Seal of Primordium
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,5)(CMC,false,70)|([H1R:39],[H1R:40],[H1R:40],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:276],[KHM:276],[RNA:259],[GRN:258],[GRN:258],[ZEN:229],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[MH2:261])([AVR:167],[AVR:167],[AVR:167],[AVR:167],[RTR:130],[MH1:20],[MH1:20],[MH1:20],[MH1:20],[DIS:71],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([THB:168],[THB:168],[THB:168],[MH2:171],[MH2:171],[MH2:171],[MH2:171],[INV:278],[INV:278],[INV:278],[INV:278],[MH2:214],[MH2:214],[MH2:214],[MH2:214])([THB:4],[9ED:176],[9ED:176],[ONS:261],[ONS:261],[ONS:261],[ONS:261],[JUD:24],[JUD:24])([ORI:31])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([MH2:25],[DIS:71],[M20:198],[M20:198])([ZEN:14],[RTR:18],[RTR:18],[RTR:18],[RTR:18],[PLC:153],[PLC:153])([9ED:176],[8ED:237],[8ED:237])([ROE:4])

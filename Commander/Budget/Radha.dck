@@ -1,0 +1,73 @@
+1 [WAR:149] Arboreal Grazer
+1 [8ED:243] Elvish Pioneer
+1 [INV:143] Firebrand Ranger
+1 [JUD:123] Krosan Wayfarer
+1 [WAR:203] Living Twister
+1 [DOM:170] Llanowar Scout
+1 [OGW:156] Mina and Denn, Wildborn
+1 [PZ2:70649] Nesting Dragon
+1 [ZNR:234] Phylath, World Sculptor
+1 [ZEN:178] Rampaging Baloths
+1 [CHK:239] Sakura-Tribe Elder
+1 [ZNR:203] Scute Swarm
+1 [10E:297] Skyshroud Ranger
+1 [ZNR:167] Spitfire Lagac
+1 [M14:196] Sporemound
+1 [ZNC:83] Springbloom Druid
+1 [BFZ:158] Tunneling Geopede
+1 [WWK:131] Walking Atlas
+1 [ORI:169] Animist's Awakening
+1 [DOM:157] Broken Bond
+1 [WWK:98] Canopy Cover
+1 [IKO:110] Cathartic Reunion
+1 [ULG:98] Crop Rotation
+1 [M21:177] Cultivate
+1 [MOR:118] Deglamer
+1 [M12:207] Druidic Satchel
+1 [FUT:144] Edge of Autumn
+1 [RIX:128] Enter the Unknown
+1 [ELD:189] Escape to the Wilds
+1 [WWK:99] Explore
+1 [ZEN:202] Explorer's Scope
+1 [DKA:87] Faithless Looting
+1 [JOU:123] Font of Fertility
+1 [IKO:118] Footfall Crater
+1 [KLD:216] Ghirapur Orrery
+1 [DOM:164] Grow from the Ashes
+1 [PLC:149] Harmonize
+1 [ZEN:165] Harrow
+1 [M15:219] Hot Soup
+1 [MRD:123] Journey of Discovery
+1 [DOM:166] Kamahl's Druidic Vow
+1 [KLD:220] Key to the City
+1 [ZEN:167] Khalni Heart Expedition
+1 [IKO:164] Migration Path
+1 [ZNR:151] Nahiri's Lithoforming
+1 [THS:219] Prowler's Helm
+1 [M12:190] Rampant Growth
+1 [MH1:211] Reap the Past
+1 [BFZ:186] Retreat to Kazandu
+1 [BFZ:153] Retreat to Valakut
+1 [M21:200] Return to Nature
+1 [TSP:216] Search for Tomorrow
+1 [WWK:130] Seer's Sundial
+1 [9ED:273] Summer Bloom
+1 [M21:165] Thrill of Possibility
+1 [ZNR:172] Tormenting Voice
+1 [BNG:143] Unravel the Aether
+1 [ZNR:175] Valakut Exploration
+1 [ZNR:217] Vastwood Surge
+1 [5DN:165] Wayfarer's Bauble
+1 [KLD:174] Wildest Dreams
+1 [ORI:209] Zendikar's Roil
+1 [BFZ:233] Blighted Woodland
+1 [IKO:247] Evolving Wilds
+22 [ZNR:278] Forest
+1 [GPT:158] Gruul Turf
+9 [ZNR:275] Mountain
+1 [ZNC:135] Myriad Landscape
+1 [ORI:250] Rogue's Passage
+1 [M11:229] Terramorphic Expanse
+SB: 1 [M21:224] Radha, Heart of Keld
+LAYOUT MAIN:(1,7)(CMC,false,70)|([BFZ:233],[IKO:247],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[GPT:158],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNC:135],[ORI:250],[M11:229])([WAR:149],[8ED:243],[JUD:123],[10E:297],[ORI:169],[ULG:98],[RIX:128],[ZEN:202],[DKA:87],[JOU:123],[IKO:118],[M15:219],[5DN:165],[KLD:174])([INV:143],[DOM:170],[CHK:239],[WWK:131],[DOM:157],[WWK:98],[IKO:110],[MOR:118],[FUT:144],[WWK:99],[DOM:166],[KLD:220],[ZEN:167],[ZNR:151],[THS:219],[M12:190],[MH1:211],[M21:200],[9ED:273],[M21:165],[ZNR:172],[BNG:143])([WAR:203],[ZNR:203],[ZNC:83],[BFZ:158],[M21:177],[M12:207],[DOM:164],[ZEN:165],[MRD:123],[BFZ:186],[BFZ:153],[TSP:216],[ZNR:175])([OGW:156],[ZNR:167],[KLD:216],[PLC:149],[IKO:164],[WWK:130],[ZNR:217])([PZ2:70649],[M14:196],[ELD:189],[ORI:209])([ZNR:234],[ZEN:178])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([M21:224])

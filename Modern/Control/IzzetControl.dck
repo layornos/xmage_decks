@@ -1,0 +1,37 @@
+1 [HOU:83] Abrade
+1 [M20:42] Aether Gust
+4 [MH1:40] Archmage's Charm
+4 [EVE:175] Cascade Bluffs
+1 [GRN:163] Crackling Drake
+2 [LRW:56] Cryptic Command
+2 [NPH:33] Deceiver Exarch
+1 [ROE:145] Flame Slash
+1 [MH1:255] Flusterstorm
+4 [ZNR:269] Island
+2 [CHK:175] Kiki-Jiki, Mirror Breaker
+4 [M11:149] Lightning Bolt
+1 [M12:63] Mana Leak
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ZNR:275] Mountain
+4 [M21:59] Opt
+1 [GRN:195] Ral, Izzet Viceroy
+3 [SHM:278] Reflecting Pool
+3 [RAV:63] Remand
+4 [ZNR:264] Riverglide Pathway
+3 [5DN:36] Serum Visions
+4 [ISD:78] Snapcaster Mage
+2 [DIS:33] Spell Snare
+4 [KLD:249] Spirebluff Canal
+1 [M21:252] Temple of Epiphany
+1 [ZNR:174] Valakut Awakening
+SB: 3 [M20:42] Aether Gust
+SB: 1 [THS:112] Anger of the Gods
+SB: 1 [8ED:180] Boil
+SB: 1 [KLD:40] Ceremonious Rejection
+SB: 4 [ZNR:137] Cleansing Wildfire
+SB: 1 [BFZ:76] Dispel
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [ELD:58] Mystical Dispute
+SB: 1 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([GRN:163],[NPH:33],[NPH:33],[CHK:175],[CHK:175],[ISD:78],[ISD:78],[ISD:78],[ISD:78])([HOU:83],[M20:42],[MH1:40],[MH1:40],[MH1:40],[MH1:40],[LRW:56],[LRW:56],[MH1:255],[M11:149],[M11:149],[M11:149],[M11:149],[M12:63],[M21:59],[M21:59],[M21:59],[M21:59],[RAV:63],[RAV:63],[RAV:63],[DIS:33],[DIS:33],[ZNR:174])([EVE:175],[EVE:175],[EVE:175],[EVE:175],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[CHK:279],[ZNR:275],[SHM:278],[SHM:278],[SHM:278],[ZNR:264],[ZNR:264],[ZNR:264],[ZNR:264],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[M21:252])([GRN:195])([ROE:145],[5DN:36],[5DN:36],[5DN:36])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,50)|([5DN:118],[5DN:118],[ALA:218])([M20:42],[M20:42],[M20:42],[8ED:180],[KLD:40],[BFZ:76],[ELD:58])([THS:112],[ZNR:137],[ZNR:137],[ZNR:137],[ZNR:137])

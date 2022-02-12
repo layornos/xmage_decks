@@ -1,0 +1,36 @@
+1 [THB:236] Shadowspear
+1 [5DN:118] Engineered Explosives
+1 [MRD:141] Aether Spellbomb
+2 [WAR:221*] Teferi, Time Raveler
+2 [MH2:25] Prismatic Ending
+2 [10E:314] Chromatic Star
+3 [5DN:127] Grinding Station
+4 [CSP:138] Mishra's Bauble
+4 [DOM:224] Mox Amber
+4 [MID:388] Consider
+4 [THB:161] Underworld Breach
+1 [THB:308] Thassa's Oracle
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [ELD:342] Emry, Lurker of the Loch
+4 [J21:438] Dragon's Rage Channeler
+1 [KLD:249] Spirebluff Canal
+1 [RNA:251] Hallowed Fountain
+1 [VOW:274] Mountain
+1 [VOW:270] Island
+1 [GRN:254] Sacred Foundry
+2 [GRN:257] Steam Vents
+2 [KTK:233] Flooded Strand
+2 [ZEN:211] Arid Mesa
+4 [ZEN:223] Scalding Tarn
+4 [MH2:259] Urza's Saga
+SB: 3 [MH2:327] Blossoming Calm
+SB: 2 [DGM:135] Wear // Tear
+SB: 2 [J21:529] Unholy Heat
+SB: 2 [XLN:81] Spell Pierce
+SB: 1 [WAR:234*] Saheeli, Sublime Artificer
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [M21:241] Tormod's Crypt
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [WAR:221*] Teferi, Time Raveler
+LAYOUT MAIN:(1,4)(CMC,false,70)|([5DN:118],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[DOM:224],[DOM:224],[DOM:224],[DOM:224],[KLD:249],[RNA:251],[VOW:274],[VOW:270],[GRN:254],[GRN:257],[GRN:257],[KTK:233],[KTK:233],[ZEN:211],[ZEN:211],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[MH2:259],[MH2:259],[MH2:259],[MH2:259])([THB:236],[MRD:141],[MH2:25],[MH2:25],[10E:314],[10E:314],[MID:388],[MID:388],[MID:388],[MID:388],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[J21:438],[J21:438],[J21:438],[J21:438])([5DN:127],[5DN:127],[5DN:127],[THB:161],[THB:161],[THB:161],[THB:161],[THB:308])([WAR:221*],[WAR:221*],[ELD:342],[ELD:342],[ELD:342],[ELD:342])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([M21:241],[5DN:118],[5DN:118])([MH2:327],[MH2:327],[MH2:327],[J21:529],[J21:529],[XLN:81],[XLN:81],[MID:257])([DGM:135],[DGM:135],[WAR:234*],[WAR:221*])

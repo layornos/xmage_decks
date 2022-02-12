@@ -1,0 +1,85 @@
+1 [VOW:93] Archghoul of Thraben
+1 [SCG:59] Carrion Feeder
+1 [M12:86] Cemetery Reaper
+1 [MID:344] Champion of the Perished
+1 [MIC:11] Cleaver Skaab
+1 [MIC:109] Corpse Augur
+1 [EMN:86] Cryptbreaker
+1 [M19:90] Death Baron
+1 [DKA:135] Diregraf Captain
+1 [SOI:107] Diregraf Colossus
+1 [WAR:49] Eternal Skylord
+1 [ORI:98] Fleshbag Marauder
+1 [VOW:319] Geralf, Visionary Stitcher
+1 [EMN:183] Gisa and Geralf
+1 [WAR:198] Gleaming Overseer
+1 [DKA:64] Gravecrawler
+1 [ONS:152] Gravespawn Sovereign
+1 [THB:355] Gray Merchant of Asphodel
+1 [VOW:118] Headless Rider
+1 [MIC:15] Hordewing Skaab
+1 [AKH:99] Lord of the Accursed
+1 [10E:155] Lord of the Undead
+1 [GRN:77] Midnight Reaper
+1 [LGN:77] Noxious Ghoul
+1 [VOW:363] Overcharged Amalgam
+1 [AKH:104] Plague Belcher
+1 [MID:339] Poppet Stitcher
+1 [MIC:22] Ravenous Rotbelly
+1 [HOU:145] The Scarab God
+1 [MIC:23] Tomb Tyrant
+1 [ISD:84] Undead Alchemist
+1 [MIC:130] Undead Augur
+1 [TSB:52] Undead Warchief
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [MIC:13] Drown in Dreams
+1 [MBS:43] Go for the Throat
+1 [WAR:59] Lazotep Plating
+1 [KHM:107] Rise of the Dread Marn
+1 [ISD:87] Army of the Damned
+1 [EMN:87] Dark Salvation
+1 [SUM:105] Demonic Tutor
+1 [MOR:32] Distant Melody
+1 [MIC:113] Dread Summons
+1 [MIC:14] Empty the Laboratory
+1 [ZNR:102] Feed the Swarm
+1 [MIC:19] Ghouls' Night Out
+1 [DKA:80] Zombie Apocalypse
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [7ED:289] Charcoal Diamond
+1 [VOC:163] Commander's Sphere
+1 [MIC:17] Crowded Crypt
+1 [RAV:260] Dimir Signet
+1 [SUM:274] Sol Ring
+1 [MRD:253] Talisman of Dominance
+1 [AFC:28] Wand of Orcus
+1 [MIC:18] Curse of the Restless Dead
+1 [WAR:86] Dreadhorde Invasion
+1 [ISD:99] Endless Ranks of the Dead
+1 [AKH:98] Liliana's Mastery
+1 [VOW:362] Necroduality
+1 [M19:112] Open the Graves
+1 [ISD:71] Rooftop Storm
+1 [AKH:97] Liliana, Death's Majesty
+1 [WWK:132] Bojuka Bog
+1 [SOI:270] Choked Estuary
+1 [ELD:333] Command Tower
+1 [ODY:319] Darkwater Catacombs
+1 [RAV:276] Dimir Aqueduct
+1 [CON:142] Exotic Orchard
+1 [BFZ:240] Mortuary Mire
+1 [VOC:176] Myriad Landscape
+1 [VOC:177] Path of Ancestry
+1 [BFZ:249] Sunken Hollow
+1 [TOR:141] Tainted Isle
+1 [THB:245] Temple of Deceit
+1 [XLN:258] Unclaimed Territory
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [GRN:259] Watery Grave
+5 [UND:90] Island
+14 [UND:92] Swamp
+SB: 1 [MIC:2] Wilhelt, the Rotcleaver
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([ELD:331],[6ED:274],[7ED:289],[VOC:163],[MIC:17],[RAV:260],[SUM:274],[MRD:253],[AFC:28])([VOW:93],[SCG:59],[M12:86],[MID:344],[MIC:11],[MIC:109],[EMN:86],[M19:90],[DKA:135],[SOI:107],[WAR:49],[ORI:98],[VOW:319],[EMN:183],[WAR:198],[DKA:64],[ONS:152],[THB:355],[VOW:118],[MIC:15],[AKH:99],[10E:155],[GRN:77],[LGN:77],[VOW:363],[AKH:104],[MID:339],[MIC:22],[HOU:145],[MIC:23],[ISD:84],[MIC:130],[TSB:52])([MIC:18],[WAR:86],[ISD:99],[AKH:98],[VOW:362],[M19:112],[ISD:71])([7ED:67],[RTR:35],[MIC:13],[MBS:43],[WAR:59],[KHM:107])([WWK:132],[SOI:270],[ELD:333],[ODY:319],[RAV:276],[CON:142],[BFZ:240],[VOC:176],[VOC:177],[BFZ:249],[TOR:141],[THB:245],[XLN:258],[M15:248],[GRN:259],[UND:90],[UND:90],[UND:90],[UND:90],[UND:90],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92])([AKH:97])([ISD:87],[EMN:87],[SUM:105],[MOR:32],[MIC:113],[MIC:14],[ZNR:102],[MIC:19],[DKA:80])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([MIC:2])

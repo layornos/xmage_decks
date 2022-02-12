@@ -1,0 +1,32 @@
+1 [DOM:207] Teferi, Hero of Dominaria
+2 [RAV:63] Remand
+2 [RTR:201] Supreme Verdict
+2 [M12:63] Mana Leak
+2 [WWK:31] Jace, the Mind Sculptor
+1 [DIS:33] Spell Snare
+3 [LRW:56] Cryptic Command
+3 [MH1:40] Archmage's Charm
+2 [CON:15] Path to Exile
+3 [MH1:52] Force of Negation
+1 [ZEN:220] Misty Rainforest
+1 [SHM:277] Mystic Gate
+1 [KHM:394] Plains
+1 [BFZ:241] Prairie Stream
+1 [ZEN:223] Scalding Tarn
+2 [THB:242] Field of Ruin
+2 [RNA:251] Hallowed Fountain
+2 [KTK:239] Polluted Delta
+3 [ELD:247] Mystic Sanctuary
+4 [KTK:233] Flooded Strand
+7 [KHM:395] Island
+3 [KHM:303] Cosima, God of the Voyage
+2 [ZNC:12] Condemn
+3 [PRM:72233] Teferi, Time Raveler
+4 [IKO:67] Shark Typhoon
+2 [ISD:78] Snapcaster Mage
+SB: 1 [M12:40] Timely Reinforcements
+SB: 2 [FRF:20] Monastery Mentor
+SB: 2 [M12:11] Celestial Purge
+SB: 3 [M20:42] Aether Gust
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([KHM:303],[KHM:303],[KHM:303],[ISD:78],[ISD:78])([IKO:67],[IKO:67],[IKO:67],[IKO:67])([RAV:63],[RAV:63],[M12:63],[M12:63],[DIS:33],[LRW:56],[LRW:56],[LRW:56],[MH1:40],[MH1:40],[MH1:40],[CON:15],[CON:15],[MH1:52],[MH1:52],[MH1:52],[ZNC:12],[ZNC:12])([ZEN:220],[SHM:277],[KHM:394],[BFZ:241],[ZEN:223],[THB:242],[THB:242],[RNA:251],[RNA:251],[KTK:239],[KTK:239],[ELD:247],[ELD:247],[ELD:247],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395])([DOM:207],[WWK:31],[WWK:31],[PRM:72233],[PRM:72233],[PRM:72233])([RTR:201],[RTR:201])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,63)|([M12:11],[M12:11],[M20:42],[M20:42],[M20:42])([M12:40],[FRF:20],[FRF:20])

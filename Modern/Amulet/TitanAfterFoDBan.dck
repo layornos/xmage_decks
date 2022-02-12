@@ -1,0 +1,43 @@
+1 [IKO:142] Adventurous Impulse
+4 [WWK:121] Amulet of Vigor
+4 [WAR:149] Arboreal Grazer
+1 [M21:173] Azusa, Lost but Seeking
+1 [WWK:132] Bojuka Bog
+1 [RAV:275] Boros Garrison
+1 [RNA:246] Breeding Pool
+3 [ELD:240] Castle Garenbrig
+1 [AVR:226] Cavern of Souls
+1 [OGW:170] Crumbling Vestige
+4 [THB:169] Dryad of the Ilysian Grove
+4 [WWK:99] Explore
+2 [KHM:398] Forest
+1 [ISD:240] Ghost Quarter
+1 [RAV:278] Golgari Rot Farm
+1 [GPT:158] Gruul Turf
+1 [WWK:138] Khalni Garden
+1 [ZEN:220] Misty Rainforest
+4 [M12:188] Primeval Titan
+1 [M21:248] Radiant Fountain
+2 [RAV:281] Selesnya Sanctuary
+4 [DIS:180] Simic Growth Chamber
+1 [AVR:229] Slayers' Stronghold
+1 [KHM:284] Snow-Covered Forest
+4 [FUT:139] Summoner's Pact
+1 [RAV:282] Sunhome, Fortress of the Legion
+3 [FUT:173] Tolaria West
+2 [ZNR:215] Turntimber Symbiosis
+2 [ZEN:228] Valakut, the Molten Pinnacle
+1 [TSP:281] Vesuva
+1 [KTK:249] Wooded Foothills
+SB: 1 [NPH:103] Beast Within
+SB: 1 [AVR:226] Cavern of Souls
+SB: 3 [NPH:57] Dismember
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [FUT:42] Pact of Negation
+SB: 1 [M21:248] Radiant Fountain
+SB: 1 [HOU:129] Ramunap Excavator
+SB: 1 [M19:196] Reclamation Sage
+SB: 3 [SOI:233] Tireless Tracker
+LAYOUT MAIN:(1,6)(CMC,false,70)|([WWK:132],[RAV:275],[RNA:246],[ELD:240],[ELD:240],[ELD:240],[AVR:226],[OGW:170],[KHM:398],[KHM:398],[ISD:240],[RAV:278],[GPT:158],[WWK:138],[ZEN:220],[M21:248],[RAV:281],[RAV:281],[DIS:180],[DIS:180],[DIS:180],[DIS:180],[AVR:229],[KHM:284],[FUT:139],[FUT:139],[FUT:139],[FUT:139],[RAV:282],[FUT:173],[FUT:173],[FUT:173],[ZEN:228],[ZEN:228],[TSP:281],[KTK:249])([IKO:142],[WWK:121],[WWK:121],[WWK:121],[WWK:121],[WAR:149],[WAR:149],[WAR:149],[WAR:149])([WWK:99],[WWK:99],[WWK:99],[WWK:99])([M21:173],[THB:169],[THB:169],[THB:169],[THB:169])([M12:188],[M12:188],[M12:188],[M12:188])([ZNR:215],[ZNR:215])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([AVR:226],[5DN:118],[5DN:118],[FUT:42],[M21:248])([NPH:103],[NPH:57],[NPH:57],[NPH:57],[HOU:129],[M19:196],[SOI:233],[SOI:233],[SOI:233])([M11:188])

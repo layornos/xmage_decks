@@ -1,0 +1,91 @@
+1 [CMR:55] Amphin Mutineer
+1 [UDS:51] Apprentice Necromancer
+1 [CMR:267] Araumi of the Dead Tide
+1 [ORI:131] Avaricious Dragon
+1 [AFR:138] Delina, Wild Mage
+1 [C19:24] Dockside Extortionist
+1 [RIX:100] Etali, Primal Storm
+1 [ALA:43] Fatestitcher
+1 [C21:169] Feldon of the Third Path
+1 [FRF:99] Flamerush Rider
+1 [CMR:183] Hellkite Courser
+1 [EMN:64] Identity Thief
+1 [WAR:133] Ilharg, the Raze-Boar
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [LRW:76] Mulldrifter
+1 [SHM:75] Puppeteer Clique
+1 [THB:150] Purphoros, Bronze-Blooded
+1 [CMR:146] Rakshasa Debaser
+1 [C21:382] Rionya, Fire Dancer
+1 [ALA:193] Sedris, the Traitor King
+1 [GTC:75] Sepulchral Primordial
+1 [M21:239] Solemn Simulacrum
+1 [CMR:294] Zara, Renegade Recruiter
+1 [INV:238] Cauldron Dance
+1 [AFC:117] Chaos Warp
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [M21:349] Discontinuity
+1 [INV:57] Fact or Fiction
+1 [C20:35] Fierce Guardianship
+1 [7ED:182] Final Fortune
+1 [ULG:32] Frantic Search
+1 [AKH:133] Glorious End
+1 [THS:65] Swan Song
+1 [ARB:46] Terminate
+1 [6ED:161] Vampiric Tutor
+1 [VOW:140] Alchemist's Gambit
+1 [ISD:130] Blasphemous Act
+1 [SUM:105] Demonic Tutor
+1 [DKA:87] Faithless Looting
+1 [MBS:44] Gruesome Encore
+1 [C19:26] Hate Mirage
+1 [SOK:40] Ideas Unbound
+1 [ME4:125] Last Chance
+1 [GTC:55] Voidwalk
+1 [MID:250] Wake to Slaughter
+1 [USG:111] Windfall
+1 [ELD:331] Arcane Signet
+1 [RAV:260] Dimir Signet
+1 [GPT:152] Izzet Signet
+1 [MRD:199] Lightning Greaves
+1 [SOM:175] Mimic Vat
+1 [DIS:165] Rakdos Signet
+1 [SUM:274] Sol Ring
+1 [M12:218] Sundial of the Infinite
+1 [M12:219] Swiftfoot Boots
+1 [H1R:34] Talisman of Creativity
+1 [MRD:253] Talisman of Dominance
+1 [MRD:255] Talisman of Indulgence
+1 [THS:110] Whip of Erebos
+1 [ORI:147] Flameshadow Conjuring
+1 [RNA:108] Mirror March
+1 [WTH:50] Psychic Vortex
+1 [PCY:45] Rhystic Study
+1 [USG:218] Sneak Attack
+1 [KLD:186] Saheeli Rai
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [ELD:333] Command Tower
+1 [ALA:222] Crumbling Necropolis
+1 [XLN:252] Dragonskull Summit
+1 [XLN:253] Drowned Catacomb
+1 [CON:142] Exotic Orchard
+1 [MID:263] Haunted Ridge
+1 [ZNE:18] Luxury Suite
+1 [ZNE:17] Morphic Pool
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [MID:267] Shipwreck Marsh
+1 [GRN:257] Steam Vents
+1 [DOM:247] Sulfur Falls
+1 [BFZ:249] Sunken Hollow
+1 [CMR:358] Training Center
+1 [GRN:259] Watery Grave
+3 [UST:213] Island
+3 [UST:214] Swamp
+8 [UST:215] Mountain
+SB: 1 [CMR:289] Obeka, Brute Chronologist
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,88)|([M21:239])([ELD:331],[RAV:260],[GPT:152],[MRD:199],[SOM:175],[DIS:165],[SUM:274],[M12:218],[M12:219],[H1R:34],[MRD:253],[MRD:255])([CMR:55],[UDS:51],[CMR:267],[ORI:131],[AFR:138],[C19:24],[RIX:100],[ALA:43],[C21:169],[FRF:99],[CMR:183],[EMN:64],[WAR:133],[CHK:175],[LRW:76],[SHM:75],[CMR:146],[C21:382],[ALA:193],[GTC:75],[CMR:294])([THS:110])([THB:150])([ORI:147],[RNA:108],[WTH:50],[PCY:45],[USG:218])([INV:238],[AFC:117],[7ED:67],[RTR:35],[M21:349],[INV:57],[C20:35],[7ED:182],[ULG:32],[AKH:133],[THS:65],[ARB:46],[6ED:161])([RNA:245],[KTK:230],[WWK:132],[ELD:333],[ALA:222],[XLN:252],[XLN:253],[CON:142],[MID:263],[ZNE:18],[ZNE:17],[KTK:239],[ZEN:223],[MID:267],[GRN:257],[DOM:247],[BFZ:249],[CMR:358],[GRN:259],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([KLD:186])([VOW:140],[ISD:130],[SUM:105],[DKA:87],[MBS:44],[C19:26],[SOK:40],[ME4:125],[GTC:55],[MID:250],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CMR:289])

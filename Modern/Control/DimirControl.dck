@@ -1,0 +1,34 @@
+4 [MH1:40] Archmage's Charm
+1 [ZNR:388] Bloodchief's Thirst
+2 [ELD:242] Castle Vantress
+2 [THB:87] Cling to Dust
+3 [LRW:56] Cryptic Command
+1 [PLC:85] Damnation
+4 [ELD:188] Drown in the Loch
+1 [XLN:253] Drowned Catacomb
+4 [AER:57] Fatal Push
+2 [THB:242] Field of Ruin
+2 [MH1:52] Force of Negation
+2 [ELD:50] Into the Story
+6 [KHM:395] Island
+1 [WWK:31] Jace, the Mind Sculptor
+4 [KTK:239] Polluted Delta
+1 [FUT:179] River of Tears
+3 [ZEN:223] Scalding Tarn
+4 [IKO:319] Shark Typhoon
+3 [ISD:78] Snapcaster Mage
+1 [DIS:33] Spell Snare
+2 [SHM:280] Sunken Ruins
+1 [KHM:396] Swamp
+4 [DKA:52] Thought Scour
+2 [GRN:259] Watery Grave
+SB: 3 [M20:42] Aether Gust
+SB: 2 [M20:87] Blightbeetle
+SB: 1 [BFZ:76] Dispel
+SB: 1 [MH1:52] Force of Negation
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [M20:77] Tale's End
+SB: 3 [FUT:93] Yixlid Jailer
+LAYOUT MAIN:(1,7)(CMC,false,70)|([ELD:242],[ELD:242],[XLN:253],[THB:242],[THB:242],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[FUT:179],[ZEN:223],[ZEN:223],[ZEN:223],[SHM:280],[SHM:280],[KHM:396],[GRN:259],[GRN:259])([ZNR:388],[THB:87],[THB:87],[AER:57],[AER:57],[AER:57],[AER:57],[DIS:33],[DKA:52],[DKA:52],[DKA:52],[DKA:52])([ELD:188],[ELD:188],[ELD:188],[ELD:188],[ISD:78],[ISD:78],[ISD:78])([MH1:40],[MH1:40],[MH1:40],[MH1:40],[MH1:52],[MH1:52])([LRW:56],[LRW:56],[LRW:56],[PLC:85],[WWK:31])([IKO:319],[IKO:319],[IKO:319],[IKO:319])([ELD:50],[ELD:50])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([BFZ:76])([M20:42],[M20:42],[M20:42],[M20:87],[M20:87],[M20:77],[M20:77],[FUT:93],[FUT:93],[FUT:93])([MH1:52],[ELD:58],[ELD:58])([OGW:86])

@@ -1,0 +1,30 @@
+4 [JMP:28] Allosaurus Shepherd
+2 [SUM:283] Bayou
+2 [ONS:248] Birchlore Rangers
+2 [AVR:172] Craterhoof Behemoth
+2 [FUT:174] Dryad Arbor
+2 [M20:169] Elvish Reclaimer
+4 [ORI:175] Elvish Visionary
+2 [ZNR:278] Forest
+4 [USG:321] Gaea's Cradle
+4 [CHK:210] Glimpse of Nature
+4 [MBS:81] Green Sun's Zenith
+4 [MOR:126] Heritage Druid
+2 [ZEN:220] Misty Rainforest
+3 [VIS:114] Natural Order
+4 [EVE:71] Nettle Sentinel
+1 [TSB:120] Pendelhaven
+4 [VIS:117] Quirion Ranger
+2 [ZEN:229] Verdant Catacombs
+2 [KTK:248] Windswept Heath
+4 [SCG:133] Wirewood Symbiote
+2 [KTK:249] Wooded Foothills
+SB: 4 [RTR:141] Abrupt Decay
+SB: 1 [MH1:158] Collector Ouphe
+SB: 1 [LEG:303] Karakas
+SB: 3 [M20:107] Leyline of the Void
+SB: 1 [CON:121] Progenitus
+SB: 1 [M21:204] Scavenging Ooze
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(CMC,false,70)|([SUM:283],[SUM:283],[FUT:174],[FUT:174],[ZNR:278],[ZNR:278],[USG:321],[USG:321],[USG:321],[USG:321],[ZEN:220],[ZEN:220],[TSB:120],[ZEN:229],[ZEN:229],[KTK:248],[KTK:248],[KTK:249],[KTK:249])([JMP:28],[JMP:28],[JMP:28],[JMP:28],[ONS:248],[ONS:248],[M20:169],[M20:169],[CHK:210],[CHK:210],[CHK:210],[CHK:210],[MBS:81],[MBS:81],[MBS:81],[MBS:81],[MOR:126],[MOR:126],[MOR:126],[MOR:126],[EVE:71],[EVE:71],[EVE:71],[EVE:71],[VIS:117],[VIS:117],[VIS:117],[VIS:117],[SCG:133],[SCG:133],[SCG:133],[SCG:133])([ORI:175],[ORI:175],[ORI:175],[ORI:175])([VIS:114],[VIS:114],[VIS:114])([AVR:172],[AVR:172])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([LEG:303])([THS:107],[THS:107],[THS:107],[THS:107])([RTR:141],[RTR:141],[RTR:141],[RTR:141],[MH1:158],[M21:204])([M20:107],[M20:107],[M20:107])([CON:121])

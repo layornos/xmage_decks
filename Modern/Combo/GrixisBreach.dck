@@ -1,0 +1,32 @@
+1 [KHM:396] Swamp
+1 [KHM:397] Mountain
+5 [KHM:395] Island
+4 [KTK:239] Polluted Delta
+2 [KTK:233] Flooded Strand
+1 [GRN:259] Watery Grave
+2 [GRN:257] Steam Vents
+1 [RNA:245] Blood Crypt
+4 [ZEN:223] Scalding Tarn
+1 [DOM:247] Sulfur Falls
+1 [MH1:238] Fiery Islet
+4 [M11:149] Lightning Bolt
+1 [M12:63] Mana Leak
+4 [CHK:193] Through the Breach
+4 [M21:59] Opt
+4 [RAV:63] Remand
+1 [DIS:33] Spell Snare
+3 [LRW:56] Cryptic Command
+4 [DKA:52] Thought Scour
+2 [MH1:40] Archmage's Charm
+3 [ELD:188] Drown in the Loch
+4 [ROE:4] Emrakul, the Aeons Torn
+3 [ISD:78] Snapcaster Mage
+SB: 2 [XLN:81] Spell Pierce
+SB: 2 [THS:112] Anger of the Gods
+SB: 2 [EMN:85] Collective Brutality
+SB: 2 [M19:128] Alpine Moon
+SB: 1 [GRN:195] Ral, Izzet Viceroy
+SB: 2 [WAR:228*] Ashiok, Dream Render
+SB: 4 [THB:87] Cling to Dust
+LAYOUT MAIN:(1,7)(CMC,false,88)|([KHM:396],[KHM:397],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KHM:395],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[KTK:233],[KTK:233],[GRN:259],[GRN:257],[GRN:257],[RNA:245],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[DOM:247],[MH1:238])([M11:149],[M11:149],[M11:149],[M11:149],[M21:59],[M21:59],[M21:59],[M21:59],[DIS:33],[DKA:52],[DKA:52],[DKA:52],[DKA:52])([M12:63],[RAV:63],[RAV:63],[RAV:63],[RAV:63],[ELD:188],[ELD:188],[ELD:188],[ISD:78],[ISD:78],[ISD:78])([MH1:40],[MH1:40])([LRW:56],[LRW:56],[LRW:56])([CHK:193],[CHK:193],[CHK:193],[CHK:193])([ROE:4],[ROE:4],[ROE:4],[ROE:4])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([XLN:81],[XLN:81],[M19:128],[M19:128],[THB:87],[THB:87],[THB:87],[THB:87])([EMN:85],[EMN:85])([THS:112],[THS:112],[WAR:228*],[WAR:228*])([GRN:195])

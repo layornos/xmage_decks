@@ -1,0 +1,25 @@
+4 [GRN:91] Arclight Phoenix
+4 [MID:44] Consider
+4 [AFR:366] Demilich
+4 [MID:221] Faithful Mending
+4 [J21:439] Faithless Salvaging
+4 [KTK:233] Flooded Strand
+3 [NPH:86] Gut Shot
+1 [RNA:251] Hallowed Fountain
+2 [MID:270] Island
+4 [M11:149] Lightning Bolt
+4 [SHM:211] Manamorphose
+4 [MH2:25] Prismatic Ending
+1 [GRN:254] Sacred Foundry
+4 [ZEN:223] Scalding Tarn
+4 [5DN:36] Serum Visions
+2 [KLD:249] Spirebluff Canal
+3 [GRN:257] Steam Vents
+4 [DKA:52] Thought Scour
+SB: 2 [MRD:150] Chalice of the Void
+SB: 4 [ZNR:137] Cleansing Wildfire
+SB: 4 [M20:107] Leyline of the Void
+SB: 2 [CON:15] Path to Exile
+SB: 3 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,4)(CMC,false,100)|([KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[MID:270],[MID:270],[GRN:254],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257])([MID:44],[MID:44],[MID:44],[MID:44],[NPH:86],[NPH:86],[NPH:86],[M11:149],[M11:149],[M11:149],[M11:149],[MH2:25],[MH2:25],[MH2:25],[MH2:25],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[DKA:52],[DKA:52],[DKA:52],[DKA:52])([MID:221],[MID:221],[MID:221],[MID:221],[J21:439],[J21:439],[J21:439],[J21:439],[SHM:211],[SHM:211],[SHM:211],[SHM:211])([GRN:91],[GRN:91],[GRN:91],[GRN:91],[AFR:366],[AFR:366],[AFR:366],[AFR:366])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([MRD:150],[MRD:150])([CON:15],[CON:15])([ZNR:137],[ZNR:137],[ZNR:137],[ZNR:137])([DGM:135],[DGM:135],[DGM:135])([M20:107],[M20:107],[M20:107],[M20:107])

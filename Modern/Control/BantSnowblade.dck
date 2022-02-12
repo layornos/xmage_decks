@@ -1,0 +1,36 @@
+4 [ZNR:315] Archon of Emeria
+1 [NPH:130] Batterskull
+3 [M12:165] Birds of Paradise
+1 [RNA:246] Breeding Pool
+4 [DTK:177] Collected Company
+2 [KHM:303] Cosima, God of the Voyage
+2 [RNA:165] Deputy of Detention
+1 [ISD:239] Gavony Township
+1 [ISD:213] Geist of Saint Traft
+1 [ZNR:328] Glasspool Mimic
+1 [RNA:251] Hallowed Fountain
+2 [FUT:177] Horizon Canopy
+1 [KHM:395] Island
+1 [ZNR:27] Maul of the Skyclaves
+4 [ZEN:220] Misty Rainforest
+4 [CON:87] Noble Hierarch
+1 [KHM:394] Plains
+3 [SOM:228] Razorverge Thicket
+4 [ZNR:322] Skyclave Apparition
+1 [KHM:284] Snow-Covered Forest
+1 [KHM:276] Snow-Covered Plains
+4 [EMN:189] Spell Queller
+4 [WWK:20] Stoneforge Mystic
+1 [MBS:138] Sword of Feast and Famine
+2 [WAR:221*] Teferi, Time Raveler
+2 [GRN:258] Temple Garden
+4 [KTK:248] Windswept Heath
+SB: 3 [M20:42] Aether Gust
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [WWK:11] Kor Firewalker
+SB: 2 [RNA:189] Lavinia, Azorius Renegade
+SB: 2 [CON:15] Path to Exile
+SB: 2 [RTR:18] Rest in Peace
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([NPH:130],[ZNR:27],[MBS:138])([ZNR:315],[ZNR:315],[ZNR:315],[ZNR:315],[M12:165],[M12:165],[M12:165],[KHM:303],[KHM:303],[RNA:165],[RNA:165],[ISD:213],[ZNR:328],[CON:87],[CON:87],[CON:87],[CON:87],[ZNR:322],[ZNR:322],[ZNR:322],[ZNR:322],[EMN:189],[EMN:189],[EMN:189],[EMN:189],[WWK:20],[WWK:20],[WWK:20],[WWK:20])([DTK:177],[DTK:177],[DTK:177],[DTK:177])([RNA:246],[ISD:239],[RNA:251],[FUT:177],[FUT:177],[KHM:395],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KHM:394],[SOM:228],[SOM:228],[SOM:228],[KHM:284],[KHM:276],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248])([WAR:221*],[WAR:221*])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,63)|([LRW:7],[LRW:7],[CON:15],[CON:15])([M20:42],[M20:42],[M20:42],[DOM:213],[DOM:213],[WWK:11],[WWK:11],[RNA:189],[RNA:189],[RTR:18],[RTR:18])

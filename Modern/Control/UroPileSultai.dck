@@ -1,0 +1,46 @@
+1 [RTR:141] Abrupt Decay
+1 [MH1:40] Archmage's Charm
+2 [RNA:246] Breeding Pool
+1 [THB:87] Cling to Dust
+3 [LRW:56] Cryptic Command
+1 [INV:57] Fact or Fiction
+4 [AER:57] Fatal Push
+1 [THB:242] Field of Ruin
+2 [M20:247] Field of the Dead
+3 [MH1:52] Force of Negation
+1 [M21:272] Forest
+1 [ISD:240] Ghost Quarter
+1 [MBS:43] Go for the Throat
+4 [RNA:178] Growth Spiral
+1 [HOU:120] Hour of Promise
+2 [M21:263] Island
+1 [WWK:31] Jace, the Mind Sculptor
+1 [RAV:172] Life from the Loam
+1 [ONS:320] Lonely Sandbar
+2 [M12:63] Mana Leak
+4 [ZEN:220] Misty Rainforest
+2 [ELD:247] Mystic Sanctuary
+1 [SOK:164] Oboro, Palace in the Clouds
+1 [GRN:253] Overgrown Tomb
+4 [KTK:239] Polluted Delta
+1 [M12:188] Primeval Titan
+2 [RAV:63] Remand
+1 [CSP:155] Snow-Covered Forest
+2 [CSP:152] Snow-Covered Island
+1 [DIS:33] Spell Snare
+1 [M21:266] Swamp
+4 [THB:229] Uro, Titan of Nature's Wrath
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+SB: 3 [M20:42] Aether Gust
+SB: 2 [WAR:228*] Ashiok, Dream Render
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [M21:179] Elder Gargaroth
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [ELD:58] Mystical Dispute
+SB: 1 [NPH:74] Surgical Extraction
+SB: 2 [THS:107] Thoughtseize
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [MH1:191] Weather the Storm
+LAYOUT MAIN:(1,7)(CMC,false,46)|([RNA:246],[RNA:246],[THB:242],[M20:247],[M20:247],[M21:272],[ISD:240],[M21:263],[M21:263],[ONS:320],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[SOK:164],[GRN:253],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[CSP:155],[CSP:152],[CSP:152],[M21:266],[GRN:259],[IKO:259])([THB:87],[AER:57],[AER:57],[AER:57],[AER:57],[DIS:33])([RTR:141],[MBS:43],[RNA:178],[RNA:178],[RNA:178],[RNA:178],[RAV:172],[M12:63],[M12:63],[RAV:63],[RAV:63])([MH1:40],[MH1:52],[MH1:52],[MH1:52],[THB:229],[THB:229],[THB:229],[THB:229])([LRW:56],[LRW:56],[LRW:56],[INV:57],[WWK:31])([HOU:120])([M12:188])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([5DN:118])([NPH:74],[THS:107],[THS:107],[M20:198],[M20:198])([M20:42],[M20:42],[M20:42],[DOM:213],[MH1:191])([WAR:228*],[WAR:228*],[ELD:58])([M21:179])

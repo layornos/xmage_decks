@@ -1,0 +1,25 @@
+4 [DST:91] Aether Vial
+4 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+4 [SCG:59] Carrion Feeder
+4 [ELD:81] Cauldron Familiar
+2 [ELD:118] Claim the Firstborn
+4 [WAR:194] Dreadhorde Butcher
+4 [DKA:63] Geralf's Messenger
+4 [DKA:64] Gravecrawler
+4 [WAR:204] Mayhem Devil
+4 [KTK:239] Polluted Delta
+5 [ZNR:272] Swamp
+4 [MH1:112] Undead Augur
+2 [ZEN:229] Verdant Catacombs
+1 [M21:126] Village Rites
+2 [ELD:249] Witch's Cottage
+4 [ELD:237] Witch's Oven
+SB: 3 [DOM:213] Damping Sphere
+SB: 3 [AER:57] Fatal Push
+SB: 2 [RTR:231] Pithing Needle
+SB: 1 [DIS:126] Rain of Gore
+SB: 2 [ARB:46] Terminate
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([DST:91],[DST:91],[DST:91],[DST:91],[ELD:237],[ELD:237],[ELD:237],[ELD:237])([SCG:59],[SCG:59],[SCG:59],[SCG:59],[ELD:81],[ELD:81],[ELD:81],[ELD:81],[WAR:194],[WAR:194],[WAR:194],[WAR:194],[DKA:63],[DKA:63],[DKA:63],[DKA:63],[DKA:64],[DKA:64],[DKA:64],[DKA:64],[WAR:204],[WAR:204],[WAR:204],[WAR:204],[MH1:112],[MH1:112],[MH1:112],[MH1:112])([M21:126])([RNA:245],[RNA:245],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZEN:229],[ZEN:229],[ELD:249],[ELD:249])([ELD:118],[ELD:118])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,63)|([AER:57],[AER:57],[AER:57],[RTR:231],[RTR:231],[THS:107],[THS:107],[THS:107],[THS:107])([DOM:213],[DOM:213],[DOM:213],[DIS:126],[ARB:46],[ARB:46])

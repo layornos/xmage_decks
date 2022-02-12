@@ -1,0 +1,78 @@
+1 [JMP:28] Allosaurus Shepherd
+1 [CMR:217] Apex Devastator
+1 [M13:160] Arbor Elf
+1 [ZNR:179] Ashaya, Soul of the Wild
+1 [GRN:123] Beast Whisperer
+1 [M12:165] Birds of Paradise
+1 [CSP:105] Boreal Druid
+1 [AFR:176] Circle of Dreams Druid
+1 [M15:173] Elvish Mystic
+1 [5DN:86] Eternal Witness
+1 [M21:181] Fierce Empath
+1 [ICE:244] Fyndhorn Elves
+1 [RIX:130] Ghalta, Primal Hunger
+1 [C19:170] Great Oak Guardian
+1 [THB:173] Hyrax Tower Scout
+1 [THS:160] Karametra's Acolyte
+1 [IKO:162] Kogla, the Titan Ape
+1 [M19:314] Llanowar Elves
+1 [EMN:197] Lupine Prototype
+1 [MIR:315] Phyrexian Dreadnought
+1 [CSP:141] Phyrexian Soulgorger
+1 [USG:270] Priest of Titania
+1 [VIS:117] Quirion Ranger
+1 [M19:196] Reclamation Sage
+1 [EVE:74] Regal Force
+1 [ZNR:249] Relic Golem
+1 [MID:197] Saryth, the Viper's Fang
+1 [TSP:215] Scryb Ranger
+1 [CSP:121] Sheltering Ancient
+1 [FRF:141] Temur Sabertooth
+1 [VOW:225] Ulvenwald Oddity
+1 [SCG:133] Wirewood Symbiote
+1 [ORI:207] Woodland Bellower
+1 [M12:164] Autumn's Veil
+1 [NPH:103] Beast Within
+1 [M15:172] Chord of Calling
+1 [M21:188] Heroic Intervention
+1 [MMQ:254] Invigorate
+1 [ROE:197] Momentous Fall
+1 [WWK:108] Nature's Claim
+1 [ELD:172] Return of the Wildspeaker
+1 [M20:193] Shared Summons
+1 [M20:198] Veil of Summer
+1 [6ED:269] Worldly Tutor
+1 [EMN:155] Eldritch Evolution
+1 [WAR:160] Finale of Devastation
+1 [SOM:122] Genesis Wave
+1 [MBS:81] Green Sun's Zenith
+1 [M15:183] Life's Legacy
+1 [VIS:114] Natural Order
+1 [AER:123] Rishkar's Expertise
+1 [CON:92] Soul's Majesty
+1 [MRD:134] Tooth and Nail
+1 [CMR:319] Jeweled Lotus
+1 [MRD:199] Lightning Greaves
+1 [SUM:274] Sol Ring
+1 [5DN:156] Staff of Domination
+1 [M12:219] Swiftfoot Boots
+1 [ELD:161] The Great Henge
+1 [SHM:267] Umbral Mantle
+1 [9ED:245] Greater Good
+1 [ELD:164] Kenrith's Transformation
+1 [5ED:329] Sylvan Library
+1 [MID:206] Unnatural Growth
+1 [DIS:99] Utopia Sprawl
+1 [7ED:282] Wild Growth
+1 [M13:174] Garruk, Primal Hunter
+1 [ELD:240] Castle Garenbrig
+1 [FUT:174] Dryad Arbor
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [M19:254] Reliquary Tower
+1 [CMR:361] War Room
+1 [ONS:329] Wirewood Lodge
+1 [MH2:261] Yavimaya, Cradle of Growth
+25 [UST:216] Forest
+SB: 1 [JMP:429] Selvala, Heart of the Wilds
+LAYOUT MAIN:(1,8)(EDH_POWER_LEVEL,false,50)|([M12:165],[CSP:105],[M15:173],[ICE:244],[M19:314],[FRF:141],[ELD:164],[DIS:99],[7ED:282],[FUT:174],[M19:254],[CMR:361],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216])([IKO:162],[CSP:121],[VOW:225],[WWK:108],[ELD:172],[CON:92])([M13:160],[THB:173],[M12:164],[5DN:156],[ONS:329])([MID:197],[NPH:103],[M21:188],[M20:198],[MRD:199],[M12:219])([GRN:123],[5DN:86],[CSP:141],[CMR:319],[9ED:245])([JMP:28],[CMR:217],[ZNR:179],[AFR:176],[RIX:130],[C19:170],[THS:160],[EMN:197],[MIR:315],[USG:270],[VIS:117],[EVE:74],[ZNR:249],[TSP:215],[SCG:133],[MMQ:254],[ROE:197],[SOM:122],[M15:183],[AER:123],[ELD:161],[5ED:329],[MID:206],[ELD:240],[THS:223],[MH2:261])([M21:181],[ORI:207],[M15:172],[M20:193],[6ED:269],[EMN:155],[WAR:160],[MBS:81],[M13:174])([M19:196],[VIS:114],[MRD:134],[SUM:274],[SHM:267])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([JMP:429])

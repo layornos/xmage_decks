@@ -1,0 +1,22 @@
+4 [TSB:24] Lord of Atlantis
+4 [M13:59] Master of the Pearl Trident
+4 [DOM:56] Merfolk Trickster
+4 [RIX:53] Silvergill Adept
+2 [ZEN:70] Spreading Seas
+4 [M14:228] Mutavault
+8 [UST:213] Island
+4 [UMA:237] Cavern of Souls
+4 [DDT:13] Merrow Reejerey
+4 [ZNR:328] Glasspool Mimic
+4 [MPS:6] Aether Vial
+4 [PRNA:32p] Benthic Biomancer
+4 [SOM:229] Seachrome Coast
+2 [MH1:216] Unsettled Mariner
+4 [PF20:1] Path to Exile
+SB: 4 [MRD:150] Chalice of the Void
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 4 [ALA:218] Relic of Progenitus
+SB: 4 [MH1:52] Force of Negation
+SB: 2 [PRM:78826] Brazen Borrower
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,88)|([MPS:6],[MPS:6],[MPS:6],[MPS:6])([TSB:24],[TSB:24],[TSB:24],[TSB:24],[M13:59],[M13:59],[M13:59],[M13:59],[DOM:56],[DOM:56],[DOM:56],[DOM:56],[RIX:53],[RIX:53],[RIX:53],[RIX:53],[DDT:13],[DDT:13],[DDT:13],[DDT:13],[ZNR:328],[ZNR:328],[ZNR:328],[ZNR:328],[PRNA:32p],[PRNA:32p],[PRNA:32p],[PRNA:32p],[MH1:216],[MH1:216])([ZEN:70],[ZEN:70])([PF20:1],[PF20:1],[PF20:1],[PF20:1])([M14:228],[M14:228],[M14:228],[M14:228],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UMA:237],[UMA:237],[UMA:237],[UMA:237],[SOM:229],[SOM:229],[SOM:229],[SOM:229])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([MRD:150],[MRD:150],[MRD:150],[MRD:150])([ALA:218],[ALA:218],[ALA:218],[ALA:218])([IKO:226],[MH1:52],[MH1:52],[MH1:52],[MH1:52])([PRM:78826],[PRM:78826])

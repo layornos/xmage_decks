@@ -1,0 +1,78 @@
+1 [FRF:62] Archfiend of Depravity
+1 [KHM:349] Burning-Rune Demon
+1 [THS:213] Burnished Hart
+1 [WWK:53] Butcher of Malakir
+1 [GTC:61] Crypt Ghast
+1 [KLD:73] Demon of Dark Schemes
+1 [GRN:69] Doom Whisperer
+1 [10E:137] Doomed Necromancer
+1 [ORI:98] Fleshbag Marauder
+1 [THB:355] Gray Merchant of Asphodel
+1 [AVR:107] Harvester of Souls
+1 [ROE:7] It That Betrays
+1 [CHK:122] Kokusho, the Evening Star
+1 [PLC:73] Magus of the Coffers
+1 [M21:114] Massacre Wurm
+1 [ROE:120] Nirkana Revenant
+1 [KLD:96] Noxious Gearhulk
+1 [STX:304] Oriq Loremage
+1 [MIC:127] Overseer of the Damned
+1 [NPH:68] Phyrexian Obliterator
+1 [GRN:82] Plaguecrafter
+1 [CMR:146] Rakshasa Debaser
+1 [RIX:82] Ravenous Chupacabra
+1 [M20:111] Rotting Regisaur
+1 [M12:106] Rune-Scarred Demon
+1 [GTC:75] Sepulchral Primordial
+1 [DTK:120] Sidisi, Undead Vizier
+1 [M21:239] Solemn Simulacrum
+1 [MH2:108] Vile Entomber
+1 [MMQ:129] Dark Ritual
+1 [ODY:132] Entomb
+1 [MBS:43] Go for the Throat
+1 [THS:90] Hero's Downfall
+1 [KHM:117] Village Rites
+1 [10E:129] Beacon of Unrest
+1 [M20:89] Blood for Bones
+1 [ODY:118] Buried Alive
+1 [TSP:104] Dread Return
+1 [ZNR:102] Feed the Swarm
+1 [C21:368] Incarnation Technique
+1 [TMP:142] Living Death
+1 [M13:102] Mutilate
+1 [ORI:114] Read the Bones
+1 [TMP:151] Reanimate
+1 [M14:111] Rise of the Dark Realms
+1 [M15:114] Sign in Blood
+1 [JUD:72] Stitch Together
+1 [USG:166] Victimize
+1 [NPH:132] Caged Sun
+1 [ZEN:201] Expedition Map
+1 [TMP:292] Jet Medallion
+1 [MRD:199] Lightning Greaves
+1 [THB:235] Nyx Lotus
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [UDS:139] Thran Dynamo
+1 [THS:110] Whip of Erebos
+1 [5ED:140] Animate Dead
+1 [MMQ:116] Black Market
+1 [ICE:118] Dance of the Dead
+1 [RTR:67] Grave Betrayal
+1 [9ED:152] Phyrexian Arena
+1 [DOM:90] The Eldest Reborn
+1 [M15:103] Liliana Vess
+1 [M14:102] Liliana of the Dark Realms
+1 [WWK:132] Bojuka Bog
+1 [TOR:139] Cabal Coffers
+1 [DOM:238] Cabal Stronghold
+1 [ZEN:212] Crypt of Agadeem
+1 [MIC:177] Myriad Landscape
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [USG:322] Phyrexian Tower
+1 [SCG:143] Temple of the False God
+1 [M15:248] Urborg, Tomb of Yawgmoth
+25 [UST:214] Swamp
+SB: 1 [SLD:211] Sheoldred, Whispering One
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([THS:213],[KLD:96],[M21:239])([NPH:132],[ZEN:201],[TMP:292],[MRD:199],[THB:235],[SUM:274],[M12:219],[UDS:139])([FRF:62],[KHM:349],[WWK:53],[GTC:61],[KLD:73],[GRN:69],[10E:137],[ORI:98],[THB:355],[AVR:107],[ROE:7],[CHK:122],[PLC:73],[M21:114],[ROE:120],[STX:304],[MIC:127],[NPH:68],[GRN:82],[CMR:146],[RIX:82],[M20:111],[M12:106],[GTC:75],[DTK:120],[MH2:108])([THS:110])([5ED:140],[MMQ:116],[ICE:118],[RTR:67],[9ED:152],[DOM:90])([MMQ:129],[ODY:132],[MBS:43],[THS:90],[KHM:117])([WWK:132],[TOR:139],[DOM:238],[ZEN:212],[MIC:177],[THS:223],[USG:322],[SCG:143],[M15:248],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([M15:103],[M14:102])([10E:129],[M20:89],[ODY:118],[TSP:104],[ZNR:102],[C21:368],[TMP:142],[M13:102],[ORI:114],[TMP:151],[M14:111],[M15:114],[JUD:72],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([SLD:211])

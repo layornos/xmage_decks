@@ -1,0 +1,31 @@
+4 [MH2:259] Urza's Saga
+SB: 1 [DDF:61] Aether Spellbomb
+SB: 1 [MPS:6] Aether Vial
+SB: 1 [WWK:122] Basilisk Collar
+SB: 1 [MH2:223] Brainstone
+SB: 1 [CMR:304] Codex Shredder
+SB: 1 [C21:243] Elixir of Immortality
+SB: 1 [MM2:213] Expedition Map
+SB: 1 [GTC:229] Glaring Spotlight
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 1 [M20:230] Manifold Key
+SB: 1 [SOM:174] Memnite
+SB: 1 [MB1:1610] Mishra's Bauble
+SB: 1 [DOM:224] Mox Amber
+SB: 1 [C17:218] Nihil Spellbomb
+SB: 1 [10E:338] Pithing Needle
+SB: 1 [MMA:212] Pyrite Spellbomb
+SB: 1 [HOP:124] Relic of Progenitus
+SB: 1 [THB:236] Shadowspear
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 1 [BNG:162] Springleaf Drum
+SB: 1 [TSB:113] The Rack
+SB: 1 [IKO:237] The Ozolith
+SB: 1 [MH2:240] The Underworld Cookbook
+SB: 1 [M13:219] Tormod's Crypt
+SB: 1 [M11:219] Voltaic Key
+SB: 1 [ELD:237] Witch's Oven
+SB: 1 [MH2:243] Zabaz, the Glimmerwasp
+SB: 1 [MH2:300] Zuran Orb
+LAYOUT MAIN:(1,1)(CMC,false,70)|([MH2:259],[MH2:259],[MH2:259],[MH2:259])
+LAYOUT SIDEBOARD:(4,9)(CMC,false,70)|([DDF:61])([MPS:6])([WWK:122])([MH2:223])([CMR:304])([C21:243])([MM2:213])([GTC:229])([DKA:149])([M20:230])([SOM:174])([MB1:1610])([DOM:224])([C17:218])([10E:338])([MMA:212])([HOP:124])([THB:236])([THB:237])([BNG:162])([TSB:113])([IKO:237])([MH2:240])([M13:219])([M11:219])([ELD:237])([MH2:243])([MH2:300])()()()()()()()()

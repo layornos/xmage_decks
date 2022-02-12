@@ -1,0 +1,27 @@
+4 [MH2:147] Abundant Harvest
+4 [ROE:174] Ancient Stirrings
+1 [NPH:57] Dismember
+4 [ROE:227] Eldrazi Temple
+4 [MH2:157] Endurance
+4 [HOU:177] Hashep Oasis
+4 [MH2:166] Ignoble Hierarch
+4 [OGW:6] Matter Reshaper
+4 [CON:87] Noble Hierarch
+4 [H1R:40] Prismatic Vista
+4 [M13:185] Rancor
+4 [OGW:7] Reality Smasher
+4 [DKA:127] Strangleroot Geist
+4 [OGW:9] Thought-Knot Seer
+1 [KHM:197] Toski, Bearer of Secrets
+1 [OGW:183a] Wastes
+1 [MH2:261] Yavimaya, Cradle of Growth
+4 [PALP:1] Forest
+SB: 2 [MRD:150] Chalice of the Void
+SB: 1 [8ED:237] Choke
+SB: 2 [MH1:158] Collector Ouphe
+SB: 4 [H1R:21] Force of Vigor
+SB: 2 [NPH:86] Gut Shot
+SB: 2 [MH2:242] Void Mirror
+SB: 2 [DOM:213] Damping Sphere
+LAYOUT MAIN:(1,6)(CMC,false,70)|([ROE:227],[ROE:227],[ROE:227],[ROE:227],[HOU:177],[HOU:177],[HOU:177],[HOU:177],[H1R:40],[H1R:40],[H1R:40],[H1R:40],[OGW:183a],[MH2:261],[PALP:1],[PALP:1],[PALP:1],[PALP:1])([MH2:147],[MH2:147],[MH2:147],[MH2:147],[ROE:174],[ROE:174],[ROE:174],[ROE:174],[MH2:166],[MH2:166],[MH2:166],[MH2:166],[CON:87],[CON:87],[CON:87],[CON:87],[M13:185],[M13:185],[M13:185],[M13:185])([DKA:127],[DKA:127],[DKA:127],[DKA:127])([NPH:57],[MH2:157],[MH2:157],[MH2:157],[MH2:157],[OGW:6],[OGW:6],[OGW:6],[OGW:6])([OGW:9],[OGW:9],[OGW:9],[OGW:9],[KHM:197])([OGW:7],[OGW:7],[OGW:7],[OGW:7])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([MRD:150],[MRD:150])([NPH:86],[NPH:86])([MH1:158],[MH1:158],[MH2:242],[MH2:242],[DOM:213],[DOM:213])([8ED:237])([H1R:21],[H1R:21],[H1R:21],[H1R:21])

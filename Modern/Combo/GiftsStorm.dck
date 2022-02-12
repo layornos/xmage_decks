@@ -1,0 +1,31 @@
+4 [AER:28] Baral, Chief of Compliance
+4 [CHK:163] Desperate Ritual
+1 [TSP:152] Empty the Warrens
+1 [MH1:238] Fiery Islet
+4 [CHK:62] Gifts Ungiven
+3 [GRN:174] Goblin Electromancer
+2 [TSP:160] Grapeshot
+2 [ZNR:269] Island
+4 [SHM:211] Manamorphose
+1 [ZNR:275] Mountain
+4 [M21:59] Opt
+2 [ISD:155] Past in Flames
+4 [M11:153] Pyretic Ritual
+3 [RAV:63] Remand
+1 [GPT:32] Repeal
+1 [ZNR:264] Riverglide Pathway
+4 [5DN:36] Serum Visions
+3 [ORI:251] Shivan Reef
+2 [ZNR:80] Silundi Vision
+2 [CSP:152] Snow-Covered Island
+4 [KLD:249] Spirebluff Canal
+4 [GRN:257] Steam Vents
+SB: 2 [HOU:83] Abrade
+SB: 2 [MH1:118] Aria of Flame
+SB: 1 [TSP:152] Empty the Warrens
+SB: 1 [ROE:145] Flame Slash
+SB: 3 [M11:149] Lightning Bolt
+SB: 3 [ELD:58] Mystical Dispute
+SB: 3 [SOI:78] Pieces of the Puzzle
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([AER:28],[AER:28],[AER:28],[AER:28],[GRN:174],[GRN:174],[GRN:174])([CHK:163],[CHK:163],[CHK:163],[CHK:163],[CHK:62],[CHK:62],[CHK:62],[CHK:62],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[M21:59],[M21:59],[M21:59],[M21:59],[M11:153],[M11:153],[M11:153],[M11:153],[RAV:63],[RAV:63],[RAV:63],[GPT:32],[ZNR:80],[ZNR:80])([MH1:238],[ZNR:269],[ZNR:269],[ZNR:275],[ZNR:264],[ORI:251],[ORI:251],[ORI:251],[CSP:152],[CSP:152],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257],[GRN:257])([TSP:152],[TSP:160],[TSP:160],[ISD:155],[ISD:155],[5DN:36],[5DN:36],[5DN:36],[5DN:36])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,50)|([MH1:118],[MH1:118])([HOU:83],[HOU:83],[M11:149],[M11:149],[M11:149],[ELD:58],[ELD:58],[ELD:58])([TSP:152],[ROE:145],[SOI:78],[SOI:78],[SOI:78])

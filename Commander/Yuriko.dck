@@ -1,0 +1,87 @@
+1 [AFC:177] Baleful Strix
+1 [J21:304] Changeling Outcast
+1 [MH2:397] Dauthi Voidwalker
+1 [RAV:203] Dimir Infiltrator
+1 [J21:190] Faerie Seer
+1 [MH1:199] Fallen Shinobi
+1 [ELD:219] Gingerbrute
+1 [AFR:367] Grazilaxx, Illithid Scholar
+1 [DTK:56] Gudul Lurker
+1 [BOK:37] Higure, the Still Wind
+1 [J21:697] Ingenious Infiltrator
+1 [BOK:71] Ink-Eyes, Servant of Oni
+1 [M19:310] Mist-Cloaked Herald
+1 [J21:218] Mist-Syndicate Naga
+1 [BOK:43] Mistblade Shinobi
+1 [J21:220] Moonblade Shinobi
+1 [MOR:42] Mothdust Changeling
+1 [BOK:44] Ninja of the Deep Hours
+1 [BOK:76] Okiba-Gang Shinobi
+1 [AER:167] Ornithopter
+1 [PCA:24] Sakashima's Student
+1 [C18:191] Silent-Blade Oni
+1 [BOK:84] Skullsnatcher
+1 [AKH:71] Slither Blade
+1 [DOM:69] Tetsuko Umezawa, Fugitive
+1 [BOK:88] Throat Slitter
+1 [M13:111] Tormented Soul
+1 [JOU:56] Triton Shorestalker
+1 [BOK:60] Walker of Secret Ways
+1 [MMQ:61] Brainstorm
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [C20:42] Deadly Rollick
+1 [KTK:36] Dig Through Time
+1 [LRW:64] Familiar's Ruse
+1 [C20:35] Fierce Guardianship
+1 [ALL:107] Lim-Dul's Vault
+1 [MMQ:87] Misdirection
+1 [KTK:81] Murderous Cut
+1 [6ED:83] Mystical Tutor
+1 [ZNR:71] Negate
+1 [MID:67] Otherworldly Gaze
+1 [THS:65] Swan Song
+1 [6ED:161] Vampiric Tutor
+1 [AKH:211] Commit // Memory
+1 [SUM:105] Demonic Tutor
+1 [AVR:48] Devastation Tide
+1 [DOM:55] Karn's Temporal Sundering
+1 [M12:73] Ponder
+1 [M20:113] Scheming Symmetry
+1 [ZNR:333] Sea Gate Restoration
+1 [AVR:81] Temporal Mastery
+1 [FRF:55] Temporal Trespass
+1 [KTK:59] Treasure Cruise
+1 [ELD:331] Arcane Signet
+1 [RAV:260] Dimir Signet
+1 [MRD:199] Lightning Greaves
+1 [KHM:240] Maskwood Nexus
+1 [TMP:308] Scroll Rack
+1 [CHK:268] Sensei's Divining Top
+1 [SUM:274] Sol Ring
+1 [MRD:253] Talisman of Dominance
+1 [THS:39] Aqueous Form
+1 [XLN:46] Arcane Adaptation
+1 [MH1:45] Cunning Evasion
+1 [MH1:69] Smoke Shroud
+1 [STX:262] Access Tunnel
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [RAV:276] Dimir Aqueduct
+1 [XLN:253] Drowned Catacomb
+1 [WWK:137] Halimar Depths
+1 [ZNE:17] Morphic Pool
+1 [ELD:247] Mystic Sanctuary
+1 [KTK:239] Polluted Delta
+1 [M19:254] Reliquary Tower
+1 [ORI:250] Rogue's Passage
+1 [MID:267] Shipwreck Marsh
+1 [BFZ:249] Sunken Hollow
+1 [THB:245] Temple of Deceit
+1 [10E:362] Underground River
+1 [GRN:259] Watery Grave
+12 [VOW:270] Island
+5 [VOW:272] Swamp
+SB: 1 [CMR:542] Yuriko, the Tiger's Shadow
+LAYOUT MAIN:(1,11)(CMC,false,70)|([AER:167],[STX:262],[ZNR:260],[ELD:333],[RAV:276],[XLN:253],[WWK:137],[ZNE:17],[ELD:247],[KTK:239],[M19:254],[ORI:250],[MID:267],[BFZ:249],[THB:245],[10E:362],[GRN:259],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:272],[VOW:272],[VOW:272],[VOW:272],[VOW:272])([J21:304],[J21:190],[ELD:219],[DTK:56],[M19:310],[MOR:42],[AKH:71],[M13:111],[JOU:56],[MMQ:61],[6ED:83],[MID:67],[THS:65],[6ED:161],[M12:73],[M20:113],[CHK:268],[SUM:274],[THS:39])([AFC:177],[MH2:397],[RAV:203],[BOK:84],[DOM:69],[7ED:67],[RTR:35],[LRW:64],[ALL:107],[ZNR:71],[SUM:105],[ELD:331],[RAV:260],[MRD:199],[TMP:308],[MRD:253],[MH1:45],[MH1:69])([AFR:367],[J21:218],[BOK:43],[BOK:60],[C20:35],[XLN:46])([J21:697],[J21:220],[BOK:44],[PCA:24],[C20:42],[KHM:240])([MH1:199],[BOK:37],[BOK:76],[BOK:88],[MMQ:87],[KTK:81],[AVR:48])([BOK:71],[DOM:55])([C18:191],[ZNR:333],[AVR:81])([KTK:36],[KTK:59])([AKH:211])([FRF:55])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CMR:542])

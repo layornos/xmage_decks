@@ -1,0 +1,42 @@
+1 [MH2:202] Grist, the Hunger Tide
+1 [AKH:199] Hapatra, Vizier of Poisons
+1 [M12:165] Birds of Paradise
+4 [M15:172] Chord of Calling
+4 [EMN:155] Eldritch Evolution
+1 [PLC:145] Essence Warden
+3 [DKA:63] Geralf's Messenger
+1 [M19:196] Reclamation Sage
+4 [MH2:166] Ignoble Hierarch
+1 [GTC:125] Ivy Lane Denizen
+1 [MH2:172] Scurry Oak
+4 [DKA:127] Strangleroot Geist
+4 [TSB:89] Wall of Roots
+4 [TSR:336] Yawgmoth, Thran Physician
+4 [DKA:134] Young Wolf
+1 [BFZ:126] Zulaport Cutthroat
+3 [KLD:243] Blooming Marsh
+1 [FUT:174] Dryad Arbor
+1 [WWK:138] Khalni Garden
+2 [MH1:243] Nurturing Peatland
+2 [GRN:253] Overgrown Tomb
+3 [EVE:180] Twilight Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:229] Verdant Catacombs
+1 [MH2:261] Yavimaya, Cradle of Growth
+2 [UST:216] Forest
+1 [UST:214] Swamp
+SB: 1 [M20:87] Blightbeetle
+SB: 1 [MH2:157] Endurance
+SB: 2 [AER:57] Fatal Push
+SB: 1 [H1R:21] Force of Vigor
+SB: 1 [DOM:161] Gaea's Blessing
+SB: 1 [SHM:229] Kitchen Finks
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [H1R:14] Plague Engineer
+SB: 1 [M21:204] Scavenging Ooze
+SB: 1 [NPH:159] Spellskite
+SB: 1 [THS:107] Thoughtseize
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [RTR:141] Abrupt Decay
+LAYOUT MAIN:(1,5)(CMC,false,70)|([KLD:243],[KLD:243],[KLD:243],[FUT:174],[WWK:138],[MH1:243],[MH1:243],[GRN:253],[GRN:253],[EVE:180],[EVE:180],[EVE:180],[M15:248],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[MH2:261],[UST:216],[UST:216],[UST:214])([M12:165],[PLC:145],[MH2:166],[MH2:166],[MH2:166],[MH2:166],[DKA:134],[DKA:134],[DKA:134],[DKA:134])([AKH:199],[DKA:127],[DKA:127],[DKA:127],[DKA:127],[TSB:89],[TSB:89],[TSB:89],[TSB:89],[BFZ:126])([MH2:202],[M15:172],[M15:172],[M15:172],[M15:172],[EMN:155],[EMN:155],[EMN:155],[EMN:155],[DKA:63],[DKA:63],[DKA:63],[M19:196],[MH2:172])([GTC:125],[TSR:336],[TSR:336],[TSR:336],[TSR:336])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,70)|([AER:57],[AER:57],[THS:107],[M20:198],[M20:198])([M20:87],[DOM:161],[M15:225],[M21:204],[NPH:159],[RTR:141])([MH2:157],[SHM:229],[H1R:14])([H1R:21])

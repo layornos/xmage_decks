@@ -1,0 +1,26 @@
+4 [ELD:243] Dwarven Mine
+2 [ROE:4] Emrakul, the Aeons Torn
+4 [IKO:118] Footfall Crater
+3 [MH1:52] Force of Negation
+4 [AER:85] Indomitable Creativity
+4 [M11:149] Lightning Bolt
+3 [KHM:397] Mountain
+4 [THB:58] Omen of the Sea
+3 [M10:67] Polymorph
+2 [IKO:251] Raugrin Triome
+4 [RAV:63] Remand
+2 [GRN:254] Sacred Foundry
+4 [ZEN:223] Scalding Tarn
+3 [GRN:257] Steam Vents
+4 [WAR:221*] Teferi, Time Raveler
+1 [M12:40] Timely Reinforcements
+4 [KTK:249] Wooded Foothills
+3 [FUT:35] Delay
+2 [ZNR:355] Valakut Awakening
+SB: 3 [M20:42] Aether Gust
+SB: 2 [THS:112] Anger of the Gods
+SB: 2 [ELD:58] Mystical Dispute
+SB: 4 [SOI:247] Nahiri, the Harbinger
+SB: 2 [M12:11] Celestial Purge
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,88)|([ROE:4],[ROE:4])([IKO:118],[IKO:118],[IKO:118],[IKO:118],[THB:58],[THB:58],[THB:58],[THB:58])([MH1:52],[MH1:52],[MH1:52],[M11:149],[M11:149],[M11:149],[M11:149],[RAV:63],[RAV:63],[RAV:63],[RAV:63],[FUT:35],[FUT:35],[FUT:35],[ZNR:355],[ZNR:355])([ELD:243],[ELD:243],[ELD:243],[ELD:243],[KHM:397],[KHM:397],[KHM:397],[IKO:251],[IKO:251],[GRN:254],[GRN:254],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[GRN:257],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*])([AER:85],[AER:85],[AER:85],[AER:85],[M10:67],[M10:67],[M10:67],[M12:40])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,63)|([M20:42],[M20:42],[M20:42],[M12:11],[M12:11])([THS:112],[THS:112],[ELD:58],[ELD:58])([SOI:247],[SOI:247],[SOI:247],[SOI:247])
