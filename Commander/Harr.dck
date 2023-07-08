@@ -1,0 +1,91 @@
+1 [VOW:139] Abrade
+1 [SNC:464] An Offer You Can't Refuse
+1 [M13:160] Arbor Elf
+1 [ELD:331] Arcane Signet
+1 [M12:164] Autumn's Veil
+1 [NPH:103] Beast Within
+1 [BFZ:209] Bring to Light
+1 [M15:172] Chord of Calling
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [6ED:322] Crystal Vein
+1 [ISD:49] Curiosity
+1 [FUT:35] Delay
+1 [BFZ:76] Dispel
+1 [ODY:82] Divert
+1 [RAV:46] Drift of Phantasms
+1 [C21:165] Dualcaster Mage
+1 [EMN:155] Eldritch Evolution
+1 [M15:173] Elvish Mystic
+1 [5DN:86] Eternal Witness
+1 [BRO:261] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [BRO:179] Fauna Shaman
+1 [XLN:143] Fiery Cannonade
+6 [ONE:276] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [M20:141] Glint-Horn Buccaneer
+1 [MH2:281] Imperial Recruiter
+1 [CLB:182] Ingenious Artillerist
+6 [ONE:273] Island
+1 [GPT:152] Izzet Signet
+1 [DMU:250] Karplusan Forest
+1 [PLC:152] Keen Sense
+1 [M11:149] Lightning Bolt
+1 [XLN:150] Lightning-Rig Crew
+1 [M19:314] Llanowar Elves
+1 [XLN:62] Lookout's Dispersal
+1 [MH2:49] Lose Focus
+1 [KHM:142] Magda, Brazen Outlaw
+1 [M12:63] Mana Leak
+1 [M21:57] Miscast
+1 [MMQ:87] Misdirection
+1 [NEO:69] Moonsnare Prototype
+2 [ONE:275] Mountain
+1 [WWK:108] Nature's Claim
+1 [WAR:206] Neoform
+1 [GRN:192] Niv-Mizzet, Parun
+1 [TSP:70] Ophidian Eye
+1 [SNC:116] Professional Face-Breaker
+1 [KLD:126] Reckless Fireweaver
+1 [SUM:214] Regrowth
+1 [STX:51] Resculpt
+1 [MID:195] Return to Nature
+1 [WWK:87] Ricochet Trap
+1 [KHM:266] Rimewood Falls
+1 [CSP:96] Rite of Flame
+1 [XLN:256] Rootbound Crag
+1 [ELD:62] Run Away Together
+1 [MMQ:328] Saprazzan Skerry
+1 [M20:193] Shared Summons
+1 [DMU:255] Shivan Reef
+1 [PLC:122] Simian Spirit Guide
+1 [XLN:79] Siren Stormtamer
+1 [ROE:207] Snake Umbra
+1 [SUM:274] Sol Ring
+1 [STX:54] Solve the Equation
+1 [NEO:80] Spell Pierce
+1 [NPH:159] Spellskite
+1 [AER:184] Spire of Industry
+1 [BNG:162] Springleaf Drum
+1 [DOM:247] Sulfur Falls
+1 [MH2:448] Suspend
+1 [MID:288] Suspicious Stowaway
+1 [CLB:876] Talisman of Creativity
+1 [H1R:35] Talisman of Curiosity
+1 [AVR:80] Tandem Lookout
+1 [DMU:258] Tangled Islet
+1 [ONE:261] Terramorphic Expanse
+1 [ICE:270] Tinder Wall
+1 [KHM:197] Toski, Bearer of Secrets
+1 [ONS:119] Trickery Charm
+1 [JOU:115] Twinflame
+1 [TSB:89] Wall of Roots
+1 [CMR:211] Wheel of Misfortune
+1 [7ED:282] Wild Growth
+1 [DMU:260] Wooded Ridgeline
+1 [DMU:261] Yavimaya Coast
+SB: 1 [CMR:537] Tana, the Bloodsower
+SB: 1 [CMR:560] Malcolm, Keen-Eyed Navigator
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,90)|([NPH:159])([ELD:331],[GPT:152],[NEO:69],[SUM:274],[BNG:162],[CLB:876],[H1R:35])([M13:160],[RAV:46],[C21:165],[M15:173],[5DN:86],[BRO:179],[ICE:244],[M20:141],[MH2:281],[CLB:182],[XLN:150],[M19:314],[KHM:142],[GRN:192],[SNC:116],[KLD:126],[PLC:122],[XLN:79],[MID:288],[AVR:80],[ICE:270],[KHM:197],[TSB:89])([ISD:49],[PLC:152],[TSP:70],[ROE:207],[7ED:282])([VOW:139],[SNC:464],[M12:164],[NPH:103],[M15:172],[FUT:35],[BFZ:76],[ODY:82],[XLN:143],[M11:149],[XLN:62],[MH2:49],[M12:63],[M21:57],[MMQ:87],[WWK:108],[STX:51],[MID:195],[WWK:87],[ELD:62],[M20:193],[NEO:80],[MH2:448],[ONS:119])([BFZ:235],[ELD:333],[6ED:322],[BRO:261],[CON:142],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[DMU:250],[ONE:275],[ONE:275],[KHM:266],[XLN:256],[MMQ:328],[DMU:255],[AER:184],[DOM:247],[DMU:258],[ONE:261],[DMU:260],[DMU:261])([BFZ:209],[EMN:155],[WAR:206],[SUM:214],[CSP:96],[STX:54],[JOU:115],[CMR:211])
+LAYOUT SIDEBOARD:(1,2)(NONE,false,50)|([CMR:537])([CMR:560])

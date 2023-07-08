@@ -1,0 +1,80 @@
+1 [M13:159] Acidic Slime
+1 [PLC:96] Detritivore
+1 [SHM:204] Deus of Calamity
+1 [MIR:169] Dwarven Miner
+1 [M15:173] Elvish Mystic
+1 [ICE:244] Fyndhorn Elves
+1 [MBS:62] Galvanoth
+1 [J21:693] Goblin Anarchomancer
+1 [PCY:94] Keldon Firebombers
+1 [THB:220] Klothys, God of Destiny
+1 [M19:314] Llanowar Elves
+1 [ICE:210] Orcish Lumberjack
+1 [WTH:112] Orcish Settlers
+1 [INV:203] Quirion Elves
+1 [HOU:129] Ramunap Excavator
+1 [MH1:176] Rime Tender
+1 [DTK:231] Savage Ventmaw
+1 [10E:296] Seedborn Muse
+1 [WWK:115] Terastodon
+1 [PCY:128] Thresher Beast
+1 [MH2:287] Titania, Protector of Argoth
+1 [SHM:222] Vexing Shusher
+1 [DGM:120] Zhur-Taa Druid
+1 [NPH:103] Beast Within
+1 [NCC:266] Chaos Warp
+1 [M21:188] Heroic Intervention
+1 [CSP:97] Skred
+1 [KHM:151] Smashing Success
+1 [CM2:126] Volcanic Offering
+1 [ISD:130] Blasphemous Act
+1 [PLC:112] Boom // Bust
+1 [KLD:150] Creeping Mold
+1 [M21:177] Cultivate
+1 [ODY:287] Decimate
+1 [ODY:192] Epicenter
+1 [GTC:166] Frenzied Tilling
+1 [PLC:149] Harmonize
+1 [TSP:207] Mwonvuli Acid-Moss
+1 [7ED:207] Pillage
+1 [M12:190] Rampant Growth
+1 [WWK:88] Roiling Terrain
+1 [STH:95] Ruination
+1 [RAV:141] Seismic Spike
+1 [VOW:221] Splendid Reclamation
+1 [9ED:221] Stone Rain
+1 [SOK:118] Thoughts of Ruin
+1 [ODY:225] Tremble
+1 [9ED:228] Wildfire
+1 [TMP:265] Winter's Grasp
+1 [ELD:331] Arcane Signet
+1 [M19:229] Crucible of Worlds
+1 [8ED:297] Dingus Egg
+1 [GPT:150] Gruul Signet
+1 [10E:335] Mind Stone
+1 [KHM:244] Replicating Ring
+1 [ZNR:252] Skyclave Relic
+1 [SUM:274] Sol Ring
+1 [MRD:254] Talisman of Impulse
+1 [M21:142] Double Vision
+1 [ULG:82] Impending Disaster
+1 [M12:150] Manabarbs
+1 [ODY:214] Price of Glory
+1 [DOM:173] The Mending of Dominaria
+1 [KHM:234] Waking the Trolls
+1 [MH1:217] Wrenn and Six
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [M15:242] Darksteel Citadel
+1 [VOW:263] Evolving Wilds
+1 [KHM:258] Gnottvold Slumbermound
+1 [MH2:256] Slagwoods Bridge
+1 [KHM:284] Snow-Covered Forest
+1 [KHM:282] Snow-Covered Mountain
+1 [4ED:363] Strip Mine
+1 [M11:229] Terramorphic Expanse
+12 [SNC:268] Mountain
+12 [SNC:270] Forest
+SB: 1 [KHM:230] Svella, Ice Shaper
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,70)|([M15:242],[MH2:256])([ELD:331],[M19:229],[8ED:297],[GPT:150],[10E:335],[KHM:244],[ZNR:252],[SUM:274],[MRD:254])([M13:159],[PLC:96],[SHM:204],[MIR:169],[M15:173],[ICE:244],[MBS:62],[J21:693],[PCY:94],[M19:314],[ICE:210],[WTH:112],[INV:203],[HOU:129],[MH1:176],[DTK:231],[10E:296],[WWK:115],[PCY:128],[MH2:287],[SHM:222],[DGM:120])([THB:220])([M21:142],[ULG:82],[M12:150],[ODY:214],[DOM:173],[KHM:234])([NPH:103],[NCC:266],[M21:188],[CSP:97],[KHM:151],[CM2:126])([BFZ:235],[ELD:333],[VOW:263],[KHM:258],[KHM:284],[KHM:282],[4ED:363],[M11:229],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270])([MH1:217])([PLC:112])([ISD:130],[KLD:150],[M21:177],[ODY:287],[ODY:192],[GTC:166],[PLC:149],[TSP:207],[7ED:207],[M12:190],[WWK:88],[STH:95],[RAV:141],[VOW:221],[9ED:221],[SOK:118],[ODY:225],[9ED:228],[TMP:265])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([KHM:230])

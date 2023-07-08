@@ -1,0 +1,33 @@
+4 [M12:165] Birds of Paradise
+2 [KLD:243] Blooming Marsh
+4 [M15:172] Chord of Calling
+1 [FUT:174] Dryad Arbor
+4 [EMN:155] Eldritch Evolution
+2 [ZNR:278] Forest
+1 [DKA:63] Geralf's Messenger
+2 [MH1:243] Nurturing Peatland
+2 [GRN:253] Overgrown Tomb
+4 [DKA:127] Strangleroot Geist
+1 [ZNR:272] Swamp
+2 [EVE:180] Twilight Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+4 [ZEN:229] Verdant Catacombs
+4 [TSB:89] Wall of Roots
+4 [MH1:116] Yawgmoth, Thran Physician
+4 [DKA:134] Young Wolf
+1 [MH2:261] Yavimaya, Cradle of Growth
+2 [MH2:250] Misty Rainforest
+1 [MH2:157] Endurance
+4 [MH2:166] Ignoble Hierarch
+1 [SLD:42] Blood Artist
+4 [MH2:202] Grist, the Hunger Tide
+1 [NEO:266] Boseiju, Who Endures
+SB: 3 [MH2:157] Endurance
+SB: 4 [TSR:334] Thoughtseize
+SB: 1 [MID:303] Outland Liberator
+SB: 2 [M21:116] Necromentia
+SB: 2 [MH1:164] Force of Vigor
+SB: 2 [DIS:150] Crime // Punishment
+SB: 1 [M21:204] Scavenging Ooze
+LAYOUT MAIN:(1,5)(CMC,false,70)|([KLD:243],[KLD:243],[FUT:174],[ZNR:278],[ZNR:278],[MH1:243],[MH1:243],[GRN:253],[GRN:253],[ZNR:272],[EVE:180],[EVE:180],[M15:248],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[MH2:261],[MH2:250],[MH2:250],[NEO:266])([M12:165],[M12:165],[M12:165],[M12:165],[DKA:134],[DKA:134],[DKA:134],[DKA:134],[MH2:166],[MH2:166],[MH2:166],[MH2:166])([DKA:127],[DKA:127],[DKA:127],[DKA:127],[TSB:89],[TSB:89],[TSB:89],[TSB:89],[SLD:42])([M15:172],[M15:172],[M15:172],[M15:172],[EMN:155],[EMN:155],[EMN:155],[EMN:155],[DKA:63],[MH2:157],[MH2:202],[MH2:202],[MH2:202],[MH2:202])([MH1:116],[MH1:116],[MH1:116],[MH1:116])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([MH2:157],[MH2:157],[MH2:157],[TSR:334],[TSR:334],[TSR:334],[TSR:334],[MID:303],[M21:116],[M21:116],[MH1:164],[MH1:164],[DIS:150],[DIS:150],[M21:204])

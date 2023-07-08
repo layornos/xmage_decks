@@ -1,0 +1,92 @@
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [RIX:153] Atzocan Seer
+1 [M19:215] Draconic Disciple
+1 [ELD:190] Faeburrow Elder
+1 [PLC:130] Hunting Wilds
+1 [CON:114] Knotvine Mystic
+1 [5ED:316] Nature's Lore
+1 [PLC:162] Radha, Heir to Keld
+1 [NEM:117] Skyshroud Claim
+1 [SUM:274] Sol Ring
+1 [ALA:198] Steward of Valeron
+1 [H1R:33] Talisman of Conviction
+1 [MRD:254] Talisman of Impulse
+1 [CLB:837] Three Visits
+1 [LRW:246] Brion Stoutarm
+1 [ARB:67] Dauntless Escort
+1 [ZEN:199] Eldrazi Monument
+1 [SHM:226] Elvish Hexhunter
+1 [ORI:176] Evolutionary Leap
+1 [TMP:179] Goblin Bombardment
+1 [9ED:245] Greater Good
+1 [JUD:138] Hunting Grounds
+1 [RAV:214] Loxodon Hierarch
+1 [ARB:75] Qasali Pridemage
+1 [TSP:245] Saffi Eriksdotter
+1 [INV:167] Shivan Harvest
+1 [INV:233] Aura Shards
+1 [NPH:103] Beast Within
+1 [BRC:114] Chaos Warp
+1 [M19:9] Cleansing Nova
+1 [DMC:100] Generous Gift
+1 [ICE:54] Swords to Plowshares
+1 [GRN:153] Aurelia, Exemplar of Justice
+1 [GTC:143] Aurelia, the Warleader
+1 [DTK:216] Dragonlord Atarka
+1 [FRF:151] Dromoka, the Eternal
+1 [ALA:170] Godsire
+1 [WWK:119] Novablast Wurm
+1 [ALA:187] Realm Razer
+1 [DTK:231] Savage Ventmaw
+1 [GRN:204] Tajic, Legion's Edge
+1 [GPT:136] Ulasht, the Hate Seed
+1 [6ED:19] Enlightened Tutor
+1 [USG:188] Gamble
+1 [THB:24] Idyllic Tutor
+1 [GPT:120] Killer Instinct
+1 [BNG:24] Plea for Guidance
+1 [RAV:251] Privileged Position
+1 [THB:150] Purphoros, Bronze-Blooded
+1 [USG:218] Sneak Attack
+1 [INV:278] Sterling Grove
+1 [CHK:247] Time of Need
+1 [APC:135] Dragon Arch
+1 [ARB:70] Knight of New Alara
+1 [RNA:242] Tome of the Guildpact
+1 [INV:318] Urza's Filter
+1 [KHM:248] Alpine Meadow
+1 [KHM:249] Arctic Treeline
+1 [BRC:174] Ash Barrens
+1 [CLB:348] Bountiful Promenade
+1 [ELD:333] Command Tower
+1 [BRO:261] Evolving Wilds
+1 [M21:246] Fabled Passage
+5 [ONE:276] Forest
+1 [GRN:250] Guildmages' Forum
+1 [KHM:261] Highland Forest
+1 [SNC:250] Jetmir's Garden
+1 [ALA:226] Jungle Shrine
+4 [ONE:275] Mountain
+4 [ONE:372] Plains
+1 [DMU:253] Radiant Grove
+1 [GRN:254] Sacred Foundry
+1 [DMU:254] Sacred Peaks
+1 [CMR:356] Spectator Seating
+1 [CLB:361] Spire Garden
+1 [RNA:259] Stomping Ground
+1 [GRN:258] Temple Garden
+1 [M11:229] Terramorphic Expanse
+1 [DMU:260] Wooded Ridgeline
+1 [NPH:104] Birthing Pod
+1 [M19:173] Colossal Majesty
+1 [ORI:174] Elemental Bond
+1 [M15:283] Garruk's Packleader
+1 [RNA:130] Guardian Project
+1 [M21:188] Heroic Intervention
+1 [5ED:262] Pyroblast
+1 [4ED:218] Red Elemental Blast
+1 [M14:162] Wild Ricochet
+SB: 1 [M20:281] Rienne, Angel of Rebirth
+LAYOUT MAIN:(1,8)(EDH_POWER_LEVEL,false,50)|([ELD:331],[CON:114],[PLC:162],[ALA:198],[H1R:33],[MRD:254],[JUD:138],[BRC:114],[FRF:151],[DTK:231],[APC:135],[KHM:248],[KHM:249],[ELD:333],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[GRN:250],[KHM:261],[SNC:250],[ALA:226],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:372],[ONE:372],[ONE:372],[ONE:372],[DMU:253],[GRN:254],[DMU:254],[RNA:259],[GRN:258],[DMU:260],[M19:173],[ORI:174])([BRC:174],[5ED:262],[4ED:218],[M14:162])([ICE:54])([NPH:103],[M19:9],[DMC:100],[ALA:170],[WWK:119],[RAV:251],[M21:188])([RIX:153],[M19:215],[LRW:246],[ARB:67],[ZEN:199],[SHM:226],[ORI:176],[TMP:179],[9ED:245],[ARB:75],[TSP:245],[INV:167],[DTK:216],[ALA:187],[GPT:120],[USG:218],[RNA:242],[BRO:261],[M21:246],[M11:229],[M15:283],[RNA:130])([ELD:190],[RAV:214],[GRN:153],[GTC:143],[GRN:204],[GPT:136],[THB:150],[ARB:70],[INV:318],[CLB:348],[CMR:356],[CLB:361])([PLC:130],[5ED:316],[NEM:117],[CLB:837],[6ED:19],[USG:188],[THB:24],[BNG:24],[INV:278],[CHK:247],[NPH:104])([6ED:274],[SUM:274],[INV:233])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:281])

@@ -1,0 +1,82 @@
+1 [M13:159] Acidic Slime
+1 [CMR:217] Apex Devastator
+1 [BNG:116] Archetype of Endurance
+1 [ROE:2] Artisan of Kozilek
+1 [GRN:123] Beast Whisperer
+1 [M12:165] Birds of Paradise
+1 [BFZ:6] Desolation Twin
+1 [M15:173] Elvish Mystic
+1 [RNA:124] End-Raze Forerunners
+1 [RIX:100] Etali, Primal Storm
+1 [5DN:86] Eternal Witness
+1 [ICE:244] Fyndhorn Elves
+1 [J21:693] Goblin Anarchomancer
+1 [GTC:94] Hellkite Tyrant
+1 [CMR:239] Kodama of the East Tree
+1 [IKO:162] Kogla, the Titan Ape
+1 [M19:314] Llanowar Elves
+1 [THB:190] Nyxbloom Ancient
+1 [AFR:197] Old Gnawbone
+1 [M19:196] Reclamation Sage
+1 [MH1:176] Rime Tender
+1 [CHK:239] Sakura-Tribe Elder
+1 [BRO:220] Sarinth Greatwurm
+1 [MID:197] Saryth, the Viper's Fang
+1 [DTK:231] Savage Ventmaw
+1 [10E:296] Seedborn Muse
+1 [7ED:268] Seeker of Skybreak
+1 [DMU:177] Silverback Elder
+1 [WWK:115] Terastodon
+1 [NPH:103] Beast Within
+1 [BRC:114] Chaos Warp
+1 [M21:188] Heroic Intervention
+1 [TSP:202] Krosan Grip
+1 [WWK:108] Nature's Claim
+1 [ELD:172] Return of the Wildspeaker
+1 [SOI:227] Second Harvest
+1 [ZNR:180] Bala Ged Recovery
+1 [ISD:130] Blasphemous Act
+1 [M21:177] Cultivate
+1 [ODY:287] Decimate
+1 [M13:170] Farseek
+1 [PLC:149] Harmonize
+1 [CHK:225] Kodama's Reach
+1 [5ED:316] Nature's Lore
+1 [M12:190] Rampant Growth
+1 [AER:123] Rishkar's Expertise
+1 [CLB:837] Three Visits
+1 [RTR:111] Vandalblast
+1 [ELD:331] Arcane Signet
+1 [C21:375] Battlemage's Bracers
+1 [GPT:150] Gruul Signet
+1 [GTC:231] Illusionist's Bracers
+1 [MRD:199] Lightning Greaves
+1 [CLB:332] Patriar's Seal
+1 [KHM:244] Replicating Ring
+1 [LRW:259] Rings of Brighthearth
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [LRW:263] Thousand-Year Elixir
+1 [M21:186] Garruk's Uprising
+1 [SHM:122] Mana Reflection
+1 [ISD:199] Parallel Lives
+1 [RNA:201] Rhythm of the Wild
+1 [AKH:183] Sandwurm Convergence
+1 [7ED:282] Wild Growth
+1 [OGW:147] Zendikar Resurgent
+1 [M21:1] Ugin, the Spirit Dragon
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [KHM:261] Highland Forest
+1 [ISD:243] Kessig Wolf Run
+1 [MID:266] Rockfall Vale
+1 [XLN:256] Rootbound Crag
+1 [KHM:284] Snow-Covered Forest
+1 [KHM:282] Snow-Covered Mountain
+1 [RNA:259] Stomping Ground
+1 [THB:347*] Temple of Abandon
+3 [BRO:274] Mountain
+19 [BRO:276] Forest
+SB: 1 [KHM:331] Svella, Ice Shaper
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([ELD:331],[C21:375],[GPT:150],[GTC:231],[MRD:199],[CLB:332],[KHM:244],[LRW:259],[SUM:274],[M12:219],[LRW:263])([M13:159],[CMR:217],[ROE:2],[GRN:123],[M12:165],[BFZ:6],[M15:173],[RNA:124],[RIX:100],[5DN:86],[ICE:244],[J21:693],[GTC:94],[CMR:239],[IKO:162],[M19:314],[AFR:197],[M19:196],[MH1:176],[CHK:239],[BRO:220],[MID:197],[DTK:231],[10E:296],[7ED:268],[DMU:177],[WWK:115])([BNG:116],[THB:190])([M21:186],[SHM:122],[ISD:199],[RNA:201],[AKH:183],[7ED:282],[OGW:147])([NPH:103],[BRC:114],[M21:188],[TSP:202],[WWK:108],[ELD:172],[SOI:227])([BFZ:235],[ELD:333],[KHM:261],[ISD:243],[MID:266],[XLN:256],[KHM:284],[KHM:282],[RNA:259],[THB:347*],[BRO:274],[BRO:274],[BRO:274],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276])([M21:1])([ZNR:180],[ISD:130],[M21:177],[ODY:287],[M13:170],[PLC:149],[CHK:225],[5ED:316],[M12:190],[AER:123],[CLB:837],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([KHM:331])

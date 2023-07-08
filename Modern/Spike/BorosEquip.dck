@@ -1,0 +1,28 @@
+4 [PGPX:2016] Stoneforge Mystic
+1 [MH2:227] Kaldra Compleat
+4 [ELD:124] Fervent Champion
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [MH2:12] Esper Sentinel
+4 [MH2:126] Fury
+4 [MH2:32] Solitude
+2 [A25:122] Blood Moon
+3 [DST:148] Sword of Fire and Ice
+4 [MH1:21] Ranger-Captain of Eos
+3 [MH1:7] Ephemerate
+1 [2XM:234] Batterskull
+4 [MH2:244] Arid Mesa
+3 [GRN:254] Sacred Foundry
+4 [MH2:248] Marsh Flats
+4 [ANA:8] Plains
+1 [30A:590] Mountain
+2 [MH1:247] Sunbaked Canyon
+4 [KLD:246] Inspiring Vantage
+SB: 2 [A25:122] Blood Moon
+SB: 1 [THB:236] Shadowspear
+SB: 3 [DMC:174] Wear // Tear
+SB: 3 [SOM:196] Ratchet Bomb
+SB: 3 [A25:32] Rest in Peace
+SB: 2 [MD1:22] Burrenton Forge-Tender
+SB: 1 [PELD:14s] Giant Killer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([MH2:12],[MH2:12],[MH2:12],[MH2:12])([MH2:227],[DST:148],[DST:148],[DST:148],[2XM:234])([PGPX:2016],[PGPX:2016],[PGPX:2016],[PGPX:2016],[ELD:124],[ELD:124],[ELD:124],[ELD:124],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[MH2:126],[MH2:126],[MH2:126],[MH2:126],[MH2:32],[MH2:32],[MH2:32],[MH2:32],[MH1:21],[MH1:21],[MH1:21],[MH1:21])([A25:122],[A25:122])([MH1:7],[MH1:7],[MH1:7])([MH2:244],[MH2:244],[MH2:244],[MH2:244],[GRN:254],[GRN:254],[GRN:254],[MH2:248],[MH2:248],[MH2:248],[MH2:248],[ANA:8],[ANA:8],[ANA:8],[ANA:8],[30A:590],[MH1:247],[MH1:247],[KLD:246],[KLD:246],[KLD:246],[KLD:246])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([A25:122],[A25:122],[THB:236],[DMC:174],[DMC:174],[DMC:174],[SOM:196],[SOM:196],[SOM:196],[A25:32],[A25:32],[A25:32],[MD1:22],[MD1:22],[PELD:14s])

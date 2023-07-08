@@ -1,0 +1,88 @@
+1 [DTK:234] Ancestral Statue
+1 [CLB:56] Ancient Silver Dragon
+1 [CMR:217] Apex Devastator
+1 [ROE:2] Artisan of Kozilek
+1 [MID:168] Augur of Autumn
+1 [GRN:123] Beast Whisperer
+1 [BFZ:170] Beastcaller Savant
+1 [M12:165] Birds of Paradise
+1 [EVE:66] Bloom Tender
+1 [DTK:181] Den Protector
+1 [M15:173] Elvish Mystic
+1 [5DN:86] Eternal Witness
+1 [M21:181] Fierce Empath
+1 [SCG:120] Forgotten Ancient
+1 [ICE:244] Fyndhorn Elves
+1 [VOW:359] Hullbreaker Horror
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [M19:314] Llanowar Elves
+1 [CMR:526] Maelstrom Wanderer
+1 [LRW:76] Mulldrifter
+1 [J21:750] Myr Scrapling
+1 [J21:753] Ornithopter of Paradise
+1 [USG:88] Peregrine Drake
+1 [NPH:42] Phyrexian Metamorph
+1 [RAV:177] Primordial Sage
+1 [THS:135] Purphoros, God of the Forge
+1 [KTK:144] Rattleclaw Mystic
+1 [M19:196] Reclamation Sage
+1 [CHK:239] Sakura-Tribe Elder
+1 [M21:239] Solemn Simulacrum
+1 [W16:16] Soul of the Harvest
+1 [NPH:159] Spellskite
+1 [DTK:80] Stratus Dancer
+1 [KTK:206] Surrak Dragonclaw
+1 [FRF:141] Temur Sabertooth
+1 [KHM:197] Toski, Bearer of Secrets
+1 [AKH:192] Vizier of the Menagerie
+1 [AER:181] Walking Ballista
+1 [STX:286] Wandering Archaic
+1 [9ED:283] Wood Elves
+1 [NPH:103] Beast Within
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [C20:35] Fierce Guardianship
+1 [M21:188] Heroic Intervention
+1 [SNC:62] Slip Out the Back
+1 [6ED:269] Worldly Tutor
+1 [ELD:331] Arcane Signet
+1 [MRD:199] Lightning Greaves
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [IKO:237] The Ozolith
+1 [M21:186] Garruk's Uprising
+1 [RNA:130] Guardian Project
+1 [KTK:133] Hardened Scales
+1 [PCY:45] Rhystic Study
+1 [RNA:201] Rhythm of the Wild
+1 [KTK:207] Temur Ascendancy
+1 [WAR:180*] Vivien, Champion of the Wilds
+1 [CLB:214] Ancient Bronze Dragon
+1 [VMA:321] Tropical Island
+1 [MH2:250] Misty Rainforest
+1 [SLD:132] Breeding Pool
+1 [VMA:324] Volcanic Island
+1 [MH2:254] Scalding Tarn
+1 [SLD:129] Steam Vents
+1 [VMA:317] Taiga
+1 [KTK:249] Wooded Foothills
+1 [SLD:126] Stomping Ground
+1 [IKO:250] Ketria Triome
+1 [CLB:361] Spire Garden
+1 [CMR:354] Rejuvenating Springs
+1 [CMR:358] Training Center
+1 [AFC:229] Cinder Glade
+1 [MID:266] Rockfall Vale
+1 [VOW:262] Dreamroot Cascade
+1 [VOW:265] Stormcarved Coast
+9 [UST:216] Forest
+5 [UST:215] Mountain
+3 [UST:213] Island
+1 [CLB:244] Nature's Lore
+1 [CMR:261] Three Visits
+1 [NCC:290] Farseek
+1 [DTK:140] Impact Tremors
+1 [SNC:131] Witty Roastmaster
+SB: 1 [2X2:171] Animar, Soul of Elements
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([DTK:234],[J21:750],[J21:753],[NPH:42],[M21:239],[NPH:159],[AER:181],[ROE:2],[STX:286],[ROE:6])([MRD:199],[M12:219],[IKO:237])([CLB:56],[CMR:217],[MID:168],[GRN:123],[DTK:181],[5DN:86],[M21:181],[SCG:120],[VOW:359],[CMR:526],[LRW:76],[USG:88],[RAV:177],[M19:196],[W16:16],[DTK:80],[KTK:206],[FRF:141],[KHM:197],[AKH:192],[CLB:214],[SNC:131])([THS:135])([M21:186],[RNA:130],[KTK:133],[PCY:45],[RNA:201],[KTK:207],[DTK:140])([NPH:103],[7ED:67],[RTR:35],[C20:35],[M21:188],[SNC:62],[6ED:269])([VMA:321],[MH2:250],[SLD:132],[VMA:324],[MH2:254],[SLD:129],[VMA:317],[KTK:249],[SLD:126],[IKO:250],[CLB:361],[CMR:354],[CMR:358],[AFC:229],[MID:266],[VOW:262],[VOW:265],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:213],[UST:213],[UST:213])([WAR:180*])([M12:165],[BFZ:170],[EVE:66],[M15:173],[9ED:283],[CHK:239],[M19:314],[ICE:244],[KTK:144],[CLB:244],[CMR:261],[NCC:290],[SUM:274],[ELD:331])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([2X2:171])

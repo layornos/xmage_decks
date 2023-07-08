@@ -1,0 +1,30 @@
+3 [J21:166] Archmage's Charm
+4 [MID:388] Consider
+4 [7ED:67] Counterspell
+2 [J21:438] Dragon's Rage Channeler
+4 [STX:186] Expressive Iteration
+1 [MH1:238] Fiery Islet
+4 [KTK:233] Flooded Strand
+3 [NEO:285] Island
+4 [M11:149] Lightning Bolt
+4 [CSP:138] Mishra's Bauble
+1 [ZEN:220] Misty Rainforest
+3 [MH2:337] Murktide Regent
+1 [NEO:271] Otawara, Soaring City
+4 [MH2:138] Ragavan, Nimble Pilferer
+1 [ZEN:223] Scalding Tarn
+2 [NEO:80] Spell Pierce
+4 [KLD:249] Spirebluff Canal
+3 [GRN:257] Steam Vents
+4 [J21:529] Unholy Heat
+4 [SNC:412] Ledger Shredder
+SB: 2 [9ED:176] Blood Moon
+SB: 2 [MH2:334] Dress Down
+SB: 2 [5DN:118] Engineered Explosives
+SB: 2 [MH2:126] Fury
+SB: 2 [WWK:31] Jace, the Mind Sculptor
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [ALA:218] Relic of Progenitus
+SB: 1 [THB:237] Soul-Guide Lantern
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([CSP:138],[CSP:138],[CSP:138],[CSP:138])([J21:438],[J21:438],[MH2:337],[MH2:337],[MH2:337],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[SNC:412],[SNC:412],[SNC:412],[SNC:412])([J21:166],[J21:166],[J21:166],[MID:388],[MID:388],[MID:388],[MID:388],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[M11:149],[M11:149],[M11:149],[M11:149],[NEO:80],[NEO:80],[J21:529],[J21:529],[J21:529],[J21:529])([MH1:238],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[NEO:285],[NEO:285],[NEO:285],[ZEN:220],[NEO:271],[ZEN:223],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257])([STX:186],[STX:186],[STX:186],[STX:186])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([5DN:118],[5DN:118])([ALA:218],[ALA:218],[THB:237])([MH2:334],[MH2:334])([9ED:176],[9ED:176],[ELD:58],[ELD:58])([WWK:31],[WWK:31])([MH2:126],[MH2:126])

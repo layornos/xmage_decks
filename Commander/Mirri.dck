@@ -1,0 +1,81 @@
+1 [MID:1] Adeline, Resplendent Cathar
+1 [THB:165] Arasta of the Endless Web
+1 [ISD:170] Avacyn's Pilgrim
+1 [WWK:96] Avenger of Zendikar
+1 [AFR:176] Circle of Dreams Druid
+1 [ZEN:11] Emeria Angel
+1 [GRN:168] Emmara, Soul of the Accord
+1 [GTC:121] Giant Adephage
+1 [M15:177] Hornet Nest
+1 [M15:178] Hornet Queen
+1 [M19:23] Leonin Warleader
+1 [M19:27] Mentor of the Meek
+1 [SLD:237] Ohran Frostfang
+1 [SHM:237] Rhys the Redeemed
+1 [CHK:239] Sakura-Tribe Elder
+1 [MID:197] Saryth, the Viper's Fang
+1 [ZNR:203] Scute Swarm
+1 [RAV:252] Selesnya Guildmage
+1 [RIX:147] Tendershoot Dryad
+1 [VOW:249] Torens, Fist of the Angels
+1 [KHM:197] Toski, Bearer of Secrets
+1 [GRN:208] Trostani Discordant
+1 [RTR:209] Wayfaring Temple
+1 [VOW:287] Welcoming Vampire
+1 [NPH:103] Beast Within
+1 [PLS:106] Eladamri's Call
+1 [M21:188] Heroic Intervention
+1 [GRN:188] March of the Multitudes
+1 [CON:15] Path to Exile
+1 [RTR:19] Rootborn Defenses
+1 [SOI:227] Second Harvest
+1 [DTK:36] Secure the Wastes
+1 [RTR:223] Sundering Growth
+1 [ICE:54] Swords to Plowshares
+1 [MBS:19] White Sun's Zenith
+1 [M21:177] Cultivate
+1 [M13:170] Farseek
+1 [WAR:12] Finale of Glory
+1 [AKH:170] Harvest Season
+1 [RAV:21] Hour of Reckoning
+1 [CHK:225] Kodama's Reach
+1 [CON:11] Martial Coup
+1 [M12:186] Overrun
+1 [M12:190] Rampant Growth
+1 [FRF:138] Shamanic Revelation
+1 [ELD:331] Arcane Signet
+1 [MRD:199] Lightning Greaves
+1 [AKH:233] Oketra's Monument
+1 [RAV:270] Selesnya Signet
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [AKH:237] Throne of the God-Pharaoh
+1 [AKH:2] Anointed Procession
+1 [KHM:203] Battle for Bretagard
+1 [ZEN:159] Beastmaster Ascension
+1 [AVR:10] Cathars' Crusade
+1 [SOI:200] Cryptolith Rite
+1 [ZNR:16] Felidar Retreat
+1 [RAV:207] Glare of Subdual
+1 [RTR:217] Growing Ranks
+1 [JUD:139] Mirari's Wake
+1 [ISD:199] Parallel Lives
+1 [THS:9] Elspeth, Sun's Champion
+1 [M11:175] Garruk Wildspeaker
+1 [NEO:265] Blossoming Sands
+1 [BFZ:234] Canopy Vista
+1 [ELD:238] Castle Ardenvale
+1 [ELD:333] Command Tower
+1 [ISD:239] Gavony Township
+1 [RTR:240] Grove of the Guardian
+1 [ORI:250] Rogue's Passage
+1 [GRN:255] Selesnya Guildgate
+1 [RAV:281] Selesnya Sanctuary
+1 [XLN:257] Sunpetal Grove
+1 [GRN:258] Temple Garden
+10 [SNC:262] Plains
+13 [SNC:270] Forest
+SB: 1 [C17:43] Mirri, Weatherlight Duelist
+LAYOUT MAIN:(2,7)(CMC,false,70)|([ISD:170],[SHM:237])([GRN:168],[CHK:239],[RAV:252])([MID:1],[AFR:176],[M15:177],[M19:27],[ZNR:203],[VOW:249],[RTR:209],[VOW:287])([THB:165],[ZEN:11],[M19:23],[MID:197],[KHM:197])([SLD:237],[RIX:147],[GRN:208])([WWK:96],[GTC:121],[M15:178])()()()()([SNC:262])([SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270])([AVR:10],[SOI:200],[ZNR:16],[RAV:207],[RTR:217],[JUD:139],[ISD:199],[THS:9],[M11:175],[NEO:265],[BFZ:234],[ELD:238],[ELD:333],[ISD:239],[RTR:240],[ORI:250],[GRN:255],[RAV:281],[XLN:257],[GRN:258],[SNC:262])([NPH:103],[PLS:106],[M21:188],[GRN:188],[CON:15],[RTR:19],[SOI:227],[DTK:36],[RTR:223],[ICE:54],[MBS:19],[M21:177],[M13:170],[WAR:12],[AKH:170],[RAV:21],[CHK:225],[CON:11],[M12:186],[M12:190],[FRF:138],[ELD:331],[MRD:199],[AKH:233],[RAV:270],[DST:140],[SUM:274],[M12:219],[AKH:237],[AKH:2],[KHM:203],[ZEN:159])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,90)|([C17:43])

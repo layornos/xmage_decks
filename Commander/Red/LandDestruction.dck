@@ -1,0 +1,83 @@
+1 [BOK:91] Akki Blizzard-Herder
+1 [CLB:161] Ancient Copper Dragon
+1 [VOW:148] Cemetery Gatekeeper
+1 [2X2:107] Dockside Extortionist
+1 [J21:458] Goblin Engineer
+1 [AKH:135] Harsh Mentor
+1 [BOK:107] Heartless Hidetsugu
+1 [SOM:168] Iron Myr
+1 [PCY:94] Keldon Firebombers
+1 [FUT:101] Magus of the Moon
+1 [SNC:116] Professional Face-Breaker
+1 [XLN:154] Rampaging Ferocidon
+1 [CLB:336] Rug of Smothering
+1 [RAV:145] Stoneshaker Shaman
+1 [ELD:147] Torbran, Thane of Red Fell
+1 [PZ2:70653] Treasure Nabber
+1 [CLB:785] Chaos Warp
+1 [C20:50] Deflecting Swat
+1 [EXO:95] Price of Progress
+1 [5ED:262] Pyroblast
+1 [4ED:218] Red Elemental Blast
+1 [ZNR:174] Valakut Awakening
+1 [CLB:206] Wild Magic Surge
+1 [ISD:130] Blasphemous Act
+1 [ZNR:137] Cleansing Wildfire
+1 [ODY:192] Epicenter
+1 [DKA:87] Faithless Looting
+1 [C13:108] From the Ashes
+1 [USG:188] Gamble
+1 [CLB:799] Jeska's Will
+1 [AVR:151] Reforge the Soul
+1 [STH:95] Ruination
+1 [MMQ:216] Tectonic Break
+1 [ODY:225] Tremble
+1 [RTR:111] Vandalblast
+1 [SUM:185] Wheel of Fortune
+1 [9ED:228] Wildfire
+1 [6ED:273] Ankh of Mishra
+1 [ELD:331] Arcane Signet
+1 [MRD:152] Chrome Mox
+1 [ULG:123] Crawlspace
+1 [M19:229] Crucible of Worlds
+1 [8ED:297] Dingus Egg
+1 [9ED:297] Fellwar Stone
+1 [7ED:296] Fire Diamond
+1 [CMR:319] Jeweled Lotus
+1 [MRD:199] Lightning Greaves
+1 [TMP:294] Lotus Petal
+1 [2XM:270] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [WTH:152] Mana Web
+1 [10E:335] Mind Stone
+1 [DOM:224] Mox Amber
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [TMP:305] Ruby Medallion
+1 [SUM:274] Sol Ring
+1 [CLB:879] Thought Vessel
+1 [UDS:139] Thran Dynamo
+1 [5ED:408] Winter Orb
+1 [9ED:176] Blood Moon
+1 [M14:130] Burning Earth
+1 [M21:143] Fiery Emancipation
+1 [ULG:82] Impending Disaster
+1 [M12:150] Manabarbs
+1 [ODY:214] Price of Glory
+1 [EXO:104] Spellshock
+1 [CMA:87] Stranglehold
+1 [SCG:106] Sulfuric Vortex
+1 [INV:173] Tectonic Instability
+1 [DIS:77] War's Toll
+1 [KLD:110] Chandra, Torch of Defiance
+1 [M15:242] Darksteel Citadel
+1 [MID:262] Field of Ruin
+1 [ISD:240] Ghost Quarter
+1 [KHM:282] Snow-Covered Mountain
+1 [4ED:363] Strip Mine
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [TMP:330] Wasteland
+20 [BRO:284] Mountain
+SB: 1 [CHK:200] Zo-Zu the Punisher
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([SOM:168],[CLB:336])([M15:242])([6ED:273],[ELD:331],[MRD:152],[ULG:123],[M19:229],[8ED:297],[9ED:297],[7ED:296],[CMR:319],[MRD:199],[TMP:294],[2XM:270],[5ED:388],[WTH:152],[10E:335],[DOM:224],[STH:138],[SOM:179],[TMP:305],[SUM:274],[CLB:879],[UDS:139],[5ED:408])([BOK:91],[CLB:161],[VOW:148],[2X2:107],[J21:458],[AKH:135],[BOK:107],[PCY:94],[FUT:101],[SNC:116],[XLN:154],[RAV:145],[ELD:147],[PZ2:70653])([9ED:176],[M14:130],[M21:143],[ULG:82],[M12:150],[ODY:214],[EXO:104],[CMA:87],[SCG:106],[INV:173],[DIS:77])([CLB:785],[C20:50],[EXO:95],[5ED:262],[4ED:218],[ZNR:174],[CLB:206])([MID:262],[ISD:240],[KHM:282],[4ED:363],[ZEN:228],[TMP:330],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284],[BRO:284])([KLD:110])([ISD:130],[ZNR:137],[ODY:192],[DKA:87],[C13:108],[USG:188],[CLB:799],[AVR:151],[STH:95],[MMQ:216],[ODY:225],[RTR:111],[SUM:185],[9ED:228])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CHK:200])

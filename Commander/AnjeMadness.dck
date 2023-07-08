@@ -1,0 +1,89 @@
+1 [VOC:141] Anje's Ravager
+1 [AKH:78] Archfiend of Ifnir
+1 [C19:14] Archfiend of Spite
+1 [SOI:99] Asylum Visitor
+1 [PLC:63] Big Game Hunter
+1 [J21:418] Blazing Rootwalla
+1 [EMN:181] Bloodhall Priest
+1 [SOI:146] Bloodmad Vampire
+1 [C19:15] Bone Miser
+1 [J21:683] Chainer, Nightmare Adept
+1 [NEO:243] Containment Construct
+1 [M20:141] Glint-Horn Buccaneer
+1 [TSP:111] Gorgon Recluse
+1 [FUT:86] Grave Scrabbler
+1 [J21:339] Hell Mongrel
+1 [SOI:166] Incorrigible Youths
+1 [J21:342] Kitchen Imp
+1 [PLC:76] Muck Drubb
+1 [J21:363] Necrogoyf
+1 [TSP:121] Nightshade Assassin
+1 [PLC:120] Reckless Wurm
+1 [J21:504] Revolutionist
+1 [VOC:22] Shadowgrange Archfiend
+1 [J21:513] Skophos Reaver
+1 [10E:239] Squee, Goblin Nabob
+1 [EMN:146] Stromkirk Occultist
+1 [SOI:142] Twins of Maurer Estate
+1 [EMN:111] Voldaren Pariah
+1 [JUD:103] Worldgorger Dragon
+1 [EMN:115] Abandon Reason
+1 [CLB:785] Chaos Warp
+1 [MMQ:129] Dark Ritual
+1 [TSP:101] Dark Withering
+1 [SOI:156] Fiery Temper
+1 [TOR:76] Psychotic Haze
+1 [4ED:218] Red Elemental Blast
+1 [AKH:107] Shadow of the Grave
+1 [TOR:117] Violent Eruption
+1 [EMN:116] Alchemist's Greeting
+1 [SOI:98] Alms of the Vein
+1 [SOI:145] Avacyn's Judgment
+1 [SOI:102] Biting Rain
+1 [TSP:97] Call to the Netherworld
+1 [VOW:150] Change of Fortune
+1 [EMN:126] Distemper of the Blood
+1 [DKA:87] Faithless Looting
+1 [ZNR:102] Feed the Swarm
+1 [SOI:111] From Under the Floorboards
+1 [SOI:114] Gisa's Bidding
+1 [FUT:68] Ichor Slick
+1 [SOI:173] Malevolent Whispers
+1 [SOI:126] Murderous Compulsion
+1 [TSP:126] Psychotic Episode
+1 [J21:723] Terminal Agony
+1 [ELD:331] Arcane Signet
+1 [ISD:226] Grimoire of the Dead
+1 [BFZ:223] Hedron Archive
+1 [DIS:165] Rakdos Signet
+1 [SUM:274] Sol Ring
+1 [MRD:255] Talisman of Indulgence
+1 [5ED:140] Animate Dead
+1 [C19:16] Curse of Fool's Wisdom
+1 [ICE:118] Dance of the Dead
+1 [AKH:90] Faith of the Devoted
+1 [SOI:184] Stensia Masquerade
+1 [TOR:86] Strength of Lunacy
+1 [CLB:880] Ash Barrens
+1 [ONS:312] Barren Moor
+1 [RNA:245] Blood Crypt
+1 [NEO:264] Bloodfell Caves
+1 [ELD:333] Command Tower
+1 [XLN:252] Dragonskull Summit
+1 [SOI:271] Drownyard Temple
+1 [VOW:263] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [ONS:317] Forgotten Cave
+1 [EMN:203] Geier Reach Sanitarium
+1 [MID:263] Haunted Ridge
+1 [CLB:904] Myriad Landscape
+1 [DIS:178] Rakdos Carnarium
+1 [DIS:179] Rix Maadi, Dungeon Palace
+1 [BFZ:247] Smoldering Marsh
+1 [M11:229] Terramorphic Expanse
+9 [SNC:266] Swamp
+6 [SNC:268] Mountain
+1 [CLB:206] Wild Magic Surge
+SB: 1 [C19:37] Anje Falkenrath
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,88)|([NEO:243])([ELD:331],[ISD:226],[BFZ:223],[DIS:165],[SUM:274],[MRD:255])([VOC:141],[AKH:78],[C19:14],[SOI:99],[PLC:63],[J21:418],[EMN:181],[SOI:146],[C19:15],[J21:683],[M20:141],[TSP:111],[FUT:86],[J21:339],[SOI:166],[J21:342],[PLC:76],[J21:363],[TSP:121],[PLC:120],[J21:504],[VOC:22],[J21:513],[10E:239],[EMN:146],[SOI:142],[EMN:111],[JUD:103])([5ED:140],[C19:16],[ICE:118],[AKH:90],[SOI:184],[TOR:86])([EMN:115],[CLB:785],[MMQ:129],[TSP:101],[SOI:156],[TOR:76],[4ED:218],[AKH:107],[TOR:117],[CLB:206])([CLB:880],[ONS:312],[RNA:245],[NEO:264],[ELD:333],[XLN:252],[SOI:271],[VOW:263],[CON:142],[ONS:317],[EMN:203],[MID:263],[CLB:904],[DIS:178],[DIS:179],[BFZ:247],[M11:229],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268])([EMN:116],[SOI:98],[SOI:145],[SOI:102],[TSP:97],[VOW:150],[EMN:126],[DKA:87],[ZNR:102],[SOI:111],[SOI:114],[FUT:68],[SOI:173],[SOI:126],[TSP:126],[J21:723])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C19:37])

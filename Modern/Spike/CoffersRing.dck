@@ -1,0 +1,20 @@
+4 [LTR:246] The One Ring
+4 [DMU:369] Sheoldred, the Apocalypse
+4 [NEO:379] Invoke Despair
+4 [2XM:343] Fatal Push
+4 [2XM:344] Thoughtseize
+2 [2X2:355] Inquisition of Kozilek
+4 [LTC:375] Urborg, Tomb of Yawgmoth
+4 [MH2:325] Cabal Coffers
+4 [DBL:262] Field of Ruin
+1 [ZNR:388] Bloodchief's Thirst
+2 [SLD:207] Night's Whisper
+2 [NEO:457] March of Wretched Sorrow
+2 [ONE:279] Sheoldred's Edict
+4 [MH2:452] Profane Tutor
+1 [2X2:353] Damnation
+8 [DMU:279] Swamp
+2 [KTK:239] Polluted Delta
+4 [BRO:260] Demolition Field
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,100)|([LTR:246],[LTR:246],[LTR:246],[LTR:246])([DMU:369],[DMU:369],[DMU:369],[DMU:369])([2XM:343],[2XM:343],[2XM:343],[2XM:343],[NEO:457],[NEO:457],[ONE:279],[ONE:279])([LTC:375],[LTC:375],[MH2:325],[MH2:325],[MH2:325],[MH2:325],[DBL:262],[DBL:262],[DBL:262],[DBL:262],[LTC:375],[LTC:375],[DMU:279],[DMU:279],[DMU:279],[DMU:279],[DMU:279],[DMU:279],[DMU:279],[DMU:279],[KTK:239],[KTK:239],[BRO:260],[BRO:260],[BRO:260],[BRO:260])([NEO:379],[NEO:379],[NEO:379],[NEO:379],[2XM:344],[2XM:344],[2XM:344],[2XM:344],[2X2:355],[2X2:355],[ZNR:388],[SLD:207],[SLD:207],[MH2:452],[MH2:452],[MH2:452],[MH2:452],[2X2:353])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

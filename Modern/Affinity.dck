@@ -1,0 +1,30 @@
+4 [MRD:172] Frogmite
+4 [SOM:174] Memnite
+4 [AER:167] Ornithopter
+4 [NEO:254] Patchwork Automaton
+4 [MH2:235] Sojourner's Companion
+4 [J21:261] Thought Monitor
+4 [MRD:54] Thoughtcast
+1 [MRD:141] Aether Spellbomb
+4 [5DN:113] Cranial Plating
+2 [J21:752] Nettlecyst
+1 [ALA:218] Relic of Progenitus
+1 [THB:236] Shadowspear
+4 [BNG:162] Springleaf Drum
+1 [MRD:274] Welding Jar
+4 [M15:242] Darksteel Citadel
+2 [DMU:265] Island
+4 [MH2:249] Mistvault Bridge
+2 [NEO:271] Otawara, Soaring City
+2 [AFR:261] Treasure Vault
+4 [MH2:259] Urza's Saga
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 3 [DOM:213] Damping Sphere
+SB: 2 [NPH:57] Dismember
+SB: 1 [SOM:154] Etched Champion
+SB: 2 [10E:88] Hurkyl's Recall
+SB: 4 [AER:39] Metallic Rebuke
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [M21:241] Tormod's Crypt
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([MRD:172],[MRD:172],[MRD:172],[MRD:172],[SOM:174],[SOM:174],[SOM:174],[SOM:174],[AER:167],[AER:167],[AER:167],[AER:167],[NEO:254],[NEO:254],[NEO:254],[NEO:254],[MH2:235],[MH2:235],[MH2:235],[MH2:235],[J21:261],[J21:261],[J21:261],[J21:261])([M15:242],[M15:242],[M15:242],[M15:242],[MH2:249],[MH2:249],[MH2:249],[MH2:249],[AFR:261],[AFR:261])([MRD:141],[5DN:113],[5DN:113],[5DN:113],[5DN:113],[J21:752],[J21:752],[ALA:218],[THB:236],[BNG:162],[BNG:162],[BNG:162],[BNG:162],[MRD:274])([MH2:259],[MH2:259],[MH2:259],[MH2:259])([DMU:265],[DMU:265],[NEO:271],[NEO:271])([MRD:54],[MRD:54],[MRD:54],[MRD:54])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([M21:241])([ALA:218],[MID:257])([DOM:213],[DOM:213],[DOM:213],[10E:88],[10E:88])([NPH:57],[NPH:57],[SOM:154],[AER:39],[AER:39],[AER:39],[AER:39])

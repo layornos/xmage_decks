@@ -1,0 +1,26 @@
+4 [BOK:21] Shining Shoal
+4 [ZNR:12] Emeria's Call
+4 [ZNR:24] Luminarch Aspirant
+4 [ONS:328] Windswept Heath
+4 [MH2:436] Arid Mesa
+2 [ONS:316] Flooded Strand
+4 [DMU:24] Leyline Binding
+4 [MH2:32] Solitude
+1 [GRN:254] Sacred Foundry
+6 [ODY:333] Plains
+4 [MH2:12] Esper Sentinel
+4 [MH1:13] Giver of Runes
+4 [MH1:21] Ranger-Captain of Eos
+1 [ONE:27] Phyrexian Vindicator
+1 [SNC:254] Raffine's Tower
+1 [SNC:250] Jetmir's Garden
+4 [DBL:1] Adeline, Resplendent Cathar
+4 [C20:103] Thalia's Lieutenant
+SB: 3 [RTR:18] Rest in Peace
+SB: 3 [MD1:24] Kataki, War's Wage
+SB: 3 [MM2:23] Leyline of Sanctity
+SB: 1 [MM2:3] Emrakul, the Aeons Torn
+SB: 4 [MMA:203] Chalice of the Void
+SB: 1 [2XM:296] Sword of Feast and Famine
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([MH2:12],[MH2:12],[MH2:12],[MH2:12])([ZNR:24],[ZNR:24],[ZNR:24],[ZNR:24],[MH2:32],[MH2:32],[MH2:32],[MH2:32],[MH1:13],[MH1:13],[MH1:13],[MH1:13],[MH1:21],[MH1:21],[MH1:21],[MH1:21],[ONE:27],[DBL:1],[DBL:1],[DBL:1],[DBL:1],[C20:103],[C20:103],[C20:103],[C20:103])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([BOK:21],[BOK:21],[BOK:21],[BOK:21])([MH2:436],[MH2:436],[MH2:436],[MH2:436],[ONS:316],[ONS:316],[ONS:328],[ONS:328],[ONS:328],[ONS:328],[GRN:254],[ODY:333],[ODY:333],[ODY:333],[ODY:333],[ODY:333],[SNC:254],[SNC:250],[ODY:333])([ZNR:12],[ZNR:12],[ZNR:12],[ZNR:12])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:18],[RTR:18],[RTR:18],[MD1:24],[MD1:24],[MD1:24],[MM2:23],[MM2:23],[MM2:23],[MM2:3],[MMA:203],[MMA:203],[MMA:203],[MMA:203],[2XM:296])

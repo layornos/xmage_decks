@@ -1,0 +1,19 @@
+4 [KHM:49] Brinebarrow Intruder
+4 [7ED:67] Counterspell
+4 [M20:58] Faerie Miscreant
+4 [J21:190] Faerie Seer
+18 [MOM:278] Island
+4 [NEO:334] Moon-Circuit Hacker
+4 [NPH:116] Mutagenic Growth
+4 [BOK:44] Ninja of the Deep Hours
+4 [IKO:60] Of One Mind
+4 [ULG:43] Snap
+2 [NEO:80] Spell Pierce
+4 [LRW:89] Spellstutter Sprite
+SB: 4 [KHM:42] Annul
+SB: 4 [4ED:63] Blue Elemental Blast
+SB: 2 [5ED:94] Hydroblast
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 2 [MBS:33] Steel Sabotage
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,60)|([KHM:49],[KHM:49],[KHM:49],[KHM:49],[M20:58],[M20:58],[M20:58],[M20:58],[J21:190],[J21:190],[J21:190],[J21:190],[BOK:44],[BOK:44],[BOK:44],[BOK:44],[LRW:89],[LRW:89],[LRW:89],[LRW:89])([NEO:334],[NEO:334],[NEO:334],[NEO:334])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[NPH:116],[NPH:116],[NPH:116],[NPH:116],[ULG:43],[ULG:43],[ULG:43],[ULG:43],[NEO:80],[NEO:80])([MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[MOM:278])([IKO:60],[IKO:60],[IKO:60],[IKO:60])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KHM:42],[KHM:42],[KHM:42],[KHM:42],[4ED:63],[4ED:63],[4ED:63],[4ED:63],[5ED:94],[5ED:94],[ALA:218],[ALA:218],[ALA:218],[MBS:33],[MBS:33])

@@ -1,0 +1,29 @@
+3 [DMU:243] Adarkar Wastes
+4 [RIX:35] Curious Obsession
+1 [M20:208] Empyrean Eagle
+1 [MOM:224] Errant and Giada
+4 [VOW:405] Geistlight Snare
+4 [RNA:251] Hallowed Fountain
+4 [KHM:260] Hengegate Pathway
+3 [MOM:22] Invasion of Gobakhan
+4 [MOM:278] Island
+1 [M21:56] Lofty Denial
+4 [EMN:69] Mausoleum Wanderer
+2 [M14:228] Mutavault
+1 [NEO:271] Otawara, Soaring City
+4 [SOI:81] Rattlechains
+4 [ONE:258] Seachrome Coast
+3 [M21:353] Shacklegeist
+1 [SNC:62] Slip Out the Back
+4 [M20:76] Spectral Sailor
+1 [NEO:80] Spell Pierce
+3 [EMN:189] Spell Queller
+4 [M19:76] Supreme Phantom
+SB: 2 [DMU:17] Destroy Evil
+SB: 4 [AFR:33] Portable Hole
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [ZNR:322] Skyclave Apparition
+SB: 1 [SNC:62] Slip Out the Back
+SB: 4 [VOW:355] Wedding Announcement
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,100)|([MOM:22],[MOM:22],[MOM:22])([M20:208],[MOM:224],[EMN:69],[EMN:69],[EMN:69],[EMN:69],[SOI:81],[SOI:81],[SOI:81],[SOI:81],[M21:353],[M21:353],[M21:353],[M20:76],[M20:76],[M20:76],[M20:76],[EMN:189],[EMN:189],[EMN:189],[M19:76],[M19:76],[M19:76],[M19:76])([RIX:35],[RIX:35],[RIX:35],[RIX:35])([VOW:405],[VOW:405],[VOW:405],[VOW:405],[M21:56],[SNC:62],[NEO:80])([DMU:243],[DMU:243],[DMU:243],[RNA:251],[RNA:251],[RNA:251],[RNA:251],[KHM:260],[KHM:260],[KHM:260],[KHM:260],[MOM:278],[MOM:278],[MOM:278],[MOM:278],[M14:228],[M14:228],[NEO:271],[ONE:258],[ONE:258],[ONE:258],[ONE:258])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMU:17],[DMU:17],[AFR:33],[AFR:33],[AFR:33],[AFR:33],[RTR:18],[RTR:18],[ZNR:322],[ZNR:322],[SNC:62],[VOW:355],[VOW:355],[VOW:355],[VOW:355])

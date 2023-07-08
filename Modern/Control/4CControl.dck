@@ -1,0 +1,46 @@
+2 [PLS:106] Eladamri's Call
+4 [2X2:296] Wrenn and Six
+4 [WAR:221*] Teferi, Time Raveler
+4 [AVR:167] Abundant Growth
+4 [CSP:138] Mishra's Bauble
+4 [M11:149] Lightning Bolt
+4 [MH2:25] Prismatic Ending
+4 [STX:186] Expressive Iteration
+1 [EMN:6] Emrakul, the Promised End
+1 [MH2:137] Obsidian Charmaw
+1 [5DN:86] Eternal Witness
+1 [MH2:157] Endurance
+2 [MH2:126] Fury
+3 [MH2:138] Ragavan, Nimble Pilferer
+4 [ZNR:232] Omnath, Locus of Creation
+4 [MH2:307] Solitude
+4 [H1R:27] Ice-Fang Coatl
+1 [RNA:259] Stomping Ground
+1 [ZEN:211] Arid Mesa
+1 [GRN:257] Steam Vents
+1 [RNA:246] Breeding Pool
+1 [GRN:254] Sacred Foundry
+1 [GRN:258] Temple Garden
+1 [KHM:276] Snow-Covered Plains
+1 [IKO:251] Raugrin Triome
+1 [KHM:282] Snow-Covered Mountain
+1 [KHM:278] Snow-Covered Island
+1 [IKO:250] Ketria Triome
+2 [KTK:233] Flooded Strand
+2 [NEO:266] Boseiju, Who Endures
+2 [KHM:284] Snow-Covered Forest
+4 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+4 [ZEN:220] Misty Rainforest
+SB: 2 [7ED:67] Counterspell
+SB: 2 [NEO:80] Spell Pierce
+SB: 2 [M20:198] Veil of Summer
+SB: 2 [H1R:1] Ephemerate
+SB: 1 [IKO:232] Yorion, Sky Nomad
+SB: 1 [H1R:21] Force of Vigor
+SB: 1 [ELD:58] Mystical Dispute
+SB: 1 [FUT:101] Magus of the Moon
+SB: 2 [ORI:16] Hallowed Moonlight
+SB: 1 [MH2:157] Endurance
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,83)|([CSP:138],[CSP:138],[CSP:138],[CSP:138])([EMN:6],[MH2:137],[5DN:86],[MH2:157],[MH2:126],[MH2:126],[MH2:138],[MH2:138],[MH2:138],[ZNR:232],[ZNR:232],[ZNR:232],[ZNR:232],[MH2:307],[MH2:307],[MH2:307],[MH2:307],[H1R:27],[H1R:27],[H1R:27],[H1R:27])([AVR:167],[AVR:167],[AVR:167],[AVR:167])([PLS:106],[PLS:106],[M11:149],[M11:149],[M11:149],[M11:149])([RNA:259],[ZEN:211],[GRN:257],[RNA:246],[GRN:254],[GRN:258],[KHM:276],[IKO:251],[KHM:282],[KHM:278],[IKO:250],[KTK:233],[KTK:233],[NEO:266],[NEO:266],[KHM:284],[KHM:284],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220])([2X2:296],[2X2:296],[2X2:296],[2X2:296],[WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*])([MH2:25],[MH2:25],[MH2:25],[MH2:25],[STX:186],[STX:186],[STX:186],[STX:186])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([NEO:80],[NEO:80],[M20:198],[M20:198],[H1R:1],[H1R:1])([7ED:67],[7ED:67],[ORI:16],[ORI:16])([ELD:58],[FUT:101],[MH2:157])([H1R:21])([IKO:232])

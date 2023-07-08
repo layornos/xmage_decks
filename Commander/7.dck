@@ -1,0 +1,95 @@
+1 [KTK:161] Abzan Charm
+1 [DTK:234] Ancestral Statue
+1 [AKH:1] Angel of Sanctions
+1 [SOI:242] Anguished Unmaking
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [GTC:143] Aurelia, the Warleader
+1 [SUM:282] Badlands
+1 [WTH:119] Barishi
+1 [SUM:283] Bayou
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [GTC:148] Boros Charm
+1 [BNG:5] Brimaz, King of Oreskos
+1 [AKH:160] Channeler Initiate
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [NCC:363] Commander's Sphere
+1 [MOR:117] Cream of the Crop
+1 [SUM:105] Demonic Tutor
+1 [PLS:42] Diabolic Intent
+1 [RAV:159] Dowsing Shaman
+1 [6ED:19] Enlightened Tutor
+1 [M13:170] Farseek
+1 [KTK:233] Flooded Strand
+5 [SNC:270] Forest
+1 [JMP:236] Ghoulcaller Gisa
+1 [RNA:248] Godless Shrine
+1 [GRN:175] Golgari Findbroker
+1 [ONS:212] Gratuitous Violence
+1 [9ED:245] Greater Good
+1 [AER:107] Greenbelt Rampager
+1 [PLC:148] Groundbreaker
+1 [AKH:138] Heart-Piercer Manticore
+1 [MBS:8] Hero of Bladehold
+1 [PLS:111] Hull Breach
+1 [THB:24] Idyllic Tutor
+1 [EMN:132] Impetuous Devils
+1 [MH1:208] Lightning Skelemental
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [SLD:52] Meren of Clan Nel Toth
+1 [ZEN:220] Misty Rainforest
+1 [SNC:268] Mountain
+1 [5ED:316] Nature's Lore
+1 [EVE:144] Nobilis of War
+1 [NPH:118] Noxious Revival
+1 [GRN:253] Overgrown Tomb
+1 [BFZ:120] Painful Truths
+1 [THS:197] Pharika's Mender
+3 [SNC:262] Plains
+1 [SUM:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [PZ2:8] Protector of the Crown
+1 [AKH:180] Prowling Serpopard
+1 [M12:190] Rampant Growth
+1 [ORI:114] Read the Bones
+1 [RNA:201] Rhythm of the Wild
+1 [INV:207] Rooting Kavu
+1 [M19:200] Runic Armasaur
+1 [GRN:254] Sacred Foundry
+1 [AKH:205] Samut, Voice of Dissent
+1 [SUM:285] Savannah
+1 [ZEN:223] Scalding Tarn
+1 [SUM:286] Scrubland
+1 [CSP:131] Sek'Kuar, Deathkeeper
+1 [DOM:35] Shalai, Voice of Plenty
+1 [DST:140] Skullclamp
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [EMN:169] Somberwald Stag
+1 [GTC:199] Spark Trooper
+1 [INV:278] Sterling Grove
+1 [RNA:259] Stomping Ground
+2 [SNC:266] Swamp
+1 [SUM:287] Taiga
+1 [GRN:258] Temple Garden
+1 [FRF:141] Temur Sabertooth
+1 [M21:209] Thrashing Brontodon
+1 [GRN:211] Underrealm Lich
+1 [KTK:210] Utter End
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [AVR:164] Vexing Devil
+1 [AKH:192] Vizier of the Menagerie
+1 [XLN:131] Wanted Scoundrels
+1 [DGM:135] Wear // Tear
+1 [SHM:243] Wheel of Sun and Moon
+1 [PLC:144] Wild Pair
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [ME3:135] Three Visits
+SB: 1 [SLD:55] Saskia the Unyielding
+LAYOUT MAIN:(1,7)(CMC,false,70)|([ZEN:211],[SUM:282],[SUM:283],[RNA:245],[KTK:230],[8ED:322],[ELD:333],[KTK:233],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[RNA:248],[JOU:163],[ZEN:219],[ZEN:220],[SNC:268],[GRN:253],[SNC:262],[SNC:262],[SUM:284],[KTK:239],[GRN:254],[SUM:285],[ZEN:223],[SUM:286],[RNA:259],[SNC:266],[SNC:266],[SUM:287],[GRN:258],[ZEN:229],[KTK:248],[KTK:249],[SNC:270],[SNC:262])([6ED:19],[AER:107],[NPH:118],[DST:140],[SUM:274],[6ED:161],[AVR:164])([ELD:331],[GTC:148],[AKH:160],[MOR:117],[SUM:105],[PLS:42],[M13:170],[PLS:111],[5ED:316],[M12:190],[INV:278],[ME3:135],[XLN:131],[SHM:243])([KTK:161],[SOI:242],[BNG:5],[NCC:363],[PLC:148],[THB:24],[MH1:208],[BFZ:120],[AKH:180],[ORI:114],[RNA:201],[M19:200],[M21:209],[DGM:135])([DTK:234],[WTH:119],[GRN:175],[9ED:245],[AKH:138],[MBS:8],[EMN:132],[SLD:52],[INV:207],[DOM:35],[RNA:22],[GTC:199],[FRF:141],[KTK:210],[AKH:192])([AKH:1],[RAV:159],[JMP:236],[ONS:212],[EVE:144],[THS:197],[AKH:205],[CSP:131],[EMN:169],[GRN:211])([GTC:143],[PZ2:8],[PLC:144])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([SLD:55])

@@ -1,0 +1,67 @@
+1 [MH1:138] Pashalik Mons
+1 [EVG:40] Goblin Ringleader
+1 [EMA:139] Mogg War Marshal
+1 [ONS:207] Goblin Sharpshooter
+1 [VIS:80] Goblin Recruiter
+1 [PRM:53832] Goblin Rabblemaster
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [MB1:997] Krenko's Command
+1 [M21:364] Conspicuous Snoop
+1 [A25:148] Simian Spirit Guide
+1 [2XM:291] Springleaf Drum
+1 [TMP:294] Lotus Petal
+1 [C16:253] Everflowing Chalice
+1 [C14:281] Wayfarer's Bauble
+1 [CMR:689] Arcane Signet
+1 [EMA:219] Chrome Mox
+1 [ONS:205] Goblin Piledriver
+1 [USG:190] Goblin Lackey
+1 [ZNR:354] Shatterskull Smashing
+1 [USG:191] Goblin Matron
+1 [INV:167] Shivan Harvest
+1 [VIS:91] Relentless Assault
+1 [TD0:B17] Goblin Guide
+1 [A25:122] Blood Moon
+1 [PDOM:129p] Goblin Chainwhirler
+1 [EVG:56] Tarfire
+1 [ONS:230] Skirk Prospector
+1 [TSR:346] Kiki-Jiki, Mirror Breaker
+1 [TMP:165] Boil
+1 [PM20:227s] Grafdigger's Cage
+1 [V16:14] Umezawa's Jitte
+1 [SOM:168] Iron Myr
+1 [KHM:241] Pyre of Heroes
+1 [AER:164] Metallic Mimic
+1 [MRD:176] Goblin Charbelcher
+1 [TMP:179] Goblin Bombardment
+1 [NEM:94] Mogg Salvage
+1 [GRN:103] Goblin Cratermaker
+1 [POR:145+] Raging Goblin
+1 [NEO:357] Fable of the Mirror-Breaker
+1 [MB1:978] Impact Tremors
+1 [SCG:103] Siege-Gang Commander
+1 [SCG:97] Goblin Warchief
+1 [LGN:94] Gempalm Incinerator
+1 [8ED:190] Goblin King
+1 [NEO:154] March of Reckless Joy
+1 [MIR:180] Goblin Tinkerer
+1 [ME1:95] Goblin Grenade
+1 [AFC:135] Outpost Siege
+1 [TMP:190] Mogg Fanatic
+1 [ZNR:164] Sneaking Guide
+1 [GRN:119] Torch Courier
+1 [ELD:148] Weaselback Redcap
+1 [MH2:138] Ragavan, Nimble Pilferer
+1 [KTK:111] Hordeling Outburst
+1 [ALA:101] Goblin Assault
+1 [GNT:39] Dragon Fodder
+1 [IKO:118] Footfall Crater
+1 [6ED:322] Crystal Vein
+1 [BTD:71] Dwarven Ruins
+1 [AFR:351] Den of the Bugbear
+1 [UMA:237] Cavern of Souls
+1 [VMA:289] Ancient Tomb
+36 [UST:215] Mountain
+SB: 1 [DDN:15] Krenko, Mob Boss
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([SOM:168],[AER:164])([2XM:291],[TMP:294],[C16:253],[C14:281],[CMR:689],[EMA:219],[PM20:227s],[V16:14],[KHM:241],[MRD:176])([MH1:138],[EVG:40],[EMA:139],[ONS:207],[VIS:80],[PRM:53832],[WAR:137],[M21:364],[A25:148],[ONS:205],[USG:190],[USG:191],[TD0:B17],[PDOM:129p],[ONS:230],[TSR:346],[GRN:103],[POR:145+],[SCG:103],[SCG:97],[LGN:94],[8ED:190],[MIR:180],[TMP:190],[ZNR:164],[GRN:119],[ELD:148],[MH2:138])([INV:167],[A25:122],[TMP:179],[NEO:357],[MB1:978],[AFC:135],[ALA:101],[IKO:118])([TMP:165],[NEM:94],[NEO:154])([6ED:322],[BTD:71],[AFR:351],[UMA:237],[VMA:289],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([MB1:997],[ZNR:354],[VIS:91],[ME1:95],[KTK:111],[GNT:39])([EVG:56])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([DDN:15])

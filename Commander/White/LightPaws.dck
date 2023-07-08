@@ -1,0 +1,76 @@
+1 [CLB:4] Archivist of Oghma
+1 [THB:298] Archon of Sun's Grace
+1 [DOM:12] Danitha Capashen, Paragon
+1 [BNG:7] Eidolon of Countless Battles
+1 [J21:75] Esper Sentinel
+1 [THB:20] Heliod's Pilgrim
+1 [BNG:17] Hero of Iroas
+1 [VOW:21] Katilda, Dawnhart Martyr
+1 [ORI:21] Knight of the White Orchid
+1 [ROE:31] Kor Spiritdancer
+1 [M12:25] Mesa Enchantress
+1 [AER:23] Sram, Senior Edificer
+1 [M20:39] Starfield Mystic
+1 [THB:40] Transcendent Envoy
+1 [ROE:52] Umbra Mystic
+1 [6ED:19] Enlightened Tutor
+1 [NCC:201] Generous Gift
+1 [THB:26] Karametra's Blessing
+1 [CON:15] Path to Exile
+1 [PLC:12] Rebuff the Wicked
+1 [ICE:54] Swords to Plowshares
+1 [NEO:363] Brilliant Restoration
+1 [ISD:10] Divine Reckoning
+1 [THB:24] Idyllic Tutor
+1 [SOI:32] Open the Armory
+1 [PLC:13] Retether
+1 [TMP:52] Winds of Rath
+1 [ELD:331] Arcane Signet
+1 [ORI:230] Helm of the Gods
+1 [10E:335] Mind Stone
+1 [TMP:300] Pearl Medallion
+1 [AFC:11] Robe of Stars
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [ELD:2] All That Glitters
+1 [M12:3] Angelic Destiny
+1 [M20:5] Angelic Gift
+1 [M11:5] Armored Ascension
+1 [DTK:7] Battle Mastery
+1 [CMR:13] Benevolent Blessing
+1 [AER:12] Conviction
+1 [VOC:84] Darksteel Mutation
+1 [FUT:21] Daybreak Coronet
+1 [RTR:9] Ethereal Armor
+1 [MB1:109] Felidar Umbra
+1 [RAV:18] Flickerform
+1 [TMP:19] Flickering Ward
+1 [THS:14] Gift of Immortality
+1 [ROE:26] Hyena Umbra
+1 [M21:25] Light of Promise
+1 [AFC:277] Mantle of the Ancients
+1 [UDS:11] Mask of Law and Grace
+1 [AFR:24] Minimus Containment
+1 [DOM:28] On Serra's Wings
+1 [10E:33*] Pariah
+1 [J21:116] Reprobation
+1 [FRF:23] Sage's Reverie
+1 [THB:36] Sentinel's Eyes
+1 [APC:16] Shield of Duty and Reason
+1 [SS2:5] Shielded by Faith
+1 [EMN:41] Sigarda's Aid
+1 [ORI:31] Sigil of the Empty Throne
+1 [M15:36] Spectra Ward
+1 [M12:35] Spirit Mantle
+1 [CLB:45] Stoneskin
+1 [CMR:363] Timely Ward
+1 [JUD:31] Unquestioned Authority
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [H1R:39] Hall of Heliod's Generosity
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ORI:250] Rogue's Passage
+1 [CLB:929] War Room
+27 [SNC:262] Plains
+SB: 1 [NEO:25] Light-Paws, Emperor's Voice
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([J21:75])([ELD:331],[ORI:230],[10E:335],[TMP:300],[AFC:11],[SUM:274],[M12:219])([CLB:4],[THB:298],[DOM:12],[THB:20],[BNG:17],[VOW:21],[ORI:21],[ROE:31],[M12:25],[AER:23],[M20:39],[ROE:52])([BNG:7],[THB:40])([ELD:2],[M12:3],[M20:5],[M11:5],[DTK:7],[CMR:13],[AER:12],[VOC:84],[FUT:21],[RTR:9],[MB1:109],[RAV:18],[TMP:19],[THS:14],[ROE:26],[M21:25],[AFC:277],[UDS:11],[AFR:24],[DOM:28],[10E:33*],[J21:116],[FRF:23],[THB:36],[APC:16],[SS2:5],[EMN:41],[ORI:31],[M15:36],[M12:35],[CLB:45],[CMR:363],[JUD:31])([6ED:19],[NCC:201],[THB:26],[CON:15],[PLC:12],[ICE:54])([NEO:268],[H1R:39],[THS:223],[ORI:250],[CLB:929],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262])([NEO:363],[ISD:10],[THB:24],[SOI:32],[PLC:13],[TMP:52])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([NEO:25])

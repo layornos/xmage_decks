@@ -1,0 +1,85 @@
+1 [ROE:2] Artisan of Kozilek
+1 [BFZ:1] Bane of Bala Ged
+1 [GRN:123] Beast Whisperer
+1 [M12:165] Birds of Paradise
+1 [OGW:121] Birthing Hulk
+1 [BFZ:2] Blight Herder
+1 [BFZ:163] Blisterpod
+1 [CSP:105] Boreal Druid
+1 [BFZ:164] Brood Monitor
+1 [ROE:181] Broodwarden
+1 [BFZ:4] Conduit of Ruin
+1 [EMN:2] Decimator of the Provinces
+1 [M15:173] Elvish Mystic
+1 [ROE:142] Emrakul's Hatcher
+1 [OGW:3] Endbringer
+1 [BFZ:166] Eyeless Watcher
+1 [ICE:244] Fyndhorn Elves
+1 [ROE:5] Hand of Emrakul
+1 [CLB:237] Jaheira, Friend of the Forest
+1 [BFZ:10] Kozilek's Channeler
+1 [ROE:193] Kozilek's Predator
+1 [M19:314] Llanowar Elves
+1 [ROE:201] Nest Invader
+1 [ROE:162] Rapacious One
+1 [OGW:123] Scion Summoner
+1 [ROE:11] Spawnsire of Ulamog
+1 [ROE:13] Ulamog's Crusher
+1 [BFZ:137] Vile Aggregate
+1 [OGW:125] Vile Redeemer
+1 [MRD:138] Viridian Joiner
+1 [BFZ:169] Void Attendant
+1 [OGW:126] World Breaker
+1 [DGM:120] Zhur-Taa Druid
+1 [NPH:103] Beast Within
+1 [BRC:114] Chaos Warp
+1 [M21:188] Heroic Intervention
+1 [ROE:8] Not of This World
+1 [ELD:172] Return of the Wildspeaker
+1 [SOI:227] Second Harvest
+1 [ROE:164] Spawning Breath
+1 [OGW:12] Warping Wail
+1 [ROE:1] All Is Dust
+1 [ISD:130] Blasphemous Act
+1 [ROE:138] Brood Birthing
+1 [BFZ:165] Call the Scions
+1 [SOM:122] Genesis Wave
+1 [ROE:186] Growth Spasm
+1 [PLC:149] Harmonize
+1 [SUM:214] Regrowth
+1 [FRF:138] Shamanic Revelation
+1 [ROE:10] Skittering Invasion
+1 [CLB:837] Three Visits
+1 [ELD:331] Arcane Signet
+1 [ZNR:244] Forsaken Monument
+1 [BRC:144] Idol of Oblivion
+1 [10E:335] Mind Stone
+1 [SUM:274] Sol Ring
+1 [ROE:176] Awakening Zone
+1 [ZEN:159] Beastmaster Ascension
+1 [SOI:200] Cryptolith Rite
+1 [ORI:174] Elemental Bond
+1 [BFZ:167] From Beyond
+1 [ISD:199] Parallel Lives
+1 [RNA:201] Rhythm of the Wild
+1 [BFZ:233] Blighted Woodland
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [FUT:174] Dryad Arbor
+1 [ROE:227] Eldrazi Temple
+1 [WWK:136] Eye of Ugin
+1 [GPT:158] Gruul Turf
+1 [MBS:145] Inkmoth Nexus
+1 [DMU:250] Karplusan Forest
+1 [ISD:243] Kessig Wolf Run
+1 [WWK:141] Raging Ravine
+1 [MID:266] Rockfall Vale
+1 [BFZ:248] Spawning Bed
+1 [CLB:361] Spire Garden
+1 [RNA:259] Stomping Ground
+1 [KTK:245] Tomb of the Spirit Dragon
+3 [BRO:274] Mountain
+16 [BRO:276] Forest
+SB: 1 [CLB:291] Raggadragga, Goreguts Boss
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([ELD:331],[ZNR:244],[BRC:144],[10E:335],[SUM:274])([ROE:2],[BFZ:1],[GRN:123],[M12:165],[OGW:121],[BFZ:2],[BFZ:163],[CSP:105],[BFZ:164],[ROE:181],[BFZ:4],[EMN:2],[M15:173],[ROE:142],[OGW:3],[BFZ:166],[ICE:244],[ROE:5],[CLB:237],[BFZ:10],[ROE:193],[M19:314],[ROE:201],[ROE:162],[OGW:123],[ROE:11],[ROE:13],[BFZ:137],[OGW:125],[MRD:138],[BFZ:169],[OGW:126],[DGM:120])([ROE:176],[ZEN:159],[SOI:200],[ORI:174],[BFZ:167],[ISD:199],[RNA:201])([NPH:103],[BRC:114],[M21:188],[ELD:172],[SOI:227],[ROE:164],[OGW:12])([FUT:174])([BFZ:233],[BFZ:235],[ELD:333],[ROE:227],[WWK:136],[GPT:158],[MBS:145],[DMU:250],[ISD:243],[WWK:141],[MID:266],[BFZ:248],[CLB:361],[RNA:259],[KTK:245],[BRO:274],[BRO:274],[BRO:274],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276])([ISD:130],[ROE:138],[BFZ:165],[SOM:122],[ROE:186],[PLC:149],[SUM:214],[FRF:138],[CLB:837])([ROE:8])([ROE:1],[ROE:10])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CLB:291])

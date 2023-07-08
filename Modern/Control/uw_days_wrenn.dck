@@ -1,0 +1,35 @@
+1 [MH2:309] Subtlety
+3 [MH2:307] Solitude
+3 [H1R:9] Force of Negation
+4 [7ED:67] Counterspell
+2 [RTR:201] Supreme Verdict
+2 [ORI:51] Day's Undoing
+4 [MH2:25] Prismatic Ending
+4 [DMU:24] Leyline Binding
+1 [WWK:31] Jace, the Mind Sculptor
+4 [2X2:296] Wrenn and Six
+4 [WAR:221*] Teferi, Time Raveler
+4 [WAR:61*] Narset, Parter of Veils
+1 [GRN:258] Temple Garden
+1 [SNC:260] Xander's Lounge
+1 [GRN:257] Steam Vents
+1 [SNC:257] Spara's Headquarters
+1 [RNA:246] Breeding Pool
+1 [ZEN:223] Scalding Tarn
+1 [BRO:268] Plains
+1 [IKO:250] Ketria Triome
+2 [BRO:270] Island
+2 [RNA:251] Hallowed Fountain
+4 [KTK:239] Polluted Delta
+4 [ZEN:220] Misty Rainforest
+4 [KTK:233] Flooded Strand
+SB: 1 [MH2:334] Dress Down
+SB: 1 [IKO:224] Kaheera, the Orphanguard
+SB: 1 [RTR:201] Supreme Verdict
+SB: 2 [MRD:150] Chalice of the Void
+SB: 2 [NEO:28] March of Otherworldly Light
+SB: 2 [MH2:309] Subtlety
+SB: 3 [ORI:16] Hallowed Moonlight
+SB: 3 [WAR:193] Dovin's Veto
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([MH2:309],[MH2:307],[MH2:307],[MH2:307])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([H1R:9],[H1R:9],[H1R:9],[7ED:67],[7ED:67],[7ED:67],[7ED:67])([GRN:258],[SNC:260],[GRN:257],[SNC:257],[RNA:246],[ZEN:223],[BRO:268],[IKO:250],[BRO:270],[BRO:270],[RNA:251],[RNA:251],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:233],[KTK:233],[KTK:233],[KTK:233])([WWK:31],[2X2:296],[2X2:296],[2X2:296],[2X2:296],[WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*],[WAR:61*],[WAR:61*],[WAR:61*],[WAR:61*])([RTR:201],[RTR:201],[ORI:51],[ORI:51],[MH2:25],[MH2:25],[MH2:25],[MH2:25])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([MRD:150],[MRD:150])([NEO:28],[NEO:28])([MH2:334],[ORI:16],[ORI:16],[ORI:16],[WAR:193],[WAR:193],[WAR:193])([IKO:224])([RTR:201],[MH2:309],[MH2:309])

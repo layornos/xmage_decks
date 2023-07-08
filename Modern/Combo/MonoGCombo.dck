@@ -1,0 +1,35 @@
+4 [ROE:174] Ancient Stirrings
+1 [BRO:258] Blast Zone
+1 [NEO:266] Boseiju, Who Endures
+1 [M12:224] Buried Ruin
+2 [MRD:151] Chromatic Sphere
+4 [10E:314] Chromatic Star
+2 [WWK:123] Everflowing Chalice
+4 [ZEN:201] Expedition Map
+3 [ONE:276] Forest
+4 [5DN:127] Grinding Station
+4 [MBS:110] Ichor Wellspring
+4 [WAR:1*] Karn, the Great Creator
+4 [MRD:215] Myr Retriever
+4 [M20:233] Mystic Forge
+3 [AER:175] Scrap Trawler
+3 [SOM:201] Semblance Anvil
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+SB: 1 [TMP:276] Altar of Dementia
+SB: 1 [MRD:150] Chalice of the Void
+SB: 1 [BRO:233] Cityscape Leveler
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [BRO:199] Haywire Mite
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [AER:175] Scrap Trawler
+SB: 1 [SOM:201] Semblance Anvil
+SB: 1 [MBS:136] Spine of Ish Sah
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [NPH:162] Torpor Orb
+SB: 1 [AER:181] Walking Ballista
+LAYOUT MAIN:(1,4)(EDH_POWER_LEVEL,false,50)|([ONE:276],[ONE:276],[ONE:276],[MBS:110],[MBS:110],[MBS:110],[MBS:110],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329])([M12:224],[MRD:151],[MRD:151],[10E:314],[10E:314],[10E:314],[10E:314],[5DN:127],[5DN:127],[5DN:127],[5DN:127],[MRD:215],[MRD:215],[MRD:215],[MRD:215])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[BRO:258],[NEO:266],[WWK:123],[WWK:123],[M20:233],[M20:233],[M20:233],[M20:233],[AER:175],[AER:175],[AER:175],[SOM:201],[SOM:201],[SOM:201])([ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMP:276],[MRD:150],[BRO:233],[8ED:300],[BRO:199],[IKO:222],[SOM:171],[MID:257],[AER:175],[SOM:201],[MBS:136],[M21:241],[NPH:162],[AER:181])

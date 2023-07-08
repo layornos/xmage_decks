@@ -1,0 +1,37 @@
+1 [MRD:141] Aether Spellbomb
+2 [ZEN:211] Arid Mesa
+1 [J21:438] Dragon's Rage Channeler
+4 [ELD:342] Emry, Lurker of the Loch
+4 [STX:186] Expressive Iteration
+2 [KTK:233] Flooded Strand
+3 [5DN:127] Grinding Station
+1 [RNA:251] Hallowed Fountain
+1 [DMU:265] Island
+4 [SNC:412] Ledger Shredder
+1 [M11:149] Lightning Bolt
+4 [CSP:138] Mishra's Bauble
+1 [DMU:271] Mountain
+3 [DOM:224] Mox Amber
+1 [NEO:271] Otawara, Soaring City
+4 [MH2:138] Ragavan, Nimble Pilferer
+1 [GRN:254] Sacred Foundry
+4 [ZEN:223] Scalding Tarn
+2 [KLD:249] Spirebluff Canal
+1 [BNG:162] Springleaf Drum
+2 [GRN:257] Steam Vents
+1 [THB:308] Thassa's Oracle
+4 [THB:161] Underworld Breach
+4 [J21:529] Unholy Heat
+4 [MH2:259] Urza's Saga
+SB: 2 [M20:42] Aether Gust
+SB: 2 [5DN:118] Engineered Explosives
+SB: 2 [MH1:255] Flusterstorm
+SB: 1 [MID:257] Pithing Needle
+SB: 2 [MH2:25] Prismatic Ending
+SB: 1 [THB:236] Shadowspear
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 2 [WAR:221*] Teferi, Time Raveler
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,4)(CMC,false,70)|([ZEN:211],[ZEN:211],[KTK:233],[KTK:233],[RNA:251],[DMU:265],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[DMU:271],[DOM:224],[DOM:224],[DOM:224],[NEO:271],[GRN:254],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[MH2:259],[MH2:259],[MH2:259],[MH2:259])([MRD:141],[J21:438],[M11:149],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[BNG:162],[J21:529],[J21:529],[J21:529],[J21:529])([STX:186],[STX:186],[STX:186],[STX:186],[5DN:127],[5DN:127],[5DN:127],[SNC:412],[SNC:412],[SNC:412],[SNC:412],[THB:308],[THB:161],[THB:161],[THB:161],[THB:161])([ELD:342],[ELD:342],[ELD:342],[ELD:342])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118],[5DN:118],[M21:241])([MH1:255],[MH1:255],[MID:257],[MH2:25],[MH2:25],[THB:236],[THB:237])([M20:42],[M20:42])([WAR:221*],[WAR:221*],[DGM:135])

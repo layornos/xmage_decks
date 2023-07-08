@@ -1,0 +1,29 @@
+3 [ZEN:211] Arid Mesa
+2 [ZEN:213] Emeria, the Sky Ruin
+4 [KTK:233] Flooded Strand
+2 [RNA:251] Hallowed Fountain
+1 [ELD:246] Idyllic Grange
+2 [ONE:272] Plains
+1 [IKO:251] Raugrin Triome
+2 [GRN:254] Sacred Foundry
+1 [SNC:257] Spara's Headquarters
+2 [GRN:258] Temple Garden
+4 [KTK:248] Windswept Heath
+4 [M20:9] Brought Back
+4 [H1R:1] Ephemerate
+3 [ONE:10] Elesh Norn, Mother of Machines
+4 [LRW:167] Flamekin Harbinger
+4 [MH2:126] Fury
+1 [LRW:76] Mulldrifter
+4 [ZNR:232] Omnath, Locus of Creation
+4 [M20:217] Risen Reef
+4 [MH2:307] Solitude
+4 [WAR:221*] Teferi, Time Raveler
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 4 [MH2:157] Endurance
+SB: 1 [LRW:180] Ingot Chewer
+SB: 3 [KHM:305] Orvar, the All-Form
+SB: 3 [LRW:48] Wispmare
+SB: 3 [BRO:11] Lay Down Arms
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,60)|([ONE:10],[ONE:10],[ONE:10],[LRW:167],[LRW:167],[LRW:167],[LRW:167],[MH2:126],[MH2:126],[MH2:126],[MH2:126],[LRW:76],[ZNR:232],[ZNR:232],[ZNR:232],[ZNR:232],[M20:217],[M20:217],[M20:217],[M20:217],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([M20:9],[M20:9],[M20:9],[M20:9],[H1R:1],[H1R:1],[H1R:1],[H1R:1])([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:213],[ZEN:213],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[RNA:251],[ELD:246],[ONE:272],[ONE:272],[IKO:251],[GRN:254],[GRN:254],[SNC:257],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248])([WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ROE:4],[MH2:157],[MH2:157],[MH2:157],[MH2:157],[LRW:180],[KHM:305],[KHM:305],[KHM:305],[LRW:48],[LRW:48],[LRW:48],[BRO:11],[BRO:11],[BRO:11])

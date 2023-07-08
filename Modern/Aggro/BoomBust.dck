@@ -1,0 +1,25 @@
+2 [ZEN:211] Arid Mesa
+4 [PLC:112] Boom // Bust
+4 [ZNR:137] Cleansing Wildfire
+4 [J21:438] Dragon's Rage Channeler
+1 [BRC:183] Drossforge Bridge
+1 [NEO:141] Fable of the Mirror-Breaker
+4 [ONE:134] Gleeful Demolition
+4 [M11:149] Lightning Bolt
+4 [CSP:138] Mishra's Bauble
+6 [MOM:280] Mountain
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [MH2:253] Rustvale Bridge
+3 [ZEN:223] Scalding Tarn
+4 [J21:509] Seasoned Pyromancer
+4 [BRC:200] Silverbluff Bridge
+3 [THB:161] Underworld Breach
+4 [J21:529] Unholy Heat
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 4 [5DN:118] Engineered Explosives
+SB: 3 [FUT:101] Magus of the Moon
+SB: 3 [KHM:305] Orvar, the All-Form
+SB: 1 [MID:257] Pithing Needle
+SB: 3 [SNC:246] Unlicensed Hearse
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,88)|([BRC:183],[MH2:253],[MH2:253],[MH2:253],[MH2:253],[BRC:200],[BRC:200],[BRC:200],[BRC:200])([CSP:138],[CSP:138],[CSP:138],[CSP:138])([J21:438],[J21:438],[J21:438],[J21:438],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[J21:509],[J21:509],[J21:509],[J21:509])([NEO:141],[THB:161],[THB:161],[THB:161])([M11:149],[M11:149],[M11:149],[M11:149],[J21:529],[J21:529],[J21:529],[J21:529])([ZEN:211],[ZEN:211],[MOM:280],[MOM:280],[MOM:280],[MOM:280],[MOM:280],[MOM:280],[ZEN:223],[ZEN:223],[ZEN:223])([PLC:112],[PLC:112],[PLC:112],[PLC:112])([ZNR:137],[ZNR:137],[ZNR:137],[ZNR:137],[ONE:134],[ONE:134],[ONE:134],[ONE:134])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,63)|([5DN:118],[5DN:118],[5DN:118],[5DN:118])([MID:257])([SNC:246],[SNC:246],[SNC:246])([FUT:101],[FUT:101],[FUT:101])([KHM:305],[KHM:305],[KHM:305])([ROE:4])

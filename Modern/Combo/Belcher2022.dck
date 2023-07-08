@@ -1,0 +1,27 @@
+1 [SNC:464] An Offer You Can't Refuse
+2 [ZNR:180] Bala Ged Recovery
+4 [CHK:163] Desperate Ritual
+1 [ZNR:12] Emeria's Call
+4 [MRD:176] Goblin Charbelcher
+3 [ELD:127] Irencrag Feat
+4 [SHM:211] Manamorphose
+1 [NPH:118] Noxious Revival
+4 [FUT:42] Pact of Negation
+4 [M11:153] Pyretic Ritual
+4 [MOR:133] Recross the Paths
+1 [AVR:151] Reforge the Soul
+4 [ZNR:333] Sea Gate Restoration
+3 [DST:138] Serum Powder
+4 [ZNR:161] Shatterskull Smashing
+4 [ZNR:166] Spikefield Hazard
+4 [J21:521] Strike It Rich
+4 [ZNR:215] Turntimber Symbiosis
+4 [ZNR:174] Valakut Awakening
+SB: 2 [H1R:21] Force of Vigor
+SB: 2 [MH2:126] Fury
+SB: 3 [M20:26] Leyline of Sanctity
+SB: 3 [FUT:101] Magus of the Moon
+SB: 1 [ZEN:143] Pyromancer Ascension
+SB: 4 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,70)|([MRD:176],[MRD:176],[MRD:176],[MRD:176],[DST:138],[DST:138],[DST:138])([SNC:464],[CHK:163],[CHK:163],[CHK:163],[CHK:163],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[NPH:118],[FUT:42],[FUT:42],[FUT:42],[FUT:42],[M11:153],[M11:153],[M11:153],[M11:153],[ZNR:166],[ZNR:166],[ZNR:166],[ZNR:166],[ZNR:174],[ZNR:174],[ZNR:174],[ZNR:174])([ZNR:180],[ZNR:180],[ZNR:12],[ELD:127],[ELD:127],[ELD:127],[MOR:133],[MOR:133],[MOR:133],[MOR:133],[AVR:151],[ZNR:333],[ZNR:333],[ZNR:333],[ZNR:333],[ZNR:161],[ZNR:161],[ZNR:161],[ZNR:161],[J21:521],[J21:521],[J21:521],[J21:521],[ZNR:215],[ZNR:215],[ZNR:215],[ZNR:215])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([M20:198],[M20:198],[M20:198],[M20:198])([ZEN:143])([FUT:101],[FUT:101],[FUT:101])([H1R:21],[H1R:21],[M20:26],[M20:26],[M20:26])([MH2:126],[MH2:126])

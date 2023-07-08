@@ -1,0 +1,75 @@
+1 [M13:159] Acidic Slime
+1 [ISD:169] Ambush Viper
+1 [GRN:123] Beast Whisperer
+1 [SOM:111] Bellowing Tanglewurm
+1 [SOM:112] Blight Mamba
+1 [MBS:103] Core Prowler
+1 [SOM:117] Cystbearer
+1 [M14:168] Deadly Recluse
+1 [WAR:159] Evolution Sage
+1 [NEO:183] Fang of Shigeki
+1 [NPH:111] Glistener Elf
+1 [EMN:159] Gnarlwood Dryad
+1 [M15:177] Hornet Nest
+1 [M15:178] Hornet Queen
+1 [SOM:166] Ichorclaw Myr
+1 [M19:314] Llanowar Elves
+1 [THB:179] Moss Viper
+1 [AER:117] Narnam Renegade
+1 [SOM:185] Necropede
+1 [ELD:167] Oakhame Adversary
+1 [SLD:237] Ohran Frostfang
+1 [NPH:119] Phyrexian Swarmlord
+1 [MBS:125] Plague Myr
+1 [WAR:173] Pollenbright Druid
+1 [ELD:171] Questing Beast
+1 [MBS:90] Rot Wolf
+1 [MID:197] Saryth, the Viper's Fang
+1 [M20:192] Sedge Scorpion
+1 [C20:189] Skullwinder
+1 [NPH:121] Spinebiter
+1 [ZNR:208] Tajuru Blightblade
+1 [FUT:154] Thornweald Archer
+1 [VOW:224] Toxic Scorpion
+1 [MBS:94] Viridian Corrupter
+1 [GTC:139] Wasteland Viper
+1 [NPH:103] Beast Within
+1 [KLD:146] Blossoming Defense
+1 [SOM:115] Carrion Call
+1 [M21:188] Heroic Intervention
+1 [MMQ:254] Invigorate
+1 [WWK:108] Nature's Claim
+1 [IKO:170] Ram Through
+1 [MID:195] Return to Nature
+1 [KHM:194] Snakeskin Veil
+1 [WAR:158] Courage in Crisis
+1 [M21:177] Cultivate
+1 [PLC:149] Harmonize
+1 [KLD:162] Nature's Way
+1 [WAR:172] Planewide Celebration
+1 [M12:190] Rampant Growth
+1 [J21:638] Smell Fear
+1 [NPH:123] Triumph of the Hordes
+1 [THS:153] Bow of Nylea
+1 [SOM:144] Contagion Clasp
+1 [M14:210] Fireshrieker
+1 [MRD:199] Lightning Greaves
+1 [AKH:236] Rhonas's Monument
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [MRD:270] Viridian Longbow
+1 [M11:221] Whispersilk Cloak
+1 [WWK:98] Canopy Cover
+1 [RNA:130] Guardian Project
+1 [M13:185] Rancor
+1 [J21:649] Sylvan Anthem
+1 [7ED:282] Wild Growth
+1 [WAR:180*] Vivien, Champion of the Wilds
+1 [STX:262] Access Tunnel
+1 [ELD:240] Castle Garenbrig
+1 [WAR:248] Karn's Bastion
+1 [ORI:250] Rogue's Passage
+28 [SLD:578] Forest
+SB: 1 [KHM:170] Fynn, the Fangbearer
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,70)|([MBS:103],[SOM:166],[SOM:185],[MBS:125])([SOM:144],[M14:210],[MRD:199],[AKH:236],[SUM:274],[M12:219],[MRD:270],[M11:221])([M13:159],[ISD:169],[GRN:123],[SOM:111],[SOM:112],[SOM:117],[M14:168],[WAR:159],[NPH:111],[EMN:159],[M15:177],[M15:178],[M19:314],[THB:179],[AER:117],[ELD:167],[SLD:237],[NPH:119],[WAR:173],[ELD:171],[MBS:90],[MID:197],[M20:192],[C20:189],[NPH:121],[ZNR:208],[FUT:154],[VOW:224],[MBS:94],[GTC:139])([THS:153])([NEO:183])([WWK:98],[RNA:130],[M13:185],[J21:649],[7ED:282])([NPH:103],[KLD:146],[SOM:115],[M21:188],[MMQ:254],[WWK:108],[IKO:170],[MID:195],[KHM:194])([STX:262],[ELD:240],[WAR:248],[ORI:250],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578],[SLD:578])([WAR:180*])([WAR:158],[M21:177],[PLC:149],[KLD:162],[WAR:172],[M12:190],[J21:638],[NPH:123])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([KHM:170])

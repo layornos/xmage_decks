@@ -1,0 +1,32 @@
+1 [SOM:224] Blackcleave Cliffs
+4 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+1 [THB:87] Cling to Dust
+4 [AFR:254] Den of the Bugbear
+3 [AER:57] Fatal Push
+4 [MH2:126] Fury
+4 [SHM:272] Graven Cairns
+4 [NEO:221] Hidetsugu Consumes All
+3 [ROE:115] Inquisition of Kozilek
+4 [M11:149] Lightning Bolt
+4 [ISD:105] Liliana of the Veil
+1 [NEO:289] Mountain
+1 [KTK:81] Murderous Cut
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [J21:509] Seasoned Pyromancer
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [CHK:283] Shizo, Death's Storehouse
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [NEO:287] Swamp
+1 [NEO:278] Takenuma, Abandoned Mire
+4 [THS:107] Thoughtseize
+1 [M15:248] Urborg, Tomb of Yawgmoth
+SB: 2 [M19:128] Alpine Moon
+SB: 3 [WAR:228*] Ashiok, Dream Render
+SB: 2 [DTK:224] Kolaghan's Command
+SB: 2 [OGW:98] Kozilek's Return
+SB: 1 [IKO:228] Obosh, the Preypiercer
+SB: 4 [MH2:137] Obsidian Charmaw
+SB: 1 [MID:257] Pithing Needle
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([MH2:126],[MH2:126],[MH2:126],[MH2:126],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[J21:509],[J21:509],[J21:509],[J21:509])([NEO:221],[NEO:221],[NEO:221],[NEO:221])([THB:87],[AER:57],[AER:57],[AER:57],[M11:149],[M11:149],[M11:149],[M11:149],[KTK:81])([SOM:224],[RNA:245],[RNA:245],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[AFR:254],[AFR:254],[AFR:254],[AFR:254],[SHM:272],[SHM:272],[SHM:272],[SHM:272],[NEO:289],[CHK:282],[CHK:283],[NEO:276],[NEO:287],[NEO:278],[M15:248])([ISD:105],[ISD:105],[ISD:105],[ISD:105])([ROE:115],[ROE:115],[ROE:115],[THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([M19:128],[M19:128],[MID:257])([WAR:228*],[WAR:228*],[WAR:228*],[DTK:224],[DTK:224],[OGW:98],[OGW:98])([IKO:228],[MH2:137],[MH2:137],[MH2:137],[MH2:137])

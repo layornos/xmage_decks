@@ -1,0 +1,96 @@
+1 [MID:1] Adeline, Resplendent Cathar
+1 [CMR:616] Archon of Coronation
+1 [DOM:4] Baird, Steward of Argive
+1 [C21:1] Breena, the Demagogue
+1 [PZ2:22] Custodi Lich
+1 [CMR:175] Emberwilde Captain
+1 [PZ2:17] Garrulous Sycophant
+1 [IKO:188] General's Enforcer
+1 [KLD:183] Kambal, Consul of Allocation
+1 [AFC:49] Karazikar, the Eye Tyrant
+1 [KHM:216] Kardur, Doomscourge
+1 [WWK:84] Kazuul, Tyrant of the Cliffs
+1 [CMR:27] Keeper of the Accord
+1 [CN2:76] Knights of the Black Rose
+1 [M21:27] Mangara, the Diplomat
+1 [TSR:298] Palace Jailer
+1 [PZ2:8] Protector of the Crown
+1 [M12:105] Royal Assassin
+1 [AFC:140] Skyline Despot
+1 [DGM:108] Teysa, Envoy of Ghosts
+1 [CMR:154] Thorn of the Black Rose
+1 [PZ2:1] Throne Warden
+1 [10E:60*] Windborn Muse
+1 [PZ2:70719] Xantcha, Sleeper Agent
+1 [SOI:242] Anguished Unmaking
+1 [GTC:148] Boros Charm
+1 [KTK:171] Crackling Doom
+1 [KTK:173] Deflecting Palm
+1 [WAR:190] Despark
+1 [C21:398] Inkshield
+1 [RNA:192] Mortify
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [KTK:210] Utter End
+1 [2XM:11] Council's Judgment
+1 [MH2:396] Damn
+1 [AFC:122] Disrupt Decorum
+1 [NEO:13] Farewell
+1 [GTC:177] Merciless Eviction
+1 [C21:21] Promise of Loyalty
+1 [IKO:204] Ruinous Ultimatum
+1 [MID:333] Vanquish the Horde
+1 [ELD:331] Arcane Signet
+1 [RAV:255] Boros Signet
+1 [NPH:17] Norn's Annex
+1 [GPT:155] Orzhov Signet
+1 [DIS:165] Rakdos Signet
+1 [SUM:274] Sol Ring
+1 [H1R:33] Talisman of Conviction
+1 [H1R:36] Talisman of Hierarchy
+1 [VOC:32] Wedding Ring
+1 [GTC:142] Assemble the Legion
+1 [KLD:5] Authority of the Consuls
+1 [GTC:6] Blind Obedience
+1 [CMR:114] Court of Ambition
+1 [CMR:16] Court of Grace
+1 [CMR:170] Court of Ire
+1 [C21:365] Cunning Rhetoric
+1 [CHK:10] Ghostly Prison
+1 [PZ2:20] Marchesa's Decree
+1 [9ED:152] Phyrexian Arena
+1 [RNA:22] Smothering Tithe
+1 [RTR:24] Sphere of Safety
+1 [THS:9] Elspeth, Sun's Champion
+1 [RNA:245] Blood Crypt
+1 [WWK:132] Bojuka Bog
+1 [ELD:333] Command Tower
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [RNA:248] Godless Shrine
+1 [GRN:254] Sacred Foundry
+1 [IKO:253] Savai Triome
+1 [VOW:264] Shattered Sanctum
+1 [VOW:266] Sundown Pass
+1 [PZ2:73] Throne of the High City
+1 [CMR:360] Vault of Champions
+6 [NEO:283] Plains
+2 [NEO:287] Swamp
+1 [NEO:289] Mountain
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [CHK:275] Eiganjo Castle
+1 [CHK:283] Shizo, Death's Storehouse
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [KTK:230] Bloodstained Mire
+1 [SLU:4] Arid Mesa
+1 [SLU:1] Marsh Flats
+1 [KTK:239] Polluted Delta
+1 [KTK:249] Wooded Foothills
+1 [KTK:233] Flooded Strand
+1 [KTK:248] Windswept Heath
+1 [SLU:2] Scalding Tarn
+1 [SLU:3] Verdant Catacombs
+1 [AFC:219] Talisman of Indulgence
+SB: 1 [CN2:78] Queen Marchesa
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([ELD:331],[RAV:255],[NPH:17],[GPT:155],[DIS:165],[SUM:274],[H1R:33],[H1R:36],[VOC:32],[AFC:219])([MID:1],[CMR:616],[DOM:4],[C21:1],[PZ2:22],[CMR:175],[PZ2:17],[IKO:188],[KLD:183],[AFC:49],[KHM:216],[WWK:84],[CMR:27],[CN2:76],[M21:27],[TSR:298],[PZ2:8],[M12:105],[AFC:140],[DGM:108],[CMR:154],[PZ2:1],[PZ2:70719],[10E:60*])([GTC:142],[KLD:5],[GTC:6],[CMR:114],[CMR:16],[CMR:170],[C21:365],[CHK:10],[PZ2:20],[9ED:152],[RNA:22],[RTR:24])([SOI:242],[GTC:148],[KTK:171],[KTK:173],[WAR:190],[C21:398],[RNA:192],[CON:15],[ICE:54],[KTK:210])([WWK:132],[ELD:333],[NEO:268],[VOW:264],[VOW:266],[PZ2:73],[CMR:360],[NEO:278],[NEO:276],[CHK:275],[CHK:283],[CHK:282],[KTK:230],[SLU:4],[SLU:1],[KTK:239],[KTK:249],[KTK:233],[KTK:248],[SLU:2],[SLU:3],[RNA:245],[RNA:248],[GRN:254],[IKO:253],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[NEO:287],[NEO:289],[NEO:283],[NEO:283],[NEO:287])([THS:9])([2XM:11],[MH2:396],[AFC:122],[NEO:13],[GTC:177],[C21:21],[IKO:204],[MID:333])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CN2:78])

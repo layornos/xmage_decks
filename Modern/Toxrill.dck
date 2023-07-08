@@ -1,0 +1,99 @@
+1 [RAV:81] Dark Confidant
+1 [MH2:397] Dauthi Voidwalker
+1 [USG:76] Gilded Drake
+1 [SNC:412] Ledger Shredder
+1 [MID:336] Malevolent Hermit
+1 [DGM:88] Notion Thief
+1 [CMR:141] Opposition Agent
+1 [M12:72] Phantasmal Image
+1 [MID:340] Sludge Monster
+1 [J20:3] Spellseeker
+1 [THB:308] Thassa's Oracle
+1 [DMU:226] Vohar, Vodalian Desecrator
+1 [SNC:464] An Offer You Can't Refuse
+1 [MMQ:61] Brainstorm
+1 [TOR:51] Cabal Ritual
+1 [ONS:73] Chain of Vapor
+1 [RTR:35] Cyclonic Rift
+1 [MMQ:129] Dark Ritual
+1 [FUT:35] Delay
+1 [ICE:121] Demonic Consultation
+1 [BFZ:76] Dispel
+1 [KLD:44] Dramatic Reversal
+1 [C20:35] Fierce Guardianship
+1 [MH1:255] Flusterstorm
+1 [H1R:9] Force of Negation
+1 [ALL:28] Force of Will
+1 [ALL:107] Lim-Dul's Vault
+1 [LEG:65] Mana Drain
+1 [NPH:38] Mental Misstep
+1 [RAV:60] Muddle the Mixture
+1 [6ED:83] Mystical Tutor
+1 [FUT:42] Pact of Negation
+1 [NEO:80] Spell Pierce
+1 [THS:65] Swan Song
+1 [ODY:164] Tainted Pact
+1 [6ED:161] Vampiric Tutor
+1 [SUM:105] Demonic Tutor
+1 [NPH:35] Gitaxian Probe
+1 [2X2:354] Imperial Seal
+1 [M21:117] Peer into the Abyss
+1 [M12:73] Ponder
+1 [M11:70] Preordain
+1 [2ED:85] Timetwister
+1 [CC2:6] Toxic Deluge
+1 [USG:111] Windfall
+1 [ELD:331] Arcane Signet
+1 [MRD:152] Chrome Mox
+1 [RAV:260] Dimir Signet
+1 [9ED:297] Fellwar Stone
+1 [ULG:126] Grim Monolith
+1 [MRD:188] Isochron Scepter
+1 [CMR:319] Jeweled Lotus
+1 [4ED:332] Kormus Bell
+1 [TMP:294] Lotus Petal
+1 [2XM:270] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [CHK:268] Sensei's Divining Top
+1 [SUM:274] Sol Ring
+1 [MRD:253] Talisman of Dominance
+1 [ELD:110] Wishclaw Talisman
+1 [CLB:669] Black Market Connections
+1 [ICE:87] Mystic Remora
+1 [5ED:182] Necropotence
+1 [PCY:45] Rhystic Study
+1 [MID:112] The Meathook Massacre
+1 [WAR:61*] Narset, Parter of Veils
+1 [TMP:315] Ancient Tomb
+1 [KTK:230] Bloodstained Mire
+1 [ODY:317] Cephalid Coliseum
+1 [8ED:322] City of Brass
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [KTK:233] Flooded Strand
+1 [CHK:276] Forbidden Orchard
+1 [TSP:274] Gemstone Caverns
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [CLB:357] Morphic Pool
+1 [NEO:271] Otawara, Soaring City
+1 [KTK:239] Polluted Delta
+1 [H1R:40] Prismatic Vista
+1 [ZEN:223] Scalding Tarn
+1 [KHM:278] Snow-Covered Island
+1 [KHM:280] Snow-Covered Swamp
+1 [SHM:280] Sunken Ruins
+1 [10E:362] Underground River
+1 [SUM:290] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+3 [BRO:280] Island
+2 [BRO:282] Swamp
+SB: 1 [VOW:132] Toxrill, the Corrosive
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([ELD:331],[MRD:152],[RAV:260],[9ED:297],[ULG:126],[MRD:188],[CMR:319],[4ED:332],[TMP:294],[2XM:270],[5ED:388],[STH:138],[SOM:179],[CHK:268],[SUM:274],[MRD:253],[ELD:110])([RAV:81],[MH2:397],[USG:76],[SNC:412],[MID:336],[DGM:88],[CMR:141],[M12:72],[MID:340],[J20:3],[THB:308],[DMU:226])([CLB:669],[ICE:87],[5ED:182],[PCY:45],[MID:112])([SNC:464],[MMQ:61],[TOR:51],[ONS:73],[RTR:35],[MMQ:129],[FUT:35],[ICE:121],[BFZ:76],[KLD:44],[C20:35],[MH1:255],[H1R:9],[ALL:28],[ALL:107],[LEG:65],[NPH:38],[RAV:60],[6ED:83],[FUT:42],[NEO:80],[THS:65],[ODY:164],[6ED:161])([TMP:315],[KTK:230],[ODY:317],[8ED:322],[ZNR:260],[ELD:333],[CON:142],[KTK:233],[CHK:276],[TSP:274],[JOU:163],[ZEN:219],[ZEN:220],[CLB:357],[NEO:271],[KTK:239],[H1R:40],[ZEN:223],[KHM:278],[KHM:280],[SHM:280],[10E:362],[SUM:290],[M15:248],[ZEN:229],[GRN:259],[BRO:280],[BRO:280],[BRO:280],[BRO:282],[BRO:282])([WAR:61*])([SUM:105],[NPH:35],[2X2:354],[M21:117],[M12:73],[M11:70],[2ED:85],[CC2:6],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([VOW:132])

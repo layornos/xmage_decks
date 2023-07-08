@@ -1,0 +1,86 @@
+1 [MH2:219] Academy Manufactor
+1 [KHM:123] Birgi, God of Storytelling
+1 [MH2:397] Dauthi Voidwalker
+1 [RIX:99] Dire Fleet Daredevil
+1 [MRD:62] Disciple of the Vault
+1 [C19:24] Dockside Extortionist
+1 [KHM:352] Dream Devourer
+1 [CLB:125] Elder Brain
+1 [RIX:100] Etali, Primal Storm
+1 [MID:223] Florian, Voldaren Scion
+1 [KHM:139] Goldspan Dragon
+1 [KLD:84] Gonti, Lord of Luxury
+1 [AFC:25] Grim Hireling
+1 [AFR:225] Kalain, Reclusive Painter
+1 [C21:53] Laelia, the Blade Reforged
+1 [KLD:90] Marionette Master
+1 [WAR:204] Mayhem Devil
+1 [ELD:287] Murderous Rider
+1 [CMR:136] Nadier's Nightblade
+1 [SNC:116] Professional Face-Breaker
+1 [KLD:126] Reckless Fireweaver
+1 [STX:115] Storm-Kiln Artist
+1 [KHM:114] Valki, God of Lies
+1 [AFC:305] Wild-Magic Sorcerer
+1 [AFR:167] Xorn
+1 [RNA:157] Bedevil
+1 [NCC:266] Chaos Warp
+1 [DTK:131] Commune with Lava
+1 [MMQ:129] Dark Ritual
+1 [AFR:94] Deadly Dispute
+1 [AFC:318] Hurl Through Hell
+1 [KHM:103] Poison the Cup
+1 [RTR:184] Rakdos Charm
+1 [ARB:46] Terminate
+1 [KHM:153] Tibalt's Trickery
+1 [AFR:169] You Find Some Prisoners
+1 [ISD:130] Blasphemous Act
+1 [RIX:94] Brass's Bounty
+1 [SUM:105] Demonic Tutor
+1 [ZNR:102] Feed the Swarm
+1 [AFC:316] Fevered Suspicion
+1 [AFC:129] Ignite the Future
+1 [CMR:187] Jeska's Will
+1 [RNA:107] Light Up the Stage
+1 [MH2:401] Profane Tutor
+1 [AFC:302] Reckless Endeavor
+1 [VOW:174] Reckless Impulse
+1 [J21:526] Throes of Chaos
+1 [RTR:111] Vandalblast
+1 [ELD:331] Arcane Signet
+1 [WAR:79] Bolas's Citadel
+1 [M19:228] Chaos Wand
+1 [NCC:363] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [AER:160] Inspiring Statuary
+1 [MRD:199] Lightning Greaves
+1 [10E:335] Mind Stone
+1 [DIS:165] Rakdos Signet
+1 [SUM:274] Sol Ring
+1 [MRD:255] Talisman of Indulgence
+1 [CLB:204] Wand of Wonder
+1 [FRF:110] Outpost Siege
+1 [XLN:117] Revel in Riches
+1 [BBD:64] Stolen Strategy
+1 [RNA:213] Theater of Horrors
+1 [ZNR:175] Valakut Exploration
+1 [KLD:110] Chandra, Torch of Defiance
+1 [KHM:252] Blightstep Pathway
+1 [RNA:245] Blood Crypt
+1 [WWK:132] Bojuka Bog
+1 [ELD:333] Command Tower
+1 [XLN:252] Dragonskull Summit
+1 [CON:142] Exotic Orchard
+1 [SOI:272] Foreboding Ruins
+1 [MID:263] Haunted Ridge
+1 [DIS:178] Rakdos Carnarium
+1 [ODY:326] Shadowblood Ridge
+1 [BFZ:247] Smoldering Marsh
+1 [LRW:274] Spinerock Knoll
+1 [TOR:142] Tainted Peak
+1 [AFR:261] Treasure Vault
+8 [SNC:266] Swamp
+10 [SNC:268] Mountain
+SB: 1 [AFC:2] Prosper, Tome-Bound
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([MH2:219])([AFR:261])([ELD:331],[WAR:79],[M19:228],[NCC:363],[9ED:297],[AER:160],[MRD:199],[10E:335],[DIS:165],[SUM:274],[MRD:255],[CLB:204])([KHM:123],[MH2:397],[RIX:99],[MRD:62],[C19:24],[KHM:352],[CLB:125],[RIX:100],[MID:223],[KHM:139],[KLD:84],[AFC:25],[AFR:225],[C21:53],[KLD:90],[WAR:204],[ELD:287],[CMR:136],[SNC:116],[KLD:126],[STX:115],[KHM:114],[AFC:305],[AFR:167])([FRF:110],[XLN:117],[BBD:64],[RNA:213],[ZNR:175])([RNA:157],[NCC:266],[DTK:131],[MMQ:129],[AFR:94],[AFC:318],[KHM:103],[RTR:184],[ARB:46],[KHM:153],[AFR:169])([KHM:252],[RNA:245],[WWK:132],[ELD:333],[XLN:252],[CON:142],[SOI:272],[MID:263],[DIS:178],[ODY:326],[BFZ:247],[LRW:274],[TOR:142],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268])([KLD:110])([ISD:130],[RIX:94],[SUM:105],[ZNR:102],[AFC:316],[AFC:129],[CMR:187],[RNA:107],[MH2:401],[AFC:302],[VOW:174],[J21:526],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([AFC:2])

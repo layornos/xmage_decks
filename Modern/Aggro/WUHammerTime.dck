@@ -1,0 +1,35 @@
+2 [ZEN:211] Arid Mesa
+2 [MH2:381] Blacksmith's Skill
+4 [M20:223] Colossus Hammer
+4 [J21:75] Esper Sentinel
+1 [ELD:219] Gingerbrute
+2 [H1R:3] Giver of Runes
+2 [RNA:251] Hallowed Fountain
+3 [MBS:145] Inkmoth Nexus
+1 [MH2:227] Kaldra Compleat
+2 [ZEN:219] Marsh Flats
+4 [AER:167] Ornithopter
+3 [SNC:262] Plains
+4 [NPH:20] Puresteel Paladin
+3 [SOM:229] Seachrome Coast
+1 [THB:236] Shadowspear
+4 [EMN:41] Sigarda's Aid
+1 [MH1:246] Silent Clearing
+2 [NEO:80] Spell Pierce
+3 [BNG:162] Springleaf Drum
+1 [5DN:19] Steelshaper's Gift
+4 [WWK:20] Stoneforge Mystic
+1 [NEO:374] The Reality Chip
+4 [MH2:259] Urza's Saga
+2 [KTK:248] Windswept Heath
+SB: 2 [ELD:18] Hushbringer
+SB: 2 [RNA:189] Lavinia, Azorius Renegade
+SB: 3 [M12:63] Mana Leak
+SB: 2 [NEO:28] March of Otherworldly Light
+SB: 1 [CON:15] Path to Exile
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 2 [MH2:27] Sanctifier en-Vec
+SB: 1 [NEO:80] Spell Pierce
+LAYOUT MAIN:(1,4)(CMC,false,70)|([ZEN:211],[ZEN:211],[RNA:251],[RNA:251],[MBS:145],[MBS:145],[MBS:145],[ZEN:219],[ZEN:219],[AER:167],[AER:167],[AER:167],[AER:167],[SNC:262],[SNC:262],[SNC:262],[SOM:229],[SOM:229],[SOM:229],[MH1:246],[MH2:259],[MH2:259],[MH2:259],[MH2:259],[KTK:248],[KTK:248])([MH2:381],[MH2:381],[M20:223],[M20:223],[M20:223],[M20:223],[J21:75],[J21:75],[J21:75],[J21:75],[ELD:219],[H1R:3],[H1R:3],[THB:236],[EMN:41],[EMN:41],[EMN:41],[EMN:41],[NEO:80],[NEO:80],[BNG:162],[BNG:162],[BNG:162],[5DN:19])([NPH:20],[NPH:20],[NPH:20],[NPH:20],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[NEO:374])([MH2:227])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([NEO:28],[NEO:28],[CON:15],[MID:257],[ALA:218],[NEO:80])([ELD:18],[ELD:18],[RNA:189],[RNA:189],[M12:63],[M12:63],[M12:63],[MH2:27],[MH2:27])

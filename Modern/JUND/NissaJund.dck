@@ -1,0 +1,33 @@
+2 [RNA:245] Blood Crypt
+4 [ARB:50] Bloodbraid Elf
+4 [KTK:230] Bloodstained Mire
+1 [NEO:266] Boseiju, Who Endures
+1 [AFR:254] Den of the Bugbear
+4 [NEO:141] Fable of the Mirror-Breaker
+2 [AER:57] Fatal Push
+1 [MOM:281] Forest
+4 [MH2:126] Fury
+2 [MH2:202] Grist, the Hunger Tide
+1 [DTK:224] Kolaghan's Command
+4 [M11:149] Lightning Bolt
+1 [MOM:280] Mountain
+4 [MAT:22] Nissa, Resurgent Animist
+1 [GRN:253] Overgrown Tomb
+4 [MUL:151] Ragavan, Nimble Pilferer
+1 [RNA:259] Stomping Ground
+1 [MOM:279] Swamp
+2 [ARB:46] Terminate
+4 [THS:107] Thoughtseize
+4 [ZEN:229] Verdant Catacombs
+3 [KTK:249] Wooded Foothills
+4 [2X2:296] Wrenn and Six
+1 [SNC:261] Ziatora's Proving Ground
+SB: 1 [M19:128] Alpine Moon
+SB: 1 [NEO:266] Boseiju, Who Endures
+SB: 3 [MH2:157] Endurance
+SB: 3 [H1R:21] Force of Vigor
+SB: 2 [M21:116] Necromentia
+SB: 2 [M20:198] Veil of Summer
+SB: 3 [SOM:196] Ratchet Bomb
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([ARB:50],[ARB:50],[ARB:50],[ARB:50],[MH2:126],[MH2:126],[MH2:126],[MH2:126],[MAT:22],[MAT:22],[MAT:22],[MAT:22],[MUL:151],[MUL:151],[MUL:151],[MUL:151])([NEO:141],[NEO:141],[NEO:141],[NEO:141])([AER:57],[AER:57],[DTK:224],[M11:149],[M11:149],[M11:149],[M11:149],[ARB:46],[ARB:46])([RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[NEO:266],[AFR:254],[MOM:281],[MOM:280],[GRN:253],[RNA:259],[MOM:279],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[KTK:249],[SNC:261])([MH2:202],[MH2:202],[2X2:296],[2X2:296],[2X2:296],[2X2:296])([THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M19:128],[NEO:266],[MH2:157],[MH2:157],[MH2:157],[H1R:21],[H1R:21],[H1R:21],[M21:116],[M21:116],[M20:198],[M20:198],[SOM:196],[SOM:196],[SOM:196])

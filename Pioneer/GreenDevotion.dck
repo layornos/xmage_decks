@@ -1,0 +1,34 @@
+1 [BRO:258] Blast Zone
+2 [NEO:266] Boseiju, Who Endures
+4 [M20:167] Cavalier of Thorns
+4 [M15:173] Elvish Mystic
+11 [MOM:281] Forest
+4 [WAR:1*] Karn, the Great Creator
+4 [WAR:232*] Kiora, Behemoth Beckoner
+3 [AFR:259] Lair of the Hydra
+4 [M19:314] Llanowar Elves
+4 [THS:223] Nykthos, Shrine to Nyx
+4 [OGW:140] Oath of Nissa
+4 [KHM:185] Old-Growth Troll
+1 [MOM:200] Polukranos Reborn
+4 [MID:200] Storm the Festival
+1 [THS:180] Sylvan Caryatid
+4 [THB:205] Wolfwillow Haven
+1 [MOM:217] Wrenn and Realmbreaker
+SB: 1 [BRO:233] Cityscape Leveler
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [M15:242] Darksteel Citadel
+SB: 1 [KHM:169] Esika's Chariot
+SB: 1 [WAR:238] God-Pharaoh's Statue
+SB: 1 [BRO:199] Haywire Mite
+SB: 1 [STX:154] Pestilent Cauldron
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [M15:215] The Chain Veil
+SB: 1 [BRO:238a] The Mightstone and Weakstone
+SB: 1 [BRO:247] The Stone Brain
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [M19:247] Transmogrifying Wand
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,100)|([M20:167],[M20:167],[M20:167],[M20:167],[M15:173],[M15:173],[M15:173],[M15:173],[M19:314],[M19:314],[M19:314],[M19:314],[KHM:185],[KHM:185],[KHM:185],[KHM:185],[MOM:200],[THS:180])([OGW:140],[OGW:140],[OGW:140],[OGW:140],[THB:205],[THB:205],[THB:205],[THB:205])([BRO:258],[NEO:266],[NEO:266],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[MOM:281],[AFR:259],[AFR:259],[AFR:259],[THS:223],[THS:223],[THS:223],[THS:223])([WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*],[WAR:232*],[WAR:232*],[WAR:232*],[WAR:232*],[MOM:217])([MID:200],[MID:200],[MID:200],[MID:200])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BRO:233],[DOM:213],[M15:242],[KHM:169],[WAR:238],[BRO:199],[STX:154],[MID:257],[M14:215],[KLD:234],[M15:215],[BRO:238a],[BRO:247],[M21:241],[M19:247])

@@ -1,0 +1,28 @@
+2 [MOM:277] Plains
+2 [MOM:279] Swamp
+4 [H1R:1] Ephemerate
+2 [AER:57] Fatal Push
+4 [M20:9] Brought Back
+4 [RNA:248] Godless Shrine
+3 [THS:107] Thoughtseize
+4 [KTK:233] Flooded Strand
+4 [ZEN:219] Marsh Flats
+3 [ZEN:229] Verdant Catacombs
+4 [MH2:311] Grief
+4 [MH2:307] Solitude
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [NEO:268] Eiganjo, Seat of the Empire
+2 [ELD:241] Castle Locthwain
+3 [DMU:107] Sheoldred, the Apocalypse
+1 [ONE:10] Elesh Norn, Mother of Machines
+4 [LTR:246] The One Ring
+4 [LTR:26] Reprieve
+4 [LTR:103] Orcish Bowmasters
+SB: 3 [ORI:16] Hallowed Moonlight
+SB: 2 [MH2:27] Sanctifier en-Vec
+SB: 2 [MH2:396] Damn
+SB: 4 [MH2:77] Break the Ice
+SB: 1 [ONE:10] Elesh Norn, Mother of Machines
+SB: 3 [LTR:22] Lost to Legend
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,100)|([LTR:246],[LTR:246],[LTR:246],[LTR:246])([MH2:311],[MH2:311],[MH2:311],[MH2:311],[MH2:307],[MH2:307],[MH2:307],[MH2:307],[DMU:107],[DMU:107],[DMU:107],[ONE:10],[LTR:103],[LTR:103],[LTR:103],[LTR:103])([H1R:1],[H1R:1],[H1R:1],[H1R:1],[AER:57],[AER:57],[M20:9],[M20:9],[M20:9],[M20:9],[LTR:26],[LTR:26],[LTR:26],[LTR:26])([MOM:277],[MOM:277],[MOM:279],[MOM:279],[RNA:248],[RNA:248],[RNA:248],[RNA:248],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:229],[ZEN:229],[ZEN:229],[NEO:278],[NEO:268],[ELD:241],[ELD:241])([THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ORI:16],[ORI:16],[ORI:16],[MH2:27],[MH2:27],[MH2:396],[MH2:396],[MH2:77],[MH2:77],[MH2:77],[MH2:77],[ONE:10],[LTR:22],[LTR:22],[LTR:22])

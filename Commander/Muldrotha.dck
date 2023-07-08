@@ -1,0 +1,95 @@
+1 [AFC:177] Baleful Strix
+1 [M12:165] Birds of Paradise
+1 [ORI:170] Caustic Caterpillar
+1 [MH2:397] Dauthi Voidwalker
+1 [5DN:86] Eternal Witness
+1 [ORI:98] Fleshbag Marauder
+1 [EVE:22] Glen Elendra Archmage
+1 [THB:314] Gravebreaker Lamia
+1 [SNC:46] Ledger Shredder
+1 [MID:110] Lord of the Forsaken
+1 [LRW:76] Mulldrifter
+1 [GRN:82] Plaguecrafter
+1 [HOU:129] Ramunap Excavator
+1 [RIX:82] Ravenous Chupacabra
+1 [M19:196] Reclamation Sage
+1 [SHM:49] River Kelpie
+1 [CHK:239] Sakura-Tribe Elder
+1 [M15:198] Satyr Wayfinder
+1 [DTK:120] Sidisi, Undead Vizier
+1 [XLN:79] Siren Stormtamer
+1 [M21:239] Solemn Simulacrum
+1 [PCY:126] Spore Frog
+1 [J21:642] Springbloom Druid
+1 [M19:121] Stitcher's Supplier
+1 [ELD:107] Syr Konrad, the Grim
+1 [DOM:206] Tatyova, Benthic Druid
+1 [SOI:245] The Gitrog Monster
+1 [GRN:211] Underrealm Lich
+1 [9ED:283] Wood Elves
+1 [RIX:151] World Shaper
+1 [GRN:152] Assassin's Trophy
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [ODY:132] Entomb
+1 [ODY:118] Buried Alive
+1 [SUM:105] Demonic Tutor
+1 [RAV:172] Life from the Loam
+1 [KTK:211] Villainous Wealth
+1 [MRD:141] Aether Spellbomb
+1 [TMP:276] Altar of Dementia
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [VOC:163] Commander's Sphere
+1 [MRD:199] Lightning Greaves
+1 [TMP:294] Lotus Petal
+1 [5ED:391] Nevinyrral's Disk
+1 [KLD:227] Perpetual Timepiece
+1 [SUM:274] Sol Ring
+1 [5DN:165] Wayfarer's Bauble
+1 [5ED:140] Animate Dead
+1 [KHM:206] Binding the Old Gods
+1 [WAR:94] Kaya's Ghostform
+1 [ICE:87] Mystic Remora
+1 [APC:114] Pernicious Deed
+1 [PCY:45] Rhystic Study
+1 [DIS:53] Seal of Doom
+1 [PLC:153] Seal of Primordium
+1 [NEM:42] Seal of Removal
+1 [DKA:48] Secrets of the Dead
+1 [DOM:90] The Eldest Reborn
+1 [SOI:237] Vessel of Nascency
+1 [WAR:228*] Ashiok, Dream Render
+1 [ELD:197] Oko, Thief of Crowns
+1 [WAR:220*] Tamiyo, Collector of Tales
+1 [WWK:132] Bojuka Bog
+1 [NEO:266] Boseiju, Who Endures
+1 [RNA:246] Breeding Pool
+1 [CMR:349] Command Beacon
+1 [ELD:333] Command Tower
+1 [VOW:261] Deathcap Glade
+1 [VOW:262] Dreamroot Cascade
+1 [XLN:253] Drowned Catacomb
+1 [VOW:263] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [DOM:240] Hinterland Harbor
+1 [ZEN:220] Misty Rainforest
+1 [KTK:238] Opulent Palace
+1 [GRN:253] Overgrown Tomb
+1 [KTK:239] Polluted Delta
+1 [CMR:354] Rejuvenating Springs
+1 [4ED:363] Strip Mine
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [M11:229] Terramorphic Expanse
+1 [CMR:359] Undergrowth Stadium
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+1 [DOM:248] Woodland Cemetery
+1 [IKO:259] Zagoth Triome
+3 [C14:324] Island
+4 [ITP:60] Swamp
+3 [9ED:350] Forest
+1 [G03:1] Intuition
+SB: 1 [CMR:528] Muldrotha, the Gravetide
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([AFC:177],[M21:239])([MRD:141],[TMP:276],[ELD:331],[6ED:274],[VOC:163],[MRD:199],[TMP:294],[5ED:391],[KLD:227],[SUM:274],[5DN:165])([M12:165],[ORI:170],[MH2:397],[5DN:86],[ORI:98],[EVE:22],[SNC:46],[MID:110],[LRW:76],[GRN:82],[HOU:129],[RIX:82],[M19:196],[SHM:49],[CHK:239],[M15:198],[DTK:120],[XLN:79],[PCY:126],[J21:642],[M19:121],[ELD:107],[DOM:206],[SOI:245],[GRN:211],[9ED:283],[RIX:151])([THB:314])([5ED:140],[KHM:206],[WAR:94],[ICE:87],[APC:114],[PCY:45],[DIS:53],[PLC:153],[NEM:42],[DKA:48],[DOM:90],[SOI:237])([GRN:152],[7ED:67],[RTR:35],[ODY:132],[G03:1])([WWK:132],[NEO:266],[RNA:246],[CMR:349],[ELD:333],[VOW:261],[VOW:262],[XLN:253],[VOW:263],[CON:142],[DOM:240],[ZEN:220],[KTK:238],[GRN:253],[KTK:239],[CMR:354],[4ED:363],[NEO:278],[M11:229],[CMR:359],[ZEN:229],[GRN:259],[DOM:248],[IKO:259],[C14:324],[C14:324],[C14:324],[ITP:60],[ITP:60],[ITP:60],[ITP:60],[9ED:350],[9ED:350],[9ED:350])([ELD:197],[WAR:228*],[WAR:220*])([ODY:118],[SUM:105],[RAV:172],[KTK:211])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CMR:528])

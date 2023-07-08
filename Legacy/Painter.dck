@@ -1,0 +1,21 @@
+4 [SHM:257] Painter's Servant
+4 [TMP:290] Grindstone
+4 [EMA:49] Force of Will
+4 [MIR:307] Lion's Eye Diamond
+4 [J20:2] Enlightened Tutor
+4 [MMQ:61] Brainstorm
+4 [TSR:315] Ponder
+4 [ONS:316] Flooded Strand
+4 [MH2:439] Scalding Tarn
+2 [3ED:289] Tundra
+1 [UST:213] Island
+1 [UST:212] Plains
+1 [UST:215] Mountain
+2 [3ED:291] Volcanic Island
+4 [ULG:80] Goblin Welder
+4 [TSR:345] Goblin Engineer
+4 [MH2:259] Urza's Saga
+4 [TMP:294] Lotus Petal
+1 [2XM:275] Mox Opal
+LAYOUT MAIN:(1,4)(CMC,false,70)|([MIR:307],[MIR:307],[MIR:307],[MIR:307],[ONS:316],[ONS:316],[ONS:316],[ONS:316],[MH2:439],[MH2:439],[MH2:439],[MH2:439],[3ED:289],[3ED:289],[UST:213],[UST:212],[UST:215],[3ED:291],[3ED:291],[MH2:259],[MH2:259],[MH2:259],[MH2:259],[TMP:294],[TMP:294],[TMP:294],[TMP:294],[2XM:275])([TMP:290],[TMP:290],[TMP:290],[TMP:290],[J20:2],[J20:2],[J20:2],[J20:2],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[TSR:315],[TSR:315],[TSR:315],[TSR:315],[ULG:80],[ULG:80],[ULG:80],[ULG:80])([SHM:257],[SHM:257],[SHM:257],[SHM:257],[TSR:345],[TSR:345],[TSR:345],[TSR:345])([EMA:49],[EMA:49],[EMA:49],[EMA:49])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,100)|

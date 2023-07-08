@@ -1,0 +1,95 @@
+1 [CLB:111] Ancient Brass Dragon
+1 [MH2:342] Archon of Cruelty
+1 [THS:187] Ashen Rider
+1 [AVR:6] Avacyn, Angel of Hope
+1 [RNA:158] Biomancer's Familiar
+1 [M12:165] Birds of Paradise
+1 [RAV:4] Blazing Archon
+1 [10E:137] Doomed Necromancer
+1 [CLB:125] Elder Brain
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [5DN:86] Eternal Witness
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [NPH:37] Jin-Gitaxias, Core Augur
+1 [ULG:11] Karmic Guide
+1 [RIX:45] Nezahal, Primal Tide
+1 [M21:223] Obsessive Stitcher
+1 [J21:707] Priest of Fell Rites
+1 [10E:35*] Reya Dawnbringer
+1 [CHK:239] Sakura-Tribe Elder
+1 [10E:296] Seedborn Muse
+1 [J21:131] Serra's Emissary
+1 [NPH:73] Sheoldred, Whispering One
+1 [M21:239] Solemn Simulacrum
+1 [M12:39] Sun Titan
+1 [MH2:108] Vile Entomber
+1 [M20:122] Vilis, Broker of Blood
+1 [IKO:233] Zirda, the Dawnwaker
+1 [MMQ:129] Dark Ritual
+1 [ODY:132] Entomb
+1 [INV:57] Fact or Fiction
+1 [MID:221] Faithful Mending
+1 [ULG:32] Frantic Search
+1 [WWK:108] Nature's Claim
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [DMU:148] Thrill of Possibility
+1 [ODY:118] Buried Alive
+1 [IKO:110] Cathartic Reunion
+1 [M21:177] Cultivate
+1 [MH2:396] Damn
+1 [SUM:105] Demonic Tutor
+1 [TSP:104] Dread Return
+1 [IKO:184] Eerie Ultimatum
+1 [USG:134] Exhume
+1 [DKA:87] Faithless Looting
+1 [M13:170] Farseek
+1 [APC:130] Life // Death
+1 [TMP:142] Living Death
+1 [MH2:345] Persist
+1 [TMP:151] Reanimate
+1 [JUD:72] Stitch Together
+1 [ISD:122] Unburial Rites
+1 [MH2:106] Unmarked Grave
+1 [USG:166] Victimize
+1 [9ED:171] Zombify
+1 [CLB:109] Altar of Bhaal
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [BRC:135] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [MRD:199] Lightning Greaves
+1 [SUM:274] Sol Ring
+1 [5ED:140] Animate Dead
+1 [ICE:118] Dance of the Dead
+1 [GPT:141] Debtors' Knell
+1 [VIS:64] Necromancy
+1 [RNA:22] Smothering Tithe
+1 [AKH:97] Liliana, Death's Majesty
+1 [RNA:245] Blood Crypt
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [RNA:248] Godless Shrine
+1 [IKO:248] Indatha Triome
+1 [SNC:250] Jetmir's Garden
+1 [ZEN:219] Marsh Flats
+1 [KTK:237] Nomad Outpost
+1 [GRN:253] Overgrown Tomb
+1 [BRC:192] Path of Ancestry
+1 [KTK:239] Polluted Delta
+1 [SNC:254] Raffine's Tower
+1 [GRN:254] Sacred Foundry
+1 [IKO:253] Savai Triome
+1 [SNC:257] Spara's Headquarters
+1 [KHM:275] The World Tree
+1 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+4 [ONE:372] Plains
+1 [ONE:273] Island
+5 [ONE:274] Swamp
+1 [ONE:275] Mountain
+1 [ONE:276] Forest
+SB: 1 [ELD:303] Kenrith, the Returned King
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([M21:239])([CLB:109],[ELD:331],[GRN:233],[BRC:135],[9ED:297],[MRD:199],[SUM:274])([CLB:111],[MH2:342],[THS:187],[AVR:6],[RNA:158],[M12:165],[RAV:4],[10E:137],[CLB:125],[NPH:9],[5DN:86],[AVR:209],[NPH:37],[ULG:11],[RIX:45],[M21:223],[J21:707],[10E:35*],[CHK:239],[10E:296],[J21:131],[NPH:73],[M12:39],[MH2:108],[M20:122],[IKO:233])([5ED:140],[ICE:118],[GPT:141],[VIS:64],[RNA:22])([MMQ:129],[ODY:132],[INV:57],[MID:221],[ULG:32],[WWK:108],[CON:15],[ICE:54],[DMU:148])([RNA:245],[ELD:333],[CON:142],[RNA:248],[IKO:248],[SNC:250],[ZEN:219],[KTK:237],[GRN:253],[BRC:192],[KTK:239],[SNC:254],[GRN:254],[IKO:253],[SNC:257],[KHM:275],[ZEN:229],[GRN:259],[IKO:259],[ONE:372],[ONE:372],[ONE:372],[ONE:372],[ONE:273],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:275],[ONE:276])([AKH:97])([APC:130])([ODY:118],[IKO:110],[M21:177],[MH2:396],[SUM:105],[TSP:104],[IKO:184],[USG:134],[DKA:87],[M13:170],[TMP:142],[MH2:345],[TMP:151],[JUD:72],[ISD:122],[MH2:106],[USG:166],[9ED:171])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([ELD:303])

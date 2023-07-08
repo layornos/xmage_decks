@@ -1,0 +1,25 @@
+4 [BOK:21] Shining Shoal
+4 [ZNR:12] Emeria's Call
+4 [SLD:40] Thalia, Guardian of Thraben
+4 [C20:103] Thalia's Lieutenant
+4 [DDQ:4] Champion of the Parish
+4 [DBL:1] Adeline, Resplendent Cathar
+4 [MB1:54] Chancellor of the Annex
+4 [ZNR:24] Luminarch Aspirant
+4 [2XM:210] Meddling Mage
+3 [ODY:333] Plains
+1 [NEO:268] Eiganjo, Seat of the Empire
+4 [ONS:328] Windswept Heath
+4 [MH2:436] Arid Mesa
+2 [ONS:316] Flooded Strand
+4 [RTR:241] Hallowed Fountain
+4 [DMU:24] Leyline Binding
+1 [IKO:248] Indatha Triome
+1 [SNC:12] Extraction Specialist
+SB: 3 [RTR:18] Rest in Peace
+SB: 3 [MD1:24] Kataki, War's Wage
+SB: 4 [MM2:23] Leyline of Sanctity
+SB: 1 [MM2:3] Emrakul, the Aeons Torn
+SB: 4 [MMA:203] Chalice of the Void
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,60)|([DBL:1],[DBL:1],[DBL:1],[DBL:1],[DDQ:4],[DDQ:4],[DDQ:4],[DDQ:4],[MB1:54],[MB1:54],[MB1:54],[MB1:54],[ZNR:24],[ZNR:24],[ZNR:24],[ZNR:24],[2XM:210],[2XM:210],[2XM:210],[2XM:210],[C20:103],[C20:103],[C20:103],[C20:103],[SLD:40],[SLD:40],[SLD:40],[SLD:40],[SNC:12])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([BOK:21],[BOK:21],[BOK:21],[BOK:21])([MH2:436],[MH2:436],[MH2:436],[MH2:436],[NEO:268],[ONS:316],[ONS:316],[RTR:241],[RTR:241],[RTR:241],[RTR:241],[ODY:333],[ODY:333],[ODY:333],[ONS:328],[ONS:328],[ONS:328],[ONS:328],[IKO:248])([ZNR:12],[ZNR:12],[ZNR:12],[ZNR:12])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:18],[RTR:18],[RTR:18],[MD1:24],[MD1:24],[MD1:24],[MM2:23],[MM2:23],[MM2:23],[MM2:23],[MM2:3],[MMA:203],[MMA:203],[MMA:203],[MMA:203])

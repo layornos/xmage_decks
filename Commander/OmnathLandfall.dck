@@ -1,0 +1,82 @@
+1 [WWK:121] Amulet of Vigor
+1 [ZNR:178] Ancient Greenwarden
+1 [ELD:331] Arcane Signet
+1 [M21:173] Azusa, Lost but Seeking
+1 [ZNR:180] Bala Ged Recovery
+1 [ISD:130] Blasphemous Act
+1 [BFZ:233] Blighted Woodland
+1 [KTK:230] Bloodstained Mire
+1 [DOM:157] Broken Bond
+1 [STH:102] Burgeoning
+1 [BFZ:235] Cinder Glade
+1 [STH:104] Constant Mists
+1 [M19:229] Crucible of Worlds
+1 [M21:177] Cultivate
+1 [MMQ:316] Dust Bowl
+1 [ORI:174] Elemental Bond
+1 [ORI:176] Evolutionary Leap
+1 [USG:250] Exploration
+1 [M21:246] Fabled Passage
+1 [M13:170] Farseek
+1 [M20:247] Field of the Dead
+6 [BRO:276] Forest
+1 [MH2:160] Foundation Breaker
+1 [M21:186] Garruk's Uprising
+1 [CLB:794] Geode Rager
+1 [TMP:318] Ghost Town
+1 [9ED:245] Greater Good
+1 [GPT:158] Gruul Turf
+1 [ZEN:165] Harrow
+1 [M21:188] Heroic Intervention
+1 [MMQ:320] High Market
+1 [KHM:261] Highland Forest
+1 [PLS:111] Hull Breach
+1 [ALA:225] Jund Panorama
+1 [INV:193] Kavu Lair
+1 [ZEN:167] Khalni Heart Expedition
+1 [RAV:172] Life from the Loam
+1 [IKO:164] Migration Path
+1 [OGW:156] Mina and Denn, Wildborn
+1 [ROE:197] Momentous Fall
+11 [BRO:274] Mountain
+1 [ORI:190] Nissa's Pilgrimage
+1 [RAV:176] Perilous Forays
+1 [BBD:73] Pir's Whim
+1 [ODY:214] Price of Glory
+1 [5ED:262] Pyroblast
+1 [M12:190] Rampant Growth
+1 [HOU:129] Ramunap Excavator
+1 [CMR:249] Reshape the Earth
+1 [AER:123] Rishkar's Expertise
+1 [M19:201] Scapeshift
+1 [HOU:182] Scavenger Grounds
+1 [M21:204] Scavenging Ooze
+5 [KHM:284] Snow-Covered Forest
+2 [KHM:282] Snow-Covered Mountain
+1 [SUM:274] Sol Ring
+1 [CMA:147] Song of the Dryads
+1 [THB:237] Soul-Guide Lantern
+1 [VOW:221] Splendid Reclamation
+1 [RNA:259] Stomping Ground
+1 [4ED:363] Strip Mine
+1 [BFZ:192] Sylvan Scrying
+1 [SUM:287] Taiga
+1 [THB:347*] Temple of Abandon
+1 [NEM:143] Terrain Generator
+1 [M11:229] Terramorphic Expanse
+1 [CLB:837] Three Visits
+1 [SOI:233] Tireless Tracker
+1 [MH2:287] Titania, Protector of Argoth
+1 [CLB:258] Traverse the Outlands
+1 [SOI:235] Ulvenwald Hydra
+1 [BFZ:197] Undergrowth Champion
+1 [ZNR:174] Valakut Awakening
+1 [ZNR:175] Valakut Exploration
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [M12:160] Warstorm Surge
+1 [ALA:122] Where Ancients Tread
+1 [KTK:248] Windswept Heath
+1 [DMU:260] Wooded Ridgeline
+SB: 1 [BFZ:217] Omnath, Locus of Rage
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([WWK:121],[ELD:331],[M19:229],[SUM:274],[THB:237])([ZNR:178],[M21:173],[MH2:160],[CLB:794],[OGW:156],[HOU:129],[M21:204],[SOI:233],[MH2:287],[SOI:235],[BFZ:197])([STH:102],[ORI:174],[ORI:176],[USG:250],[M21:186],[9ED:245],[INV:193],[ZEN:167],[RAV:176],[ODY:214],[CMA:147],[ZNR:175],[M12:160],[ALA:122])([STH:104],[ZEN:165],[M21:188],[ROE:197],[5ED:262],[ZNR:174])([BFZ:233],[KTK:230],[BFZ:235],[MMQ:316],[M21:246],[M20:247],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[TMP:318],[GPT:158],[MMQ:320],[KHM:261],[ALA:225],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[HOU:182],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:282],[KHM:282],[RNA:259],[4ED:363],[SUM:287],[THB:347*],[NEM:143],[M11:229],[ZEN:228],[KTK:248],[DMU:260])([ZNR:180],[ISD:130],[DOM:157],[M21:177],[M13:170],[PLS:111],[RAV:172],[IKO:164],[ORI:190],[BBD:73],[M12:190],[CMR:249],[AER:123],[M19:201],[VOW:221],[BFZ:192],[CLB:837],[CLB:258])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([BFZ:217])

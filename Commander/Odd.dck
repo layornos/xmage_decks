@@ -1,0 +1,92 @@
+1 [M11:4] Angelic Arbiter
+1 [SOI:242] Anguished Unmaking
+1 [THS:39] Aqueous Form
+1 [ELD:331] Arcane Signet
+1 [ROE:2] Artisan of Kozilek
+1 [DIS:159] Azorius Signet
+1 [MMQ:61] Brainstorm
+1 [ELD:333] Command Tower
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [SUM:105] Demonic Tutor
+1 [RAV:260] Dimir Signet
+1 [GRN:69] Doom Whisperer
+1 [XLN:253] Drowned Catacomb
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [EMN:6] Emrakul, the Promised End
+1 [ARB:106] Enigma Sphinx
+1 [6ED:19] Enlightened Tutor
+1 [J21:75] Esper Sentinel
+1 [C20:35] Fierce Guardianship
+1 [KTK:233] Flooded Strand
+1 [ALL:28] Force of Will
+1 [ONS:84] Future Sight
+1 [NCC:201] Generous Gift
+1 [XLN:255] Glacial Fortress
+1 [RNA:248] Godless Shrine
+1 [RNA:251] Hallowed Fountain
+1 [VOW:359] Hullbreaker Horror
+1 [M15:100] In Garruk's Wake
+1 [DOM:241] Isolated Chapel
+1 [NEO:307] Jin-Gitaxias, Progress Tyrant
+1 [MRD:199] Lightning Greaves
+1 [ALL:107] Lim-Dul's Vault
+1 [LEG:65] Mana Drain
+1 [ZEN:219] Marsh Flats
+1 [EMN:70] Mind's Dilation
+1 [LRW:76] Mulldrifter
+1 [ICE:87] Mystic Remora
+1 [6ED:83] Mystical Tutor
+1 [RIX:45] Nezahal, Primal Tide
+1 [GPT:155] Orzhov Signet
+1 [NEO:271] Otawara, Soaring City
+1 [CON:15] Path to Exile
+1 [M21:117] Peer into the Abyss
+1 [KTK:239] Polluted Delta
+1 [M12:73] Ponder
+1 [SNC:254] Raffine's Tower
+1 [PCY:45] Rhystic Study
+1 [M14:111] Rise of the Dark Realms
+1 [M20:113] Scheming Symmetry
+1 [TMP:308] Scroll Rack
+1 [SUM:286] Scrubland
+1 [ZNR:333] Sea Gate Restoration
+1 [CHK:268] Sensei's Divining Top
+1 [J21:131] Serra's Emissary
+1 [NPH:73] Sheoldred, Whispering One
+1 [SUM:274] Sol Ring
+1 [MMQ:104] Soothsaying
+1 [M13:69] Sphinx of Uthuun
+1 [M14:224] Strionic Resonator
+1 [THS:65] Swan Song
+1 [M12:219] Swiftfoot Boots
+1 [ICE:54] Swords to Plowshares
+1 [MRD:253] Talisman of Dominance
+1 [H1R:36] Talisman of Hierarchy
+1 [MRD:256] Talisman of Progress
+1 [STA:11] Teferi's Protection
+1 [THB:245] Temple of Deceit
+1 [THB:246] Temple of Enlightenment
+1 [M21:255] Temple of Silence
+1 [DGM:108] Teysa, Envoy of Ghosts
+1 [ELD:345] The Magic Mirror
+1 [NEO:374] The Reality Chip
+1 [CMR:346] Thought Vessel
+1 [THB:309] Thryx, the Sudden Storm
+1 [WAR:223] Time Wipe
+1 [SUM:289] Tundra
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [SUM:290] Underground Sea
+1 [KHM:115] Varragoth, Bloodsky Sire
+1 [CMR:360] Vault of Champions
+1 [BFZ:17] Void Winnower
+1 [GRN:259] Watery Grave
+1 [M11:221] Whispersilk Cloak
+5 [ALA:236] Island
+4 [HOP:155] Swamp
+4 [DVD:29] Plains
+1 [CMR:156] Vampiric Tutor
+1 [C15:101] Preordain
+SB: 1 [C18:51] Yennett, Cryptic Sovereign
+LAYOUT MAIN:(1,9)(CMC,false,70)|([ELD:333],[XLN:253],[KTK:233],[ELD:331],[XLN:255],[DIS:159],[RAV:260],[RNA:248],[RNA:251],[DOM:241],[ZEN:219],[NEO:271],[KTK:239],[SNC:254],[SUM:274],[SUM:286],[THB:245],[THB:246],[M21:255],[SUM:289],[SUM:290],[ZNR:333],[CMR:360],[GRN:259],[ALA:236],[ALA:236],[ALA:236],[ALA:236],[CMR:346],[ALA:236],[HOP:155],[HOP:155],[HOP:155],[HOP:155],[DVD:29],[DVD:29],[DVD:29],[DVD:29])([THS:39],[MMQ:61],[6ED:19],[J21:75],[ICE:87],[6ED:83],[CON:15],[M12:73],[M20:113],[CHK:268],[MMQ:104],[THS:65],[ICE:54],[CMR:156],[C15:101])([7ED:67],[RTR:35],[SUM:105],[MRD:199],[ALL:107],[LEG:65],[GPT:155],[TMP:308],[M14:224],[M12:219],[MRD:253],[H1R:36],[MRD:256],[NEO:374])([SOI:242],[C20:35],[NCC:201],[PCY:45],[STA:11],[KHM:115],[M11:221])([GRN:69],[ALL:28],[ONS:84],[LRW:76],[THB:309],[WAR:223])([M11:4],[NPH:9],[ARB:106],[VOW:359],[NEO:307],[EMN:70],[RIX:45],[M21:117],[J21:131],[NPH:73],[M13:69],[DGM:108])([ROE:2],[M15:100],[M14:111],[ELD:345],[BFZ:17])([ROE:12])([EMN:6])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([C18:51])

@@ -1,0 +1,99 @@
+1 [VOW:139] Abrade
+1 [THB:1] Alseid of Life's Bounty
+1 [TMP:315] Ancient Tomb
+1 [ZNR:315] Archon of Emeria
+1 [ZEN:211] Arid Mesa
+1 [AKH:5] Aven Mindcensor
+1 [ORI:244] Battlefield Forge
+1 [STX:165] Blade Historian
+1 [DST:163] Blinkmoth Nexus
+1 [KTK:230] Bloodstained Mire
+1 [THS:2] Cavalry Pegasus
+1 [AVR:226] Cavern of Souls
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [EXO:143] City of Traitors
+1 [AKH:125] Combat Celebrant
+1 [ELD:333] Command Tower
+1 [ELD:10] Deafening Silence
+1 [C20:50] Deflecting Swat
+1 [C19:24] Dockside Extortionist
+1 [IKO:11] Drannith Magistrate
+1 [JOU:10] Eidolon of Rhetoric
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [ZNR:12] Emeria's Call
+1 [6ED:19] Enlightened Tutor
+1 [J21:75] Esper Sentinel
+1 [ALA:10] Ethersworn Canonist
+1 [KTK:233] Flooded Strand
+1 [USG:188] Gamble
+1 [TSP:274] Gemstone Caverns
+1 [ELD:219] Gingerbrute
+1 [H1R:3] Giver of Runes
+1 [LGN:15] Glowrider
+1 [GRN:103] Goblin Cratermaker
+1 [M15:145] Goblin Rabblemaster
+1 [SOM:157] Gold Myr
+1 [M12:19] Grand Abolisher
+1 [AER:154] Hope of Ghirapur
+1 [MH2:281] Imperial Recruiter
+1 [MBS:145] Inkmoth Nexus
+1 [CMR:319] Jeweled Lotus
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [GRN:109] Legion Warboss
+1 [TMP:294] Lotus Petal
+1 [AFC:132] Loyal Apprentice
+1 [FUT:101] Magus of the Moon
+1 [JOU:163] Mana Confluence
+1 [2XM:270] Mana Crypt
+1 [5ED:388] Mana Vault
+1 [ZEN:219] Marsh Flats
+1 [NEM:96] Moggcatcher
+1 [ULG:14] Mother of Runes
+1 [NEO:289] Mountain
+1 [STH:138] Mox Diamond
+1 [ZNR:263] Needleverge Pathway
+1 [AER:167] Ornithopter
+1 [J21:753] Ornithopter of Paradise
+1 [CON:15] Path to Exile
+1 [M15:225] Phyrexian Revoker
+1 [VIS:152] Phyrexian Walker
+4 [NEO:283] Plains
+1 [SUM:284] Plateau
+1 [H1R:40] Prismatic Vista
+1 [MH2:138] Ragavan, Nimble Pilferer
+1 [J21:115] Ranger-Captain of Eos
+1 [MB1:206] Recruiter of the Guard
+1 [4ED:218] Red Elemental Blast
+1 [M19:33] Remorseful Cleric
+1 [SLD:143] Rick, Steadfast Leader
+1 [C21:382] Rionya, Fire Dancer
+1 [CMR:197] Rograkh, Son of Rohgahh
+1 [M20:35] Rule of Law
+1 [GRN:254] Sacred Foundry
+1 [MH2:491] Sanctum Prelate
+1 [ZEN:223] Scalding Tarn
+1 [M11:28] Serra Ascendant
+1 [ZNR:161] Shatterskull Smashing
+1 [MBS:131] Signal Pest
+1 [M14:35] Silence
+1 [PLC:122] Simian Spirit Guide
+1 [ZNR:322] Skyclave Apparition
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SUM:274] Sol Ring
+1 [MH2:307] Solitude
+1 [CMR:356] Spectator Seating
+1 [BNG:27] Spirit of the Labyrinth
+1 [MH1:247] Sunbaked Canyon
+1 [ICE:54] Swords to Plowshares
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [EMN:47] Thalia's Lancers
+1 [LRW:262] Thorn of Amethyst
+1 [ISD:41] Village Bell-Ringer
+1 [M21:43] Vryn Wingmare
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [AVR:166] Zealous Conscripts
+SB: 1 [IKO:216] Winota, Joiner of Forces
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([J21:75],[ALA:10],[ELD:219],[SOM:157],[AER:154],[J21:753],[M15:225],[VIS:152],[MBS:131])([MRD:152],[CMR:319],[TMP:294],[2XM:270],[5ED:388],[STH:138],[SUM:274],[LRW:262])([AER:167])([ZNR:315],[AKH:5],[STX:165],[THS:2],[AKH:125],[C19:24],[IKO:11],[H1R:3],[LGN:15],[GRN:103],[M15:145],[M12:19],[MH2:281],[CHK:175],[GRN:109],[AFC:132],[FUT:101],[NEM:96],[ULG:14],[MH2:138],[J21:115],[MB1:206],[M19:33],[SLD:143],[C21:382],[CMR:197],[MH2:491],[M11:28],[PLC:122],[ZNR:322],[MH2:307],[VOW:318],[EMN:47],[ISD:41],[M21:43],[AVR:166])([THB:1],[JOU:10],[BNG:27])([ELD:10],[M20:35])([VOW:139],[C20:50],[6ED:19],[CON:15],[4ED:218],[M14:35],[ICE:54])([TMP:315],[ZEN:211],[ORI:244],[DST:163],[KTK:230],[AVR:226],[8ED:322],[EXO:143],[ELD:333],[NEO:268],[KTK:233],[TSP:274],[MBS:145],[JOU:163],[ZEN:219],[NEO:289],[ZNR:263],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[SUM:284],[H1R:40],[GRN:254],[ZEN:223],[NEO:276],[CMR:356],[MH1:247],[KTK:248],[KTK:249])([ZNR:12],[USG:188],[ZNR:161])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([IKO:216])

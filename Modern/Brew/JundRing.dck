@@ -1,0 +1,28 @@
+4 [LTR:246] The One Ring
+3 [MAT:22] Nissa, Resurgent Animist
+4 [MH2:126] Fury
+4 [TSR:334] Thoughtseize
+3 [2XM:343] Fatal Push
+2 [2X2:389] Terminate
+1 [2X2:381] Kolaghan's Command
+4 [2X2:361] Lightning Bolt
+4 [MH2:138] Ragavan, Nimble Pilferer
+1 [RTR:141] Abrupt Decay
+4 [2X2:334] Wrenn and Six
+4 [ONS:313] Bloodstained Mire
+4 [ZEN:229] Verdant Catacombs
+2 [ONS:330] Wooded Foothills
+2 [RTR:238] Blood Crypt
+1 [RTR:243] Overgrown Tomb
+1 [GPT:165] Stomping Ground
+1 [UST:215] Mountain
+1 [UST:216] Forest
+1 [UST:214] Swamp
+2 [AFR:254] Den of the Bugbear
+1 [CMA:157] Titania, Protector of Argoth
+1 [SNC:261] Ziatora's Proving Ground
+1 [NEO:266] Boseiju, Who Endures
+4 [NEO:357] Fable of the Mirror-Breaker
+SB: 2 [NEO:266] Boseiju, Who Endures
+LAYOUT MAIN:(1,6)(CMC,false,100)|([ONS:313],[ONS:313],[ONS:313],[ONS:313],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[ONS:330],[ONS:330],[RTR:238],[RTR:238],[RTR:243],[GPT:165],[UST:215],[UST:216],[UST:214],[AFR:254],[AFR:254],[SNC:261],[NEO:266])([2XM:343],[2XM:343],[2XM:343],[2X2:361],[2X2:361],[2X2:361],[2X2:361],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[TSR:334],[TSR:334],[TSR:334],[TSR:334])([2X2:389],[RTR:141],[2X2:334],[2X2:334],[2X2:334],[2X2:334],[2X2:389])([2X2:381],[MAT:22],[MAT:22],[MAT:22],[NEO:357],[NEO:357],[NEO:357],[NEO:357])([LTR:246],[LTR:246],[LTR:246],[LTR:246])([MH2:126],[MH2:126],[MH2:126],[MH2:126],[CMA:157])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEO:266],[NEO:266])

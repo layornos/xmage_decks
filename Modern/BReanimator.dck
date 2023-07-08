@@ -1,0 +1,32 @@
+4 [MH2:342] Archon of Cruelty
+4 [M20:226] Golos, Tireless Pilgrim
+1 [WAR:244] Blast Zone
+1 [WWK:132] Bojuka Bog
+4 [TOR:139] Cabal Coffers
+1 [AKH:240] Cascading Cataracts
+2 [ELD:241] Castle Locthwain
+1 [RNA:248] Godless Shrine
+2 [ZEN:219] Marsh Flats
+2 [KTK:239] Polluted Delta
+5 [SNC:266] Swamp
+1 [NEO:278] Takenuma, Abandoned Mire
+2 [M15:248] Urborg, Tomb of Yawgmoth
+2 [ZEN:229] Verdant Catacombs
+3 [ZNR:388] Bloodchief's Thirst
+4 [MH2:345] Persist
+4 [MH2:401] Profane Tutor
+4 [THS:107] Thoughtseize
+1 [ISD:122] Unburial Rites
+4 [MH2:106] Unmarked Grave
+1 [THB:87] Cling to Dust
+2 [AER:57] Fatal Push
+4 [ZEN:201] Expedition Map
+1 [ISD:105] Liliana of the Veil
+SB: 2 [PLC:85] Damnation
+SB: 2 [MID:98] Duress
+SB: 2 [AER:57] Fatal Push
+SB: 4 [NEO:101] Invoke Despair
+SB: 3 [ISD:105] Liliana of the Veil
+SB: 2 [MH2:102] Tourach, Dread Cantor
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([M20:226],[M20:226],[M20:226],[M20:226])([ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201])([MH2:342],[MH2:342],[MH2:342],[MH2:342])([THB:87],[AER:57],[AER:57])([WAR:244],[WWK:132],[TOR:139],[TOR:139],[TOR:139],[TOR:139],[AKH:240],[ELD:241],[ELD:241],[RNA:248],[ZEN:219],[ZEN:219],[KTK:239],[KTK:239],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[NEO:278],[M15:248],[M15:248],[ZEN:229],[ZEN:229])([ISD:105])([ZNR:388],[ZNR:388],[ZNR:388],[MH2:345],[MH2:345],[MH2:345],[MH2:345],[MH2:401],[MH2:401],[MH2:401],[MH2:401],[THS:107],[THS:107],[THS:107],[THS:107],[ISD:122],[MH2:106],[MH2:106],[MH2:106],[MH2:106])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([MID:98],[MID:98],[AER:57],[AER:57])([MH2:102],[MH2:102])([ISD:105],[ISD:105],[ISD:105])([PLC:85],[PLC:85])([NEO:101],[NEO:101],[NEO:101],[NEO:101])

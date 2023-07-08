@@ -1,0 +1,25 @@
+4 [MH2:147] Abundant Harvest
+1 [TSP:152] Empty the Warrens
+4 [J21:450] Galvanic Relay
+4 [TSP:160] Grapeshot
+3 [KTK:230] Bloodstained Mire
+2 [ONE:275] Mountain
+3 [ZEN:223] Scalding Tarn
+4 [RNA:259] Stomping Ground
+3 [KTK:249] Wooded Foothills
+4 [CHK:163] Desperate Ritual
+4 [M11:149] Lightning Bolt
+4 [SHM:211] Manamorphose
+4 [M11:153] Pyretic Ritual
+4 [J21:438] Dragon's Rage Channeler
+4 [J21:693] Goblin Anarchomancer
+4 [CSP:138] Mishra's Bauble
+4 [THB:161] Underworld Breach
+SB: 3 [9ED:176] Blood Moon
+SB: 2 [TSP:152] Empty the Warrens
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 3 [WWK:108] Nature's Claim
+SB: 4 [M20:198] Veil of Summer
+SB: 2 [H1R:24] Weather the Storm
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([CSP:138],[CSP:138],[CSP:138],[CSP:138])([J21:438],[J21:438],[J21:438],[J21:438],[J21:693],[J21:693],[J21:693],[J21:693])([THB:161],[THB:161],[THB:161],[THB:161])([CHK:163],[CHK:163],[CHK:163],[CHK:163],[M11:149],[M11:149],[M11:149],[M11:149],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[M11:153],[M11:153],[M11:153],[M11:153])([KTK:230],[KTK:230],[KTK:230],[ONE:275],[ONE:275],[ZEN:223],[ZEN:223],[ZEN:223],[RNA:259],[RNA:259],[RNA:259],[RNA:259],[KTK:249],[KTK:249],[KTK:249])([MH2:147],[MH2:147],[MH2:147],[MH2:147],[TSP:152],[J21:450],[J21:450],[J21:450],[J21:450],[TSP:160],[TSP:160],[TSP:160],[TSP:160])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([WWK:108],[WWK:108],[WWK:108],[M20:198],[M20:198],[M20:198],[M20:198])([H1R:24],[H1R:24])([9ED:176],[9ED:176],[9ED:176])([TSP:152],[TSP:152])([IKO:222])

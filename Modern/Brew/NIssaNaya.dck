@@ -1,0 +1,31 @@
+3 [ZEN:211] Arid Mesa
+1 [NEO:266] Boseiju, Who Endures
+1 [LRW:7] Burrenton Forge-Tender
+4 [PLS:106] Eladamri's Call
+1 [MOM:281] Forest
+4 [MH2:126] Fury
+1 [SNC:250] Jetmir's Garden
+1 [GRN:183] Knight of Autumn
+4 [DMU:24] Leyline Binding
+4 [M11:149] Lightning Bolt
+1 [MOM:280] Mountain
+4 [MAT:22] Nissa, Resurgent Animist
+1 [MOM:277] Plains
+4 [MUL:151] Ragavan, Nimble Pilferer
+2 [GRN:254] Sacred Foundry
+4 [J21:509] Seasoned Pyromancer
+4 [MH2:307] Solitude
+2 [RNA:259] Stomping Ground
+2 [GRN:258] Temple Garden
+3 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+4 [2X2:296] Wrenn and Six
+1 [SNC:260] Xander's Lounge
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 3 [MRD:150] Chalice of the Void
+SB: 3 [MH2:157] Endurance
+SB: 3 [H1R:21] Force of Vigor
+SB: 1 [LRW:248] Gaddock Teeg
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,100)|([LRW:7],[MH2:126],[MH2:126],[MH2:126],[MH2:126],[GRN:183],[MAT:22],[MAT:22],[MAT:22],[MAT:22],[MUL:151],[MUL:151],[MUL:151],[MUL:151],[J21:509],[J21:509],[J21:509],[J21:509],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([PLS:106],[PLS:106],[PLS:106],[PLS:106],[M11:149],[M11:149],[M11:149],[M11:149])([ZEN:211],[ZEN:211],[ZEN:211],[NEO:266],[MOM:281],[SNC:250],[MOM:280],[MOM:277],[GRN:254],[GRN:254],[RNA:259],[RNA:259],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[SNC:260])([2X2:296],[2X2:296],[2X2:296],[2X2:296])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LRW:7],[LRW:7],[MRD:150],[MRD:150],[MRD:150],[MH2:157],[MH2:157],[MH2:157],[H1R:21],[H1R:21],[H1R:21],[LRW:248],[M20:198],[M20:198],[M20:198])

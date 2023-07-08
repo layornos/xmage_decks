@@ -1,0 +1,88 @@
+1 [CLB:107] Agent of the Iron Throne
+1 [NPH:103] Beast Within
+1 [RNA:157] Bedevil
+1 [ISD:130] Blasphemous Act
+1 [BFZ:233] Blighted Woodland
+1 [AVR:86] Blood Artist
+1 [DMU:83] Bone Splinters
+1 [RIX:94] Brass's Bounty
+1 [THS:213] Burnished Hart
+1 [ONE:161] Cankerbloom
+1 [XLN:136] Captain Lannery Storm
+1 [ELD:81] Cauldron Familiar
+1 [ORI:170] Caustic Caterpillar
+1 [BRC:114] Chaos Warp
+1 [ELD:319] Chittering Witch
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [WAR:189] Deathsprout
+1 [M15:173] Elvish Mystic
+1 [TSP:106] Endrek Sahr, Master Breeder
+1 [BRO:261] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [M21:246] Fabled Passage
+1 [ZNR:102] Feed the Swarm
+1 [ORI:98] Fleshbag Marauder
+7 [ONE:276] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [M21:146] Gadrak, the Crown-Scourge
+1 [TMP:179] Goblin Bombardment
+1 [GRN:175] Golgari Findbroker
+1 [ZEN:165] Harrow
+1 [MMQ:320] High Market
+1 [KHM:261] Highland Forest
+1 [CMR:185] Impulsive Pilferer
+1 [RNA:185] Judith, the Scourge Diva
+1 [CMR:282] Juri, Master of the Revue
+1 [AFR:225] Kalain, Reclusive Painter
+1 [DMU:250] Karplusan Forest
+1 [CHK:225] Kodama's Reach
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [DMU:205] Lagomos, Hand of Hatred
+1 [M19:314] Llanowar Elves
+1 [BRO:264] Llanowar Wastes
+1 [M20:249] Lotus Field
+1 [SNC:251] Maestros Theater
+1 [CLB:282] Mahadi, Emporium Master
+1 [KLD:90] Marionette Master
+1 [M20:214] Moldervine Reclamation
+4 [ONE:275] Mountain
+1 [ONC:159] Myriad Landscape
+1 [WWK:108] Nature's Claim
+1 [NEO:230] Oni-Cult Anvil
+1 [WAR:171] Paradise Druid
+1 [ONC:161] Path of Ancestry
+1 [GRN:82] Plaguecrafter
+1 [DGM:93] Putrefy
+1 [M12:190] Rampant Growth
+1 [J21:728] Ravenous Squirrel
+1 [M19:116] Reassembling Skeleton
+1 [KLD:126] Reckless Fireweaver
+1 [SNC:217] Riveteers Charm
+1 [SNC:255] Riveteers Overlook
+1 [MID:266] Rockfall Vale
+1 [ZNR:201] Roiling Regrowth
+1 [CHK:239] Sakura-Tribe Elder
+1 [ALA:228] Savage Lands
+1 [BFZ:247] Smoldering Marsh
+1 [BFZ:99] Smothering Abomination
+1 [SUM:274] Sol Ring
+1 [M21:239] Solemn Simulacrum
+1 [J21:642] Springbloom Druid
+1 [DOM:146] Squee, the Immortal
+6 [ONE:274] Swamp
+1 [ELD:107] Syr Konrad, the Grim
+1 [ONE:261] Terramorphic Expanse
+1 [M21:209] Thrashing Brontodon
+1 [J21:655] Tireless Provisioner
+1 [USG:166] Victimize
+1 [KHM:117] Village Rites
+1 [RNA:90] Vindictive Vampire
+1 [M11:120] Viscera Seer
+1 [ELD:237] Witch's Oven
+1 [THB:123] Woe Strider
+1 [KHM:274] Woodland Chasm
+1 [BFZ:126] Zulaport Cutthroat
+SB: 1 [ELD:329] Korvold, Fae-Cursed King
+LAYOUT MAIN:(1,8)(EDH_POWER_LEVEL,false,50)|([AVR:86],[BRC:114],[ELD:333],[M15:173],[CON:142],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ICE:244],[KHM:261],[RNA:185],[DMU:250],[M19:314],[BRO:264],[M20:214],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONC:161],[ALA:228],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[KHM:274])([RNA:157],[M21:177],[WAR:189],[ZNR:102],[CHK:225],[WWK:108],[M12:190],[M21:239])([DGM:93],[DOM:146])([NPH:103],[WAR:137],[WAR:171],[J21:655])([BFZ:233],[THS:213],[XLN:136],[ORI:170],[ELD:319],[TSP:106],[BRO:261],[M21:246],[TMP:179],[GRN:175],[MMQ:320],[CMR:282],[M20:249],[ONC:159],[J21:728],[M19:116],[SNC:217],[ZNR:201],[CHK:239],[BFZ:99],[J21:642],[ONE:261],[M21:209],[USG:166],[M11:120],[ELD:237])([CLB:107],[ISD:130],[DMU:83],[RIX:94],[ONE:161],[ELD:81],[ORI:98],[M21:146],[ZEN:165],[CMR:185],[AFR:225],[CLB:282],[KLD:90],[NEO:230],[GRN:82],[KLD:126],[MID:266],[BFZ:247],[ELD:107],[KHM:117],[RNA:90],[THB:123],[BFZ:126])([DMU:205],[SNC:251],[SNC:255])([SUM:274])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ELD:329])

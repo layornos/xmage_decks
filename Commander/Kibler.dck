@@ -1,0 +1,84 @@
+1 [AKH:1] Angel of Sanctions
+1 [CMR:217] Apex Devastator
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [CLB:301] Blade of Selves
+1 [ISD:130] Blasphemous Act
+1 [RAV:255] Boros Signet
+1 [CLB:218] Bramble Sovereign
+1 [ELD:333] Command Tower
+1 [ZNR:261] Cragcrown Pathway
+1 [M21:177] Cultivate
+1 [BFZ:144] Dragonmaster Outcast
+1 [CLB:272] Duke Ulder Ravengard
+1 [MRD:165] Duplicant
+1 [ORI:174] Elemental Bond
+1 [M21:246] Fabled Passage
+1 [M13:170] Farseek
+1 [C21:169] Feldon of the Third Path
+1 [INV:246] Fires of Yavimaya
+1 [C20:26] Flawless Maneuver
+11 [ONE:276] Forest
+1 [SNC:148] Gala Greeters
+1 [M13:174] Garruk, Primal Hunter
+1 [M15:283] Garruk's Packleader
+1 [C19:25] Ghired's Belligerence
+1 [GTC:121] Giant Adephage
+1 [RTR:217] Growing Ranks
+1 [XLN:191] Growing Rites of Itlimoc
+1 [GPT:150] Gruul Signet
+1 [THS:124] Hammer of Purphoros
+1 [C19:26] Hate Mirage
+1 [DOM:217] Helm of the Host
+1 [RAV:21] Hour of Reckoning
+1 [BRC:144] Idol of Oblivion
+1 [SNC:112] Jaxis, the Troublemaker
+1 [SNC:193] Jetmir, Nexus of Revels
+1 [SNC:250] Jetmir's Garden
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [CHK:225] Kodama's Reach
+1 [CLB:31] Legion Loyalty
+1 [MRD:199] Lightning Greaves
+1 [SOM:175] Mimic Vat
+6 [ONE:275] Mountain
+1 [5ED:316] Nature's Lore
+1 [SLD:237] Ohran Frostfang
+1 [ISD:199] Parallel Lives
+1 [MBS:15] Phyrexian Rebirth
+4 [ONE:272] Plains
+1 [ZEN:178] Rampaging Baloths
+1 [M12:190] Rampant Growth
+1 [SHM:237] Rhys the Redeemed
+1 [RTR:19] Rootborn Defenses
+1 [GRN:254] Sacred Foundry
+1 [CHK:239] Sakura-Tribe Elder
+1 [SOI:227] Second Harvest
+1 [C19:35] Selesnya Eulogist
+1 [RAV:270] Selesnya Signet
+1 [FRF:138] Shamanic Revelation
+1 [SUM:274] Sol Ring
+1 [C19:6] Song of the Worldsoul
+1 [MRD:246] Soul Foundry
+1 [CLB:361] Spire Garden
+1 [RNA:259] Stomping Ground
+1 [RTR:223] Sundering Growth
+1 [XLN:257] Sunpetal Grove
+1 [GRN:258] Temple Garden
+1 [THB:347*] Temple of Abandon
+1 [THB:248] Temple of Plenty
+1 [M21:256] Temple of Triumph
+1 [CLB:837] Three Visits
+1 [J21:654] Timeless Witness
+1 [SNC:159] Titan of Industry
+1 [KHM:197] Toski, Bearer of Secrets
+1 [RTR:206] Trostani, Selesnya's Voice
+1 [RTR:207] Vitu-Ghazi Guildmage
+1 [KHC:77] Voice of Many
+1 [DGM:114] Voice of Resurgence
+1 [M12:160] Warstorm Surge
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [THS:209] Xenagos, the Reveler
+SB: 1 [C19:42] Ghired, Conclave Exile
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([MRD:165])([ELD:331],[CLB:301],[RAV:255],[GPT:150],[DOM:217],[BRC:144],[MRD:199],[SOM:175],[RAV:270],[SUM:274],[MRD:246])([AKH:1],[CMR:217],[CLB:218],[BFZ:144],[CLB:272],[C21:169],[SNC:148],[M15:283],[GTC:121],[SNC:112],[SNC:193],[CHK:175],[SLD:237],[ZEN:178],[SHM:237],[CHK:239],[C19:35],[J21:654],[SNC:159],[KHM:197],[RTR:206],[RTR:207],[KHC:77],[DGM:114])([THS:124])([ORI:174],[INV:246],[RTR:217],[XLN:191],[CLB:31],[ISD:199],[C19:6],[M12:160])([C20:26],[RTR:19],[SOI:227],[RTR:223])([ZEN:211],[ELD:333],[ZNR:261],[M21:246],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[SNC:250],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[GRN:254],[CLB:361],[RNA:259],[XLN:257],[GRN:258],[THB:347*],[THB:248],[M21:256],[KTK:248],[KTK:249])([M13:174],[THS:209])([ISD:130],[M21:177],[M13:170],[C19:25],[C19:26],[RAV:21],[CHK:225],[5ED:316],[MBS:15],[M12:190],[FRF:138],[CLB:837])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([C19:42])

@@ -17,30 +17,25 @@
 1 [RIX:45] Nezahal, Primal Tide
 1 [AFR:197] Old Gnawbone
 1 [CON:121] Progenitus
-1 [CHK:239] Sakura-Tribe Elder
 1 [MH2:234] Scion of Draco
 1 [BFZ:15] Ulamog, the Ceaseless Hunger
 1 [RIX:174] Zacama, Primal Calamity
 1 [MMQ:61] Brainstorm
 1 [7ED:67] Counterspell
 1 [RTR:35] Cyclonic Rift
-1 [ZEN:165] Harrow
 1 [CON:15] Path to Exile
 1 [ICE:54] Swords to Plowshares
 1 [6ED:161] Vampiric Tutor
 1 [MB1:285] Aminatou's Augury
 1 [CON:102] Conflux
 1 [ALA:164] Cruel Ultimatum
-1 [M21:177] Cultivate
 1 [SUM:105] Demonic Tutor
 1 [IKO:184] Eerie Ultimatum
 1 [IKO:185] Emergent Ultimatum
 1 [M13:170] Farseek
 1 [IKO:189] Genesis Ultimatum
 1 [M15:100] In Garruk's Wake
-1 [CHK:225] Kodama's Reach
 1 [10E:169] Plague Wind
-1 [M12:190] Rampant Growth
 1 [CMR:249] Reshape the Earth
 1 [IKO:204] Ruinous Ultimatum
 1 [ELD:331] Arcane Signet
@@ -97,6 +92,11 @@
 1 [KTK:230] Bloodstained Mire
 1 [KTK:239] Polluted Delta
 1 [KTK:249] Wooded Foothills
+1 [CMR:261] Three Visits
+1 [AFC:164] Nature's Lore
+1 [NEM:117] Skyshroud Claim
+1 [MB1:1127] Avacyn's Pilgrim
+1 [MM2:151] Noble Hierarch
 SB: 1 [DOM:198] Jodah, Archmage Eternal
-LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([MH2:234])([ELD:331],[GRN:233],[M21:228],[VOC:163],[9ED:297],[5DN:123],[MRD:199],[SUM:274],[M12:219])([CMR:217],[ROE:2],[AVR:6],[M12:165],[5DN:43],[KHM:168],[RIX:100],[ELD:190],[MH2:166],[CMR:280],[IKO:222],[NPH:37],[ROE:6],[CON:115],[CMR:526],[RIX:45],[AFR:197],[CON:121],[CHK:239],[BFZ:15],[RIX:174])([THB:169])([ARB:130],[JUD:139],[M19:65],[PCY:45],[RNA:22],[XLN:165],[OGW:147])([MMQ:61],[7ED:67],[RTR:35],[ZEN:165],[CON:15],[ICE:54],[6ED:161])([RNA:245],[RNA:246],[AKH:240],[ELD:333],[RNA:248],[RNA:251],[IKO:250],[JOU:163],[GRN:253],[IKO:251],[M19:254],[GRN:254],[VOW:264],[GRN:257],[RNA:259],[GRN:258],[KHM:275],[GRN:259],[KTK:248],[SUM:289],[SUM:287],[SUM:286],[SUM:290],[SUM:288],[SUM:291],[SUM:283],[SUM:284],[SUM:285],[SUM:282],[SLU:2],[SLU:5],[SLU:3],[KTK:230],[KTK:233],[KTK:239],[KTK:249])([HOU:140],[M13:199])([MB1:285],[CON:102],[ALA:164],[M21:177],[SUM:105],[IKO:184],[IKO:185],[M13:170],[IKO:189],[M15:100],[CHK:225],[10E:169],[M12:190],[CMR:249],[IKO:204])
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([MH2:234])([ELD:331],[GRN:233],[M21:228],[VOC:163],[9ED:297],[5DN:123],[MRD:199],[SUM:274],[M12:219])([CMR:217],[ROE:2],[AVR:6],[M12:165],[5DN:43],[KHM:168],[RIX:100],[ELD:190],[MH2:166],[CMR:280],[IKO:222],[NPH:37],[ROE:6],[CON:115],[CMR:526],[RIX:45],[AFR:197],[CON:121],[BFZ:15],[RIX:174],[MB1:1127],[MM2:151])([THB:169])([ARB:130],[JUD:139],[M19:65],[PCY:45],[RNA:22],[XLN:165],[OGW:147])([MMQ:61],[7ED:67],[RTR:35],[CON:15],[ICE:54],[6ED:161])([RNA:245],[RNA:246],[AKH:240],[ELD:333],[RNA:248],[RNA:251],[IKO:250],[JOU:163],[GRN:253],[IKO:251],[M19:254],[GRN:254],[VOW:264],[GRN:257],[RNA:259],[GRN:258],[KHM:275],[GRN:259],[KTK:248],[SUM:289],[SUM:287],[SUM:286],[SUM:290],[SUM:288],[SUM:291],[SUM:283],[SUM:284],[SUM:285],[SUM:282],[SLU:2],[SLU:5],[SLU:3],[KTK:230],[KTK:233],[KTK:239],[KTK:249])([HOU:140],[M13:199])([MB1:285],[CON:102],[ALA:164],[SUM:105],[IKO:184],[IKO:185],[M13:170],[IKO:189],[M15:100],[10E:169],[CMR:249],[IKO:204],[CMR:261],[AFC:164],[NEM:117])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([DOM:198])

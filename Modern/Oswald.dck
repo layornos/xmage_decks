@@ -1,0 +1,37 @@
+4 [AFR:28] Oswald Fiddlebender
+7 [UNH:136] Plains
+1 [NEO:268] Eiganjo, Seat of the Empire
+4 [MH2:259] Urza's Saga
+1 [MH2:227] Kaldra Compleat
+4 [PGPX:2016] Stoneforge Mystic
+4 [NEO:354] The Restoration of Eiganjo
+4 [C21:285] Darksteel Citadel
+1 [THB:236] Shadowspear
+1 [2X2:303] Crucible of Worlds
+2 [MH2:231] Nettlecyst
+4 [BRR:97] Mishra's Bauble
+4 [AFR:33] Portable Hole
+1 [SOK:158] Pithing Needle
+1 [MD1:21] Relic of Progenitus
+1 [BRR:84] Ichor Wellspring
+2 [SLD:99] Lightning Greaves
+3 [AFR:261] Treasure Vault
+4 [MH2:328] Esper Sentinel
+2 [BRR:118] Springleaf Drum
+4 [AFR:21] Ingenious Smith
+1 [BRR:74] Chromatic Star
+SB: 1 [ALA:10] Ethersworn Canonist
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 1 [NPH:159] Spellskite
+SB: 3 [NPH:7] Dispatch
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [SOK:156] Manriki-Gusari
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 1 [MBS:138] Sword of Feast and Famine
+SB: 1 [NPH:162] Torpor Orb
+SB: 1 [MH2:242] Void Mirror
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([MH2:328],[MH2:328],[MH2:328],[MH2:328])([MH2:227],[THB:236],[2X2:303],[MH2:231],[MH2:231],[BRR:97],[BRR:97],[BRR:97],[BRR:97],[AFR:33],[AFR:33],[AFR:33],[AFR:33],[SOK:158],[MD1:21],[BRR:84],[SLD:99],[BRR:118],[BRR:118],[SLD:99],[BRR:74])([AFR:28],[AFR:28],[AFR:28],[AFR:28],[PGPX:2016],[PGPX:2016],[PGPX:2016],[PGPX:2016],[AFR:21],[AFR:21],[AFR:21],[AFR:21])([NEO:354],[NEO:354],[NEO:354],[NEO:354])([UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[NEO:268],[C21:285],[C21:285],[C21:285],[C21:285],[MH2:259],[MH2:259],[MH2:259],[MH2:259],[AFR:261],[AFR:261],[AFR:261])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([ALA:10],[M15:225],[NPH:159])([NPH:7],[NPH:7],[NPH:7],[IKO:222])([DOM:213],[M20:227],[SOK:156],[M14:215],[THB:237],[MBS:138],[NPH:162],[MH2:242])

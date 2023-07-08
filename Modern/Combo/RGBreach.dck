@@ -1,0 +1,31 @@
+4 [KTK:230] Bloodstained Mire
+1 [NEO:266] Boseiju, Who Endures
+4 [J21:438] Dragon's Rage Channeler
+4 [NEO:141] Fable of the Mirror-Breaker
+1 [TSP:160] Grapeshot
+3 [5DN:127] Grinding Station
+4 [M11:149] Lightning Bolt
+4 [CSP:138] Mishra's Bauble
+1 [BRO:162] Mishra's Research Desk
+3 [BRO:274] Mountain
+2 [DOM:224] Mox Amber
+4 [MH2:138] Ragavan, Nimble Pilferer
+1 [THB:236] Shadowspear
+1 [BNG:162] Springleaf Drum
+4 [RNA:259] Stomping Ground
+4 [THB:161] Underworld Breach
+3 [J21:529] Unholy Heat
+4 [MH2:259] Urza's Saga
+4 [KTK:249] Wooded Foothills
+4 [2X2:296] Wrenn and Six
+SB: 2 [NEO:266] Boseiju, Who Endures
+SB: 3 [BRO:199] Haywire Mite
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 2 [KHM:305] Orvar, the All-Form
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [MRD:232] Pyrite Spellbomb
+SB: 2 [M21:201] Run Afoul
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([5DN:127],[5DN:127],[5DN:127],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[BRO:162],[DOM:224],[DOM:224],[THB:236],[BNG:162])([J21:438],[J21:438],[J21:438],[J21:438],[MH2:138],[MH2:138],[MH2:138],[MH2:138])([MH2:259],[MH2:259],[MH2:259],[MH2:259])([NEO:141],[NEO:141],[NEO:141],[NEO:141],[THB:161],[THB:161],[THB:161],[THB:161])([M11:149],[M11:149],[M11:149],[M11:149],[J21:529],[J21:529],[J21:529])([KTK:230],[KTK:230],[KTK:230],[KTK:230],[NEO:266],[BRO:274],[BRO:274],[BRO:274],[RNA:259],[RNA:259],[RNA:259],[RNA:259],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([2X2:296],[2X2:296],[2X2:296],[2X2:296])([TSP:160])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([NEO:266],[NEO:266])([BRO:199],[BRO:199],[BRO:199],[MID:257],[MRD:232],[M21:201],[M21:201],[THB:237],[M20:198],[M20:198])([KHM:305],[KHM:305])([IKO:222])

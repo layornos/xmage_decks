@@ -1,0 +1,32 @@
+3 [2XM:344] Thoughtseize
+3 [STA:31] Inquisition of Kozilek
+3 [2XM:343] Fatal Push
+4 [MH2:315] Ragavan, Nimble Pilferer
+4 [FUT:153] Tarmogoyf
+4 [MH1:217] Wrenn and Six
+2 [SLD:225] Kroxa, Titan of Death's Hunger
+4 [MH1:145] Seasoned Pyromancer
+4 [PUMA:U10] Liliana of the Veil
+2 [EXP:8] Blood Crypt
+1 [EXP:9] Stomping Ground
+1 [EXP:13] Overgrown Tomb
+4 [ZNE:3] Bloodstained Mire
+4 [ZNE:8] Verdant Catacombs
+3 [ZNE:4] Wooded Foothills
+1 [NEO:412] Boseiju, Who Endures
+2 [AFR:270] Swamp
+1 [AFR:274] Mountain
+1 [AFR:278] Forest
+2 [STA:42] Lightning Bolt
+2 [MH2:145] Unholy Heat
+4 [MH2:121] Dragon's Rage Channeler
+1 [MH2:313] Fury
+SB: 2 [NEO:412] Boseiju, Who Endures
+SB: 3 [MH2:317] Endurance
+SB: 2 [UMA:227] Engineered Explosives
+SB: 2 [P09:9] Terminate
+SB: 3 [PUMA:U26] Fulminator Mage
+SB: 1 [DKA:140] Huntmaster of the Fells
+SB: 2 [DTK:224] Kolaghan's Command
+LAYOUT MAIN:(1,5)(CMC,false,70)|([EXP:8],[EXP:8],[EXP:9],[EXP:13],[ZNE:3],[ZNE:3],[ZNE:3],[ZNE:3],[ZNE:8],[ZNE:8],[ZNE:8],[ZNE:8],[ZNE:4],[ZNE:4],[ZNE:4],[NEO:412],[AFR:270],[AFR:274],[AFR:278],[AFR:270])([2XM:344],[2XM:344],[2XM:344],[STA:31],[STA:31],[STA:31],[2XM:343],[2XM:343],[2XM:343],[MH2:315],[MH2:315],[MH2:315],[MH2:315],[STA:42],[STA:42],[MH2:145],[MH2:145],[MH2:121],[MH2:121],[MH2:121],[MH2:121])([FUT:153],[FUT:153],[FUT:153],[FUT:153],[MH1:217],[MH1:217],[MH1:217],[MH1:217],[SLD:225],[SLD:225])([MH1:145],[MH1:145],[MH1:145],[MH1:145],[PUMA:U10],[PUMA:U10],[PUMA:U10],[PUMA:U10])([MH2:313])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([NEO:412],[NEO:412],[MH2:317],[MH2:317],[MH2:317])([UMA:227],[UMA:227],[P09:9],[P09:9],[PUMA:U26],[PUMA:U26],[PUMA:U26])([DKA:140],[DTK:224],[DTK:224])

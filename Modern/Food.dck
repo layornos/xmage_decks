@@ -1,0 +1,32 @@
+4 [MH2:186] Asmoranomardicadaistinaculdacar
+3 [ELD:81] Cauldron Familiar
+3 [ELD:152] Feasting Troll King
+4 [ELD:160] Gilded Goose
+4 [KLD:97] Ovalchase Daredevil
+3 [FUT:90] Street Wraith
+4 [WAR:160] Finale of Devastation
+4 [AER:57] Fatal Push
+1 [MID:257] Pithing Needle
+1 [THB:236] Shadowspear
+1 [THB:237] Soul-Guide Lantern
+4 [MH2:240] The Underworld Cookbook
+1 [ELD:237] Witch's Oven
+4 [ELD:179] Trail of Crumbs
+4 [KLD:243] Blooming Marsh
+1 [NEO:266] Boseiju, Who Endures
+2 [KHM:254] Darkbore Pathway
+1 [DMU:274] Forest
+2 [GRN:253] Overgrown Tomb
+1 [DMU:268] Swamp
+1 [M15:248] Urborg, Tomb of Yawgmoth
+3 [MH2:259] Urza's Saga
+4 [ZEN:229] Verdant Catacombs
+1 [MH2:261] Yavimaya, Cradle of Growth
+SB: 1 [THB:237] Soul-Guide Lantern
+SB: 2 [GRN:152] Assassin's Trophy
+SB: 3 [H1R:21] Force of Vigor
+SB: 3 [M21:116] Necromentia
+SB: 2 [M21:201] Run Afoul
+SB: 4 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MID:257],[THB:236],[THB:237],[MH2:240],[MH2:240],[MH2:240],[MH2:240],[ELD:237])([MH2:186],[MH2:186],[MH2:186],[MH2:186],[ELD:81],[ELD:81],[ELD:81],[ELD:152],[ELD:152],[ELD:152],[ELD:160],[ELD:160],[ELD:160],[ELD:160],[KLD:97],[KLD:97],[KLD:97],[KLD:97],[FUT:90],[FUT:90],[FUT:90])([MH2:259],[MH2:259],[MH2:259])([ELD:179],[ELD:179],[ELD:179],[ELD:179])([AER:57],[AER:57],[AER:57],[AER:57])([KLD:243],[KLD:243],[KLD:243],[KLD:243],[NEO:266],[KHM:254],[KHM:254],[DMU:274],[GRN:253],[GRN:253],[DMU:268],[M15:248],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[MH2:261])([WAR:160],[WAR:160],[WAR:160],[WAR:160])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([THB:237],[M21:201],[M21:201],[THS:107],[THS:107],[THS:107],[THS:107])([GRN:152],[GRN:152])([M21:116],[M21:116],[M21:116])([H1R:21],[H1R:21],[H1R:21])

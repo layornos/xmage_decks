@@ -1,0 +1,33 @@
+4 [WWK:121] Amulet of Vigor
+4 [WAR:149] Arboreal Grazer
+2 [M21:173] Azusa, Lost but Seeking
+1 [WWK:132] Bojuka Bog
+1 [RAV:275] Boros Garrison
+2 [NEO:266] Boseiju, Who Endures
+3 [AVR:226] Cavern of Souls
+1 [OGW:170] Crumbling Vestige
+1 [VOW:195] Cultivator Colossus
+4 [THB:169] Dryad of the Ilysian Grove
+1 [ZEN:201] Expedition Map
+4 [WWK:99] Explore
+4 [ONE:276] Forest
+2 [GPT:158] Gruul Turf
+4 [M12:188] Primeval Titan
+3 [RAV:281] Selesnya Sanctuary
+4 [DIS:180] Simic Growth Chamber
+1 [AVR:229] Slayers' Stronghold
+4 [FUT:139] Summoner's Pact
+1 [RAV:282] Sunhome, Fortress of the Legion
+2 [FUT:173] Tolaria West
+4 [MH2:259] Urza's Saga
+2 [ZEN:228] Valakut, the Molten Pinnacle
+1 [TSP:281] Vesuva
+SB: 2 [NEO:266] Boseiju, Who Endures
+SB: 2 [NPH:57] Dismember
+SB: 3 [MH2:157] Endurance
+SB: 3 [5DN:118] Engineered Explosives
+SB: 2 [H1R:21] Force of Vigor
+SB: 1 [M21:248] Radiant Fountain
+SB: 2 [SOI:233] Tireless Tracker
+LAYOUT MAIN:(1,6)(EDH_POWER_LEVEL,false,50)|([WWK:121],[WWK:121],[WWK:121],[WWK:121],[RAV:275],[OGW:170],[WWK:99],[WWK:99],[WWK:99],[WWK:99],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[GPT:158],[GPT:158],[RAV:281],[RAV:281],[RAV:281],[DIS:180],[DIS:180],[DIS:180],[DIS:180],[AVR:229],[RAV:282],[ZEN:228],[ZEN:228])([TSP:281])([WWK:132],[AVR:226],[AVR:226],[AVR:226])([WAR:149],[WAR:149],[WAR:149],[WAR:149],[NEO:266],[NEO:266],[VOW:195],[THB:169],[THB:169],[THB:169],[THB:169])([ZEN:201],[M12:188],[M12:188],[M12:188],[M12:188],[FUT:139],[FUT:139],[FUT:139],[FUT:139],[FUT:173],[FUT:173],[MH2:259],[MH2:259],[MH2:259],[MH2:259])([M21:173],[M21:173])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEO:266],[NEO:266],[NPH:57],[NPH:57],[MH2:157],[MH2:157],[MH2:157],[5DN:118],[5DN:118],[5DN:118],[H1R:21],[H1R:21],[M21:248],[SOI:233],[SOI:233])

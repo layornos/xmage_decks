@@ -1,0 +1,81 @@
+1 [DMU:392] Aether Channeler
+1 [M14:43] Archaeomancer
+1 [KHC:82] Brago, King Eternal
+1 [ELD:335] Charming Prince
+1 [KLD:176] Cloudblazer
+1 [AVR:47] Deadeye Navigator
+1 [CLB:63] Displacer Kitten
+1 [ONE:10] Elesh Norn, Mother of Machines
+1 [AER:19] Felidar Guardian
+1 [ISD:15] Fiend Hunter
+1 [EVE:6] Flickerwisp
+1 [SNC:18] Inspiring Overseer
+1 [ORI:21] Knight of the White Orchid
+1 [ZEN:18] Kor Cartographer
+1 [BRO:12] Loran of the Third Path
+1 [LRW:76] Mulldrifter
+1 [CLB:290] Oji, the Exquisite Blade
+1 [USG:88] Peregrine Drake
+1 [J22:8] Preston, the Vanisher
+1 [OGW:157] Reflector Mage
+1 [AVR:32] Restoration Angel
+1 [ZNR:322] Skyclave Apparition
+1 [M21:239] Solemn Simulacrum
+1 [J21:718] Soulherder
+1 [NEO:38] Spirited Companion
+1 [M12:39] Sun Titan
+1 [FUT:46] Venser, Shaper Savant
+1 [ROE:53] Wall of Omens
+1 [MH1:76] Watcher for Tomorrow
+1 [CLB:58] Blur
+1 [AVR:12] Cloudshift
+1 [7ED:67] Counterspell
+1 [EMN:55] Displace
+1 [SOI:16] Eerie Interlude
+1 [H1R:1] Ephemerate
+1 [SOI:61] Essence Flux
+1 [THB:16] Flicker of Fate
+1 [AVR:57] Ghostly Flicker
+1 [RNA:13] Justiciar's Portal
+1 [TSP:29] Momentary Blink
+1 [DMU:58] Negate
+1 [CON:15] Path to Exile
+1 [NEO:72] Planar Incision
+1 [ICE:54] Swords to Plowshares
+1 [NEO:13] Farewell
+1 [RAV:21] Hour of Reckoning
+1 [ELD:331] Arcane Signet
+1 [DIS:159] Azorius Signet
+1 [AVR:214] Conjurer's Closet
+1 [CLB:309] Decanter of Endless Water
+1 [9ED:297] Fellwar Stone
+1 [10E:335] Mind Stone
+1 [KLD:226] Panharmonicon
+1 [CLB:334] Prized Statue
+1 [SUM:274] Sol Ring
+1 [MRD:256] Talisman of Progress
+1 [BRC:167] Thought Vessel
+1 [AVR:10] Cathars' Crusade
+1 [ZNR:326] Confounding Conundrum
+1 [ZEN:14] Journey to Nowhere
+1 [M13:22] Oblivion Ring
+1 [THB:58] Omen of the Sea
+1 [PLC:45] Reality Acid
+1 [AFR:364] Teleportation Circle
+1 [NEO:40] Touch the Spirit Realm
+1 [DIS:170] Azorius Chancery
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [XLN:255] Glacial Fortress
+1 [ELD:247] Mystic Sanctuary
+1 [SOI:278] Port Town
+1 [BFZ:241] Prairie Stream
+1 [M19:254] Reliquary Tower
+1 [CLB:360] Sea of Clouds
+1 [ODY:327] Skycloud Expanse
+15 [ONE:272] Plains
+8 [ONE:273] Island
+SB: 1 [CLB:2] Abdel Adrian, Gorion's Ward
+SB: 1 [CLB:60] Candlekeep Sage
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([M21:239])([ELD:331],[DIS:159],[AVR:214],[CLB:309],[9ED:297],[10E:335],[KLD:226],[CLB:334],[SUM:274],[MRD:256],[BRC:167])([DMU:392],[M14:43],[KHC:82],[ELD:335],[KLD:176],[AVR:47],[CLB:63],[ONE:10],[AER:19],[ISD:15],[EVE:6],[SNC:18],[ORI:21],[ZEN:18],[BRO:12],[LRW:76],[CLB:290],[USG:88],[J22:8],[OGW:157],[AVR:32],[ZNR:322],[J21:718],[M12:39],[FUT:46],[ROE:53],[MH1:76])([NEO:38])([AVR:10],[ZNR:326],[ZEN:14],[M13:22],[THB:58],[PLC:45],[AFR:364],[NEO:40])([CLB:58],[AVR:12],[7ED:67],[EMN:55],[SOI:16],[H1R:1],[SOI:61],[THB:16],[AVR:57],[RNA:13],[TSP:29],[DMU:58],[CON:15],[NEO:72],[ICE:54])([DIS:170],[ELD:333],[CON:142],[XLN:255],[ELD:247],[SOI:278],[BFZ:241],[M19:254],[CLB:360],[ODY:327],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:273],[ONE:272])([NEO:13],[RAV:21])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CLB:2],[CLB:60])

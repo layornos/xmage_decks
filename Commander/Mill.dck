@@ -1,0 +1,76 @@
+1 [10E:82] Dreamborn Muse
+1 [XLN:57] Fleet Swallower
+1 [ZEN:47] Hedron Crab
+1 [VOC:33] Imperious Mindbreaker
+1 [M12:59] Jace's Archivist
+1 [NEO:307] Jin-Gitaxias, Progress Tyrant
+1 [MID:313] Lier, Disciple of the Drowned
+1 [SOI:73] Manic Scribe
+1 [ELD:60] Overwhelmed Apprentice
+1 [CM2:48] Riddlekeeper
+1 [ZNR:295] Ruin Crab
+1 [MIC:16] Shadow Kin
+1 [5DN:150] Silent Arbiter
+1 [WAR:68] Spark Double
+1 [THB:290] Sphinx Mindbreaker
+1 [ISD:84] Undead Alchemist
+1 [ALL:22a] Arcane Denial
+1 [ZEN:41] Archive Trap
+1 [SCG:29] Brain Freeze
+1 [MMQ:61] Brainstorm
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [ELD:42] Didn't Say Please
+1 [MIC:13] Drown in Dreams
+1 [6ED:83] Mystical Tutor
+1 [ZNR:71] Negate
+1 [PLC:44] Pongify
+1 [RTR:47] Psychic Spiral
+1 [FRF:46] Reality Shift
+1 [RNA:57] Thought Collapse
+1 [DKA:52] Thought Scour
+1 [M12:80] Visions of Beyond
+1 [WAR:43] Bond of Insight
+1 [SNC:38] Cut Your Losses
+1 [MH2:336] Fractured Sanity
+1 [ZNR:330] Maddening Cacophony
+1 [M15:70] Mind Sculpt
+1 [STX:54] Solve the Equation
+1 [SOI:88] Startled Awake
+1 [AFR:368] Tasha's Hideous Laughter
+1 [M14:77] Traumatize
+1 [USG:111] Windfall
+1 [KTK:216] Altar of the Brood
+1 [ELD:331] Arcane Signet
+1 [ELD:343] Folio of Fancies
+1 [TMP:290] Grindstone
+1 [MRD:199] Lightning Greaves
+1 [MRD:204] Mesmeric Orb
+1 [10E:335] Mind Stone
+1 [NPH:144] Mindcrank
+1 [TMP:306] Sapphire Medallion
+1 [7ED:316] Sky Diamond
+1 [SUM:274] Sol Ring
+1 [CMR:346] Thought Vessel
+1 [CMR:63] Court of Cunning
+1 [GRN:39] Drowned Secrets
+1 [HOU:35] Fraying Sanity
+1 [ALA:50] Memory Erosion
+1 [M19:67] Patient Rebuilding
+1 [TMP:80] Propaganda
+1 [M19:68] Psychic Corrosion
+1 [PCY:45] Rhystic Study
+1 [ORI:76] Sphinx's Tutelage
+1 [M21:296] Teferi's Tutelage
+1 [M14:60] Jace, Memory Adept
+1 [WAR:54*] Jace, Wielder of Mysteries
+1 [ELD:242] Castle Vantress
+1 [NCC:416] Myriad Landscape
+1 [ELD:247] Mystic Sanctuary
+1 [NEO:271] Otawara, Soaring City
+1 [M19:254] Reliquary Tower
+1 [HOU:182] Scavenger Grounds
+27 [SNC:264] Island
+SB: 1 [JMP:10] Bruvac the Grandiloquent
+LAYOUT MAIN:(1,2)(COLOR_IDENTITY,false,70)|([5DN:150],[KTK:216],[ELD:331],[TMP:290],[MRD:199],[MRD:204],[10E:335],[NPH:144],[TMP:306],[SUM:274],[CMR:346],[NCC:416],[M19:254],[HOU:182])([10E:82],[XLN:57],[ZEN:47],[VOC:33],[M12:59],[NEO:307],[MID:313],[SOI:73],[ELD:60],[CM2:48],[ZNR:295],[MIC:16],[WAR:68],[THB:290],[ISD:84],[ALL:22a],[ZEN:41],[SCG:29],[MMQ:61],[7ED:67],[RTR:35],[ELD:42],[MIC:13],[6ED:83],[ZNR:71],[PLC:44],[RTR:47],[FRF:46],[RNA:57],[DKA:52],[M12:80],[WAR:43],[SNC:38],[MH2:336],[ZNR:330],[M15:70],[STX:54],[SOI:88],[AFR:368],[M14:77],[USG:111],[ELD:343],[7ED:316],[CMR:63],[GRN:39],[HOU:35],[ALA:50],[M19:67],[TMP:80],[M19:68],[PCY:45],[ORI:76],[M21:296],[M14:60],[WAR:54*],[ELD:242],[ELD:247],[NEO:271],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([JMP:10])

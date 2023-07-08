@@ -1,0 +1,31 @@
+4 [DMU:146] Squee, Dubious Monarch
+4 [PRM:53832] Goblin Rabblemaster
+4 [GRN:109] Legion Warboss
+4 [MH2:414] Ignoble Hierarch
+4 [2X2:357] Unearth
+4 [SLD:166] Collected Company
+4 [MH1:209] Munitions Expert
+1 [TMP:179] Goblin Bombardment
+4 [MH2:126] Fury
+4 [ONS:330] Wooded Foothills
+4 [ONS:313] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+2 [RNA:259] Stomping Ground
+1 [RTR:243] Overgrown Tomb
+2 [AFR:351] Den of the Bugbear
+2 [MH2:440] Verdant Catacombs
+1 [UST:216] Forest
+1 [UST:214] Swamp
+1 [UST:215] Mountain
+1 [SNC:295] Ziatora's Proving Ground
+4 [MH2:315] Ragavan, Nimble Pilferer
+1 [NEO:412] Boseiju, Who Endures
+2 [SOM:225] Copperline Gorge
+SB: 2 [M19:128] Alpine Moon
+SB: 3 [SNC:246] Unlicensed Hearse
+SB: 3 [2X2:389] Terminate
+SB: 2 [F12:5] Ancient Grudge
+SB: 3 [NEO:412] Boseiju, Who Endures
+SB: 1 [GPT:75] Shattering Spree
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([DMU:146],[DMU:146],[DMU:146],[DMU:146],[PRM:53832],[PRM:53832],[PRM:53832],[PRM:53832],[GRN:109],[GRN:109],[GRN:109],[GRN:109],[MH2:414],[MH2:414],[MH2:414],[MH2:414],[MH1:209],[MH1:209],[MH1:209],[MH1:209],[MH2:126],[MH2:126],[MH2:126],[MH2:126],[MH2:315],[MH2:315],[MH2:315],[MH2:315])([TMP:179])([SLD:166],[SLD:166],[SLD:166],[SLD:166])([ONS:330],[ONS:330],[ONS:330],[ONS:330],[ONS:313],[ONS:313],[ONS:313],[ONS:313],[RTR:238],[RNA:259],[RNA:259],[RTR:243],[AFR:351],[AFR:351],[MH2:440],[MH2:440],[UST:216],[UST:214],[UST:215],[SNC:295],[NEO:412],[SOM:225],[SOM:225])([2X2:357],[2X2:357],[2X2:357],[2X2:357])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([NEO:412],[NEO:412],[NEO:412])([M19:128],[M19:128])([SNC:246],[SNC:246],[SNC:246],[2X2:389],[2X2:389],[2X2:389])([GPT:75],[F12:5],[F12:5])

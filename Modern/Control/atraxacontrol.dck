@@ -1,0 +1,24 @@
+4 [ONE:196] Atraxa, Grand Unifier
+4 [2X2:167] Aethermage's Touch
+4 [ELD:249] Witch's Cottage
+3 [PGRN:259p] Watery Grave
+2 [RTR:241] Hallowed Fountain
+1 [SNC:254] Raffine's Tower
+4 [KTK:233] Flooded Strand
+4 [KTK:239] Polluted Delta
+2 [SLU:5] Misty Rainforest
+1 [UNH:137] Island
+1 [UNH:136] Plains
+4 [SLD:252] Teferi, Time Raveler
+4 [MH2:32] Solitude
+2 [A25:62] Jace, the Mind Sculptor
+4 [STA:15] Counterspell
+1 [UNH:138] Swamp
+2 [2X2:63] Spell Pierce
+4 [H1R:7] Archmage's Charm
+2 [TSR:390] Chalice of the Void
+1 [2X2:280] Supreme Verdict
+4 [AER:57] Fatal Push
+2 [MID:44] Consider
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([TSR:390],[TSR:390])([ONE:196],[ONE:196],[ONE:196],[ONE:196],[MH2:32],[MH2:32],[MH2:32],[MH2:32])([2X2:167],[2X2:167],[2X2:167],[2X2:167],[STA:15],[STA:15],[STA:15],[STA:15],[2X2:63],[2X2:63],[H1R:7],[H1R:7],[H1R:7],[H1R:7],[AER:57],[AER:57],[AER:57],[AER:57],[MID:44],[MID:44])([ELD:249],[ELD:249],[ELD:249],[ELD:249],[PGRN:259p],[PGRN:259p],[PGRN:259p],[RTR:241],[RTR:241],[SNC:254],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[SLU:5],[SLU:5],[UNH:137],[UNH:136],[UNH:138])([SLD:252],[SLD:252],[SLD:252],[SLD:252],[A25:62],[A25:62])([2X2:280])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

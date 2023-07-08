@@ -1,0 +1,93 @@
+1 [DST:130] Mycosynth Lattice
+1 [NEM:139] Tangle Wire
+1 [TMP:305] Ruby Medallion
+1 [ELD:331] Arcane Signet
+1 [VOW:139] Abrade
+1 [5ED:262] Pyroblast
+1 [SUM:153] Fork
+1 [C20:50] Deflecting Swat
+1 [AFR:169] You Find Some Prisoners
+1 [M21:165] Thrill of Possibility
+1 [7ED:182] Final Fortune
+1 [CLB:785] Chaos Warp
+1 [WWK:87] Ricochet Trap
+1 [4ED:218] Red Elemental Blast
+1 [ZNR:174] Valakut Awakening
+1 [ALL:68] Burnout
+1 [IKO:116] Fire Prophecy
+1 [KHM:153] Tibalt's Trickery
+1 [CMR:211] Wheel of Misfortune
+1 [M11:154] Pyroclasm
+1 [CLB:799] Jeska's Will
+1 [RTR:111] Vandalblast
+1 [USG:188] Gamble
+1 [THB:161] Underworld Breach
+1 [9ED:176] Blood Moon
+1 [SNC:124] Sticky Fingers
+1 [CHK:268] Sensei's Divining Top
+1 [TMP:294] Lotus Petal
+1 [XLN:250] Treasure Map
+1 [5DN:142] Paradise Mantle
+1 [5ED:350] Ashnod's Transmogrant
+1 [SUM:274] Sol Ring
+1 [9ED:293] Defense Grid
+1 [NCC:368] Idol of Oblivion
+1 [MRD:152] Chrome Mox
+1 [SOM:179] Mox Opal
+1 [CMR:319] Jeweled Lotus
+1 [KHM:235] Bloodline Pretender
+1 [5ED:388] Mana Vault
+1 [BNG:162] Springleaf Drum
+1 [SOM:171] Liquimetal Coating
+1 [DOM:224] Mox Amber
+1 [MH2:228] Liquimetal Torque
+1 [AER:164] Metallic Mimic
+1 [AFR:167] Xorn
+1 [MH2:281] Imperial Recruiter
+1 [FUT:101] Magus of the Moon
+1 [FEM:50] Dwarven Armorer
+1 [APC:56] Bloodfire Dwarf
+1 [MIR:169] Dwarven Miner
+1 [ULG:80] Goblin Welder
+1 [KHM:158] Vault Robber
+1 [ODY:185] Dwarven Grunt
+1 [HML:72a] Dwarven Trader
+1 [ONS:199] Dwarven Blastminer
+1 [JUD:95] Liberated Dwarf
+1 [TOR:96] Enslaved Dwarf
+1 [ODY:222] Spark Mage
+1 [JUD:86] Dwarven Scorcher
+1 [KHM:121] Axgard Cavalry
+1 [7ED:191] Goblin Matron
+1 [JUD:84] Dwarven Bloodboiler
+1 [ZEN:223] Scalding Tarn
+10 [SNC:268] Mountain
+1 [AVR:226] Cavern of Souls
+1 [HOU:184] Survivors' Encampment
+1 [WAR:244] Blast Zone
+1 [ZEN:211] Arid Mesa
+1 [TSP:274] Gemstone Caverns
+1 [DRK:117] Maze of Ith
+1 [KTK:230] Bloodstained Mire
+1 [MRD:282] Great Furnace
+1 [AFR:261] Treasure Vault
+1 [MH2:259] Urza's Saga
+1 [HOU:182] Scavenger Grounds
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ODY:313] Barbarian Ring
+1 [4ED:363] Strip Mine
+1 [H1R:40] Prismatic Vista
+1 [ELD:243] Dwarven Mine
+1 [CLB:929] War Room
+1 [KLD:247] Inventors' Fair
+1 [OGW:172] Holdout Settlement
+1 [WAR:1*] Karn, the Great Creator
+1 [M21:164] Terror of the Peaks
+1 [KTK:216] Altar of the Brood
+1 [RAV:257] Cloudstone Curio
+1 [J21:759] Universal Automaton
+1 [M13:202] Clock of Omens
+1 [C19:24] Dockside Extortionist
+SB: 1 [KHM:142] Magda, Brazen Outlaw
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,70)|([KHM:235],[AER:164],[J21:759])([MRD:282],[AFR:261])([DST:130],[NEM:139],[TMP:305],[ELD:331],[CHK:268],[TMP:294],[XLN:250],[5DN:142],[5ED:350],[SUM:274],[9ED:293],[NCC:368],[MRD:152],[SOM:179],[CMR:319],[5ED:388],[BNG:162],[SOM:171],[DOM:224],[MH2:228],[KTK:216],[RAV:257],[M13:202])([AFR:167],[MH2:281],[FUT:101],[FEM:50],[APC:56],[MIR:169],[ULG:80],[KHM:158],[ODY:185],[HML:72a],[ONS:199],[JUD:95],[TOR:96],[ODY:222],[JUD:86],[KHM:121],[7ED:191],[JUD:84],[M21:164],[C19:24])([MH2:259])([THB:161],[9ED:176],[SNC:124])([VOW:139],[5ED:262],[SUM:153],[C20:50],[AFR:169],[M21:165],[7ED:182],[CLB:785],[WWK:87],[4ED:218],[ZNR:174],[ALL:68],[IKO:116],[KHM:153])([ZEN:223],[SNC:268],[SNC:268],[AVR:226],[HOU:184],[WAR:244],[ZEN:211],[TSP:274],[SNC:268],[DRK:117],[KTK:230],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[HOU:182],[SNC:268],[THS:223],[ODY:313],[4ED:363],[H1R:40],[ELD:243],[CLB:929],[KLD:247],[OGW:172])([WAR:1*])([CMR:211],[M11:154],[CLB:799],[RTR:111],[USG:188])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([KHM:142])

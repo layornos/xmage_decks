@@ -1,0 +1,32 @@
+4 [ZEN:211] Arid Mesa
+4 [RAV:191] Autochthon Wurm
+2 [RNA:245] Blood Crypt
+2 [NEO:266] Boseiju, Who Endures
+1 [CHK:273] Boseiju, Who Shelters All
+4 [MH2:118] Calibrated Blast
+2 [TSB:118] Desert
+4 [ROE:4] Emrakul, the Aeons Torn
+4 [TSP:274] Gemstone Caverns
+2 [DMU:271] Mountain
+1 [NEO:271] Otawara, Soaring City
+1 [SNC:254] Raffine's Tower
+2 [HOU:181] Ramunap Ruins
+4 [ZEN:223] Scalding Tarn
+1 [HOU:182] Scavenger Grounds
+4 [MH2:234] Scion of Draco
+4 [SNC:287] Shadow of Mortality
+3 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SNC:257] Spara's Headquarters
+1 [RNA:259] Stomping Ground
+4 [AKH:249] Sunscorched Desert
+2 [J21:526] Throes of Chaos
+3 [KTK:249] Wooded Foothills
+SB: 1 [WWK:132] Bojuka Bog
+SB: 1 [NEO:266] Boseiju, Who Endures
+SB: 3 [CHK:273] Boseiju, Who Shelters All
+SB: 3 [DIS:150] Crime // Punishment
+SB: 2 [TSB:118] Desert
+SB: 4 [EMN:205] Nephalia Academy
+SB: 1 [NEO:271] Otawara, Soaring City
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,93)|([MH2:234],[MH2:234],[MH2:234],[MH2:234])([RAV:191],[RAV:191],[RAV:191],[RAV:191],[ROE:4],[ROE:4],[ROE:4],[ROE:4],[SNC:287],[SNC:287],[SNC:287],[SNC:287])([MH2:118],[MH2:118],[MH2:118],[MH2:118])([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[RNA:245],[RNA:245],[NEO:266],[NEO:266],[CHK:273],[TSB:118],[TSB:118],[TSP:274],[TSP:274],[TSP:274],[TSP:274],[DMU:271],[DMU:271],[NEO:271],[SNC:254],[HOU:181],[HOU:181],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[HOU:182],[NEO:276],[NEO:276],[NEO:276],[SNC:257],[RNA:259],[AKH:249],[AKH:249],[AKH:249],[AKH:249],[KTK:249],[KTK:249],[KTK:249])([J21:526],[J21:526])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([WWK:132],[NEO:266],[CHK:273],[CHK:273],[CHK:273],[TSB:118],[TSB:118],[EMN:205],[EMN:205],[EMN:205],[EMN:205],[NEO:271])([DIS:150],[DIS:150],[DIS:150])

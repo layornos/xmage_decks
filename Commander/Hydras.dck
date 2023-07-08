@@ -1,0 +1,91 @@
+1 [TMP:315] Ancient Tomb
+1 [ORI:169] Animist's Awakening
+1 [CON:98] Apocalypse Hydra
+1 [ELD:331] Arcane Signet
+1 [M19:130] Banefire
+1 [NPH:103] Beast Within
+1 [M12:165] Birds of Paradise
+1 [NEO:266] Boseiju, Who Endures
+1 [ELD:240] Castle Garenbrig
+1 [BFZ:235] Cinder Glade
+1 [GTC:151] Clan Defiance
+1 [WWK:76] Comet Storm
+1 [ELD:333] Command Tower
+1 [STX:308] Crackle with Power
+1 [ZNR:261] Cragcrown Pathway
+1 [M21:177] Cultivate
+1 [C20:50] Deflecting Swat
+1 [10E:321] Doubling Cube
+1 [RAV:158] Doubling Season
+1 [RNA:99] Electrodominance
+1 [C21:403] Elementalist's Palette
+1 [M15:173] Elvish Mystic
+1 [M13:170] Farseek
+1 [WAR:160] Finale of Devastation
+1 [SHM:271] Fire-Lit Thicket
+10 [BRO:276] Forest
+1 [M21:186] Garruk's Uprising
+1 [M15:176] Genesis Hydra
+1 [J21:693] Goblin Anarchomancer
+1 [9ED:245] Greater Good
+1 [MBS:81] Green Sun's Zenith
+1 [GPT:150] Gruul Signet
+1 [M21:188] Heroic Intervention
+1 [KTK:136] Hooded Hydra
+1 [M19:189] Hungering Hydra
+1 [JOU:128] Hydra Broodmaster
+1 [DOM:133] Jaya's Immolating Inferno
+1 [CLB:799] Jeska's Will
+1 [M14:181] Kalonian Hydra
+1 [DMU:250] Karplusan Forest
+1 [ISD:243] Kessig Wolf Run
+1 [AFC:321] Klauth's Will
+1 [AFR:259] Lair of the Hydra
+1 [CMA:124] Lifeblood Hydra
+1 [MRD:199] Lightning Greaves
+1 [M19:314] Llanowar Elves
+1 [2XM:270] Mana Crypt
+1 [SHM:122] Mana Reflection
+1 [40K:133] Mawloc
+1 [THS:162] Mistcutter Hydra
+3 [BRO:274] Mountain
+1 [5ED:316] Nature's Lore
+1 [AFC:310] Neverwinter Hydra
+1 [40K:95] Nexos
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [THB:190] Nyxbloom Ancient
+1 [M13:183] Primordial Hydra
+1 [H1R:40] Prismatic Vista
+1 [J21:710] Reap the Past
+1 [ELD:172] Return of the Wildspeaker
+1 [RNA:201] Rhythm of the Wild
+1 [MID:266] Rockfall Vale
+1 [XLN:256] Rootbound Crag
+1 [DGM:100] Savageborn Hydra
+1 [JMP:429] Selvala, Heart of the Wilds
+1 [ZNR:161] Shatterskull Smashing
+1 [DMU:143] Shivan Devastator
+1 [SUM:274] Sol Ring
+1 [CLB:361] Spire Garden
+1 [40K:98] Sporocyst
+1 [ELD:322] Steelbane Hydra
+1 [RNA:259] Stomping Ground
+1 [ELD:235] Stonecoil Serpent
+1 [5ED:329] Sylvan Library
+1 [SUM:287] Taiga
+1 [40K:100] Tervigon
+1 [ELD:161] The Great Henge
+1 [IKO:237] The Ozolith
+1 [LRW:263] Thousand-Year Elixir
+1 [CLB:837] Three Visits
+1 [MH1:189] Unbound Flourishing
+1 [ZEN:229] Verdant Catacombs
+1 [M20:200] Voracious Hydra
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [6ED:269] Worldly Tutor
+1 [MH2:261] Yavimaya, Cradle of Growth
+1 [OGW:147] Zendikar Resurgent
+SB: 1 [SHM:214] Rosheen Meanderer
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([ELD:235])([ELD:331],[10E:321],[C21:403],[GPT:150],[MRD:199],[2XM:270],[SUM:274],[ELD:161],[IKO:237],[LRW:263])([CON:98],[M12:165],[M15:173],[M15:176],[J21:693],[KTK:136],[M19:189],[JOU:128],[M14:181],[CMA:124],[M19:314],[40K:133],[THS:162],[AFC:310],[40K:95],[M13:183],[DGM:100],[JMP:429],[DMU:143],[40K:98],[ELD:322],[40K:100],[M20:200])([THB:190])([RAV:158],[M21:186],[9ED:245],[SHM:122],[RNA:201],[5ED:329],[MH1:189],[OGW:147])([NPH:103],[WWK:76],[C20:50],[RNA:99],[M21:188],[AFC:321],[ELD:172],[6ED:269])([TMP:315],[NEO:266],[ELD:240],[BFZ:235],[ELD:333],[ZNR:261],[SHM:271],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[DMU:250],[ISD:243],[AFR:259],[BRO:274],[BRO:274],[BRO:274],[H1R:40],[MID:266],[XLN:256],[CLB:361],[RNA:259],[SUM:287],[ZEN:229],[KTK:248],[KTK:249],[MH2:261])([WAR:169*])([ORI:169],[M19:130],[GTC:151],[STX:308],[M21:177],[M13:170],[WAR:160],[MBS:81],[DOM:133],[CLB:799],[5ED:316],[J21:710],[ZNR:161],[CLB:837])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([SHM:214])

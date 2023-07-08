@@ -1,0 +1,69 @@
+1 [J21:75] Esper Sentinel
+1 [JOU:74] King Macar, the Gold-Cursed
+1 [CHK:124] Marrow-Gnawer
+1 [CHK:33] Masako the Humorless
+1 [AFR:28] Oswald Fiddlebender
+19 [DOM:101] Rat Colony
+1 [AER:23] Sram, Senior Edificer
+1 [NEC:39] Aerial Surveyor
+1 [ELD:331] Arcane Signet
+1 [KLD:198] Bomat Bazaar Barge
+1 [MH2:224] Dermotaxi
+1 [KLD:214] Fleetwheel Cruiser
+1 [NEO:18] Imperial Recovery Unit
+1 [KLD:220] Key to the City
+1 [MRD:203] Mask of Memory
+1 [NEO:249] Mechtitan Core
+1 [NEO:247] High-Speed Hoverbike
+1 [GPT:155] Orzhov Signet
+1 [WAR:24] Parhelion II
+1 [AER:170] Peacewalker Colossus
+1 [NEO:255] Reckoner Bankbuster
+1 [KLD:234] Skysovereign, Consul Flagship
+1 [SUM:274] Sol Ring
+1 [NEO:260] Surgehacker Mech
+1 [DOM:237] Weatherlight
+1 [SOI:242] Anguished Unmaking
+1 [KHM:379] Armed and Armored
+1 [AFR:94] Deadly Dispute
+1 [ODY:132] Entomb
+1 [NEC:84] Generous Gift
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [KHM:117] Village Rites
+1 [MH2:396] Damn
+1 [J21:320] Echoing Return
+1 [GTC:220] Immortal Servitude
+1 [KHC:9] Pact of the Serpent
+1 [ORI:114] Read the Bones
+1 [AER:71] Secret Salvage
+1 [M15:114] Sign in Blood
+1 [2XM:110] Toxic Deluge
+1 [MH2:106] Unmarked Grave
+1 [WWK:132] Bojuka Bog
+1 [ZNR:259] Brightclimb Pathway
+1 [M12:224] Buried Ruin
+1 [TOR:139] Cabal Coffers
+1 [ORI:245] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [RNA:248] Godless Shrine
+1 [MMQ:320] High Market
+1 [ZEN:219] Marsh Flats
+1 [NEO:270] Mech Hangar
+1 [VOC:177] Path of Ancestry
+1 [USG:322] Phyrexian Tower
+8 [SNC:262] Plains
+1 [VOW:264] Shattered Sanctum
+9 [SNC:266] Swamp
+1 [TSP:278] Swarmyard
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [CMR:360] Vault of Champions
+1 [KLD:203] Cultivator's Caravan
+1 [CMR:3] Akroma's Will
+1 [KLR:284] Inventors' Fair
+1 [KLD:235] Smuggler's Copter
+SB: 1 [NEO:220] Greasefang, Okiba Boss
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([J21:75])([NEC:39],[ELD:331],[KLD:198],[MH2:224],[KLD:214],[NEO:18],[KLD:220],[MRD:203],[NEO:249],[NEO:247],[GPT:155],[WAR:24],[AER:170],[NEO:255],[KLD:234],[SUM:274],[NEO:260],[DOM:237],[KLD:203],[KLD:235])([JOU:74],[CHK:124],[CHK:33],[AFR:28],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[AER:23])([SOI:242],[KHM:379],[AFR:94],[ODY:132],[NEC:84],[CON:15],[ICE:54],[KHM:117],[CMR:3])([WWK:132],[ZNR:259],[M12:224],[TOR:139],[ORI:245],[ELD:333],[NEO:268],[RNA:248],[MMQ:320],[ZEN:219],[NEO:270],[VOC:177],[USG:322],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[VOW:264],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[TSP:278],[NEO:278],[M15:248],[CMR:360],[KLR:284])([MH2:396],[J21:320],[GTC:220],[KHC:9],[ORI:114],[AER:71],[M15:114],[2XM:110],[MH2:106])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([NEO:220])

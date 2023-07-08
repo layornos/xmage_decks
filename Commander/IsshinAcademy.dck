@@ -1,0 +1,88 @@
+1 [SOI:242] Anguished Unmaking
+1 [KTK:164] Ankle Shanker
+1 [ELD:331] Arcane Signet
+1 [ROE:2] Artisan of Kozilek
+1 [M20:84] Audacious Thief
+1 [GTC:143] Aurelia, the Warleader
+1 [ORI:244] Battlefield Forge
+1 [RNA:245] Blood Crypt
+1 [WWK:132] Bojuka Bog
+1 [RAV:255] Boros Signet
+1 [KTK:5] Brave the Sands
+1 [XLN:136] Captain Lannery Storm
+1 [ORI:245] Caves of Koilos
+1 [AFC:117] Chaos Warp
+1 [ELD:333] Command Tower
+1 [FUT:112] Emblem of the Warmind
+1 [CON:142] Exotic Orchard
+1 [M21:246] Fabled Passage
+1 [DKA:87] Faithless Looting
+1 [APC:98] Fervent Charge
+1 [M13:129] Fervor
+1 [H1R:2] Generous Gift
+1 [DGM:73] Gleam of Battle
+1 [AER:62] Glint-Sleeve Siphoner
+1 [RNA:248] Godless Shrine
+1 [KHM:139] Goldspan Dragon
+1 [M12:98] Grave Titan
+1 [C19:43] Greven, Predator Captain
+1 [EMN:204] Hanweir Battlements
+1 [EMN:130a] Hanweir Garrison
+1 [MID:263] Haunted Ridge
+1 [THB:19] Heliod's Intervention
+1 [MBS:8] Hero of Bladehold
+1 [C21:398] Inkshield
+1 [ORI:21] Knight of the White Orchid
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [4ED:34] Land Tax
+1 [MRD:199] Lightning Greaves
+1 [MH2:228] Liquimetal Torque
+1 [ZNE:18] Luxury Suite
+1 [PLC:25] Mana Tithe
+1 [10E:335] Mind Stone
+6 [AFR:274] Mountain
+1 [5DN:55] Night's Whisper
+1 [GPT:155] Orzhov Signet
+1 [FRF:110] Outpost Siege
+1 [BFZ:120] Painful Truths
+1 [CON:15] Path to Exile
+1 [ROE:9] Pathrazer of Ulamog
+1 [9ED:152] Phyrexian Arena
+7 [AFR:262] Plains
+1 [DKA:101] Pyreheart Wolf
+1 [DIS:165] Rakdos Signet
+1 [10E:225] Relentless Assault
+1 [GRN:229] Response // Resurgence
+1 [IKO:204] Ruinous Ultimatum
+1 [GRN:254] Sacred Foundry
+1 [IKO:253] Savai Triome
+1 [9ED:44] Serra's Blessing
+1 [VOW:264] Shattered Sanctum
+1 [M15:114] Sign in Blood
+1 [SUM:274] Sol Ring
+1 [CMR:356] Spectator Seating
+1 [4ED:363] Strip Mine
+1 [10E:359] Sulfurous Springs
+1 [VOW:266] Sundown Pass
+4 [AFR:270] Swamp
+1 [MH2:238] Sword of Hearth and Home
+1 [ORI:240] Sword of the Animist
+1 [ICE:54] Swords to Plowshares
+1 [H1R:33] Talisman of Conviction
+1 [H1R:36] Talisman of Hierarchy
+1 [MRD:255] Talisman of Indulgence
+1 [2XM:110] Toxic Deluge
+1 [ROE:13] Ulamog's Crusher
+1 [RTR:83] Underworld Connections
+1 [RTR:111] Vandalblast
+1 [STX:244] Vanishing Verse
+1 [CMR:360] Vault of Champions
+1 [DKA:158] Vault of the Archangel
+1 [KHM:117] Village Rites
+1 [EVE:148] Waves of Aggression
+1 [5DN:165] Wayfarer's Bauble
+1 [DGM:135] Wear // Tear
+1 [CMR:211] Wheel of Misfortune
+SB: 1 [NEO:224] Isshin, Two Heavens as One
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([ELD:331],[RAV:255],[MRD:199],[MH2:228],[10E:335],[GPT:155],[DIS:165],[SUM:274],[MH2:238],[ORI:240],[H1R:33],[H1R:36],[MRD:255],[5DN:165])([KTK:164],[ROE:2],[M20:84],[GTC:143],[XLN:136],[AER:62],[KHM:139],[M12:98],[C19:43],[EMN:130a],[MBS:8],[ORI:21],[WAR:137],[ROE:9],[DKA:101],[ROE:13])([KTK:5],[FUT:112],[APC:98],[M13:129],[DGM:73],[4ED:34],[FRF:110],[9ED:152],[9ED:44],[RTR:83])([DGM:135])([GRN:229])([SOI:242],[AFC:117],[H1R:2],[THB:19],[C21:398],[PLC:25],[CON:15],[ICE:54],[STX:244],[KHM:117])([ORI:244],[RNA:245],[WWK:132],[ORI:245],[ELD:333],[CON:142],[M21:246],[RNA:248],[EMN:204],[MID:263],[ZNE:18],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[GRN:254],[IKO:253],[VOW:264],[CMR:356],[4ED:363],[10E:359],[VOW:266],[AFR:270],[AFR:270],[AFR:270],[AFR:270],[CMR:360],[DKA:158])([DKA:87],[5DN:55],[BFZ:120],[10E:225],[IKO:204],[M15:114],[2XM:110],[RTR:111],[EVE:148],[CMR:211])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([NEO:224])

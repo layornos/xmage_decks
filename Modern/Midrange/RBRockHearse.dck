@@ -1,0 +1,37 @@
+2 [SOM:224] Blackcleave Cliffs
+4 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+4 [MH2:397] Dauthi Voidwalker
+3 [AFR:254] Den of the Bugbear
+2 [AER:57] Fatal Push
+3 [SHM:272] Graven Cairns
+3 [ROE:115] Inquisition of Kozilek
+1 [DTK:224] Kolaghan's Command
+3 [THB:221] Kroxa, Titan of Death's Hunger
+3 [M11:149] Lightning Bolt
+3 [ISD:105] Liliana of the Veil
+1 [SNC:268] Mountain
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [J21:509] Seasoned Pyromancer
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [CHK:283] Shizo, Death's Storehouse
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SNC:266] Swamp
+1 [NEO:278] Takenuma, Abandoned Mire
+2 [ARB:46] Terminate
+4 [THS:107] Thoughtseize
+3 [MH2:102] Tourach, Dread Cantor
+1 [SNC:246] Unlicensed Hearse
+1 [M15:248] Urborg, Tomb of Yawgmoth
+SB: 2 [M19:128] Alpine Moon
+SB: 1 [8ED:180] Boil
+SB: 1 [MRD:150] Chalice of the Void
+SB: 3 [5DN:118] Engineered Explosives
+SB: 1 [MID:257] Pithing Needle
+SB: 1 [ARB:46] Terminate
+SB: 1 [MH2:102] Tourach, Dread Cantor
+SB: 1 [SNC:246] Unlicensed Hearse
+SB: 2 [MH2:242] Void Mirror
+SB: 2 [EMN:85] Collective Brutality
+LAYOUT MAIN:(1,4)(CMC,false,70)|([SOM:224],[SOM:224],[RNA:245],[RNA:245],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[AFR:254],[AFR:254],[AFR:254],[SHM:272],[SHM:272],[SHM:272],[SNC:268],[CHK:282],[CHK:283],[NEO:276],[SNC:266],[NEO:278],[M15:248])([AER:57],[AER:57],[ROE:115],[ROE:115],[ROE:115],[M11:149],[M11:149],[M11:149],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[THS:107],[THS:107],[THS:107],[THS:107])([MH2:397],[MH2:397],[MH2:397],[MH2:397],[THB:221],[THB:221],[THB:221],[ARB:46],[ARB:46],[MH2:102],[MH2:102],[MH2:102],[SNC:246])([DTK:224],[ISD:105],[ISD:105],[ISD:105],[J21:509],[J21:509],[J21:509],[J21:509])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([MRD:150],[5DN:118],[5DN:118],[5DN:118])([M19:128],[M19:128],[MID:257])([ARB:46],[MH2:102],[SNC:246],[MH2:242],[MH2:242],[EMN:85],[EMN:85])([8ED:180])

@@ -1,0 +1,90 @@
+1 [EVE:149] Cold-Eyed Selkie
+1 [SHM:35] Deepchannel Mentor
+1 [RIX:127] Deeproot Elite
+1 [DMC:23] Emperor Mihail II
+1 [RIX:129] Forerunner of the Heralds
+1 [ORI:58] Harbinger of the Tides
+1 [LRW:19] Harpoon Sniper
+1 [XLN:59] Herald of Secret Streams
+1 [RIX:136] Jadelight Ranger
+1 [LRW:22] Judge of Currents
+1 [BNG:150] Kiora's Follower
+1 [XLN:61] Kopala, Warden of Waves
+1 [RIX:162] Kumena, Tyrant of Orazca
+1 [TSB:24] Lord of Atlantis
+1 [ZEN:54] Lullmage Mentor
+1 [M13:59] Master of the Pearl Trident
+1 [RIX:164] Merfolk Mistbinder
+1 [M11:65] Merfolk Sovereign
+1 [DOM:56] Merfolk Trickster
+1 [LRW:73] Merrow Harbinger
+1 [LRW:74] Merrow Reejerey
+1 [EVE:156] Murkfiend Liege
+1 [RIX:51] Seafloor Oracle
+1 [NEM:41] Seahunter
+1 [MOR:51] Stonybrook Banneret
+1 [MOR:25] Stonybrook Schoolmaster
+1 [J21:259] Svyelun of Sea and Sky
+1 [LRW:251] Sygg, River Guide
+1 [DOM:206] Tatyova, Benthic Druid
+1 [XLN:86] Tempest Caller
+1 [WWK:40] Thada Adel, Acquisitor
+1 [ZNR:335] Thieving Skydiver
+1 [MH2:394] Tide Shaper
+1 [XLN:230] Tishana, Voice of Thunder
+1 [DMU:398] Vodalian Hexcatcher
+1 [LRW:95] Wanderwine Prophets
+1 [CMR:3] Akroma's Will
+1 [NPH:103] Beast Within
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [WAR:193] Dovin's Veto
+1 [PLS:106] Eladamri's Call
+1 [M21:188] Heroic Intervention
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [M21:177] Cultivate
+1 [MOR:32] Distant Melody
+1 [M13:170] Farseek
+1 [CHK:225] Kodama's Reach
+1 [M12:190] Rampant Growth
+1 [LRW:42] Summon the School
+1 [ELD:331] Arcane Signet
+1 [DIS:159] Azorius Signet
+1 [THS:42] Bident of Thassa
+1 [CLB:862] Herald's Horn
+1 [DIS:166] Simic Signet
+1 [SUM:274] Sol Ring
+1 [XLN:251] Vanquisher's Banner
+1 [INV:233] Aura Shards
+1 [SNC:170] Brokers Ascendancy
+1 [SOI:200] Cryptolith Rite
+1 [XLN:51] Deeproot Waters
+1 [CLB:81] Kindred Discovery
+1 [LRW:72] Merrow Commerce
+1 [KHM:347] Reflections of Littjara
+1 [WAR:180*] Vivien, Champion of the Wilds
+1 [RNA:246] Breeding Pool
+1 [ELD:333] Command Tower
+1 [MID:260] Deserted Beach
+1 [VOW:262] Dreamroot Cascade
+1 [BRO:261] Evolving Wilds
+1 [XLN:255] Glacial Fortress
+1 [RNA:251] Hallowed Fountain
+1 [DOM:240] Hinterland Harbor
+1 [MID:265] Overgrown Farmland
+1 [CMR:354] Rejuvenating Springs
+1 [M19:254] Reliquary Tower
+1 [ALA:229] Seaside Citadel
+1 [DIS:180] Simic Growth Chamber
+1 [SNC:257] Spara's Headquarters
+1 [XLN:257] Sunpetal Grove
+1 [GRN:258] Temple Garden
+1 [XLN:258] Unclaimed Territory
+1 [LRW:280] Wanderwine Hub
+2 [BRO:268] Plains
+9 [BRO:270] Island
+4 [BRO:276] Forest
+SB: 1 [ELD:326] Chulane, Teller of Tales
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,70)|([ELD:331],[DIS:159],[CLB:862],[DIS:166],[SUM:274],[XLN:251])([EVE:149],[SHM:35],[RIX:127],[DMC:23],[RIX:129],[ORI:58],[LRW:19],[XLN:59],[RIX:136],[LRW:22],[BNG:150],[XLN:61],[RIX:162],[TSB:24],[ZEN:54],[M13:59],[RIX:164],[M11:65],[DOM:56],[LRW:73],[LRW:74],[EVE:156],[RIX:51],[NEM:41],[MOR:51],[MOR:25],[J21:259],[LRW:251],[DOM:206],[XLN:86],[WWK:40],[ZNR:335],[MH2:394],[XLN:230],[DMU:398],[LRW:95])([THS:42])([INV:233],[SNC:170],[SOI:200],[XLN:51],[CLB:81],[KHM:347])([CMR:3],[NPH:103],[7ED:67],[RTR:35],[WAR:193],[PLS:106],[M21:188],[CON:15],[ICE:54])([RNA:246],[ELD:333],[MID:260],[VOW:262],[BRO:261],[XLN:255],[RNA:251],[DOM:240],[MID:265],[CMR:354],[M19:254],[ALA:229],[DIS:180],[SNC:257],[XLN:257],[GRN:258],[XLN:258],[LRW:280],[BRO:268],[BRO:268],[BRO:270],[BRO:270],[BRO:270],[BRO:270],[BRO:270],[BRO:270],[BRO:270],[BRO:270],[BRO:270],[BRO:276],[BRO:276],[BRO:276],[BRO:276])([WAR:180*])([M21:177],[MOR:32],[M13:170],[CHK:225],[M12:190])([LRW:72])([LRW:42])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([ELD:326])

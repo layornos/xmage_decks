@@ -1,0 +1,22 @@
+3 [MH1:238] Fiery Islet
+4 [JUD:94] Lava Dart
+4 [RNA:107] Light Up the Stage
+4 [M11:149] Lightning Bolt
+4 [SHM:211] Manamorphose
+4 [KTK:118] Monastery Swiftspear
+13 [THB:253] Mountain
+2 [MH1:247] Sunbaked Canyon
+4 [MM2:149] Mutagenic Growth
+4 [BRR:97] Mishra's Bauble
+4 [PTHB:161p] Underworld Breach
+4 [MH2:121] Dragon's Rage Channeler
+4 [STX:186] Expressive Iteration
+2 [IKO:211] Sprite Dragon
+SB: 3 [9ED:176] Blood Moon
+SB: 4 [NPH:74] Surgical Extraction
+SB: 3 [GK1:34] Shattering Spree
+SB: 2 [NEO:80] Spell Pierce
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 2 [2XM:283] Pyrite Spellbomb
+LAYOUT MAIN:(1,5)(EDH_POWER_LEVEL,false,50)|([THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[MH1:247],[MH1:247],[MH1:238],[MH1:238],[MH1:238])([MM2:149],[MM2:149],[MM2:149],[MM2:149],[M11:149],[M11:149],[M11:149],[M11:149],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[MH2:121],[MH2:121],[MH2:121],[MH2:121],[JUD:94],[JUD:94],[JUD:94],[JUD:94])([SHM:211],[SHM:211],[SHM:211],[SHM:211],[STX:186],[STX:186],[STX:186],[STX:186],[IKO:211],[IKO:211],[PTHB:161p],[PTHB:161p],[PTHB:161p],[PTHB:161p])([RNA:107],[RNA:107],[RNA:107],[RNA:107])([BRR:97],[BRR:97],[BRR:97],[BRR:97])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([9ED:176],[9ED:176],[9ED:176],[2XM:283],[2XM:283],[NPH:74],[NPH:74],[NPH:74],[NPH:74],[GK1:34],[GK1:34],[GK1:34],[NEO:80],[NEO:80],[IKO:222])

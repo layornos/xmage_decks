@@ -1,0 +1,94 @@
+1 [THB:298] Archon of Sun's Grace
+1 [ISD:170] Avacyn's Pilgrim
+1 [SHM:4] Barrenton Medic
+1 [STX:163] Beledros Witherbloom
+1 [M12:165] Birds of Paradise
+1 [AVR:86] Blood Artist
+1 [EVE:66] Bloom Tender
+1 [DMU:288] Braids, Arisen Nightmare
+1 [SHM:60] Cinderhaze Wretch
+1 [MH2:397] Dauthi Voidwalker
+1 [RTR:213] Deathrite Shaman
+1 [THB:168] Destiny Spinner
+1 [SHM:110] Devoted Druid
+1 [JOU:66] Doomwake Giant
+1 [IKO:11] Drannith Magistrate
+1 [JOU:122] Eidolon of Blossoms
+1 [DMU:198] Elas il-Kor, Sadistic Pilgrim
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [RAV:161] Elves of Deep Shadow
+1 [M15:173] Elvish Mystic
+1 [J21:75] Esper Sentinel
+1 [5DN:86] Eternal Witness
+1 [ELD:190] Faeburrow Elder
+1 [IKO:220] Fiend Artisan
+1 [ICE:244] Fyndhorn Elves
+1 [MID:103] Gisa, Glorious Resurrector
+1 [CLB:237] Jaheira, Friend of the Forest
+1 [M19:314] Llanowar Elves
+1 [BRO:12] Loran of the Third Path
+1 [M11:212] Platinum Angel
+1 [CHK:239] Sakura-Tribe Elder
+1 [J21:627] Sanctum Weaver
+1 [THB:198] Setessan Champion
+1 [40K:19] Vexilus Praetor
+1 [M11:120] Viscera Seer
+1 [BFZ:126] Zulaport Cutthroat
+1 [GRN:152] Assassin's Trophy
+1 [NPH:103] Beast Within
+1 [M21:188] Heroic Intervention
+1 [CON:15] Path to Exile
+1 [UNF:88] Saw in Half
+1 [ICE:54] Swords to Plowshares
+1 [STA:11] Teferi's Protection
+1 [M21:177] Cultivate
+1 [MH2:396] Damn
+1 [SUM:105] Demonic Tutor
+1 [EMN:155] Eldritch Evolution
+1 [M13:170] Farseek
+1 [5ED:316] Nature's Lore
+1 [CLB:837] Three Visits
+1 [CC2:6] Toxic Deluge
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [NPH:104] Birthing Pod
+1 [MRD:199] Lightning Greaves
+1 [INV:306] Phyrexian Altar
+1 [SUM:274] Sol Ring
+1 [AKH:2] Anointed Procession
+1 [RAV:158] Doubling Season
+1 [ISD:199] Parallel Lives
+1 [RNA:22] Smothering Tithe
+1 [RTR:24] Sphere of Safety
+1 [INV:278] Sterling Grove
+1 [5ED:329] Sylvan Library
+1 [SNC:162] Vivien on the Hunt
+1 [NEO:266] Boseiju, Who Endures
+1 [CLB:348] Bountiful Promenade
+1 [ELD:333] Command Tower
+1 [VOW:261] Deathcap Glade
+1 [CON:142] Exotic Orchard
+1 [RNA:248] Godless Shrine
+1 [MMQ:320] High Market
+1 [IKO:248] Indatha Triome
+1 [BRO:264] Llanowar Wastes
+1 [ZEN:219] Marsh Flats
+1 [MID:265] Overgrown Farmland
+1 [GRN:253] Overgrown Tomb
+1 [USG:322] Phyrexian Tower
+1 [VOW:264] Shattered Sanctum
+1 [XLN:257] Sunpetal Grove
+1 [GRN:258] Temple Garden
+1 [CMR:359] Undergrowth Stadium
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [CMR:360] Vault of Champions
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [DOM:248] Woodland Cemetery
+1 [MH2:261] Yavimaya, Cradle of Growth
+3 [ONE:274] Swamp
+5 [ONE:276] Forest
+3 [NEO:284] Plains
+SB: 1 [CLB:287] Myrkul, Lord of Bones
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,70)|([J21:75],[M11:212])([ELD:331],[6ED:274],[NPH:104],[MRD:199],[INV:306],[SUM:274])([THB:298],[ISD:170],[SHM:4],[STX:163],[M12:165],[AVR:86],[EVE:66],[DMU:288],[SHM:60],[MH2:397],[RTR:213],[SHM:110],[IKO:11],[DMU:198],[NPH:9],[RAV:161],[M15:173],[5DN:86],[ELD:190],[IKO:220],[ICE:244],[MID:103],[CLB:237],[M19:314],[BRO:12],[CHK:239],[THB:198],[40K:19],[M11:120],[BFZ:126])([THB:168],[JOU:66],[JOU:122],[J21:627])([AKH:2],[RAV:158],[ISD:199],[RNA:22],[RTR:24],[INV:278],[5ED:329])([GRN:152],[NPH:103],[M21:188],[CON:15],[UNF:88],[ICE:54],[STA:11])([NEO:266],[CLB:348],[ELD:333],[VOW:261],[CON:142],[RNA:248],[MMQ:320],[IKO:248],[BRO:264],[ZEN:219],[MID:265],[GRN:253],[USG:322],[VOW:264],[XLN:257],[GRN:258],[CMR:359],[M15:248],[CMR:360],[ZEN:229],[KTK:248],[DOM:248],[MH2:261],[ONE:274],[ONE:274],[ONE:274],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[NEO:284],[NEO:284],[NEO:284])([SNC:162])([M21:177],[MH2:396],[SUM:105],[EMN:155],[M13:170],[5ED:316],[CLB:837],[CC2:6])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CLB:287])

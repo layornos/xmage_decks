@@ -1,0 +1,32 @@
+4 [ZEN:211] Arid Mesa
+1 [NPH:130] Batterskull
+4 [J21:75] Esper Sentinel
+4 [ELD:124] Fervent Champion
+4 [KTK:233] Flooded Strand
+2 [RNA:251] Hallowed Fountain
+3 [KLD:246] Inspiring Vantage
+1 [SNC:264] Island
+1 [MH2:227] Kaldra Compleat
+1 [SNC:268] Mountain
+2 [SNC:262] Plains
+2 [MH2:25] Prismatic Ending
+4 [MH2:138] Ragavan, Nimble Pilferer
+4 [J21:115] Ranger-Captain of Eos
+2 [GRN:254] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [SOM:229] Seachrome Coast
+4 [MH2:307] Solitude
+4 [NEO:80] Spell Pierce
+1 [GRN:257] Steam Vents
+4 [WWK:20] Stoneforge Mystic
+3 [DST:148] Sword of Fire and Ice
+3 [WAR:221*] Teferi, Time Raveler
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 1 [ELD:14] Giant Killer
+SB: 3 [FUT:101] Magus of the Moon
+SB: 3 [ELD:58] Mystical Dispute
+SB: 2 [MH2:25] Prismatic Ending
+SB: 3 [RTR:18] Rest in Peace
+SB: 1 [MBS:138] Sword of Feast and Famine
+LAYOUT MAIN:(1,6)(CMC,false,70)|([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[RNA:251],[KLD:246],[KLD:246],[KLD:246],[SNC:264],[SNC:268],[SNC:262],[SNC:262],[GRN:254],[GRN:254],[ZEN:223],[SOM:229],[GRN:257])([J21:75],[J21:75],[J21:75],[J21:75],[ELD:124],[ELD:124],[ELD:124],[ELD:124],[MH2:25],[MH2:25],[MH2:138],[MH2:138],[MH2:138],[MH2:138],[NEO:80],[NEO:80],[NEO:80],[NEO:80])([WWK:20],[WWK:20],[WWK:20],[WWK:20])([J21:115],[J21:115],[J21:115],[J21:115],[DST:148],[DST:148],[DST:148],[WAR:221*],[WAR:221*],[WAR:221*])([NPH:130],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([MH2:227])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([LRW:7],[LRW:7],[ELD:14],[MH2:25],[MH2:25])([RTR:18],[RTR:18],[RTR:18])([FUT:101],[FUT:101],[FUT:101],[ELD:58],[ELD:58],[ELD:58],[MBS:138])

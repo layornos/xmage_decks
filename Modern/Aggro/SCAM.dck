@@ -1,0 +1,33 @@
+4 [SOM:224] Blackcleave Cliffs
+1 [CHK:283] Shizo, Death's Storehouse
+1 [H1R:40] Prismatic Vista
+1 [ZEN:219] Marsh Flats
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:239] Polluted Delta
+4 [KTK:230] Bloodstained Mire
+1 [BRO:284] Mountain
+3 [BRO:282] Swamp
+2 [RNA:245] Blood Crypt
+2 [AFR:103] Feign Death
+3 [VOW:134] Undying Malice
+3 [ARB:46] Terminate
+4 [NEO:141] Fable of the Mirror-Breaker
+3 [THS:107] Thoughtseize
+2 [ZNR:111] Malakir Rebirth
+4 [M11:149] Lightning Bolt
+4 [MH2:126] Fury
+4 [MH2:311] Grief
+3 [J21:509] Seasoned Pyromancer
+1 [THB:221] Kroxa, Titan of Death's Hunger
+4 [MH2:397] Dauthi Voidwalker
+4 [MH2:138] Ragavan, Nimble Pilferer
+SB: 2 [M21:116] Necromentia
+SB: 2 [SNC:246] Unlicensed Hearse
+SB: 2 [5DN:118] Engineered Explosives
+SB: 2 [AER:57] Fatal Push
+SB: 2 [NEO:221] Hidetsugu Consumes All
+SB: 2 [MH2:102] Tourach, Dread Cantor
+SB: 1 [MRD:232] Pyrite Spellbomb
+SB: 2 [9ED:176] Blood Moon
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([MH2:126],[MH2:126],[MH2:126],[MH2:126],[MH2:311],[MH2:311],[MH2:311],[MH2:311],[J21:509],[J21:509],[J21:509],[THB:221],[MH2:397],[MH2:397],[MH2:397],[MH2:397],[MH2:138],[MH2:138],[MH2:138],[MH2:138])([NEO:141],[NEO:141],[NEO:141],[NEO:141])([AFR:103],[AFR:103],[VOW:134],[VOW:134],[VOW:134],[ARB:46],[ARB:46],[ARB:46],[ZNR:111],[ZNR:111],[M11:149],[M11:149],[M11:149],[M11:149])([SOM:224],[SOM:224],[SOM:224],[SOM:224],[CHK:283],[H1R:40],[ZEN:219],[ZEN:229],[KTK:239],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[BRO:284],[BRO:282],[BRO:282],[BRO:282],[RNA:245],[RNA:245])([THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([5DN:118],[5DN:118])([AER:57],[AER:57],[MRD:232])([SNC:246],[SNC:246],[MH2:102],[MH2:102])([M21:116],[M21:116],[NEO:221],[NEO:221],[9ED:176],[9ED:176])

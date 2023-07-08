@@ -1,0 +1,31 @@
+1 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+2 [NEO:266] Boseiju, Who Endures
+4 [ELD:243] Dwarven Mine
+1 [IKO:250] Ketria Triome
+4 [ZEN:223] Scalding Tarn
+1 [KHM:282] Snow-Covered Mountain
+2 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+4 [KTK:249] Wooded Foothills
+1 [SNC:261] Ziatora's Proving Ground
+3 [MH2:342] Archon of Cruelty
+4 [APC:128] Fire // Ice
+4 [AER:85] Indomitable Creativity
+4 [M11:149] Lightning Bolt
+2 [M12:63] Mana Leak
+3 [STX:214] Prismari Command
+4 [NEO:80] Spell Pierce
+2 [M21:167] Transmogrify
+1 [J21:529] Unholy Heat
+4 [NEO:141] Fable of the Mirror-Breaker
+4 [2X2:296] Wrenn and Six
+SB: 1 [NEO:266] Boseiju, Who Endures
+SB: 2 [M20:42] Aether Gust
+SB: 2 [MH1:255] Flusterstorm
+SB: 1 [ZEN:13] Iona, Shield of Emeria
+SB: 3 [WWK:108] Nature's Claim
+SB: 3 [MID:205] Turn the Earth
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MH2:342],[MH2:342],[MH2:342])([NEO:141],[NEO:141],[NEO:141],[NEO:141])([APC:128],[APC:128],[APC:128],[APC:128])([M11:149],[M11:149],[M11:149],[M11:149],[M12:63],[M12:63],[STX:214],[STX:214],[STX:214],[NEO:80],[NEO:80],[NEO:80],[NEO:80],[J21:529])([RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[NEO:266],[NEO:266],[ELD:243],[ELD:243],[ELD:243],[ELD:243],[IKO:250],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KHM:282],[GRN:257],[GRN:257],[RNA:259],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[SNC:261])([2X2:296],[2X2:296],[2X2:296],[2X2:296])([AER:85],[AER:85],[AER:85],[AER:85],[M21:167],[M21:167])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([NEO:266])([MH1:255],[MH1:255],[WWK:108],[WWK:108],[WWK:108],[MID:205],[MID:205],[MID:205],[M20:198],[M20:198],[M20:198])([M20:42],[M20:42])([ZEN:13])

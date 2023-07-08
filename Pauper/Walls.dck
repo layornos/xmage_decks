@@ -1,0 +1,31 @@
+2 [ISD:170] Avacyn's Pilgrim
+4 [RTR:115] Axebane Guardian
+4 [RAV:46] Drift of Phantasms
+1 [SOK:38] Freed from the Real
+1 [AVR:54] Galvanic Alchemist
+2 [KHM:178] Jaspera Sentinel
+4 [IKO:163] Lead the Stampede
+2 [CHK:234] Orochi Leafcaller
+4 [ROE:203] Overgrown Battlement
+1 [M20:189] Pulse of Murasa
+4 [VIS:117] Quirion Ranger
+1 [SCG:72] Reaping the Graves
+1 [VOW:73] Repository Skaab
+4 [RNA:139] Saruli Caretaker
+1 [AFR:71] Secret Door
+2 [DMU:238] Shield-Wall Sentinel
+2 [ICE:270] Tinder Wall
+1 [ZNR:173] Tuktuk Rubblefort
+1 [BFZ:159] Valakut Invoker
+1 [WAR:182] Vivien's Grizzly
+4 [J21:670] Winding Way
+13 [ODY:349] Forest
+SB: 3 [INV:11] Crimson Acolyte
+SB: 2 [CLB:23] Guardian Naga
+SB: 2 [M20:176] Healer of the Glade
+SB: 2 [PLS:8] Honorable Scout
+SB: 2 [INV:22] Obsidian Acolyte
+SB: 3 [CON:90] Scattershot Archer
+SB: 1 [APC:18] Standard Bearer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([AFR:71],[DMU:238],[DMU:238])([ISD:170],[ISD:170],[RTR:115],[RTR:115],[RTR:115],[RTR:115],[RAV:46],[RAV:46],[RAV:46],[RAV:46],[AVR:54],[KHM:178],[KHM:178],[CHK:234],[CHK:234],[ROE:203],[ROE:203],[ROE:203],[ROE:203],[VIS:117],[VIS:117],[VIS:117],[VIS:117],[VOW:73],[RNA:139],[RNA:139],[RNA:139],[RNA:139],[ICE:270],[ICE:270],[ZNR:173],[BFZ:159],[WAR:182])([SOK:38])([M20:189],[SCG:72])([ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349],[ODY:349])([IKO:163],[IKO:163],[IKO:163],[IKO:163],[J21:670],[J21:670],[J21:670],[J21:670])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([INV:11],[INV:11],[INV:11],[CLB:23],[CLB:23],[M20:176],[M20:176],[PLS:8],[PLS:8],[INV:22],[INV:22],[CON:90],[CON:90],[CON:90],[APC:18])

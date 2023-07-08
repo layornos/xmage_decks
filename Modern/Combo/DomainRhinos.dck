@@ -1,0 +1,32 @@
+1 [NEO:266] Boseiju, Who Endures
+1 [RNA:246] Breeding Pool
+4 [MH1:160] Crashing Footfalls
+2 [PLC:113] Dead // Gone
+1 [MH2:157] Endurance
+4 [APC:128] Fire // Ice
+4 [KTK:233] Flooded Strand
+4 [H1R:9] Force of Negation
+1 [DMU:274] Forest
+4 [MH2:126] Fury
+1 [IKO:248] Indatha Triome
+1 [DMU:265] Island
+4 [DMU:24] Leyline Binding
+4 [ZEN:220] Misty Rainforest
+1 [DMU:271] Mountain
+1 [NEO:271] Otawara, Soaring City
+4 [MH2:234] Scion of Draco
+4 [MH2:292] Shardless Agent
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+2 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+4 [ARB:63] Violent Outburst
+4 [KTK:249] Wooded Foothills
+1 [SNC:260] Xander's Lounge
+SB: 1 [ELD:281] Brazen Borrower
+SB: 4 [H1R:21] Force of Vigor
+SB: 2 [M20:26] Leyline of Sanctity
+SB: 4 [M20:107] Leyline of the Void
+SB: 4 [ELD:58] Mystical Dispute
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([MH2:234],[MH2:234],[MH2:234],[MH2:234],[MH2:292],[MH2:292],[MH2:292],[MH2:292])([MH2:157],[MH2:126],[MH2:126],[MH2:126],[MH2:126])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([PLC:113],[PLC:113],[APC:128],[APC:128],[APC:128],[APC:128])([H1R:9],[H1R:9],[H1R:9],[H1R:9],[ARB:63],[ARB:63],[ARB:63],[ARB:63])([NEO:266],[RNA:246],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[DMU:274],[IKO:248],[DMU:265],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[DMU:271],[NEO:271],[GRN:257],[RNA:259],[GRN:258],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[SNC:260])([WAR:221*],[WAR:221*])([MH1:160],[MH1:160],[MH1:160],[MH1:160])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([ELD:281],[ELD:58],[ELD:58],[ELD:58],[ELD:58])([H1R:21],[H1R:21],[H1R:21],[H1R:21],[M20:26],[M20:26],[M20:107],[M20:107],[M20:107],[M20:107])

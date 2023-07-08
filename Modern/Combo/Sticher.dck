@@ -1,0 +1,33 @@
+4 [7ED:67] Counterspell
+3 [MID:221] Faithful Mending
+1 [ISD:66] Memory's Journey
+4 [DMU:105] Shadow Prophecy
+2 [NEO:80] Spell Pierce
+4 [ALA:43] Fatestitcher
+2 [THB:308] Thassa's Oracle
+4 [KTK:233] Flooded Strand
+1 [RNA:248] Godless Shrine
+2 [RNA:251] Hallowed Fountain
+2 [BRO:280] Island
+4 [ZEN:219] Marsh Flats
+1 [BRO:278] Plains
+4 [KTK:239] Polluted Delta
+1 [SNC:257] Spara's Headquarters
+1 [BRO:282] Swamp
+2 [GRN:259] Watery Grave
+1 [SNC:260] Xander's Lounge
+4 [DMU:24] Leyline Binding
+4 [MRD:204] Mesmeric Orb
+4 [MH2:25] Prismatic Ending
+1 [ISD:122] Unburial Rites
+4 [WAR:221*] Teferi, Time Raveler
+SB: 1 [INV:57] Fact or Fiction
+SB: 3 [MH1:255] Flusterstorm
+SB: 4 [M20:107] Leyline of the Void
+SB: 1 [MID:257] Pithing Needle
+SB: 2 [AFR:33] Portable Hole
+SB: 2 [DKA:17] Ray of Revelation
+SB: 1 [ISD:36] Stony Silence
+SB: 1 [RTR:201] Supreme Verdict
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MRD:204],[MRD:204],[MRD:204],[MRD:204])([ALA:43],[ALA:43],[ALA:43],[ALA:43],[THB:308],[THB:308])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[MID:221],[MID:221],[MID:221],[ISD:66],[DMU:105],[DMU:105],[DMU:105],[DMU:105],[NEO:80],[NEO:80])([KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:248],[RNA:251],[RNA:251],[BRO:280],[BRO:280],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[BRO:278],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[SNC:257],[BRO:282],[GRN:259],[GRN:259],[SNC:260])([WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*])([MH2:25],[MH2:25],[MH2:25],[MH2:25],[ISD:122])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([MH1:255],[MH1:255],[MH1:255],[MID:257],[AFR:33],[AFR:33])([DKA:17],[DKA:17],[ISD:36])([INV:57],[M20:107],[M20:107],[M20:107],[M20:107],[RTR:201])

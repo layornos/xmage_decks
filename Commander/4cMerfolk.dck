@@ -1,0 +1,98 @@
+1 [AVR:225] Alchemist's Refuge
+1 [ALL:22a] Arcane Denial
+1 [ZEN:211] Arid Mesa
+1 [NPH:103] Beast Within
+1 [ZNE:20] Bountiful Promenade
+1 [RNA:246] Breeding Pool
+1 [BFZ:234] Canopy Vista
+1 [AVR:10] Cathars' Crusade
+1 [M10:207] Coat of Arms
+1 [EVE:149] Cold-Eyed Selkie
+1 [ELD:333] Command Tower
+1 [SOI:200] Cryptolith Rite
+1 [WAR:193] Dovin's Veto
+1 [LRW:58] Drowner of Secrets
+1 [INV:54] Empress Galina
+1 [ROE:66] Enclave Cryptologist
+1 [LRW:63] Fallowsage
+1 [M13:170] Farseek
+1 [ZNR:16] Felidar Retreat
+1 [RIX:129] Forerunner of the Heralds
+2 [SNC:280] Forest
+1 [ISD:239] Gavony Township
+1 [KHM:257] Glacial Floodplain
+1 [RAV:207] Glare of Subdual
+1 [RNA:248] Godless Shrine
+1 [RNA:251] Hallowed Fountain
+1 [XLN:59] Herald of Secret Streams
+1 [SHM:69] Hollowsage
+1 [IKO:248] Indatha Triome
+1 [8ED:86] Intruder Alarm
+3 [SNC:274] Island
+1 [LRW:22] Judge of Currents
+1 [PZ2:65725] Kindred Discovery
+1 [AFC:163] Kindred Summons
+1 [BNG:150] Kiora's Follower
+1 [JUD:141] Krosan Verge
+1 [RIX:162] Kumena, Tyrant of Orazca
+1 [ORI:248] Llanowar Wastes
+1 [TSB:24] Lord of Atlantis
+1 [ZEN:54] Lullmage Mentor
+1 [JOU:163] Mana Confluence
+1 [M13:59] Master of the Pearl Trident
+1 [M12:65] Merfolk Looter
+1 [M11:65] Merfolk Sovereign
+1 [LRW:74] Merrow Reejerey
+1 [ZEN:220] Misty Rainforest
+1 [ZNE:17] Morphic Pool
+1 [TSR:312] Mystic Confluence
+1 [WWK:108] Nature's Claim
+1 [5ED:316] Nature's Lore
+1 [C20:71] Nesting Grounds
+1 [CON:87] Noble Hierarch
+1 [7ED:92] Opposition
+1 [GRN:253] Overgrown Tomb
+1 [VOC:177] Path of Ancestry
+1 [SNC:272] Plains
+1 [GTC:188] Prime Speaker Zegana
+1 [WWK:110] Quest for Renewal
+1 [KHM:188] Realmwalker
+1 [CMR:354] Rejuvenating Springs
+1 [KHM:266] Rimewood Falls
+1 [TMP:82] Rootwater Hunter
+1 [MOR:47] Sage of Fables
+1 [ZEN:63] Sea Gate Loremaster
+1 [ZNE:16] Sea of Clouds
+1 [RIX:51] Seafloor Oracle
+1 [NEM:41] Seahunter
+1 [10E:296] Seedborn Muse
+1 [MOR:49] Sigil Tracer
+1 [NEM:117] Skyshroud Claim
+1 [SUM:274] Sol Ring
+1 [DOM:179] Song of Freyalise
+1 [MOR:51] Stonybrook Banneret
+1 [MOR:25] Stonybrook Schoolmaster
+1 [LRW:91] Streambed Aquitects
+1 [LRW:92] Surgespanner
+1 [J21:259] Svyelun of Sea and Sky
+2 [SNC:276] Swamp
+1 [SHM:176] Sygg, River Cutthroat
+1 [DOM:206] Tatyova, Benthic Druid
+1 [GRN:258] Temple Garden
+1 [LRW:263] Thousand-Year Elixir
+1 [CMR:261] Three Visits
+1 [STH:47] Tidal Warrior
+1 [XLN:230] Tishana, Voice of Thunder
+1 [2XM:110] Toxic Deluge
+1 [CMR:359] Undergrowth Stadium
+1 [ZNR:217] Vastwood Surge
+1 [CMR:360] Vault of Champions
+1 [ZEN:229] Verdant Catacombs
+1 [DGM:115] Vorel of the Hull Clade
+1 [GRN:259] Watery Grave
+1 [PZ2:70669] Windgrace's Judgment
+1 [IKO:259] Zagoth Triome
+SB: 1 [CMR:539] Tymna the Weaver
+SB: 1 [CMR:538] Thrasios, Triton Hero
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([M10:207],[SUM:274],[LRW:263])([EVE:149],[LRW:58],[INV:54],[ROE:66],[LRW:63],[RIX:129],[XLN:59],[SHM:69],[LRW:22],[BNG:150],[RIX:162],[TSB:24],[ZEN:54],[M13:59],[M12:65],[M11:65],[LRW:74],[CON:87],[GTC:188],[KHM:188],[TMP:82],[MOR:47],[ZEN:63],[RIX:51],[NEM:41],[10E:296],[MOR:49],[MOR:51],[MOR:25],[LRW:91],[LRW:92],[J21:259],[SHM:176],[DOM:206],[STH:47],[XLN:230],[DGM:115])([AVR:10],[SOI:200],[ZNR:16],[RAV:207],[8ED:86],[PZ2:65725],[7ED:92],[WWK:110],[DOM:179])([ALL:22a],[NPH:103],[WAR:193],[AFC:163],[TSR:312],[WWK:108],[PZ2:70669])([AVR:225],[ZEN:211],[ZNE:20],[RNA:246],[BFZ:234],[ELD:333],[SNC:280],[SNC:280],[ISD:239],[KHM:257],[RNA:248],[RNA:251],[IKO:248],[SNC:274],[SNC:274],[SNC:274],[JUD:141],[ORI:248],[JOU:163],[ZEN:220],[ZNE:17],[C20:71],[GRN:253],[VOC:177],[SNC:272],[CMR:354],[KHM:266],[ZNE:16],[SNC:276],[SNC:276],[GRN:258],[CMR:359],[CMR:360],[ZEN:229],[GRN:259],[IKO:259])([M13:170],[5ED:316],[NEM:117],[CMR:261],[2XM:110],[ZNR:217])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([CMR:539])([CMR:538])

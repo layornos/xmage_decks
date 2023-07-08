@@ -1,0 +1,33 @@
+2 [ELD:242] Castle Vantress
+4 [KTK:233] Flooded Strand
+2 [AFR:257] Hall of Storm Giants
+2 [RNA:251] Hallowed Fountain
+5 [SNC:264] Island
+3 [SHM:277] Mystic Gate
+1 [NEO:271] Otawara, Soaring City
+1 [SNC:262] Plains
+2 [KTK:239] Polluted Delta
+1 [IKO:251] Raugrin Triome
+1 [SNC:257] Spara's Headquarters
+4 [J21:166] Archmage's Charm
+2 [APC:128] Fire // Ice
+2 [MID:337] Memory Deluge
+4 [MH2:25] Prismatic Ending
+2 [RTR:201] Supreme Verdict
+2 [MRD:150] Chalice of the Void
+2 [MH2:334] Dress Down
+2 [IKO:319] Shark Typhoon
+2 [DOM:207] Teferi, Hero of Dominaria
+4 [WAR:221*] Teferi, Time Raveler
+2 [NEO:303] The Wandering Emperor
+4 [MH2:307] Solitude
+4 [STA:78] Counterspell
+SB: 1 [IKO:224] Kaheera, the Orphanguard
+SB: 2 [WAR:193] Dovin's Veto
+SB: 2 [SHM:227] Fracturing Gust
+SB: 2 [PLC:28] Porphyry Nodes
+SB: 3 [RTR:18] Rest in Peace
+SB: 3 [MID:38] Sunset Revelry
+SB: 2 [MH1:255] Flusterstorm
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([MRD:150],[MRD:150])([MH2:307],[MH2:307],[MH2:307],[MH2:307])([MH2:334],[MH2:334],[IKO:319],[IKO:319])([APC:128],[APC:128])([J21:166],[J21:166],[J21:166],[J21:166],[MID:337],[MID:337],[STA:78],[STA:78],[STA:78],[STA:78])([ELD:242],[ELD:242],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[AFR:257],[AFR:257],[RNA:251],[RNA:251],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SHM:277],[SHM:277],[SHM:277],[NEO:271],[SNC:262],[KTK:239],[KTK:239],[IKO:251],[SNC:257])([DOM:207],[DOM:207],[WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*],[NEO:303],[NEO:303])([MH2:25],[MH2:25],[MH2:25],[MH2:25],[RTR:201],[RTR:201])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([PLC:28],[PLC:28])([WAR:193],[WAR:193],[RTR:18],[RTR:18],[RTR:18],[MID:38],[MID:38],[MID:38],[MH1:255],[MH1:255])([IKO:224])([SHM:227],[SHM:227])

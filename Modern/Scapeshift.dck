@@ -1,0 +1,30 @@
+4 [2X2:296] Wrenn and Six
+4 [THB:169] Dryad of the Ilysian Grove
+1 [WWK:99] Explore
+4 [STX:186] Expressive Iteration
+4 [M19:201] Scapeshift
+4 [APC:128] Fire // Ice
+4 [RNA:178] Growth Spiral
+4 [M11:149] Lightning Bolt
+4 [RAV:63] Remand
+1 [MH2:334] Dress Down
+1 [RNA:246] Breeding Pool
+1 [DMU:274] Forest
+1 [DMU:265] Island
+3 [IKO:250] Ketria Triome
+4 [ZEN:220] Misty Rainforest
+1 [DMU:271] Mountain
+2 [ZEN:223] Scalding Tarn
+4 [GRN:257] Steam Vents
+3 [RNA:259] Stomping Ground
+3 [ZEN:228] Valakut, the Molten Pinnacle
+3 [KTK:249] Wooded Foothills
+SB: 2 [NEO:266] Boseiju, Who Endures
+SB: 3 [MRD:150] Chalice of the Void
+SB: 1 [MH2:157] Endurance
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [MH1:255] Flusterstorm
+SB: 3 [H1R:21] Force of Vigor
+SB: 4 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([THB:169],[THB:169],[THB:169],[THB:169])([MH2:334])([APC:128],[APC:128],[APC:128],[APC:128])([RNA:178],[RNA:178],[RNA:178],[RNA:178],[M11:149],[M11:149],[M11:149],[M11:149],[RAV:63],[RAV:63],[RAV:63],[RAV:63])([RNA:246],[DMU:274],[DMU:265],[IKO:250],[IKO:250],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[DMU:271],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[RNA:259],[RNA:259],[RNA:259],[ZEN:228],[ZEN:228],[ZEN:228],[KTK:249],[KTK:249],[KTK:249])([2X2:296],[2X2:296],[2X2:296],[2X2:296])([WWK:99],[STX:186],[STX:186],[STX:186],[STX:186],[M19:201],[M19:201],[M19:201],[M19:201])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([NEO:266],[NEO:266],[MRD:150],[MRD:150],[MRD:150],[5DN:118])([MH1:255],[M20:198],[M20:198],[M20:198],[M20:198])([MH2:157])([H1R:21],[H1R:21],[H1R:21])

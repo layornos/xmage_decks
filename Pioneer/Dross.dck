@@ -1,0 +1,24 @@
+4 [ONE:304] Archfiend of the Dross
+3 [AKH:46] Censor
+4 [ZNR:260] Clearwater Pathway
+4 [MID:388] Consider
+4 [ONE:250] Darkslick Shores
+1 [KTK:36] Dig Through Time
+1 [ELD:188] Drown in the Loch
+4 [AER:57] Fatal Push
+4 [MID:262] Field of Ruin
+1 [EMN:203] Geier Reach Sanitarium
+1 [AFR:257] Hall of Storm Giants
+2 [MOM:278] Island
+2 [MID:337] Memory Deluge
+4 [M19:60] Metamorphic Alteration
+1 [GRN:84] Ritual of Soot
+3 [XLN:74] Search for Azcanta
+2 [DMU:107] Sheoldred, the Apocalypse
+3 [ONE:108] Sheoldred's Edict
+3 [MOM:279] Swamp
+1 [NEO:278] Takenuma, Abandoned Mire
+4 [THS:107] Thoughtseize
+4 [GRN:259] Watery Grave
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,100)|([ONE:304],[ONE:304],[ONE:304],[ONE:304],[DMU:107],[DMU:107])([M19:60],[M19:60],[M19:60],[M19:60],[XLN:74],[XLN:74],[XLN:74])([AKH:46],[AKH:46],[AKH:46],[MID:388],[MID:388],[MID:388],[MID:388],[KTK:36],[ELD:188],[AER:57],[AER:57],[AER:57],[AER:57],[MID:337],[MID:337],[ONE:108],[ONE:108],[ONE:108])([ZNR:260],[ZNR:260],[ZNR:260],[ZNR:260],[ONE:250],[ONE:250],[ONE:250],[ONE:250],[MID:262],[MID:262],[MID:262],[MID:262],[EMN:203],[AFR:257],[MOM:278],[MOM:278],[MOM:279],[MOM:279],[MOM:279],[NEO:278],[GRN:259],[GRN:259],[GRN:259],[GRN:259])([GRN:84],[THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

@@ -1,0 +1,91 @@
+1 [ROE:2] Artisan of Kozilek
+1 [THS:213] Burnished Hart
+1 [M20:52] Cavalier of Gales
+1 [C21:25] Dazzling Sphinx
+1 [GTC:33] Diluvian Primordial
+1 [GRN:69] Doom Whisperer
+1 [ARB:106] Enigma Sphinx
+1 [MH2:195] Ethersworn Sphinx
+1 [NEO:307] Jin-Gitaxias, Progress Tyrant
+1 [CON:116] Magister Sphinx
+1 [JMP:14] Scholar of the Lost Trove
+1 [GTC:75] Sepulchral Primordial
+1 [M13:69] Sphinx of Uthuun
+1 [OGW:63] Sphinx of the Final Word
+1 [NEO:374] The Reality Chip
+1 [THB:309] Thryx, the Sudden Storm
+1 [KHM:115] Varragoth, Bloodsky Sire
+1 [KHM:233] Vega, the Watcher
+1 [BFZ:17] Void Winnower
+1 [M19:84] Windreader Sphinx
+1 [ALA:220] Arcane Sanctum
+1 [DIS:170] Azorius Chancery
+1 [ELD:242] Castle Vantress
+1 [ELD:333] Command Tower
+1 [RAV:276] Dimir Aqueduct
+1 [XLN:253] Drowned Catacomb
+1 [VOW:263] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [XLN:255] Glacial Fortress
+1 [RNA:248] Godless Shrine
+1 [WWK:137] Halimar Depths
+1 [RNA:251] Hallowed Fountain
+1 [BFZ:240] Mortuary Mire
+1 [SNC:254] Raffine's Tower
+1 [M19:254] Reliquary Tower
+1 [THB:245] Temple of Deceit
+1 [THB:246] Temple of Enlightenment
+1 [M21:255] Temple of Silence
+1 [M11:229] Terramorphic Expanse
+1 [GRN:259] Watery Grave
+3 [SNC:262] Plains
+8 [SNC:264] Island
+3 [SNC:266] Swamp
+1 [MMQ:61] Brainstorm
+1 [6ED:83] Mystical Tutor
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [M12:73] Ponder
+1 [5ED:110] Portent
+1 [M11:70] Preordain
+1 [5DN:36] Serum Visions
+1 [CHK:268] Sensei's Divining Top
+1 [SUM:274] Sol Ring
+1 [THS:39] Aqueous Form
+1 [MMQ:104] Soothsaying
+1 [7ED:67] Counterspell
+1 [ELD:331] Arcane Signet
+1 [DIS:159] Azorius Signet
+1 [RAV:260] Dimir Signet
+1 [MRD:199] Lightning Greaves
+1 [GPT:155] Orzhov Signet
+1 [M12:219] Swiftfoot Boots
+1 [SOI:242] Anguished Unmaking
+1 [ALA:167] Esper Charm
+1 [NCC:201] Generous Gift
+1 [RNA:192] Mortify
+1 [SNC:230] Void Rend
+1 [6ED:66] Dream Cache
+1 [WAR:223] Time Wipe
+1 [GRN:233] Chromatic Lantern
+1 [NCC:363] Commander's Sphere
+1 [M11:203] Crystal Ball
+1 [DOM:215] Gilded Lotus
+1 [M11:221] Whispersilk Cloak
+1 [ONS:84] Future Sight
+1 [MMQ:138] Haunted Crossroads
+1 [EXO:15] Penance
+1 [PZ2:70763] Aminatou, the Fateshifter
+1 [MH2:192] Dakkon, Shadow Slayer
+1 [AKH:4] Approach of the Second Sun
+1 [ONS:71] Blatant Thievery
+1 [ALA:159] Brilliant Ultimatum
+1 [M15:100] In Garruk's Wake
+1 [10E:169] Plague Wind
+1 [AVR:81] Temporal Mastery
+1 [MIC:12] Curse of Unbinding
+1 [EMN:70] Mind's Dilation
+1 [MM2:6] Ulamog, the Infinite Gyre
+SB: 1 [C18:51] Yennett, Cryptic Sovereign
+LAYOUT MAIN:(1,9)(CMC,false,70)|([NEO:374])([THS:213],[KHM:115],[KHM:233])([M20:52],[C21:25],[GRN:69],[THB:309],[7ED:67],[ELD:331],[DIS:159],[RAV:260],[MRD:199],[GPT:155],[M12:219])([GTC:33],[ARB:106],[NEO:307],[CON:116],[JMP:14],[GTC:75],[M13:69],[OGW:63],[M19:84],[AKH:4],[ONS:71],[ALA:159],[M15:100],[10E:169],[AVR:81],[MIC:12],[EMN:70])([ROE:2],[MH2:195],[BFZ:17])([ALA:220],[DIS:170],[ELD:242],[ELD:333],[RAV:276],[XLN:253],[VOW:263],[CON:142],[XLN:255],[RNA:248],[SOI:242],[ALA:167],[NCC:201],[RNA:192],[SNC:230],[6ED:66],[WAR:223],[GRN:233],[NCC:363],[M11:203],[DOM:215],[M11:221],[ONS:84],[MMQ:138],[EXO:15],[PZ2:70763],[MH2:192],[WWK:137],[RNA:251],[BFZ:240],[SNC:254],[M19:254],[THB:245],[THB:246])([M21:255],[M11:229],[GRN:259],[SNC:262],[SNC:262],[SNC:262],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:266],[SNC:266],[SNC:266])([MMQ:61],[6ED:83],[CON:15],[ICE:54],[M12:73],[5ED:110],[M11:70],[5DN:36],[CHK:268],[SUM:274],[THS:39],[MMQ:104])([MM2:6])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([C18:51])

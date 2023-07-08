@@ -1,0 +1,28 @@
+4 [TSB:24] Lord of Atlantis
+4 [DOM:56] Merfolk Trickster
+4 [M14:228] Mutavault
+4 [RIX:53] Silvergill Adept
+4 [MPS:6] Aether Vial
+9 [UST:213] Island
+2 [PUMA:U32] Cavern of Souls
+2 [NEO:271] Otawara, Soaring City
+1 [CHK:279] Minamo, School at Water's Edge
+4 [DMU:75] Vodalian Hexcatcher
+4 [MH2:394] Tide Shaper
+4 [TSR:310] Master of the Pearl Trident
+4 [MH2:393] Svyelun of Sea and Sky
+2 [MH1:249] Waterlogged Grove
+3 [MH2:67] Subtlety
+3 [MH1:52] Force of Negation
+2 [ZEN:70] Spreading Seas
+SB: 3 [MRD:150] Chalice of the Void
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [ZEN:70] Spreading Seas
+SB: 1 [BOK:40] Kira, Great Glass-Spinner
+SB: 2 [SNC:246] Unlicensed Hearse
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [ATQ:10] Hurkyl's Recall
+SB: 2 [CMD:46] Flusterstorm
+SB: 1 [2X2:94] Surgical Extraction
+LAYOUT MAIN:(1,5)(CMC,false,88)|([PUMA:U32],[PUMA:U32],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[CHK:279],[M14:228],[M14:228],[M14:228],[M14:228],[NEO:271],[NEO:271],[MH1:249],[MH1:249])([MPS:6],[MPS:6],[MPS:6],[MPS:6],[MH2:394],[MH2:394],[MH2:394],[MH2:394])([TSB:24],[TSB:24],[TSB:24],[TSB:24],[TSR:310],[TSR:310],[TSR:310],[TSR:310],[DOM:56],[DOM:56],[DOM:56],[RIX:53],[RIX:53],[RIX:53],[RIX:53],[DMU:75],[DMU:75],[DMU:75],[DMU:75],[DOM:56],[ZEN:70],[ZEN:70])([MH1:52],[MH1:52],[MH1:52],[MH2:393],[MH2:393],[MH2:393],[MH2:393])([MH2:67],[MH2:67],[MH2:67])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,63)|([MRD:150],[MRD:150],[MRD:150])([RTR:231],[CMD:46],[CMD:46],[2X2:94])([DOM:213],[DOM:213],[ZEN:70],[ZEN:70],[SNC:246],[SNC:246],[ATQ:10])([BOK:40])

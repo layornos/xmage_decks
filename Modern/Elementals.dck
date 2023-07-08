@@ -1,0 +1,46 @@
+4 [AVR:167] Abundant Growth
+2 [NEO:266] Boseiju, Who Endures
+1 [RNA:246] Breeding Pool
+2 [AVR:226] Cavern of Souls
+4 [PLS:106] Eladamri's Call
+2 [MH2:157] Endurance
+3 [H1R:1] Ephemerate
+4 [KTK:233] Flooded Strand
+3 [MH2:126] Fury
+1 [RNA:251] Hallowed Fountain
+2 [H1R:27] Ice-Fang Coatl
+1 [IKO:250] Ketria Triome
+2 [M11:149] Lightning Bolt
+4 [ZEN:220] Misty Rainforest
+2 [OGW:140] Oath of Nissa
+1 [MH2:137] Obsidian Charmaw
+4 [ZNR:232] Omnath, Locus of Creation
+4 [MH2:25] Prismatic Ending
+1 [IKO:251] Raugrin Triome
+4 [M20:217] Risen Reef
+1 [GRN:254] Sacred Foundry
+2 [KHM:284] Snow-Covered Forest
+1 [KHM:278] Snow-Covered Island
+2 [KHM:276] Snow-Covered Plains
+4 [MH2:307] Solitude
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+4 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+1 [MH2:287] Titania, Protector of Argoth
+2 [J21:529] Unholy Heat
+4 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+4 [MH1:217] Wrenn and Six
+SB: 2 [MRD:150] Chalice of the Void
+SB: 2 [WAR:193] Dovin's Veto
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 2 [MH2:157] Endurance
+SB: 1 [MH2:126] Fury
+SB: 1 [GRN:183] Knight of Autumn
+SB: 1 [FUT:101] Magus of the Moon
+SB: 1 [ARB:8] Meddling Mage
+SB: 3 [M20:198] Veil of Summer
+SB: 1 [IKO:232] Yorion, Sky Nomad
+LAYOUT MAIN:(1,5)(COLOR,false,70)|([NEO:266],[NEO:266],[RNA:246],[AVR:226],[AVR:226],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[IKO:251],[GRN:254],[KHM:284],[KHM:284],[KHM:278],[KHM:276],[KHM:276],[GRN:257],[RNA:259],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249])([AVR:167],[AVR:167],[AVR:167],[AVR:167],[MH2:157],[MH2:157],[OGW:140],[OGW:140],[MH2:287])([MH2:126],[MH2:126],[MH2:126],[M11:149],[M11:149],[MH2:137],[J21:529],[J21:529])([H1R:1],[H1R:1],[H1R:1],[MH2:25],[MH2:25],[MH2:25],[MH2:25],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([PLS:106],[PLS:106],[PLS:106],[PLS:106],[H1R:27],[H1R:27],[ZNR:232],[ZNR:232],[ZNR:232],[ZNR:232],[M20:217],[M20:217],[M20:217],[M20:217],[WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*],[MH1:217],[MH1:217],[MH1:217],[MH1:217])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([MRD:150],[MRD:150])([M20:198],[M20:198],[M20:198])([WAR:193],[WAR:193],[ARB:8])([MH2:157],[MH2:157],[GRN:183],[FUT:101])([MH2:126],[IKO:232])([EMN:6])

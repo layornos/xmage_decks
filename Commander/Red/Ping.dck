@@ -1,0 +1,77 @@
+1 [BRO:139] Mechanized Warfare
+1 [BRO:238a] The Mightstone and Weakstone
+1 [BRO:156] Visions of Phyrexia
+1 [BRO:240] Portal to Phyrexia
+1 [BRO:141] Mishra's Command
+1 [UNF:123] Slight Malfunction
+1 [DMU:119] Defiler of Instinct
+1 [40K:165] Resurrection Orb
+1 [40K:81] Let the Galaxy Burn
+1 [40K:166] Sceptre of Eternal Glory
+1 [CLB:656] Passionate Archaeologist
+1 [VOW:162] Ill-Tempered Loner
+1 [CLB:816] Wild-Magic Sorcerer
+1 [AFC:300] Fiendlash
+1 [MH2:259] Urza's Saga
+1 [BRC:115] Cursed Mirror
+1 [STX:115] Storm-Kiln Artist
+1 [KHM:272] Tyrite Sanctum
+1 [KHM:153] Tibalt's Trickery
+1 [KHM:123] Birgi, God of Storytelling
+1 [CLB:929] War Room
+1 [CLB:799] Jeska's Will
+1 [CMR:364] Blazing Sunsteel
+1 [ZNR:174] Valakut Awakening
+1 [ZNR:166] Spikefield Hazard
+1 [M21:133] Brash Taunter
+1 [M21:143] Fiery Emancipation
+1 [ELD:331] Arcane Signet
+1 [J21:458] Goblin Engineer
+1 [GRN:115] Runaway Steam-Kin
+1 [PZ2:70751] Fury Storm
+1 [BBD:79] Sentinel Tower
+1 [DOM:132] Jaya Ballard
+1 [RIX:100] Etali, Primal Storm
+1 [XLN:158] Rile
+1 [XLN:155] Raptor Hatchling
+1 [2XM:260] Hammer of Nazahn
+1 [VOW:139] Abrade
+1 [IKO:110] Cathartic Reunion
+1 [OGW:3] Endbringer
+1 [ORI:236] Pyromancer's Goggles
+1 [C21:165] Dualcaster Mage
+1 [CM2:107] Impact Resonance
+1 [ZNR:172] Tormenting Voice
+1 [FMB1:60] Treasonous Ogre
+1 [RTR:111] Vandalblast
+1 [M13:217] Staff of Nin
+1 [DKA:87] Faithless Looting
+1 [ISD:130] Blasphemous Act
+1 [BRC:114] Chaos Warp
+1 [NPH:86] Gut Shot
+1 [NPH:132] Caged Sun
+1 [MBS:104] Darksteel Plate
+1 [M11:153] Pyretic Ritual
+1 [M13:145] Reverberate
+1 [WWK:74] Chain Reaction
+1 [EVE:53] Flame Jab
+1 [LRW:274] Spinerock Knoll
+1 [PLC:119] Pyrohemia
+1 [M13:218] Stuffy Doll
+1 [CHK:163] Desperate Ritual
+1 [5DN:80] Vulshok Sorcerer
+1 [5DN:75] Mana Geyser
+1 [MRD:282] Great Furnace
+1 [9ED:216] Seething Song
+1 [ONS:238] Starstorm
+1 [JUD:94] Lava Dart
+26 [BRO:274] Mountain
+1 [TMP:305] Ruby Medallion
+1 [10E:335] Mind Stone
+1 [ALL:78] Pyrokinesis
+1 [M11:149] Lightning Bolt
+1 [SUM:274] Sol Ring
+1 [M12:131] Fireball
+SB: 1 [BRO:135] Feldon, Ronom Excavator
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,70)|([M13:218])([MRD:282])([BRO:238a],[BRO:240],[40K:165],[40K:166],[AFC:300],[BRC:115],[CMR:364],[ELD:331],[BBD:79],[2XM:260],[ORI:236],[M13:217],[NPH:132],[MBS:104],[TMP:305],[10E:335],[SUM:274])([DMU:119],[VOW:162],[CLB:816],[STX:115],[KHM:123],[M21:133],[J21:458],[GRN:115],[RIX:100],[XLN:155],[OGW:3],[C21:165],[FMB1:60],[5DN:80])([MH2:259])([BRO:139],[BRO:156],[CLB:656],[M21:143],[PLC:119])([KHM:153],[ZNR:174],[ZNR:166],[PZ2:70751],[VOW:139],[CM2:107],[BRC:114],[NPH:86],[M11:153],[M13:145],[CHK:163],[9ED:216],[ONS:238],[JUD:94],[ALL:78],[M11:149])([KHM:272],[CLB:929],[LRW:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274],[BRO:274])([DOM:132])([BRO:141],[UNF:123],[40K:81],[CLB:799],[XLN:158],[IKO:110],[ZNR:172],[RTR:111],[DKA:87],[ISD:130],[WWK:74],[EVE:53],[5DN:75],[M12:131])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([BRO:135])

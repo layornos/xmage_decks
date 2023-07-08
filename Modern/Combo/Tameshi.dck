@@ -1,0 +1,41 @@
+1 [NEO:266] Boseiju, Who Endures
+1 [RNA:246] Breeding Pool
+1 [AVR:226] Cavern of Souls
+3 [VOW:195] Cultivator Colossus
+4 [PLS:106] Eladamri's Call
+4 [J21:75] Esper Sentinel
+3 [WAR:160] Finale of Devastation
+1 [SNC:270] Forest
+1 [ISD:240] Ghost Quarter
+4 [J21:458] Goblin Engineer
+1 [RNA:251] Hallowed Fountain
+1 [SNC:264] Island
+1 [IKO:250] Ketria Triome
+4 [TSP:259] Lotus Bloom
+4 [ZEN:220] Misty Rainforest
+2 [NEO:271] Otawara, Soaring City
+2 [SNC:262] Plains
+1 [AFR:33] Portable Hole
+2 [MH2:25] Prismatic Ending
+1 [MH2:253] Rustvale Bridge
+1 [GRN:254] Sacred Foundry
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [NPH:159] Spellskite
+1 [RNA:259] Stomping Ground
+4 [NEO:375] Tameshi, Reality Architect
+1 [GRN:258] Temple Garden
+3 [ARB:129] Wargate
+4 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [MH1:217] Wrenn and Six
+SB: 1 [WWK:132] Bojuka Bog
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 1 [GRN:183] Knight of Autumn
+SB: 3 [M20:26] Leyline of Sanctity
+SB: 1 [ARB:8] Meddling Mage
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 2 [NEO:80] Spell Pierce
+SB: 2 [J21:529] Unholy Heat
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,88)|([J21:75],[J21:75],[J21:75],[J21:75],[NPH:159])([MH2:253])([TSP:259],[TSP:259],[TSP:259],[TSP:259],[AFR:33])([VOW:195],[VOW:195],[VOW:195],[J21:458],[J21:458],[J21:458],[J21:458],[NEO:375],[NEO:375],[NEO:375],[NEO:375])([PLS:106],[PLS:106],[PLS:106],[PLS:106])([NEO:266],[RNA:246],[AVR:226],[SNC:270],[ISD:240],[RNA:251],[SNC:264],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[NEO:271],[NEO:271],[SNC:262],[SNC:262],[GRN:254],[NEO:276],[RNA:259],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249])([MH1:217])([WAR:160],[WAR:160],[WAR:160],[MH2:25],[MH2:25],[ARB:129],[ARB:129],[ARB:129])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([WWK:132])([LRW:7],[LRW:7],[NEO:80],[NEO:80],[J21:529],[J21:529])([ARB:8],[NEM:18])([GRN:183],[ELD:58],[ELD:58])([M20:26],[M20:26],[M20:26])

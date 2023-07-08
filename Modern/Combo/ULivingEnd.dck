@@ -1,0 +1,31 @@
+4 [ARB:17] Architects of Will
+3 [KLD:244] Botanical Sanctum
+2 [RNA:246] Breeding Pool
+2 [NEO:216] Colossal Skyturtle
+4 [AKH:49] Curator of Mysteries
+1 [KTK:233] Flooded Strand
+4 [H1R:9] Force of Negation
+1 [SNC:270] Forest
+4 [MH2:311] Grief
+1 [SNC:264] Island
+3 [TSP:115] Living End
+4 [ZEN:220] Misty Rainforest
+2 [NEO:271] Otawara, Soaring City
+1 [ZEN:223] Scalding Tarn
+4 [MH2:292] Shardless Agent
+2 [KLD:249] Spirebluff Canal
+2 [GRN:257] Steam Vents
+4 [FUT:90] Street Wraith
+4 [HOU:48] Striped Riverwinder
+1 [MH2:309] Subtlety
+4 [ARB:63] Violent Outburst
+3 [M21:84] Waker of Waves
+SB: 1 [ELD:281] Brazen Borrower
+SB: 4 [MH2:157] Endurance
+SB: 2 [H1R:21] Force of Vigor
+SB: 2 [MH2:160] Foundation Breaker
+SB: 1 [TSP:115] Living End
+SB: 2 [ELD:58] Mystical Dispute
+SB: 3 [MH2:309] Subtlety
+LAYOUT MAIN:(1,5)(CMC,false,70)|([KLD:244],[KLD:244],[KLD:244],[RNA:246],[RNA:246],[KTK:233],[SNC:270],[SNC:264],[TSP:115],[TSP:115],[TSP:115],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[NEO:271],[NEO:271],[ZEN:223],[KLD:249],[KLD:249],[GRN:257],[GRN:257])([H1R:9],[H1R:9],[H1R:9],[H1R:9],[MH2:292],[MH2:292],[MH2:292],[MH2:292],[ARB:63],[ARB:63],[ARB:63],[ARB:63])([ARB:17],[ARB:17],[ARB:17],[ARB:17],[AKH:49],[AKH:49],[AKH:49],[AKH:49],[MH2:311],[MH2:311],[MH2:311],[MH2:311],[MH2:309])([FUT:90],[FUT:90],[FUT:90],[FUT:90])([NEO:216],[NEO:216],[HOU:48],[HOU:48],[HOU:48],[HOU:48],[M21:84],[M21:84],[M21:84])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([TSP:115])([ELD:281],[MH2:157],[MH2:157],[MH2:157],[MH2:157],[ELD:58],[ELD:58])([H1R:21],[H1R:21],[MH2:160],[MH2:160],[MH2:309],[MH2:309],[MH2:309])

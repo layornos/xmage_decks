@@ -1,0 +1,35 @@
+4 [MH2:342] Archon of Cruelty
+1 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+4 [ELD:243] Dwarven Mine
+4 [NEO:141] Fable of the Mirror-Breaker
+2 [APC:128] Fire // Ice
+4 [AER:85] Indomitable Creativity
+1 [RTR:172] Izzet Charm
+1 [IKO:250] Ketria Triome
+4 [DMU:24] Leyline Binding
+3 [M11:149] Lightning Bolt
+1 [BRO:274] Mountain
+3 [MH2:345] Persist
+3 [STX:214] Prismari Command
+1 [IKO:251] Raugrin Triome
+1 [GRN:254] Sacred Foundry
+4 [ZEN:223] Scalding Tarn
+2 [DMU:105] Shadow Prophecy
+2 [NEO:80] Spell Pierce
+2 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+3 [KTK:249] Wooded Foothills
+4 [2X2:296] Wrenn and Six
+1 [SNC:261] Ziatora's Proving Ground
+SB: 1 [NEO:266] Boseiju, Who Endures
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [MH2:334] Dress Down
+SB: 2 [MH1:255] Flusterstorm
+SB: 2 [WWK:108] Nature's Claim
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [MID:205] Turn the Earth
+SB: 2 [GRN:212] Unmoored Ego
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MH2:342],[MH2:342],[MH2:342],[MH2:342])([NEO:141],[NEO:141],[NEO:141],[NEO:141],[DMU:24],[DMU:24],[DMU:24],[DMU:24])([APC:128],[APC:128])([RTR:172],[M11:149],[M11:149],[M11:149],[STX:214],[STX:214],[STX:214],[DMU:105],[DMU:105],[NEO:80],[NEO:80])([RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[ELD:243],[ELD:243],[ELD:243],[ELD:243],[IKO:250],[BRO:274],[IKO:251],[GRN:254],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:257],[GRN:257],[RNA:259],[KTK:249],[KTK:249],[KTK:249],[SNC:261])([2X2:296],[2X2:296],[2X2:296],[2X2:296])([AER:85],[AER:85],[AER:85],[AER:85],[MH2:345],[MH2:345],[MH2:345])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([NEO:266])([MH1:255],[MH1:255],[WWK:108],[WWK:108],[MID:205],[M20:198],[M20:198],[M20:198])([EMN:85],[EMN:85],[MH2:334])([GRN:212],[GRN:212])([DST:146])

@@ -1,0 +1,34 @@
+3 [MRD:150] Chalice of the Void
+4 [7ED:67] Counterspell
+1 [H1R:9] Force of Negation
+2 [WWK:31] Jace, the Mind Sculptor
+4 [MH2:25] Prismatic Ending
+4 [MH2:307] Solitude
+3 [RTR:201] Supreme Verdict
+3 [WAR:221*] Teferi, Time Raveler
+4 [DMU:24] Leyline Binding
+4 [KTK:233] Flooded Strand
+2 [RNA:251] Hallowed Fountain
+5 [DMU:265] Island
+2 [SHM:277] Mystic Gate
+1 [DMU:262] Plains
+4 [KTK:239] Polluted Delta
+1 [IKO:251] Raugrin Triome
+3 [ZEN:223] Scalding Tarn
+1 [GRN:259] Watery Grave
+1 [IKO:259] Zagoth Triome
+3 [DOM:207] Teferi, Hero of Dominaria
+1 [MID:62] Memory Deluge
+4 [H1R:7] Archmage's Charm
+SB: 2 [MH2:334] Dress Down
+SB: 2 [MH1:255] Flusterstorm
+SB: 1 [IKO:224] Kaheera, the Orphanguard
+SB: 3 [RTR:18] Rest in Peace
+SB: 1 [RTR:201] Supreme Verdict
+SB: 2 [WAR:193] Dovin's Veto
+SB: 1 [NEO:28] March of Otherworldly Light
+SB: 1 [UMA:4] Emrakul, the Aeons Torn
+SB: 1 [SLD:508] Narset, Parter of Veils
+SB: 1 [IKO:67] Shark Typhoon
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MRD:150],[MRD:150],[MRD:150])([MH2:307],[MH2:307],[MH2:307],[MH2:307])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[H1R:9],[MID:62],[H1R:7],[H1R:7],[H1R:7],[H1R:7])([KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[RNA:251],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[SHM:277],[SHM:277],[DMU:262],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[IKO:251],[ZEN:223],[ZEN:223],[ZEN:223],[GRN:259],[IKO:259])([WWK:31],[WAR:221*],[WAR:221*],[WAR:221*],[DOM:207],[DOM:207],[DOM:207],[WWK:31])([MH2:25],[MH2:25],[MH2:25],[MH2:25],[RTR:201],[RTR:201],[RTR:201])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,100)|([MH1:255],[MH1:255],[SLD:508],[IKO:67])([MH2:334],[MH2:334],[RTR:18],[RTR:18],[RTR:18])([IKO:224])([RTR:201])([WAR:193],[WAR:193])([NEO:28])([UMA:4])

@@ -1,0 +1,83 @@
+1 [M15:168] Ancient Silverback
+1 [LEG:176] Barbary Apes
+1 [IKO:115] Ferocious Tigorilla
+1 [ALL:93a] Gorilla Berserkers
+1 [7ED:250] Gorilla Chieftain
+1 [ALL:72a] Gorilla Shaman
+1 [ODY:241] Gorilla Titan
+1 [USG:256] Gorilla Warrior
+1 [DOM:165] Grunn, the Lonely King
+1 [KTK:137] Hooting Mandrills
+1 [9ED:199] Kird Ape
+1 [M15:151] Kird Chieftain
+1 [IKO:162] Kogla, the Titan Ape
+1 [MH2:138] Ragavan, Nimble Pilferer
+1 [VIS:90] Raging Gorilla
+1 [EXO:97] Ravenous Baboons
+1 [KHM:188] Realmwalker
+1 [AER:124] Scrounging Bandar
+1 [DMU:177] Silverback Elder
+1 [M20:195] Silverback Shaman
+1 [BRO:205] Simian Simulacrum
+1 [NEO:163] Simian Sling
+1 [PLC:122] Simian Spirit Guide
+1 [WWK:114] Summit Apes
+1 [MOR:109] Taurean Mauler
+1 [J22:46] Towering Gibbon
+1 [9ED:275] Tree Monkey
+1 [6ED:260] Uktabi Orangutan
+1 [KLD:175] Wily Bandar
+1 [DMU:152] Yavimaya Steelcrusher
+1 [9ED:285] Zodiac Monkey
+1 [VOW:139] Abrade
+1 [NPH:103] Beast Within
+1 [BRC:114] Chaos Warp
+1 [ALL:73a] Gorilla War Cry
+1 [M21:188] Heroic Intervention
+1 [DTK:191] Inspiring Call
+1 [WWK:108] Nature's Claim
+1 [ELD:172] Return of the Wildspeaker
+1 [ISD:130] Blasphemous Act
+1 [M21:177] Cultivate
+1 [M13:170] Farseek
+1 [PLS:111] Hull Breach
+1 [CHK:225] Kodama's Reach
+1 [5ED:316] Nature's Lore
+1 [M12:190] Rampant Growth
+1 [CLB:837] Three Visits
+1 [RTR:111] Vandalblast
+1 [ELD:331] Arcane Signet
+1 [GPT:150] Gruul Signet
+1 [MRD:199] Lightning Greaves
+1 [SOM:171] Liquimetal Coating
+1 [BRC:145] Liquimetal Torque
+1 [MMQ:307] Monkey Cage
+1 [CLB:332] Patriar's Seal
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [CLB:786] Curse of Opulence
+1 [CLB:169] Descent into Avernus
+1 [M21:186] Garruk's Uprising
+1 [KTK:133] Hardened Scales
+1 [ULG:104] Hidden Gibbons
+1 [NEO:223] Invigorating Hot Spring
+1 [RNA:201] Rhythm of the Wild
+1 [SOM:132] Viridian Revel
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [ZNR:261] Cragcrown Pathway
+1 [SOI:276] Game Trail
+1 [GPT:158] Gruul Turf
+1 [DMU:250] Karplusan Forest
+1 [ISD:243] Kessig Wolf Run
+1 [MID:266] Rockfall Vale
+1 [XLN:256] Rootbound Crag
+1 [CLB:361] Spire Garden
+1 [RNA:259] Stomping Ground
+1 [10E:361*] Treetop Village
+7 [ONE:275] Mountain
+14 [ONE:276] Forest
+1 [USG:203] Meltdown
+SB: 1 [J22:40] Kibo, Uktabi Prince
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([BRO:205],[NEO:163])([ELD:331],[GPT:150],[MRD:199],[SOM:171],[BRC:145],[MMQ:307],[CLB:332],[SUM:274],[M12:219])([M15:168],[LEG:176],[IKO:115],[ALL:93a],[7ED:250],[ALL:72a],[ODY:241],[USG:256],[DOM:165],[KTK:137],[9ED:199],[M15:151],[IKO:162],[MH2:138],[VIS:90],[EXO:97],[KHM:188],[AER:124],[DMU:177],[M20:195],[PLC:122],[WWK:114],[MOR:109],[J22:46],[9ED:275],[6ED:260],[KLD:175],[DMU:152],[9ED:285])([CLB:786],[CLB:169],[M21:186],[KTK:133],[ULG:104],[NEO:223],[RNA:201],[SOM:132])([VOW:139],[NPH:103],[BRC:114],[ALL:73a],[M21:188],[DTK:191],[WWK:108],[ELD:172])([BFZ:235],[ELD:333],[ZNR:261],[SOI:276],[GPT:158],[DMU:250],[ISD:243],[MID:266],[XLN:256],[CLB:361],[RNA:259],[10E:361*],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276])([ISD:130],[M21:177],[M13:170],[PLS:111],[CHK:225],[5ED:316],[M12:190],[CLB:837],[RTR:111],[USG:203])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([J22:40])

@@ -1,0 +1,86 @@
+1 [ELD:350] Ayara, First of Locthwain
+1 [AVR:86] Blood Artist
+1 [ELD:353] Clackbridge Troll
+1 [MH2:397] Dauthi Voidwalker
+1 [WAR:52] Flux Channeler
+1 [MID:103] Gisa, Glorious Resurrector
+1 [RAV:55] Hunted Phantasm
+1 [M21:114] Massacre Wurm
+1 [MID:113] Morbid Opportunist
+1 [DGM:88] Notion Thief
+1 [CMR:561] Sakashima of a Thousand Faces
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [MID:122] Slaughter Specialist
+1 [MID:340] Sludge Monster
+1 [M21:239] Solemn Simulacrum
+1 [WAR:68] Spark Double
+1 [ELD:107] Syr Konrad, the Grim
+1 [SOM:47] Thrummingbird
+1 [J21:405] Yawgmoth, Thran Physician
+1 [BFZ:126] Zulaport Cutthroat
+1 [SNC:464] An Offer You Can't Refuse
+1 [ALL:22a] Arcane Denial
+1 [MMQ:61] Brainstorm
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [MMQ:129] Dark Ritual
+1 [ZNR:111] Malakir Rebirth
+1 [LEG:65] Mana Drain
+1 [DMU:58] Negate
+1 [M15:75] Polymorphist's Jest
+1 [PLC:44] Pongify
+1 [GTC:44] Rapid Hybridization
+1 [TSP:135] Sudden Spoiling
+1 [THS:65] Swan Song
+1 [6ED:161] Vampiric Tutor
+1 [2XM:270] Mana Crypt
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [WWK:132] Bojuka Bog
+1 [TOR:139] Cabal Coffers
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [XLN:253] Drowned Catacomb
+1 [CHK:276] Forbidden Orchard
+1 [WAR:248] Karn's Bastion
+1 [CLB:357] Morphic Pool
+1 [KTK:239] Polluted Delta
+1 [M19:254] Reliquary Tower
+1 [MID:267] Shipwreck Marsh
+1 [BFZ:249] Sunken Hollow
+1 [TOR:141] Tainted Isle
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [GRN:259] Watery Grave
+8 [BRO:280] Island
+1 [THS:46] Curse of the Swine
+1 [SUM:105] Demonic Tutor
+1 [ZNR:102] Feed the Swarm
+1 [C19:10] Mass Diminish
+1 [CC2:6] Toxic Deluge
+1 [ELD:331] Arcane Signet
+1 [SOM:144] Contagion Clasp
+1 [RAV:260] Dimir Signet
+1 [9ED:297] Fellwar Stone
+1 [DST:122] Genesis Chamber
+1 [MRD:199] Lightning Greaves
+1 [10E:335] Mind Stone
+1 [M12:219] Swiftfoot Boots
+1 [MRD:253] Talisman of Dominance
+1 [CLB:879] Thought Vessel
+1 [CLB:669] Black Market Connections
+1 [PCY:45] Rhystic Study
+1 [MID:112] The Meathook Massacre
+1 [WAR:228*] Ashiok, Dream Render
+10 [BRO:282] Swamp
+1 [WAR:46] Contentious Plan
+1 [KHM:72] Ravenform
+1 [NPH:47] Tezzeret's Gambit
+1 [4ED:332] Kormus Bell
+1 [40K:166] Sceptre of Eternal Glory
+1 [MMQ:116] Black Market
+1 [RTR:67] Grave Betrayal
+1 [SOM:35] Inexorable Tide
+1 [XLN:117] Revel in Riches
+SB: 1 [VOW:132] Toxrill, the Corrosive
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([M21:239])([ELD:350],[AVR:86],[ELD:353],[MH2:397],[WAR:52],[MID:103],[RAV:55],[M21:114],[MID:113],[DGM:88],[CMR:561],[DMU:107],[MID:122],[MID:340],[WAR:68],[ELD:107],[SOM:47],[J21:405],[BFZ:126])([SNC:464],[ALL:22a],[MMQ:61],[7ED:67],[RTR:35],[MMQ:129],[ZNR:111],[LEG:65],[DMU:58],[M15:75],[PLC:44],[GTC:44],[TSP:135],[THS:65],[6ED:161])([2XM:270],[DST:140],[SUM:274],[WWK:132],[TOR:139],[ZNR:260],[ELD:333],[XLN:253],[CHK:276],[WAR:248],[CLB:357],[KTK:239],[M19:254],[MID:267],[BFZ:249],[TOR:141],[M15:248],[GRN:259],[BRO:280],[BRO:280],[BRO:280],[BRO:280],[BRO:280])([THS:46],[SUM:105],[ZNR:102],[C19:10],[CC2:6],[ELD:331],[SOM:144],[RAV:260],[9ED:297],[DST:122],[MRD:199],[10E:335],[M12:219],[MRD:253],[CLB:879],[CLB:669],[PCY:45],[MID:112],[WAR:228*],[BRO:280],[BRO:280],[BRO:282],[BRO:282],[BRO:282],[BRO:282],[BRO:282],[BRO:282],[BRO:282],[BRO:282],[BRO:282],[BRO:282])([WAR:46],[KHM:72],[NPH:47],[4ED:332],[40K:166],[BRO:280],[MMQ:116],[RTR:67],[SOM:35],[XLN:117])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([VOW:132])

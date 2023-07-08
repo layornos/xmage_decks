@@ -1,0 +1,31 @@
+4 [DST:91] Aether Vial
+4 [LRW:267] Auntie's Hovel
+2 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+3 [LRW:102] Boggart Harbinger
+4 [AVR:226] Cavern of Souls
+4 [M21:139] Conspicuous Snoop
+1 [AFR:254] Den of the Bugbear
+4 [7ED:191] Goblin Matron
+1 [M20:143] Goblin Ringleader
+2 [CHK:175] Kiki-Jiki, Mirror Breaker
+3 [10E:219] Mogg Fanatic
+4 [TSP:170] Mogg War Marshal
+2 [DMU:271] Mountain
+4 [J21:705] Munitions Expert
+1 [J21:495] Pashalik Mons
+4 [DMU:142] Rundvelt Hordemaster
+4 [NEO:275] Secluded Courtyard
+1 [DOM:144] Skirk Prospector
+2 [J21:386] Sling-Gang Lieutenant
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [DMU:268] Swamp
+SB: 1 [LRW:102] Boggart Harbinger
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 3 [MH2:126] Fury
+SB: 1 [M19:144] Goblin Trashmaster
+SB: 3 [M20:107] Leyline of the Void
+SB: 4 [FUT:101] Magus of the Moon
+SB: 2 [MH2:242] Void Mirror
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,70)|([DST:91],[DST:91],[DST:91],[DST:91])([LRW:102],[LRW:102],[LRW:102],[M21:139],[M21:139],[M21:139],[M21:139],[7ED:191],[7ED:191],[7ED:191],[7ED:191],[M20:143],[CHK:175],[CHK:175],[10E:219],[10E:219],[10E:219],[TSP:170],[TSP:170],[TSP:170],[TSP:170],[J21:705],[J21:705],[J21:705],[J21:705],[J21:495],[DMU:142],[DMU:142],[DMU:142],[DMU:142],[DOM:144],[J21:386],[J21:386])([LRW:267],[LRW:267],[LRW:267],[LRW:267],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[AFR:254],[DMU:271],[DMU:271],[NEO:275],[NEO:275],[NEO:275],[NEO:275],[NEO:276],[DMU:268])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,100)|([MH2:242],[MH2:242])([LRW:102],[FUT:101],[FUT:101],[FUT:101],[FUT:101])([M19:144],[M20:107],[M20:107],[M20:107])([MH2:126],[MH2:126],[MH2:126])([ROE:4])

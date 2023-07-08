@@ -1,0 +1,82 @@
+1 [M13:160] Arbor Elf
+1 [ELD:331] Arcane Signet
+1 [ZNR:180] Bala Ged Recovery
+1 [WWK:122] Basilisk Collar
+1 [ROE:177] Bear Umbra
+1 [NPH:103] Beast Within
+1 [M12:165] Birds of Paradise
+1 [DOM:211] Blackblade Reforged
+1 [9ED:176] Blood Moon
+1 [MBS:100] Bonehoard
+1 [KHM:125] Calamity Bearer
+1 [AVR:171] Champion of Lambholt
+1 [NEC:104] Chaos Warp
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [NEC:25] Concord with the Kami
+1 [ZNR:261] Cragcrown Pathway
+1 [ODY:287] Decimate
+1 [SHM:90] Elemental Mastery
+1 [5DN:86] Eternal Witness
+1 [VOW:263] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [USG:250] Exploration
+1 [M21:246] Fabled Passage
+1 [SHM:271] Fire-Lit Thicket
+1 [M14:210] Fireshrieker
+12 [NEO:291] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [SOI:276] Game Trail
+1 [M13:174] Garruk, Primal Hunter
+1 [CHK:169] Godo, Bandit Warlord
+1 [ZEN:165] Harrow
+1 [DOM:217] Helm of the Host
+1 [M21:188] Heroic Intervention
+1 [M12:180] Hunter's Insight
+1 [ELD:164] Kenrith's Transformation
+1 [AFC:51] Klauth's Will
+1 [NEO:199] Kodama of the West Tree
+1 [CHK:225] Kodama's Reach
+1 [NEC:26] Kosei, Penitent Warlord
+1 [AFR:259] Lair of the Hydra
+1 [MRD:199] Lightning Greaves
+1 [M19:314] Llanowar Elves
+1 [ARB:57] Mage Slayer
+1 [ODY:321] Mossfire Valley
+10 [NEO:289] Mountain
+1 [WWK:108] Nature's Claim
+1 [5ED:316] Nature's Lore
+1 [THS:170] Ordeal of Nylea
+1 [NEO:203] Orochi Merge-Keeper
+1 [M12:190] Rampant Growth
+1 [HOU:129] Ramunap Excavator
+1 [M13:185] Rancor
+1 [10E:290*] Regeneration
+1 [ELD:172] Return of the Wildspeaker
+1 [RNA:201] Rhythm of the Wild
+1 [MID:266] Rockfall Vale
+1 [ORI:250] Rogue's Passage
+1 [CHK:239] Sakura-Tribe Elder
+1 [10E:296] Seedborn Muse
+1 [FRF:138] Shamanic Revelation
+1 [ROE:207] Snake Umbra
+1 [KHM:194] Snakeskin Veil
+1 [CON:92] Soul's Majesty
+1 [ALA:150] Spearbreaker Behemoth
+1 [ROE:208] Spider Umbra
+1 [THB:156] Storm Herald
+1 [M12:219] Swiftfoot Boots
+1 [M11:216] Sword of Vengeance
+1 [ZNR:211] Tangled Florahedron
+1 [NEC:30] Tanuki Transplanter
+1 [FRF:116] Temur Battle Rage
+1 [M11:229] Terramorphic Expanse
+1 [CMR:261] Three Visits
+1 [KHM:197] Toski, Bearer of Secrets
+1 [ZNR:174] Valakut Awakening
+1 [MRD:110] Vulshok Battlemaster
+1 [7ED:282] Wild Growth
+1 [VMA:316] Strip Mine
+SB: 1 [NEC:1] Chishiro, the Shattered Blade
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,70)|([NEC:30])([ELD:331],[WWK:122],[DOM:211],[MBS:100],[M14:210],[DOM:217],[MRD:199],[ARB:57],[M12:219],[M11:216])([M13:160],[M12:165],[KHM:125],[AVR:171],[5DN:86],[ICE:244],[CHK:169],[NEO:199],[NEC:26],[M19:314],[NEO:203],[HOU:129],[CHK:239],[10E:296],[ALA:150],[THB:156],[ZNR:211],[KHM:197],[MRD:110])([ROE:177],[9ED:176],[NEC:25],[SHM:90],[USG:250],[ELD:164],[THS:170],[M13:185],[10E:290*],[RNA:201],[ROE:207],[ROE:208],[7ED:282])([NPH:103],[NEC:104],[ZEN:165],[M21:188],[M12:180],[AFC:51],[WWK:108],[ELD:172],[KHM:194],[FRF:116],[ZNR:174])([BFZ:235],[ELD:333],[ZNR:261],[VOW:263],[CON:142],[M21:246],[SHM:271],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[SOI:276],[AFR:259],[ODY:321],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[MID:266],[ORI:250],[M11:229],[VMA:316])([M13:174])([ZNR:180],[ODY:287],[CHK:225],[5ED:316],[M12:190],[FRF:138],[CON:92],[CMR:261])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([NEC:1])

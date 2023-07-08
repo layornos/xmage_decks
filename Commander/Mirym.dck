@@ -1,0 +1,90 @@
+1 [CLB:161] Ancient Copper Dragon
+1 [CLB:56] Ancient Silver Dragon
+1 [CLB:664] Astral Dragon
+1 [FRF:149] Atarka, World Render
+1 [CLB:224] Draconic Muralists
+1 [AFC:314] Dragonborn Champion
+1 [DTK:138] Dragonlord's Servant
+1 [SCG:89] Dragonspeaker Shaman
+1 [M20:136] Drakuseth, Maw of Flames
+1 [CLB:228] Earthquake Dragon
+1 [CLB:648] Firkraag, Cunning Instigator
+1 [CLB:176] Ganax, Astral Hunter
+1 [KHM:139] Goldspan Dragon
+1 [AFR:290] Iymrith, Desert Doom
+1 [AFC:320] Klauth, Unrivaled Ancient
+1 [CLB:280] Korlessa, Scale Singer
+1 [M19:149] Lathliss, Dragon Queen
+1 [CLB:281] Lozhan, Dragons' Legacy
+1 [AFR:197] Old Gnawbone
+1 [CLB:90] Renari, Merchant of Marvels
+1 [DTK:231] Savage Ventmaw
+1 [CLB:252] Scaled Nurturer
+1 [M14:151] Scourge of Valkas
+1 [M21:164] Terror of the Peaks
+1 [CLB:295] Thrakkus the Butcher
+1 [DTK:162] Thunderbreak Regent
+1 [BRO:154] Tyrant of Kher Ridges
+1 [RTR:110] Utvara Hellkite
+1 [CLB:207] Wrathful Red Dragon
+1 [NPH:103] Beast Within
+1 [BRC:114] Chaos Warp
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [AVR:57] Ghostly Flicker
+1 [M21:188] Heroic Intervention
+1 [AFC:321] Klauth's Will
+1 [ELD:172] Return of the Wildspeaker
+1 [DTK:154] Sarkhan's Triumph
+1 [ISD:130] Blasphemous Act
+1 [M21:177] Cultivate
+1 [M13:170] Farseek
+1 [CHK:225] Kodama's Reach
+1 [5ED:316] Nature's Lore
+1 [M12:190] Rampant Growth
+1 [CLB:837] Three Visits
+1 [ELD:331] Arcane Signet
+1 [CLB:166] Carnelian Orb of Dragonkind
+1 [M19:232] Dragon's Hoard
+1 [CLB:862] Herald's Horn
+1 [CLB:82] Lapis Orb of Dragonkind
+1 [AFR:157] Orb of Dragonkind
+1 [KLD:226] Panharmonicon
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [CLB:212] Acolyte of Bahamut
+1 [DTK:136] Dragon Tempest
+1 [M21:186] Garruk's Uprising
+1 [CLB:81] Kindred Discovery
+1 [RNA:201] Rhythm of the Wild
+1 [40K:140] Shadow in the Warp
+1 [KTK:207] Temur Ascendancy
+1 [DTK:230] Sarkhan Unbroken
+1 [RNA:246] Breeding Pool
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [BRO:261] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [KTK:234] Frontier Bivouac
+1 [DTK:249] Haven of the Spirit Dragon
+1 [IKO:250] Ketria Triome
+1 [ONC:161] Path of Ancestry
+1 [CMR:354] Rejuvenating Springs
+1 [M19:254] Reliquary Tower
+1 [MID:266] Rockfall Vale
+1 [NEO:275] Secluded Courtyard
+1 [CLB:361] Spire Garden
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+1 [AFR:260] Temple of the Dragon Queen
+1 [CMR:358] Training Center
+1 [XLN:258] Unclaimed Territory
+3 [ONE:273] Island
+7 [ONE:275] Mountain
+5 [ONE:276] Forest
+1 [STX:340] Double Major
+1 [DMR:442] Worldly Tutor
+1 [CMD:40] Brainstorm
+SB: 1 [CLB:284] Miirym, Sentinel Wyrm
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([ELD:331],[CLB:166],[M19:232],[CLB:862],[CLB:82],[AFR:157],[KLD:226],[SUM:274],[M12:219])([CLB:161],[CLB:56],[CLB:664],[FRF:149],[CLB:224],[AFC:314],[DTK:138],[SCG:89],[M20:136],[CLB:228],[CLB:648],[CLB:176],[KHM:139],[AFR:290],[AFC:320],[CLB:280],[M19:149],[CLB:281],[AFR:197],[CLB:90],[DTK:231],[CLB:252],[M14:151],[M21:164],[CLB:295],[DTK:162],[BRO:154],[RTR:110],[CLB:207])([CLB:212],[DTK:136],[M21:186],[CLB:81],[RNA:201],[40K:140],[KTK:207])([NPH:103],[BRC:114],[7ED:67],[RTR:35],[AVR:57],[M21:188],[AFC:321],[ELD:172],[DTK:154],[STX:340],[DMR:442],[CMD:40])([RNA:246],[BFZ:235],[ELD:333],[BRO:261],[CON:142],[KTK:234],[DTK:249],[IKO:250],[ONC:161],[CMR:354],[M19:254],[MID:266],[NEO:275],[CLB:361],[GRN:257],[RNA:259],[AFR:260],[CMR:358],[XLN:258],[ONE:273],[ONE:273],[ONE:273],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276])([DTK:230])([ISD:130],[M21:177],[M13:170],[CHK:225],[5ED:316],[M12:190],[CLB:837])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CLB:284])
