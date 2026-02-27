@@ -1,0 +1,97 @@
+1 [CLB:612] Aboleth Spawn
+1 [ISD:170] Avacyn's Pilgrim
+1 [ZNR:180] Bala Ged Recovery
+1 [M12:165] Birds of Paradise
+1 [EVE:66] Bloom Tender
+1 [NEO:266] Boseiju, Who Endures
+1 [CLB:348] Bountiful Promenade
+1 [MMQ:61] Brainstorm
+1 [ELD:281] Brazen Borrower
+1 [CLU:275] Breeding Pool
+1 [FDN:152] Brineborn Cutthroat
+1 [FDN:139] Cathar Commando
+1 [KHM:6] Clarion Spirit
+1 [ULG:29] Cloud of Faeries
+1 [ELD:333] Command Tower
+1 [5DN:112] Conjurer's Bauble
+1 [CLU:84] Consider
+1 [VOW:262] Dreamroot Cascade
+1 [J21:75] Esper Sentinel
+1 [CON:142] Exotic Orchard
+1 [ELD:190] Faeburrow Elder
+1 [MOM:352] Faerie Mastermind
+1 [SNC:44] Faerie Vandal
+1 [NEO:13] Farewell
+1 [KTK:233] Flooded Strand
+1 [TDM:276] Forest
+1 [ULG:32] Frantic Search
+1 [ISD:239] Gavony Township
+1 [LCI:14] Get Lost
+1 [NPH:35] Gitaxian Probe
+1 [XLN:255] Glacial Fortress
+1 [CLB:636] Green Slime
+1 [RNA:178] Growth Spiral
+1 [CLU:277] Hallowed Fountain
+1 [KTK:133] Hardened Scales
+1 [DOM:240] Hinterland Harbor
+1 [VOW:359] Hullbreaker Horror
+1 [MB2:83] Ice-Fang Coatl
+1 [RNA:131] Incubation Druid
+1 [FDN:226] Inspiring Call
+1 [BLB:52] Into the Flood Maw
+1 [BLB:18] Jackdaw Savior
+1 [M21:191] Jolrael, Mwonvuli Recluse
+1 [CLU:284] Lavinia, Foil to Conspiracy
+1 [SNC:412] Ledger Shredder
+1 [MRD:199] Lightning Greaves
+1 [ALL:122] Lodestone Bauble
+1 [CSP:138] Mishra's Bauble
+1 [ZEN:220] Misty Rainforest
+1 [AFR:228] Monk Class
+1 [MKC:3] Morska, Undersea Sleuth
+1 [WWK:108] Nature's Claim
+1 [5ED:316] Nature's Lore
+1 [CON:87] Noble Hierarch
+1 [NPH:118] Noxious Revival
+1 [IKO:61] Ominous Seas
+1 [MKC:39] On the Trail
+1 [FDN:512] Opt
+1 [NEO:271] Otawara, Soaring City
+1 [TDC:382] Path of Ancestry
+1 [CON:15] Path to Exile
+1 [BLB:188] Peerless Recycling
+1 [BLC:15] Pollywog Prodigy
+1 [PLC:44] Pongify
+1 [DIS:30] Psychic Possession
+1 [M14:68] Quicken
+1 [CMM:424] Rejuvenating Springs
+1 [LEG:73] Reset
+1 [M21:63] Rewind
+1 [CLB:360] Sea of Clouds
+1 [ALA:229] Seaside Citadel
+1 [ZNR:37] Sejiri Shelter
+1 [CLU:246] Selesnya Sanctuary
+1 [CLU:247] Simic Growth Chamber
+1 [ULG:43] Snap
+1 [ISD:78] Snapcaster Mage
+4 [KHM:284] Snow-Covered Forest
+3 [KHM:278] Snow-Covered Island
+1 [KHM:276] Snow-Covered Plains
+1 [SUM:274] Sol Ring
+1 [SNC:257] Spara's Headquarters
+1 [THB:69] Stinging Lionfish
+1 [M21:355] Sublime Epiphany
+1 [ICE:54] Swords to Plowshares
+1 [ZNR:211] Tangled Florahedron
+1 [CLU:282] Temple Garden
+1 [OTC:209] Three Visits
+1 [KLD:67] Torrential Gearhulk
+1 [5ED:406] Urza's Bauble
+1 [THB:310] Wavebreak Hippocamp
+1 [PLC:22] Whitemane Lion
+1 [7ED:282] Wild Growth
+1 [RNA:149] Wilderness Reclamation
+1 [KTK:248] Windswept Heath
+SB: 1 [BLC:3] Ms. Bumbleflower
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([J21:75],[KLD:67])([5DN:112],[MRD:199],[ALL:122],[CSP:138],[SUM:274],[5ED:406])([CLB:612],[ISD:170],[M12:165],[EVE:66],[ELD:281],[FDN:152],[FDN:139],[KHM:6],[ULG:29],[ELD:190],[MOM:352],[SNC:44],[CLB:636],[VOW:359],[MB2:83],[RNA:131],[BLB:18],[M21:191],[CLU:284],[SNC:412],[MKC:3],[CON:87],[BLC:15],[ISD:78],[ZNR:211],[PLC:22])([THB:69],[THB:310])([KTK:133],[AFR:228],[IKO:61],[MKC:39],[DIS:30],[7ED:282],[RNA:149])([MMQ:61],[CLU:84],[ULG:32],[LCI:14],[RNA:178],[FDN:226],[BLB:52],[WWK:108],[NPH:118],[FDN:512],[CON:15],[BLB:188],[PLC:44],[M14:68],[LEG:73],[M21:63],[ZNR:37],[ULG:43],[M21:355],[ICE:54])([NEO:266],[CLB:348],[CLU:275],[ELD:333],[VOW:262],[CON:142],[KTK:233],[TDM:276],[ISD:239],[XLN:255],[CLU:277],[DOM:240],[ZEN:220],[NEO:271],[TDC:382],[CMM:424],[CLB:360],[ALA:229],[CLU:246],[CLU:247],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:278],[KHM:278],[KHM:278],[KHM:276],[SNC:257],[CLU:282],[KTK:248])([ZNR:180],[NEO:13],[NPH:35],[5ED:316],[OTC:209])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLC:3])

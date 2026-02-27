@@ -1,0 +1,69 @@
+1 [SPM:25] Amazing Acrobatics
+1 [DSK:83] Appendage Amalgam
+1 [WOE:79] Ashiok's Reaper
+1 [M20:84] Audacious Thief
+1 [EOE:6] Banishing Light
+1 [SOI:100] Behind the Scenes
+1 [CMM:370] Bonder's Ornament
+1 [FRF:32] Cloudform
+1 [GTC:59] Contaminated Ground
+1 [IKO:45] Convolute
+1 [ISD:52] Deranged Assistant
+1 [GRN:167] Disinformation Campaign
+1 [MH3:22] Dog Umbra
+1 [ROE:65] Eel Umbra
+1 [DMU:48] Ertai's Scorn
+1 [RNA:38] Eyes Everywhere
+1 [MKM:295] Fae Flight
+1 [CMM:93] Fall from Favor
+1 [DSK:214] Fear of Infinity
+1 [M21:19] Feat of Resistance
+1 [6ED:71] Gaseous Form
+1 [AVR:58] Ghostly Touch
+1 [M21:22] Griffin Aerie
+1 [JOU:13] Harvestguard Alseids
+14 [TLA:283] Island
+1 [ORI:105] Languish
+1 [M21:55] Library Larcenist
+1 [NEO:108] Life of Toshiro Umezawa
+1 [FRF:16] Lightform
+1 [7ED:306] Marble Diamond
+1 [VOW:241] Markov Purifier
+1 [CLU:65] Martial Impetus
+1 [FDN:65] Midnight Snack
+1 [MH3:101] Mindless Conscription
+1 [NEO:63] Mirrorshell Crab
+1 [THB:56] Naiad of Hidden Coves
+1 [VOW:26] Nurturing Presence
+1 [THB:110] Omen of the Dead
+14 [TLA:282] Plains
+1 [BLB:65] Plumecreed Escort
+1 [FDN:162] Run Away Together
+1 [M14:69] Scroll Thief
+1 [WWK:67] Shoreline Salvager
+1 [7ED:316] Sky Diamond
+1 [RIX:22] Slaughter the Strong
+1 [TLA:241] Sokka, Lateral Strategist
+1 [AFR:75] Soulknife Spy
+1 [RAV:271] Spectral Searchlight
+1 [SPM:45] Spider-Man No More
+1 [DKA:75] Spiteful Shadows
+1 [RIX:25] Squire's Devotion
+1 [MOM:79] Stasis Field
+8 [TLA:284] Swamp
+1 [M10:74] Telepathy
+1 [BLB:390] Thieving Otter
+1 [M21:79] Tide Skimmer
+1 [THB:40] Transcendent Envoy
+1 [DSK:36] Trapped in the Screen
+1 [AVR:122] Triumph of Cruelty
+1 [FDN:26] Twinblade Blessing
+1 [DSK:77] Twist Reality
+1 [THB:119] Tymaret, Chosen from Death
+1 [CLB:48] Veteran Soldier
+1 [MIR:47] Ward of Lights
+1 [SPM:21] Web Up
+1 [FIN:41] White Auracite
+SB: 1 [CSP:135] Zur the Enchanter
+LAYOUT MAIN:(1,6)(CMC,false,60)|([TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284])([THB:110],[M10:74])([GTC:59],[ISD:52],[MH3:22],[ROE:65],[MKM:295],[M21:19],[AVR:58],[M21:22],[NEO:108],[7ED:306],[VOW:26],[BLB:65],[FDN:162],[7ED:316],[SPM:45],[DKA:75],[MOM:79],[THB:40],[THB:119],[CLB:48],[MIR:47])([SPM:25],[DSK:83],[M20:84],[EOE:6],[SOI:100],[CMM:370],[FRF:32],[IKO:45],[GRN:167],[DMU:48],[RNA:38],[CMM:93],[DSK:214],[6ED:71],[JOU:13],[M21:55],[FRF:16],[VOW:241],[CLU:65],[FDN:65],[MH3:101],[THB:56],[M14:69],[RIX:22],[TLA:241],[AFR:75],[RAV:271],[RIX:25],[BLB:390],[DSK:36],[AVR:122],[FDN:26],[DSK:77],[SPM:21])([WOE:79],[ORI:105],[WWK:67],[M21:79],[FIN:41])([NEO:63])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CSP:135])

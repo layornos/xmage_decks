@@ -1,0 +1,102 @@
+1 [DTK:172] Ainok Survivalist
+1 [FDN:160] An Offer You Can't Refuse
+1 [TMP:315] Ancient Tomb
+1 [ALL:22a] Arcane Denial
+1 [ELD:331] Arcane Signet
+1 [SUM:283] Bayou
+1 [M12:165] Birds of Paradise
+1 [EVE:66] Bloom Tender
+1 [NEO:266] Boseiju, Who Endures
+1 [MKM:258] Branch of Vitu-Ghazi
+1 [EOE:251] Breeding Pool
+1 [ODY:317] Cephalid Coliseum
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [MKM:393] Coveted Falcon
+1 [RTR:35] Cyclonic Rift
+1 [RTR:213] Deathrite Shaman
+1 [LTR:158] Delighted Halfling
+1 [ICE:121] Demonic Consultation
+1 [SUM:105] Demonic Tutor
+1 [DTK:181] Den Protector
+1 [BRO:324] Diabolic Intent
+1 [LTR:160] Elven Chorus
+1 [ALL:89] Elvish Spirit Guide
+1 [MKM:55] Exit Specialist
+1 [MOM:352] Faerie Mastermind
+1 [9ED:297] Fellwar Stone
+1 [CMM:94] Fierce Guardianship
+1 [MKC:22] Final-Word Phantom
+1 [KTK:233] Flooded Strand
+1 [MB2:163] Flusterstorm
+1 [CHK:276] Forbidden Orchard
+1 [TLE:13] Force of Negation
+1 [ALL:28] Force of Will
+1 [USG:321] Gaea's Cradle
+1 [TSP:274] Gemstone Caverns
+1 [USG:76] Gilded Drake
+1 [M20:227] Grafdigger's Cage
+1 [VOW:359] Hullbreaker Horror
+1 [2X2:354] Imperial Seal
+1 [NEC:13] Imposter Mech
+1 [TLA:283] Island
+1 [CMM:396] Jeweled Lotus
+1 [C19:8] Kadena's Silencer
+1 [WAR:1*] Karn, the Great Creator
+1 [FDN:227] Llanowar Elves
+1 [TMP:294] Lotus Petal
+1 [JOU:163] Mana Confluence
+1 [SPG:17a] Mana Crypt
+1 [LEG:65] Mana Drain
+1 [AKH:175] Manglehorn
+1 [ZEN:219] Marsh Flats
+1 [NPH:38] Mental Misstep
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ZEN:57] Mindbreak Trap
+1 [SCG:42] Mischievous Quanar
+1 [ZEN:220] Misty Rainforest
+1 [GRN:189] Mnemonic Betrayal
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [ICE:87] Mystic Remora
+1 [6ED:83] Mystical Tutor
+1 [LGN:132] Nantuko Vigilante
+1 [MAR:19] Opposition Agent
+1 [LTR:103] Orcish Bowmasters
+1 [NEO:271] Otawara, Soaring City
+1 [ECL:266] Overgrown Tomb
+1 [NPH:42] Phyrexian Metamorph
+1 [KTK:239] Polluted Delta
+1 [CMM:424] Rejuvenating Springs
+1 [PCY:45] Rhystic Study
+1 [ZEN:223] Scalding Tarn
+1 [10E:296] Seedborn Muse
+1 [DTK:121] Silumgar Assassin
+1 [SUM:274] Sol Ring
+1 [DTK:80] Stratus Dancer
+1 [THS:65] Swan Song
+1 [ODY:164] Tainted Pact
+1 [WOE:215] Talion, the Kindly Lord
+1 [DRC:140] Talisman of Curiosity
+1 [MRD:253] Talisman of Dominance
+1 [DSC:255] Talisman of Resilience
+1 [TSP:83] Teferi, Mage of Zhalfir
+1 [THB:308] Thassa's Oracle
+1 [LTR:001] The One Ring
+1 [SUM:288] Tropical Island
+1 [SUM:290] Underground Sea
+1 [6ED:161] Vampiric Tutor
+1 [M20:198] Veil of Summer
+1 [ZEN:229] Verdant Catacombs
+1 [TSP:90] Vesuvan Shapeshifter
+1 [LGN:54] Voidmage Apprentice
+1 [EOE:261] Watery Grave
+1 [7ED:282] Wild Growth
+1 [TSB:36] Willbender
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [6ED:269] Worldly Tutor
+SB: 1 [C19:45] Kadena, Slinking Sorcerer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MKM:393],[NPH:42])([ELD:331],[MRD:152],[9ED:297],[M20:227],[NEC:13],[CMM:396],[TMP:294],[SPG:17a],[STH:138],[SOM:179],[SUM:274],[DRC:140],[MRD:253],[DSC:255],[LTR:001])([DTK:172],[M12:165],[EVE:66],[RTR:213],[LTR:158],[DTK:181],[ALL:89],[MKM:55],[MOM:352],[MKC:22],[USG:76],[VOW:359],[C19:8],[FDN:227],[AKH:175],[SCG:42],[LGN:132],[MAR:19],[LTR:103],[10E:296],[DTK:121],[DTK:80],[WOE:215],[TSP:83],[THB:308],[TSP:90],[LGN:54],[TSB:36])([LTR:160],[ICE:87],[PCY:45],[7ED:282])([FDN:160],[ALL:22a],[RTR:35],[ICE:121],[CMM:94],[MB2:163],[TLE:13],[ALL:28],[LEG:65],[NPH:38],[ZEN:57],[6ED:83],[THS:65],[ODY:164],[6ED:161],[M20:198],[6ED:269])([TMP:315],[SUM:283],[NEO:266],[MKM:258],[EOE:251],[ODY:317],[8ED:322],[ELD:333],[KTK:233],[CHK:276],[USG:321],[TSP:274],[TLA:283],[JOU:163],[ZEN:219],[CHK:279],[ZEN:220],[NEO:271],[ECL:266],[KTK:239],[CMM:424],[ZEN:223],[SUM:288],[SUM:290],[ZEN:229],[EOE:261],[KTK:248],[KTK:249])([WAR:1*])([SUM:105],[BRO:324],[2X2:354],[GRN:189])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C19:45])

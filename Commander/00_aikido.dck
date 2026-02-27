@@ -1,0 +1,93 @@
+1 [FRF:91] Arcbond
+1 [KTK:173] Deflecting Palm
+1 [DSC:221] Inkshield
+1 [KHM:216] Kardur, Doomscourge
+1 [RTR:184] Rakdos Charm
+1 [LTC:71] Taunt from the Rampart
+1 [TDC:176] Dauthi Voidwalker
+1 [GTC:6] Blind Obedience
+1 [M21:133] Brash Taunter
+1 [CHK:10] Ghostly Prison
+1 [TDM:338] Qarsi Revenant
+1 [HOU:165] Mirage Mirror
+1 [ACR:161] Black Market Connections
+1 [OTC:217] Breena, the Demagogue
+1 [AFC:319] Karazikar, the Eye Tyrant
+1 [LTR:001] The One Ring
+1 [9ED:54] Weathered Wayfarer
+1 [CMM:958] Kaldra Compleat
+1 [WWK:20] Stoneforge Mystic
+1 [RAV:272] Sunforger
+1 [SOI:242] Anguished Unmaking
+1 [ISD:130] Blasphemous Act
+1 [TDC:208] Chaos Warp
+1 [MKC:58] Comeuppance
+1 [NEO:13] Farewell
+1 [MH3:244] Fell the Profane
+1 [OTJ:11] Final Showdown
+1 [BLC:106] Generous Gift
+1 [TDM:194] Inevitable Defeat
+1 [BRO:12] Loran of the Third Path
+1 [LTC:503] Olorin's Searing Light
+1 [CON:15] Path to Exile
+1 [OTJ:142] Return the Favor
+1 [M13:145] Reverberate
+1 [IKO:204] Ruinous Ultimatum
+1 [ICE:54] Swords to Plowshares
+1 [KHM:153] Tibalt's Trickery
+1 [DSK:161] Untimely Malfunction
+1 [ZEN:211] Arid Mesa
+1 [CLU:274] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [CLU:231] Boros Garrison
+1 [ELD:333] Command Tower
+1 [CSP:145] Dark Depths
+1 [MKM:260] Elegant Parlor
+1 [CLU:276] Godless Shrine
+1 [NEM:141] Kor Haven
+1 [CLB:355] Luxury Suite
+1 [ZEN:219] Marsh Flats
+1 [SHM:275] Mistveil Plains
+3 [TDM:275] Mountain
+1 [CLU:241] Orzhov Basilica
+7 [TDM:272] Plains
+1 [SPG:38] Prismatic Vista
+1 [CLU:243] Rakdos Carnarium
+1 [MKM:266] Raucous Theater
+1 [M19:254] Reliquary Tower
+1 [CLU:279] Sacred Foundry
+1 [IKO:253] Savai Triome
+1 [MKM:268] Shadowy Backstreet
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [ACR:115] Silent Clearing
+1 [CMM:427] Spectator Seating
+1 [ACR:111] Sunbaked Canyon
+2 [TDM:274] Swamp
+1 [GTC:248] Thespian's Stage
+1 [CMM:436] Vault of Champions
+1 [EVE:81] Batwing Brume
+1 [C21:20] Nils, Discipline Enforcer
+1 [MKC:82] Selfless Squire
+1 [STA:11] Teferi's Protection
+1 [ELD:331] Arcane Signet
+1 [LCC:101] Archaeomancer's Map
+1 [GRN:233] Chromatic Lantern
+1 [OTJ:310] Claim Jumper
+1 [CLB:607] Deep Gnome Terramancer
+1 [KHM:352] Dream Devourer
+1 [ORI:21] Knight of the White Orchid
+1 [LTR:213] Lotho, Corrupt Shirriff
+1 [AFR:23] Loyal Warhound
+1 [BRC:53] Scholar of New Horizons
+1 [MH3:267] Sevinne's Reclamation
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [DSC:256] Thought Vessel
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [ONS:213] Insurrection
+1 [UDS:95] Repercussion
+1 [MKC:15] Trouble in Pairs
+SB: 1 [OTC:239] Queen Marchesa
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([HOU:165],[LTR:001],[CMM:958],[RAV:272],[ELD:331],[LCC:101],[GRN:233],[SUM:274],[DSC:256])([KHM:216],[TDC:176],[M21:133],[TDM:338],[OTC:217],[AFC:319],[9ED:54],[WWK:20],[BRO:12],[C21:20],[MKC:82],[OTJ:310],[CLB:607],[KHM:352],[ORI:21],[LTR:213],[AFR:23],[BRC:53],[AVR:209])([GTC:6],[CHK:10],[ACR:161],[RNA:22],[UDS:95],[MKC:15])([FRF:91],[KTK:173],[DSC:221],[RTR:184],[SOI:242],[TDC:208],[MKC:58],[MH3:244],[OTJ:11],[BLC:106],[TDM:194],[LTC:503],[CON:15],[OTJ:142],[M13:145],[ICE:54],[KHM:153],[DSK:161],[EVE:81],[STA:11])([ZEN:211],[CLU:274],[KTK:230],[WWK:132],[CLU:231],[ELD:333],[CSP:145],[MKM:260],[CLU:276],[NEM:141],[CLB:355],[ZEN:219],[SHM:275],[TDM:275],[TDM:275],[TDM:275],[CLU:241],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[SPG:38],[CLU:243],[MKM:266],[M19:254],[CLU:279],[IKO:253],[MKM:268],[CHK:282],[ACR:115],[CMM:427],[ACR:111],[TDM:274],[TDM:274],[GTC:248],[CMM:436],[TDM:272])([LTC:71],[ISD:130],[NEO:13],[IKO:204],[MH3:267],[ONS:213])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTC:239])

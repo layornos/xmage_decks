@@ -1,0 +1,91 @@
+1 [M15:127] Aggressive Mining
+1 [TMP:162] Apocalypse
+1 [ELD:331] Arcane Signet
+1 [ONE:158] Armored Scrapgorger
+1 [KHM:201] Arni Slays the Troll
+1 [SOM:110] Asceticism
+1 [TDC:339] Ash Barrens
+1 [MOM:131] Beamtown Beatstick
+1 [CMR:272] Blim, Comedic Genius
+1 [WWK:132] Bojuka Bog
+1 [MOR:85] Boldwyr Heavyweights
+1 [ODY:118] Buried Alive
+1 [M12:224] Buried Ruin
+1 [CMM:374] Campfire
+1 [BFZ:235] Cinder Glade
+1 [RTR:228] Codex Shredder
+1 [WOE:244] Collector's Vault
+1 [TDC:352] Command Beacon
+1 [ULG:98] Crop Rotation
+1 [TSB:40] Darkness
+1 [WHO:685] Decaying Time Loop
+1 [FDN:602] Demonic Pact
+1 [KLD:75] Diabolic Tutor
+1 [BRO:90] Disciples of Gix
+1 [DST:120] Eater of Days
+1 [ONS:141] Ebonblade Reaper
+1 [ODY:132] Entomb
+1 [TDM:255] Evolving Wilds
+1 [USG:136] Flesh Reaver
+4 [TDM:276] Forest
+1 [EMN:203] Geier Reach Sanitarium
+1 [FDN:725] Gilded Lotus
+1 [BIG:38] Greed's Gambit
+1 [FDN:625] Harmless Offering
+1 [M3C:78] Horizon of Progress
+1 [M3C:234] Ignoble Hierarch
+1 [PLC:72] Imp's Mischief
+1 [DKA:69] Increasing Ambition
+1 [OGW:72] Inverter of Truth
+1 [DMU:250] Karplusan Forest
+1 [JUD:122] Krosan Reclamation
+1 [MRD:195] Leveler
+1 [DOM:98] Lich's Mastery
+1 [ALA:210] Lich's Mirror
+1 [CMM:241] Magus of the Wheel
+1 [M10:215] Mirror of Fate
+1 [LTR:245] Mithril Coat
+1 [ODY:151] Morgue Theft
+4 [TDM:275] Mountain
+1 [MH3:12] Null Elemental Blast
+1 [ALA:215] Obelisk of Jund
+1 [CLB:332] Patriar's Seal
+1 [UDS:65] Phyrexian Negator
+1 [CMR:143] Plague Reaver
+1 [STX:81] Plumb the Forbidden
+1 [MH2:401] Profane Tutor
+1 [FDN:645] Rampaging Baloths
+1 [M19:197] Recollect
+1 [SUM:214] Regrowth
+1 [ALA:218] Relic of Progenitus
+1 [FUT:136] Riftsweeper
+1 [XLN:256] Rootbound Crag
+1 [ALA:228] Savage Lands
+1 [ZNR:203] Scute Swarm
+1 [XLN:207] Slice in Twain
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [FDN:680] Soul-Guide Lantern
+1 [JUD:99] Soulgorger Orgg
+1 [MMQ:273] Spidersilk Armor
+1 [VOW:221] Splendid Reclamation
+1 [AKH:249] Sunscorched Desert
+6 [TDM:274] Swamp
+1 [GPT:156] Sword of the Paruns
+1 [ONS:291] Tempting Wurm
+1 [ARB:46] Terminate
+1 [DSK:269] Terramorphic Expanse
+1 [ZEN:208] Trailblazer's Boots
+1 [EVE:180] Twilight Mire
+1 [9ED:327] Urza's Mine
+1 [9ED:328] Urza's Power Plant
+1 [DOM:235] Urza's Tome
+1 [9ED:329] Urza's Tower
+1 [FDN:616] Vile Entomber
+1 [OGW:12] Warping Wail
+1 [M11:221] Whispersilk Cloak
+1 [BRC:20] Wondrous Crucible
+1 [JUD:103] Worldgorger Dragon
+SB: 1 [NCC:101] The Beamtown Bullies
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([DST:120],[MRD:195],[FDN:257])([ELD:331],[MOM:131],[CMM:374],[RTR:228],[WOE:244],[FDN:725],[ALA:210],[M10:215],[LTR:245],[ALA:215],[CLB:332],[ALA:218],[SUM:274],[FDN:680],[GPT:156],[ZEN:208],[DOM:235],[M11:221],[BRC:20])([ONE:158],[CMR:272],[MOR:85],[BRO:90],[ONS:141],[USG:136],[M3C:234],[OGW:72],[CMM:241],[UDS:65],[CMR:143],[FDN:645],[FUT:136],[ZNR:203],[JUD:99],[ONS:291],[FDN:616],[JUD:103])([M15:127],[KHM:201],[SOM:110],[FDN:602],[BIG:38],[DOM:98],[MMQ:273])([ULG:98],[TSB:40],[WHO:685],[ODY:132],[PLC:72],[JUD:122],[MH3:12],[STX:81],[XLN:207],[ARB:46],[OGW:12])([TDC:339],[WWK:132],[M12:224],[BFZ:235],[TDC:352],[TDM:255],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[EMN:203],[M3C:78],[DMU:250],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[XLN:256],[ALA:228],[AKH:249],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[DSK:269],[EVE:180],[9ED:327],[9ED:328],[9ED:329])([TMP:162],[ODY:118],[KLD:75],[FDN:625],[DKA:69],[ODY:151],[MH2:401],[M19:197],[SUM:214],[VOW:221])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:101])

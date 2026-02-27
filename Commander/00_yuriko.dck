@@ -1,0 +1,85 @@
+1 [THS:39] Aqueous Form
+1 [XLN:46] Arcane Adaptation
+1 [ELD:331] Arcane Signet
+1 [BLC:86] Baleful Strix
+1 [KTK:230] Bloodstained Mire
+1 [MH3:243] Boggart Trawler
+1 [MMQ:61] Brainstorm
+1 [OTC:128] Changeling Outcast
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [CSP:29] Commandeer
+1 [7ED:67] Counterspell
+1 [ODY:319] Darkwater Catacombs
+1 [TDC:176] Dauthi Voidwalker
+1 [AVR:48] Devastation Tide
+1 [KTK:36] Dig Through Time
+1 [CLU:221] Dimir Signet
+1 [NEO:340] Dokuchi Silencer
+1 [XLN:253] Drowned Catacomb
+1 [J25:106] Faerie Seer
+1 [9ED:297] Fellwar Stone
+1 [MH3:326] Flare of Denial
+1 [KTK:233] Flooded Strand
+1 [SLP:29] Force of Despair
+1 [ALL:28] Force of Will
+1 [WOE:246] Gingerbrute
+1 [BOK:37] Higure, the Still Wind
+1 [AER:154] Hope of Ghirapur
+1 [2X2:354] Imperial Seal
+1 [J21:697] Ingenious Infiltrator
+18 [TDM:273] Island
+1 [ONE:204] Kaito, Dancing Shadow
+1 [LTR:511] Lorien Revealed
+1 [TMP:294] Lotus Petal
+1 [NEO:372] March of Swirling Mist
+1 [ZEN:219] Marsh Flats
+1 [EMN:69] Mausoleum Wanderer
+1 [SOM:174] Memnite
+1 [MMQ:87] Misdirection
+1 [J21:218] Mist-Syndicate Naga
+1 [BOK:43] Mistblade Shinobi
+1 [ZEN:220] Misty Rainforest
+1 [NEO:334] Moon-Circuit Hacker
+1 [CLB:357] Morphic Pool
+1 [DOM:224] Mox Amber
+1 [6ED:83] Mystical Tutor
+1 [M19:306] Nexus of Fate
+1 [BOK:44] Ninja of the Deep Hours
+1 [LTR:103] Orcish Bowmasters
+1 [AER:167] Ornithopter
+1 [CMM:110] Personal Tutor
+1 [VIS:152] Phyrexian Walker
+1 [KTK:239] Polluted Delta
+1 [SPG:38] Prismatic Vista
+1 [NEO:336] Prosperous Thief
+1 [OTJ:230] Satoru, the Infiltrator
+1 [ZEN:223] Scalding Tarn
+1 [M20:113] Scheming Symmetry
+1 [TMP:308] Scroll Rack
+1 [ZNR:333] Sea Gate Restoration
+1 [CHK:268] Sensei's Divining Top
+1 [MID:267] Shipwreck Marsh
+1 [MBS:131] Signal Pest
+1 [NEO:236] Silver-Fur Master
+1 [XLN:79] Siren Stormtamer
+1 [SUM:274] Sol Ring
+1 [MMQ:104] Soothsaying
+1 [FDN:164] Spectral Sailor
+1 [TDM:274] Swamp
+1 [MRD:253] Talisman of Dominance
+1 [AVR:81] Temporal Mastery
+1 [FRF:55] Temporal Trespass
+1 [DOM:69] Tetsuko Umezawa, Fugitive
+1 [DSC:256] Thought Vessel
+1 [NEO:337] Thousand-Faced Shadow
+1 [MH3:277] Toxic Deluge
+1 [BRO:267] Underground River
+1 [SUM:290] Underground Sea
+1 [J21:759] Universal Automaton
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [CLU:283] Watery Grave
+SB: 1 [CMM:364] Yuriko, the Tiger's Shadow
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([BLC:86],[WOE:246],[AER:154],[SOM:174],[AER:167],[VIS:152],[MBS:131],[J21:759])([ELD:331],[CLU:221],[9ED:297],[TMP:294],[DOM:224],[TMP:308],[CHK:268],[SUM:274],[MRD:253],[DSC:256])([MH3:243],[OTC:128],[TDC:176],[NEO:340],[J25:106],[BOK:37],[J21:697],[EMN:69],[J21:218],[BOK:43],[BOK:44],[LTR:103],[NEO:336],[OTJ:230],[NEO:236],[XLN:79],[FDN:164],[DOM:69],[NEO:337])([NEO:334])([THS:39],[XLN:46],[MMQ:104])([MMQ:61],[CSP:29],[7ED:67],[KTK:36],[MH3:326],[SLP:29],[ALL:28],[NEO:372],[MMQ:87],[6ED:83],[M19:306],[6ED:161])([KTK:230],[ZNR:260],[ELD:333],[ODY:319],[XLN:253],[KTK:233],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[ZEN:219],[ZEN:220],[CLB:357],[KTK:239],[SPG:38],[ZEN:223],[MID:267],[TDM:274],[BRO:267],[SUM:290],[ZEN:229],[CLU:283],[TDM:273],[TDM:273])([ONE:204])([AVR:48],[2X2:354],[LTR:511],[CMM:110],[M20:113],[ZNR:333],[AVR:81],[FRF:55],[MH3:277])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:364])

@@ -1,0 +1,99 @@
+1 [DMU:392] Aether Channeler
+1 [MKM:148] Aftermath Analyst
+1 [AVR:225] Alchemist's Refuge
+1 [DSC:71] Aminatou's Augury
+1 [ALL:22a] Arcane Denial
+1 [FIC:374] Ash Barrens
+1 [TDM:169] Auroral Procession
+1 [NPH:103] Beast Within
+1 [M12:165] Birds of Paradise
+1 [MMQ:61] Brainstorm
+1 [MH3:53] Brainsurge
+1 [EOE:251] Breeding Pool
+1 [M12:224] Buried Ruin
+1 [ELD:240] Castle Garenbrig
+1 [ODY:317] Cephalid Coliseum
+1 [BLB:168] Clifftop Lookout
+1 [ELD:333] Command Tower
+1 [BFZ:4] Conduit of Ruin
+1 [7ED:67] Counterspell
+1 [ULG:98] Crop Rotation
+1 [M21:177] Cultivate
+1 [DSC:31] Demolisher Spawn
+1 [FDN:687] Demolition Field
+1 [AVR:48] Devastation Tide
+1 [BLB:303] Dour Port-Mage
+1 [VOW:262] Dreamroot Cascade
+1 [H2R:4] Dress Down
+1 [MH3:253] Drowner of Truth
+1 [THB:169] Dryad of the Ilysian Grove
+1 [ROE:227] Eldrazi Temple
+1 [EMN:6] Emrakul, the Promised End
+1 [MH3:6] Emrakul, the World Anew
+1 [5DN:86] Eternal Witness
+1 [10E:83] Evacuation
+1 [FDN:724] Expedition Map
+1 [BLB:252] Fabled Passage
+1 [LRW:211] Fertile Ground
+1 [FDN:636] Fierce Empath
+1 [EVE:177] Flooded Grove
+3 [TLA:286] Forest
+1 [ULG:32] Frantic Search
+1 [EMN:203] Geier Reach Sanitarium
+1 [DMC:17] Gerrard's Hourglass Pendant
+1 [RNA:178] Growth Spiral
+1 [HOU:177] Hashep Oasis
+1 [MKM:262] Hedge Maze
+1 [DOM:240] Hinterland Harbor
+1 [HOU:180] Ipnu Rivulet
+2 [TLA:283] Island
+1 [MH3:11] Kozilek's Command
+1 [LRW:228] Lignify
+1 [LCI:293] Malcolm, Alluring Scoundrel
+1 [MH3:161] Malevolent Rumble
+1 [VIS:37] Man-o'-War
+1 [LCI:256] Matzalantli, the Great Door
+1 [ZEN:220] Misty Rainforest
+1 [RAV:60] Muddle the Mixture
+1 [WAR:61*] Narset, Parter of Veils
+1 [5ED:316] Nature's Lore
+1 [TDM:150] Nature's Rhythm
+1 [FDN:710] Negate
+1 [MH3:13] Nulldrifter
+1 [THB:188] Nylea's Intervention
+1 [VOC:14] Occult Epiphany
+1 [ELD:197] Oko, Thief of Crowns
+1 [BLC:171] Perplexing Test
+1 [MH3:198] Planar Genesis
+1 [M3C:80] Planar Nexus
+1 [BLB:306] Portent of Calamity
+1 [AKH:65] Pull from Tomorrow
+1 [M3C:66] Rampant Frogantua
+1 [SUM:214] Regrowth
+1 [CMM:424] Rejuvenating Springs
+1 [CHK:239] Sakura-Tribe Elder
+1 [BFZ:242] Sanctum of Ugin
+1 [M15:198] Satyr Wayfinder
+1 [MH3:228] Shifting Woodland
+1 [NEO:206] Shigeki, Jukai Visionary
+1 [SUM:274] Sol Ring
+1 [LCI:213] Spelunking
+1 [LCI:285] Sunken Citadel
+1 [BFZ:192] Sylvan Scrying
+1 [DRC:140] Talisman of Curiosity
+1 [DRC:175] Tanglepool Bridge
+1 [LCI:363] The Everflowing Well
+1 [FUT:173] Tolaria West
+1 [SOI:234] Traverse the Ulvenwald
+1 [SOM:48] Trinket Mage
+1 [MH3:234] Urza's Cave
+1 [MB2:114] Urza's Saga
+1 [9ED:329] Urza's Tower
+1 [TSP:281] Vesuva
+1 [ACR:116] Waterlogged Grove
+1 [RNA:149] Wilderness Reclamation
+1 [DFT:270] Willowrush Verge
+1 [DMU:261] Yavimaya Coast
+SB: 1 [BLB:209] Clement, the Worrywort
+LAYOUT MAIN:(1,12)(CARD_TYPE,false,60)|([DRC:175])([FDN:724],[DMC:17],[LCI:256],[SUM:274],[DRC:140],[LCI:363])([DMU:392],[MKM:148],[M12:165],[BLB:168],[BFZ:4],[BLB:303],[MH3:253],[EMN:6],[MH3:6],[5DN:86],[FDN:636],[LCI:293],[VIS:37],[MH3:13],[M3C:66],[CHK:239],[M15:198],[SOM:48])([DSC:31],[THB:169],[NEO:206])([MB2:114])([H2R:4],[LRW:211],[LCI:213],[RNA:149])([ALL:22a],[TDM:169],[NPH:103],[MMQ:61],[MH3:53],[7ED:67],[ULG:98],[10E:83],[ULG:32],[RNA:178],[RAV:60],[FDN:710],[VOC:14],[BLC:171],[MH3:198],[AKH:65])([LRW:228])([MH3:11])([AVR:225],[FIC:374],[EOE:251],[M12:224],[ELD:240],[ODY:317],[ELD:333],[FDN:687],[VOW:262],[ROE:227],[BLB:252],[EVE:177],[TLA:286],[TLA:286],[TLA:286],[EMN:203],[HOU:177],[MKM:262],[DOM:240],[HOU:180],[TLA:283],[TLA:283],[ZEN:220],[M3C:80],[CMM:424],[BFZ:242],[MH3:228],[LCI:285],[FUT:173],[MH3:234],[9ED:329],[TSP:281],[ACR:116],[DFT:270],[DMU:261])([WAR:61*],[ELD:197])([DSC:71],[M21:177],[AVR:48],[MH3:161],[5ED:316],[TDM:150],[THB:188],[BLB:306],[SUM:214],[BFZ:192],[SOI:234])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([BLB:209])

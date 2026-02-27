@@ -1,0 +1,93 @@
+1 [M20:43] Agent of Treachery
+1 [BLC:134] Angel of the Ruins
+1 [WAR:149] Arboreal Grazer
+1 [ELD:331] Arcane Signet
+1 [ZNR:180] Bala Ged Recovery
+1 [BLC:86] Baleful Strix
+1 [NPH:103] Beast Within
+1 [M12:165] Birds of Paradise
+1 [NEO:266] Boseiju, Who Endures
+1 [CLB:348] Bountiful Promenade
+1 [KHC:82] Brago, King Eternal
+1 [CLU:275] Breeding Pool
+1 [FDN:568] Charming Prince
+1 [FDN:653] Cloudblazer
+1 [AVR:12] Cloudshift
+1 [DIS:107] Coiling Oracle
+1 [ELD:333] Command Tower
+1 [AVR:214] Conjurer's Closet
+1 [STX:172] Culling Ritual
+1 [RTR:213] Deathrite Shaman
+1 [LTR:158] Delighted Halfling
+1 [MB2:27] Displacer Kitten
+1 [BLB:303] Dour Port-Mage
+1 [SOI:16] Eerie Interlude
+1 [ONE:10] Elesh Norn, Mother of Machines
+1 [SPG:48] Endurance
+1 [H1R:1] Ephemerate
+1 [J21:75] Esper Sentinel
+1 [SOI:61] Essence Flux
+1 [5DN:86] Eternal Witness
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+1 [AER:19] Felidar Guardian
+1 [THB:16] Flicker of Fate
+1 [KTK:233] Flooded Strand
+2 [TDM:276] Forest
+1 [CLU:276] Godless Shrine
+1 [RNA:130] Guardian Project
+1 [CLU:277] Hallowed Fountain
+1 [M21:188] Heroic Intervention
+1 [IKO:248] Indatha Triome
+4 [TDM:273] Island
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [CLB:357] Morphic Pool
+1 [LRW:76] Mulldrifter
+1 [5ED:316] Nature's Lore
+1 [CON:87] Noble Hierarch
+1 [LTR:103] Orcish Bowmasters
+1 [NEO:271] Otawara, Soaring City
+1 [CLU:278] Overgrown Tomb
+1 [KLD:226] Panharmonicon
+1 [CON:15] Path to Exile
+1 [SPG:101] Pathbreaker Ibex
+1 [USG:88] Peregrine Drake
+1 [NPH:42] Phyrexian Metamorph
+6 [TDM:272] Plains
+1 [BRO:240] Portal to Phyrexia
+1 [SNC:254] Raffine's Tower
+1 [RIX:82] Ravenous Chupacabra
+1 [FDN:231] Reclamation Sage
+1 [CMM:424] Rejuvenating Springs
+1 [M19:254] Reliquary Tower
+1 [AVR:32] Restoration Angel
+1 [PCY:45] Rhystic Study
+1 [ZEN:223] Scalding Tarn
+1 [CLB:360] Sea of Clouds
+1 [MH3:241] Sink into Stupor
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [J21:718] Soulherder
+1 [SNC:257] Spara's Headquarters
+1 [M12:39] Sun Titan
+1 [ICE:54] Swords to Plowshares
+1 [AFR:364] Teleportation Circle
+1 [CLU:282] Temple Garden
+1 [THB:261] Thassa, Deep-Dwelling
+1 [ONE:11] The Eternal Wanderer
+1 [ELD:161] The Great Henge
+1 [LTR:001] The One Ring
+1 [OTC:209] Three Visits
+1 [CMM:435] Undergrowth Stadium
+1 [ZEN:229] Verdant Catacombs
+1 [ROE:53] Wall of Omens
+1 [CLU:283] Watery Grave
+1 [KTK:248] Windswept Heath
+1 [MH3:239] Witch Enchanter
+1 [9ED:283] Wood Elves
+1 [IKO:232] Yorion, Sky Nomad
+1 [IKO:259] Zagoth Triome
+SB: 1 [ONE:196] Atraxa, Grand Unifier
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([BLC:134],[BLC:86],[J21:75],[NPH:42],[FDN:257])([ELD:331],[AVR:214],[KLD:226],[BRO:240],[SUM:274],[ELD:161],[LTR:001])([M20:43],[WAR:149],[M12:165],[KHC:82],[FDN:568],[FDN:653],[DIS:107],[RTR:213],[LTR:158],[MB2:27],[BLB:303],[ONE:10],[SPG:48],[5DN:86],[AER:19],[LRW:76],[CON:87],[LTR:103],[SPG:101],[USG:88],[RIX:82],[FDN:231],[AVR:32],[J21:718],[M12:39],[ROE:53],[MH3:239],[9ED:283],[IKO:232])([THB:261])([RNA:130],[PCY:45],[AFR:364])([NPH:103],[AVR:12],[SOI:16],[H1R:1],[SOI:61],[THB:16],[M21:188],[CON:15],[MH3:241],[ICE:54])([NEO:266],[CLB:348],[CLU:275],[ELD:333],[CON:142],[KTK:233],[TDM:276],[TDM:276],[CLU:276],[CLU:277],[IKO:248],[TDM:273],[TDM:273],[TDM:273],[ZEN:219],[ZEN:220],[CLB:357],[NEO:271],[CLU:278],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[SNC:254],[CMM:424],[M19:254],[ZEN:223],[CLB:360],[SNC:257],[CLU:282],[CMM:435],[ZEN:229],[CLU:283],[KTK:248],[IKO:259],[TDM:272],[TDM:273])([ONE:11])([ZNR:180],[STX:172],[M13:170],[5ED:316],[OTC:209])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ONE:196])

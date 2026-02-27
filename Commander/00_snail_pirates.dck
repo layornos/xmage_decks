@@ -1,0 +1,81 @@
+1 [BLC:264] Academy Manufactor
+1 [ELD:331] Arcane Signet
+1 [THS:42] Bident of Thassa
+1 [LCI:91] Bitter Triumph
+1 [PIP:1009] Bloodforged Battle-Axe
+1 [OTC:128] Changeling Outcast
+1 [SOI:270] Choked Estuary
+1 [ZNR:260] Clearwater Pathway
+1 [POR:46] Cloud Pirates
+1 [8ED:67] Coastal Piracy
+1 [DMU:44] Combat Research
+1 [ELD:333] Command Tower
+1 [7ED:67] Counterspell
+1 [CON:103] Countersquall
+1 [MKM:51] Curious Inquiry
+1 [RIX:35] Curious Obsession
+1 [XLN:49] Daring Saboteur
+1 [ONE:250] Darkslick Shores
+1 [XLN:99] Deadeye Tracker
+1 [M19:49] Departed Deckhand
+1 [KTK:36] Dig Through Time
+1 [CLU:221] Dimir Signet
+1 [BFZ:76] Dispel
+1 [CON:142] Exotic Orchard
+1 [M10:52] Fabricate
+1 [AER:57] Fatal Push
+1 [FDN:712] Feed the Swarm
+1 [9ED:297] Fellwar Stone
+1 [PCY:34] Foil
+1 [TSB:119] Gemstone Mine
+1 [BRO:102] Go for the Throat
+1 [M19:312] Grasping Scoundrel
+1 [AFR:367] Grazilaxx, Illithid Scholar
+1 [LCI:109] Greedy Freebooter
+1 [CLB:624] Haunted One
+1 [MID:107] Infernal Grasp
+1 [CLB:78] Irenicus's Vile Duplication
+15 [TLA:283] Island
+1 [M21:107] Kitesail Freebooter
+1 [LCI:364] Kitesail Larcenist
+1 [ALL:107] Lim-Dul's Vault
+1 [XLN:62] Lookout's Dispersal
+1 [LCI:293] Malcolm, Alluring Scoundrel
+1 [7ED:88] Memory Lapse
+1 [ONE:254] Mirrex
+1 [M21:57] Miscast
+1 [MMQ:87] Misdirection
+1 [MOR:42] Mothdust Changeling
+1 [RAV:60] Muddle the Mixture
+1 [FDN:710] Negate
+1 [LCI:66] Oaken Siren
+1 [RAV:217] Perplex
+1 [IKO:65] Reconnaissance Mission
+1 [DST:31] Reshape
+1 [LTR:220] Ringsight
+1 [FUT:179] River of Tears
+1 [FDN:267] Secluded Courtyard
+1 [RAV:105] Shred Memory
+1 [XLN:79] Siren Stormtamer
+1 [FUT:78] Slaughter Pact
+1 [SUM:274] Sol Ring
+1 [FDN:164] Spectral Sailor
+1 [DFT:64] Spell Pierce
+1 [DIS:33] Spell Snare
+1 [LCI:405] Spyglass Siren
+1 [LCC:78] Storm Fleet Negotiator
+8 [TLA:284] Swamp
+1 [MRD:253] Talisman of Dominance
+1 [LCC:43] The Indomitable
+1 [DMU:259] Thran Portal
+1 [ARB:31] Time Sieve
+1 [RIX:59] Timestream Navigator
+1 [XLN:258] Unclaimed Territory
+1 [BRO:267] Underground River
+1 [J21:759] Universal Automaton
+1 [RIX:60] Warkite Marauder
+1 [AER:49] Whir of Invention
+SB: 1 [SPG:2] Malcolm, Keen-Eyed Navigator
+SB: 1 [LCC:49] Francisco, Fowl Marauder
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([BLC:264],[LCI:66],[J21:759])([ELD:331],[PIP:1009],[CLU:221],[9ED:297],[SUM:274],[MRD:253],[LCC:43],[ARB:31])([OTC:128],[POR:46],[XLN:49],[XLN:99],[M19:49],[M19:312],[AFR:367],[LCI:109],[M21:107],[LCI:364],[LCI:293],[MOR:42],[XLN:79],[FDN:164],[LCI:405],[LCC:78],[RIX:59],[RIX:60])([THS:42])([8ED:67],[DMU:44],[MKM:51],[RIX:35],[CLB:624],[IKO:65])([LCI:91],[7ED:67],[CON:103],[KTK:36],[BFZ:76],[AER:57],[PCY:34],[BRO:102],[MID:107],[ALL:107],[XLN:62],[7ED:88],[M21:57],[MMQ:87],[RAV:60],[FDN:710],[RAV:217],[RAV:105],[FUT:78],[DFT:64],[DIS:33],[AER:49])([SOI:270],[ZNR:260],[ELD:333],[ONE:250],[CON:142],[TSB:119],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[ONE:254],[FUT:179],[FDN:267],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[DMU:259],[XLN:258],[BRO:267])([M10:52],[FDN:712],[CLB:78],[DST:31],[LTR:220])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,100)|([SPG:2])([LCC:49])

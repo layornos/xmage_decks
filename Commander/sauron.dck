@@ -1,0 +1,89 @@
+1 [JUD:77] Anger
+1 [ALL:22a] Arcane Denial
+1 [ELD:331] Arcane Signet
+1 [LTR:253] Barad-dur
+1 [LTR:196] Bilbo, Retired Burglar
+1 [ISD:130] Blasphemous Act
+1 [LTR:116] Book of Mazarbul
+1 [LTR:355] Call of the Ring
+1 [LTC:31] Cavern-Hoard Dragon
+1 [SOI:270] Choked Estuary
+1 [LTR:532] Claim the Precious
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [LTC:19] Corsairs of Umbar
+1 [7ED:67] Counterspell
+1 [ALA:222] Crumbling Necropolis
+1 [MMQ:129] Dark Ritual
+1 [CLU:221] Dimir Signet
+1 [XLN:252] Dragonskull Summit
+1 [WAR:86] Dreadhorde Invasion
+1 [XLN:253] Drowned Catacomb
+1 [LTR:411] Dunland Crebain
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [DKA:87] Faithless Looting
+1 [LTR:124] Fall of Cair Andros
+1 [FDN:712] Feed the Swarm
+1 [LTR:128] Foray of Orcs
+1 [SOI:272] Foreboding Ruins
+1 [STX:265] Frostboil Snarl
+1 [LTR:309] Gollum, Patient Plotter
+1 [LTR:429] Gothmog, Morgul Lieutenant
+1 [LTR:134] Grishnakh, Brash Instigator
+1 [LTC:58] In the Darkness Bind Them
+1 [LTR:242] Inherited Envelope
+5 [TLA:283] Island
+1 [WAR:59] Lazotep Plating
+1 [TMP:142] Living Death
+1 [LTC:60] Lord of the Nazgul
+1 [LTR:545] March from the Black Gate
+1 [LTR:214] Mauhur, Uruk-hai Captain
+1 [LTC:514] Minas Morgul, Dark Fortress
+1 [LTC:63] Moria Scavenger
+1 [LTR:258] Mount Doom
+5 [TLA:285] Mountain
+1 [LTR:100] Nazgul
+1 [PLS:48] Nightscape Familiar
+1 [LTR:102] One Ring to Rule Them All
+1 [LTR:103] Orcish Bowmasters
+1 [LTR:104] Orcish Medicine
+1 [LTC:33] Orcish Siegemaster
+1 [FIC:411] Path of Ancestry
+1 [CLU:226] Rakdos Signet
+1 [TMP:151] Reanimate
+1 [LTC:79] Relic of Sauron
+1 [LTR:220] Ringsight
+1 [FDN:264] Rogue's Passage
+1 [LTR:518] Saruman the White
+1 [LTR:519] Saruman's Trickery
+1 [LTC:8] Saruman, the White Hand
+1 [LTR:225] Sauron's Ransom
+1 [LTC:4] Sauron, Lord of the Rings
+1 [LTR:106] Sauron, the Necromancer
+1 [BFZ:247] Smoldering Marsh
+1 [SUM:274] Sol Ring
+1 [LTR:521] Soothing of Smeagol
+1 [DOM:247] Sulfur Falls
+1 [DMU:256] Sulfurous Springs
+1 [LTC:70] Summons of Saruman
+1 [BFZ:249] Sunken Hollow
+6 [TLA:284] Swamp
+1 [TDC:330] Talisman of Creativity
+1 [MRD:253] Talisman of Dominance
+1 [MRD:255] Talisman of Indulgence
+1 [DSK:269] Terramorphic Expanse
+1 [LTC:46] The Balrog of Moria
+1 [LTC:80] The Black Gate
+1 [LTR:216] The Mouth of Sauron
+1 [LTR:001] The One Ring
+1 [FDN:210] Thrill of Possibility
+1 [MH3:277] Toxic Deluge
+1 [LTR:525] Treason of Isengard
+1 [BRO:267] Underground River
+1 [LTR:826] Warg Rider
+1 [WAR:226] Widespread Brutality
+1 [LTR:114] Witch-king of Angmar
+SB: 1 [LTR:224] Sauron, the Dark Lord
+LAYOUT MAIN:(1,9)(CMC,false,60)|([LTR:253],[SOI:270],[ELD:333],[ALA:222],[XLN:252],[XLN:253],[TDM:255],[CON:142],[SOI:272],[STX:265],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[LTC:514],[LTR:258],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[FIC:411],[FDN:264],[BFZ:247],[DOM:247],[DMU:256],[BFZ:249],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[DSK:269],[LTC:80],[BRO:267])([MMQ:129],[DKA:87],[TMP:151],[SUM:274])([ALL:22a],[ELD:331],[LTR:355],[7ED:67],[CLU:221],[WAR:86],[FDN:712],[LTR:309],[WAR:59],[LTR:545],[LTR:214],[PLS:48],[LTR:103],[LTR:104],[CLU:226],[LTR:521],[LTC:70],[TDC:330],[MRD:253],[MRD:255],[FDN:210])([LTR:196],[LTR:116],[LTR:532],[FIC:339],[LTR:411],[LTR:124],[LTR:134],[LTR:242],[LTC:63],[LTR:100],[LTC:33],[LTR:220],[LTR:519],[LTR:225],[MH3:277],[LTR:525])([JUD:77],[LTC:19],[LTR:128],[LTR:429],[LTR:102],[LTC:79],[LTC:8],[LTR:001],[WAR:226])([LTC:58],[TMP:142],[LTC:60],[LTR:518],[LTR:106],[LTR:216],[LTR:826],[LTR:114])([LTC:46])([LTC:4])([ISD:130],[LTC:31])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([LTR:224])

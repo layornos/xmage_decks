@@ -1,0 +1,95 @@
+1 [10E:249] Abundance
+1 [WWK:121] Amulet of Vigor
+1 [RIX:185] Arch of Orazca
+1 [DMC:140] Archelos, Lagoon Mystic
+1 [FDN:683] Azorius Guildgate
+1 [M21:173] Azusa, Lost but Seeking
+1 [CLB:345] Baldur's Gate
+1 [MB2:104] Basilisk Gate
+1 [CLB:347] Black Dragon Gate
+1 [BFZ:233] Blighted Woodland
+1 [IKO:245] Bonders' Enclave
+1 [FDN:684] Boros Guildgate
+1 [CHK:202] Budoka Gardener
+1 [MH3:83] Chthonian Nightmare
+1 [FDN:635] Circuitous Route
+1 [CLB:349] Citadel Gate
+1 [CLB:350] Cliffgate
+1 [DIS:107] Coiling Oracle
+1 [OTJ:84] Corrupted Conviction
+1 [VOW:195] Cultivator Colossus
+1 [CLU:109] Deadly Dispute
+1 [FDN:688] Dimir Guildgate
+1 [GRN:128] District Guide
+1 [ELD:189] Escape to the Wilds
+1 [5DN:86] Eternal Witness
+1 [CON:142] Exotic Orchard
+1 [FDN:724] Expedition Map
+1 [CLB:232] Explore the Underdark
+8 [TLA:286] Forest
+1 [RTR:124] Gatecreeper Vine
+1 [DSC:39] Giggling Skitterspike
+1 [GRN:236] Glaive of the Guildpact
+1 [FDN:689] Golgari Guildgate
+1 [CLB:353] Gond Gate
+1 [DKA:156] Grim Backwoods
+1 [RNA:178] Growth Spiral
+1 [FDN:690] Gruul Guildgate
+1 [GRN:41] Guild Summit
+1 [ZNR:106] Hagra Mauling
+1 [CLB:354] Heap Gate
+1 [MMQ:320] High Market
+1 [EOC:15] Horizon Explorer
+1 [MID:264] Hostile Hostel
+1 [HOU:120] Hour of Promise
+1 [FDN:691] Izzet Guildgate
+1 [RIX:160] Journey to Eternity
+1 [ZNR:146] Kazuul's Fury
+1 [ZNR:192] Khalni Ambush
+1 [THB:243] Labyrinth of Skophos
+1 [AFR:259] Lair of the Hydra
+1 [M3C:79] Lazotep Quarry
+1 [M15:183] Life's Legacy
+1 [DOM:170] Llanowar Scout
+1 [FDN:106] Loot, Exuberant Explorer
+1 [BFZ:239] Lumbering Falls
+1 [CLB:356] Manor Gate
+1 [DRK:117] Maze of Ith
+1 [FDN:727] Maze's End
+1 [SOK:163] Miren, the Moaning Well
+1 [EOC:169] Myriad Landscape
+1 [LTR:416] Nasty End
+1 [CLB:329] Navigation Orb
+1 [CLB:289] Nine-Fingers Keene
+1 [BIG:18] Omenpath Journey
+1 [RNA:133] Open the Gates
+1 [MAT:23] Open the Way
+1 [FDN:692] Orzhov Guildgate
+1 [USG:322] Phyrexian Tower
+1 [RNA:254] Plaza of Harmony
+1 [WWK:141] Raging Ravine
+1 [FDN:693] Rakdos Guildgate
+1 [NEO:120] Reckoner's Bargain
+1 [EXO:72] Recurring Nightmare
+1 [SUM:126] Sacrifice
+1 [SOK:144] Sakura-Tribe Scout
+1 [AFR:204] Scaled Herbalist
+1 [HOU:182] Scavenger Grounds
+1 [CLB:359] Sea Gate
+1 [FDN:694] Selesnya Guildgate
+1 [FDN:695] Simic Guildgate
+1 [10E:297] Skyshroud Ranger
+1 [MH3:170] Sowing Mycospawn
+1 [LCI:213] Spelunking
+1 [9ED:273] Summer Bloom
+1 [M3C:82] Talon Gates of Madara
+1 [GTC:248] Thespian's Stage
+1 [DMU:259] Thran Portal
+1 [10E:361*] Treetop Village
+1 [SOI:235] Ulvenwald Hydra
+1 [USG:166] Victimize
+1 [KHM:117] Village Rites
+1 [WWK:131] Walking Atlas
+SB: 1 [SLD:1599] Child of Alara
+LAYOUT MAIN:(1,8)(CMC,false,60)|([RIX:185],[FDN:683],[CLB:345],[MB2:104],[CLB:347],[BFZ:233],[IKO:245],[FDN:684],[CLB:349],[CLB:350],[FDN:688],[CON:142],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[FDN:689],[CLB:353],[DKA:156],[FDN:690],[CLB:354],[MMQ:320],[MID:264],[FDN:691],[THB:243],[AFR:259],[M3C:79],[BFZ:239],[CLB:356],[DRK:117],[FDN:727],[SOK:163],[EOC:169],[FDN:692],[USG:322],[RNA:254],[WWK:141],[FDN:693],[HOU:182],[CLB:359],[FDN:694],[FDN:695],[M3C:82],[GTC:248],[DMU:259],[10E:361*])([WWK:121],[OTJ:84],[FDN:724],[RNA:133],[SUM:126],[SOK:144],[10E:297],[KHM:117])([CHK:202],[MH3:83],[DIS:107],[CLU:109],[RTR:124],[GRN:236],[RNA:178],[M15:183],[DOM:170],[LTR:416],[MAT:23],[NEO:120],[AFR:204],[9ED:273],[WWK:131])([M21:173],[GRN:128],[5DN:86],[GRN:41],[EOC:15],[RIX:160],[ZNR:146],[ZNR:192],[FDN:106],[CLB:329],[EXO:72],[LCI:213],[USG:166])([10E:249],[DMC:140],[FDN:635],[DSC:39],[ZNR:106],[CLB:289],[BIG:18],[MH3:170])([ELD:189],[CLB:232],[HOU:120])([SOI:235])([VOW:195])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([SLD:1599])

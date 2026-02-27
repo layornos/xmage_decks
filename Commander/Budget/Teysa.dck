@@ -1,0 +1,66 @@
+1 [TDM:2] Anafenza, Unyielding Lineage
+1 [ELD:331] Arcane Signet
+1 [LRW:3] Austere Command
+1 [IKO:73] Bastion of Remembrance
+1 [SNC:417] Body Launderer
+1 [WWK:53] Butcher of Malakir
+1 [OTJ:84] Corrupted Conviction
+1 [CLU:109] Deadly Dispute
+1 [WAR:190] Despark
+1 [KLD:75] Diabolic Tutor
+1 [DMU:198] Elas il-Kor, Sadistic Pilgrim
+1 [DFT:201] Embalmed Ascendant
+1 [TMP:18] Field of Souls
+1 [WAR:16] God-Eternal Oketra
+1 [LCI:109] Greedy Freebooter
+1 [KTK:73] Grim Haruspex
+1 [MH3:97] Grim Servant
+1 [VOC:88] Hallowed Spiritkeeper
+1 [FDN:320] High-Society Hunter
+1 [HOU:15] Hour of Revelation
+1 [ISD:19] Intangible Virtue
+1 [NEO:102] Junji, the Midnight Sky
+1 [ULG:11] Karmic Guide
+1 [ZEN:18] Kor Cartographer
+1 [MID:232] Liesa, Forgotten Archangel
+1 [DSC:224] Life Insurance
+1 [IKO:21] Luminous Broodmoth
+1 [FDN:609] Midnight Reaper
+1 [AFR:26] Moon-Blessed Cleric
+1 [MID:113] Morbid Opportunist
+1 [THB:108] Nightmare Shepherd
+1 [MID:117] Novice Occultist
+1 [GTC:74] Ogre Slumlord
+1 [CLU:225] Orzhov Signet
+1 [OTJ:23] Outlaw Medic
+1 [FIC:247] Palace Jailer
+19 [TLA:282] Plains
+1 [FIC:328] Priest of Fell Rites
+1 [RNA:83] Priest of Forgotten Gods
+1 [RIX:82] Ravenous Chupacabra
+1 [LCC:74] Redemption Choir
+1 [MOR:22] Reveillark
+1 [MID:237] Rite of Oblivion
+1 [LCI:260] Scampering Surveyor
+1 [KHM:27] Search for Glory
+1 [AFR:119] Shambling Ghast
+1 [LRW:139] Shriekmaw
+1 [TDM:341] Sidisi, Regent of the Mire
+1 [OGW:77] Sifter of Skulls
+1 [ZNR:322] Skyclave Apparition
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [M12:39] Sun Titan
+19 [TLA:284] Swamp
+1 [GPT:134] Teysa, Orzhov Scion
+1 [EMN:47] Thalia's Lancers
+1 [TDC:306] Thalisse, Reverent Medium
+1 [TDM:340] The Sibsig Ceremony
+1 [USG:166] Victimize
+1 [KHM:117] Village Rites
+1 [CLU:126] Vindictive Vampire
+1 [AER:74] Yahenni, Undying Partisan
+1 [DFT:229] Zahur, Glory's Past
+SB: 1 [RNA:212] Teysa Karlov
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([LCI:260],[FDN:257])([ELD:331],[CLU:225],[SUM:274])([TDM:2],[SNC:417],[WWK:53],[DMU:198],[DFT:201],[WAR:16],[LCI:109],[KTK:73],[MH3:97],[VOC:88],[FDN:320],[NEO:102],[ULG:11],[ZEN:18],[MID:232],[IKO:21],[FDN:609],[AFR:26],[MID:113],[MID:117],[GTC:74],[OTJ:23],[FIC:247],[FIC:328],[RNA:83],[RIX:82],[LCC:74],[MOR:22],[AFR:119],[LRW:139],[TDM:341],[OGW:77],[ZNR:322],[M12:39],[GPT:134],[EMN:47],[TDC:306],[CLU:126],[AER:74],[DFT:229])([THB:108])([IKO:73],[TMP:18],[ISD:19],[DSC:224],[TDM:340])([OTJ:84],[CLU:109],[WAR:190],[KHM:117])([TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284])([LRW:3],[KLD:75],[HOU:15],[MID:237],[KHM:27],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RNA:212])

@@ -1,0 +1,96 @@
+1 [SOI:241] Altered Ego
+1 [FDN:160] An Offer You Can't Refuse
+1 [ELD:331] Arcane Signet
+1 [FIC:374] Ash Barrens
+1 [FIC:10] Auron, Venerated Guardian
+1 [FIC:299] Bane of Progress
+1 [FIC:111] Blitzball Stadium
+1 [DGM:59] Bred for the Hunt
+1 [BRO:259] Brushland
+1 [BFZ:234] Canopy Vista
+1 [M15:46] Chasm Skulker
+1 [FIC:102] Chocobo Knights
+1 [EMN:17] Collective Effort
+1 [ELD:333] Command Tower
+1 [FIC:239] Damning Verdict
+1 [DMU:17] Destroy Evil
+1 [CLU:161] Duskshell Crawler
+1 [SNC:183] Endless Detour
+1 [WWK:123] Everflowing Chalice
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [NEO:13] Farewell
+1 [M13:170] Farseek
+1 [GTC:162] Fathom Mage
+1 [SNC:145] Fight Rigging
+1 [EVE:177] Flooded Grove
+3 [TLA:286] Forest
+1 [FIC:395] Forge of Heroes
+1 [SCG:120] Forgotten Ancient
+1 [SOI:274] Fortified Village
+1 [FIC:134] Gatta and Luzzu
+1 [FIC:305] Generous Patron
+1 [XLN:255] Glacial Fortress
+1 [WAR:17] Grateful Apparition
+1 [GTC:123] Gyre Sage
+1 [KTK:133] Hardened Scales
+1 [DOM:240] Hinterland Harbor
+1 [DMU:249] Idyllic Beachfront
+1 [RNA:131] Incubation Druid
+1 [SOM:35] Inexorable Tide
+1 [FDN:226] Inspiring Call
+3 [TLA:283] Island
+1 [FIC:175] Kimahri, Valiant Guardian
+1 [FIC:137] Lord Jyscal Guado
+1 [FIC:143] Lulu, Stern Guardian
+1 [IKO:21] Luminous Broodmoth
+1 [FIC:160] Maester Seymour
+1 [EOS:31] Nesting Grounds
+1 [FIC:144] O'aka, Traveling Merchant
+1 [FIC:410] Overflowing Basin
+1 [FIC:411] Path of Ancestry
+1 [RIX:142] Path of Discovery
+1 [CON:15] Path to Exile
+3 [TLA:282] Plains
+1 [SOI:278] Port Town
+1 [BFZ:241] Prairie Stream
+1 [FIC:249] Promise of Loyalty
+1 [FIC:107] Protection Magic
+1 [AKH:65] Pull from Tomorrow
+1 [DMU:253] Radiant Grove
+1 [FIC:314] Rampant Rejuvenator
+1 [EOC:67] Resourceful Defense
+1 [FIC:145] Rikku, Resourceful Guardian
+1 [FIC:252] Scholar of New Horizons
+1 [ALA:229] Seaside Citadel
+1 [FIC:184] Shelinda, Yevon Acolyte
+1 [FIC:185] Sin, Unending Cataclysm
+1 [ODY:327] Skycloud Expanse
+1 [SUM:274] Sol Ring
+1 [FIC:123] Sphere Grid
+1 [FIC:195] Summon: Ixion
+1 [FIC:200] Summon: Magus Sisters
+1 [FIC:197] Summon: Valefor
+1 [FIC:196] Summon: Yojimbo
+1 [FIC:109] Summoner's Sending
+1 [ODY:328] Sungrass Prairie
+1 [XLN:257] Sunpetal Grove
+1 [DTK:41] Sunscorch Regent
+1 [DMU:258] Tangled Islet
+1 [FDN:698] Temple of Enlightenment
+1 [FDN:702] Temple of Mystery
+1 [FDN:703] Temple of Plenty
+1 [SCG:143] Temple of the False God
+1 [FIC:315] Three Visits
+1 [SOI:233] Tireless Tracker
+1 [FIC:257] Together Forever
+1 [FIC:162] Tromell, Seymour's Butler
+1 [STX:274] Vineglimmer Snarl
+1 [FIC:190] Wakka, Devoted Guardian
+1 [AER:181] Walking Ballista
+1 [FIC:125] Yuna's Decision
+1 [FIC:126] Yuna's Whistle
+1 [FIC:192] Yuna, Grand Summoner
+SB: 1 [FIC:187] Tidus, Yuna's Guardian
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([AER:181])([ELD:331],[FIC:111],[WWK:123],[SUM:274])([SOI:241],[FIC:10],[FIC:299],[M15:46],[FIC:102],[CLU:161],[GTC:162],[SCG:120],[FIC:134],[FIC:305],[WAR:17],[GTC:123],[RNA:131],[FIC:175],[FIC:137],[FIC:143],[IKO:21],[FIC:160],[FIC:144],[FIC:314],[FIC:145],[FIC:252],[FIC:184],[FIC:185],[DTK:41],[SOI:233],[FIC:162],[FIC:190],[FIC:192])([FIC:195],[FIC:200],[FIC:197],[FIC:196])([DGM:59],[SNC:145],[KTK:133],[SOM:35],[RIX:142],[EOC:67],[FIC:123],[FIC:109],[FIC:257])([FDN:160],[DMU:17],[SNC:183],[FDN:226],[CON:15],[FIC:107],[AKH:65],[FIC:126])([FIC:374],[BRO:259],[BFZ:234],[ELD:333],[TDM:255],[CON:142],[EVE:177],[TLA:286],[TLA:286],[TLA:286],[FIC:395],[SOI:274],[XLN:255],[DOM:240],[DMU:249],[TLA:283],[TLA:283],[TLA:283],[EOS:31],[FIC:410],[FIC:411],[TLA:282],[TLA:282],[TLA:282],[SOI:278],[BFZ:241],[DMU:253],[ALA:229],[ODY:327],[ODY:328],[XLN:257],[DMU:258],[FDN:698],[FDN:702],[FDN:703],[SCG:143],[STX:274])([EMN:17],[FIC:239],[NEO:13],[M13:170],[FIC:249],[FIC:315],[FIC:125])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FIC:187])

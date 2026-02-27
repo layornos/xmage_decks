@@ -1,0 +1,86 @@
+1 [FDN:188] Abrade
+1 [MH3:449] Amphibian Downpour
+1 [FDN:160] An Offer You Can't Refuse
+1 [ALL:22a] Arcane Denial
+1 [ELD:331] Arcane Signet
+1 [M12:164] Autumn's Veil
+1 [M12:165] Birds of Paradise
+1 [NEO:266] Boseiju, Who Endures
+1 [SCG:29] Brain Freeze
+1 [MMQ:61] Brainstorm
+1 [XLN:136] Captain Lannery Storm
+1 [ONS:73] Chain of Vapor
+1 [M15:172] Chord of Calling
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [ELD:41] Corridor Monitor
+1 [ISD:49] Curiosity
+1 [NEM:30] Daze
+1 [BFZ:76] Dispel
+1 [C21:165] Dualcaster Mage
+1 [FDN:507] Eaten by Piranhas
+1 [EMN:155] Eldritch Evolution
+1 [M15:173] Elvish Mystic
+1 [WAR:245] Emergence Zone
+1 [SPG:48] Endurance
+1 [CON:142] Exotic Orchard
+1 [ACR:112] Fiery Islet
+1 [MB2:163] Flusterstorm
+1 [OTP:29] Force of Vigor
+6 [TDM:276] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [NPH:35] Gitaxian Probe
+1 [M20:141] Glint-Horn Buccaneer
+1 [M21:188] Heroic Intervention
+1 [BLB:52] Into the Flood Maw
+6 [TDM:273] Island
+1 [DMU:250] Karplusan Forest
+1 [PLC:152] Keen Sense
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [FDN:227] Llanowar Elves
+1 [TMP:294] Lotus Petal
+1 [LEG:65] Mana Drain
+1 [ZEN:57] Mindbreak Trap
+1 [M21:57] Miscast
+7 [TDM:275] Mountain
+1 [DOM:224] Mox Amber
+1 [RAV:60] Muddle the Mixture
+1 [WWK:108] Nature's Claim
+1 [TDM:150] Nature's Rhythm
+1 [WAR:206] Neoform
+1 [NEO:271] Otawara, Soaring City
+1 [FUT:42] Pact of Negation
+1 [M12:72] Phantasmal Image
+1 [5ED:262] Pyroblast
+1 [FRF:46] Reality Shift
+1 [CMM:424] Rejuvenating Springs
+1 [STX:51] Resculpt
+1 [DMU:255] Shivan Reef
+1 [PLC:122] Simian Spirit Guide
+1 [XLN:79] Siren Stormtamer
+1 [ULG:43] Snap
+1 [SUM:274] Sol Ring
+1 [FDN:164] Spectral Sailor
+1 [DFT:64] Spell Pierce
+1 [MH3:327] Strix Serenade
+1 [DOM:247] Sulfur Falls
+1 [MH2:448] Suspend
+1 [THS:65] Swan Song
+1 [TDC:330] Talisman of Creativity
+1 [DRC:140] Talisman of Curiosity
+1 [THB:308] Thassa's Oracle
+1 [ONS:119] Trickery Charm
+1 [JOU:115] Twinflame
+1 [DSK:78] Unable to Scream
+1 [THB:161] Underworld Breach
+1 [DIS:99] Utopia Sprawl
+1 [MH3:78] Utter Insignificance
+1 [M20:198] Veil of Summer
+1 [MH3:329] Volatile Stormdrake
+1 [ACR:116] Waterlogged Grove
+1 [6ED:269] Worldly Tutor
+1 [DMU:261] Yavimaya Coast
+SB: 1 [SPG:2] Malcolm, Keen-Eyed Navigator
+SB: 1 [CMR:537] Tana, the Bloodsower
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:41])([ELD:331],[TMP:294],[DOM:224],[SUM:274],[TDC:330],[DRC:140])([M12:165],[XLN:136],[C21:165],[M15:173],[SPG:48],[ICE:244],[M20:141],[CHK:175],[FDN:227],[M12:72],[PLC:122],[XLN:79],[FDN:164],[THB:308],[MH3:329])([MH3:449],[ISD:49],[FDN:507],[PLC:152],[DSK:78],[THB:161],[DIS:99],[MH3:78])([FDN:188],[FDN:160],[ALL:22a],[M12:164],[SCG:29],[MMQ:61],[ONS:73],[M15:172],[NEM:30],[BFZ:76],[MB2:163],[OTP:29],[M21:188],[BLB:52],[LEG:65],[ZEN:57],[M21:57],[RAV:60],[WWK:108],[FUT:42],[5ED:262],[FRF:46],[STX:51],[ULG:43],[DFT:64],[MH3:327],[MH2:448],[THS:65],[ONS:119],[M20:198],[6ED:269])([NEO:266],[8ED:322],[ELD:333],[WAR:245],[CON:142],[ACR:112],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[DMU:250],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[NEO:271],[CMM:424],[DMU:255],[DOM:247],[ACR:116],[DMU:261])([EMN:155],[NPH:35],[TDM:150],[WAR:206],[JOU:115])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPG:2],[CMR:537])

@@ -1,0 +1,92 @@
+1 [KLD:192] Aetherflux Reservoir
+1 [M3C:165] Akroma's Will
+1 [TMP:315] Ancient Tomb
+1 [40K:9] And They Shall Know No Fear
+1 [SOI:242] Anguished Unmaking
+1 [AKH:2] Anointed Procession
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [LRW:3] Austere Command
+1 [DOM:4] Baird, Steward of Argive
+1 [FDN:567] Ballyrush Banneret
+1 [IKO:73] Bastion of Remembrance
+1 [ACR:161] Black Market Connections
+1 [DFT:250] Bleachbone Verge
+1 [LCI:336] Bloodletter of Aclazotz
+1 [FDN:318] Bloodthirsty Conqueror
+1 [WWK:132] Bojuka Bog
+1 [WAR:79] Bolas's Citadel
+1 [ZNR:259] Brightclimb Pathway
+1 [ONC:60] Call the Coppercoats
+1 [M13:8] Captain of the Watch
+1 [ELD:241] Castle Locthwain
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [40K:113] Company Commander
+1 [OTJ:268] Concealed Courtyard
+1 [MAT:1] Coppercoat Vanguard
+1 [CMM:147] Deadly Rollick
+1 [SCG:64] Decree of Pain
+1 [CLB:607] Deep Gnome Terramancer
+1 [DMU:16] Defiler of Faith
+1 [MKM:12] Delney, Streetwise Lookout
+1 [LTR:198] Denethor, Ruling Steward
+1 [40K:184] Deploy to the Front
+1 [WAR:190] Despark
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [6ED:19] Enlightened Tutor
+1 [CON:142] Exotic Orchard
+1 [NEO:13] Farewell
+1 [EVE:176] Fetid Heath
+1 [10E:15*] Field Marshal
+1 [M20:247] Field of the Dead
+1 [STX:188] Fracture
+1 [BLC:106] Generous Gift
+1 [CLU:276] Godless Shrine
+1 [CLB:755] Grim Hireling
+1 [MBS:8] Hero of Bladehold
+1 [LTR:240] Horn of Gondor
+1 [RAV:21] Hour of Reckoning
+1 [DOM:241] Isolated Chapel
+1 [4ED:34] Land Tax
+1 [PIP:108] MacCready, Lamplight Mayor
+1 [ZEN:219] Marsh Flats
+1 [CON:11] Martial Coup
+1 [LTR:256] Minas Tirith
+1 [ONE:23] Mondrak, Glory Dominus
+1 [DSC:100] Monologue Tax
+1 [BRO:18] Myrel, Shield of Argive
+1 [TDC:380] Myriad Landscape
+1 [LCI:26] Ojer Taq, Deepest Foundation
+1 [CLU:241] Orzhov Basilica
+1 [TDC:382] Path of Ancestry
+1 [CON:15] Path to Exile
+1 [TMP:300] Pearl Medallion
+1 [USG:322] Phyrexian Tower
+7 [TDM:272] Plains
+1 [M15:25] Preeminent Captain
+1 [M19:254] Reliquary Tower
+1 [BRO:288] Rescue Retriever
+1 [LCI:258] Roaming Throne
+1 [VOW:264] Shattered Sanctum
+1 [BRO:25] Siege Veteran
+1 [ACR:115] Silent Clearing
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [FDN:148] Stroke of Midnight
+5 [TDM:274] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [ICE:54] Swords to Plowshares
+1 [TOR:140] Tainted Field
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [TDC:331] Talisman of Hierarchy
+1 [MH3:277] Toxic Deluge
+1 [RNA:29] Unbreakable Formation
+1 [DMU:38] Valiant Veteran
+1 [6ED:161] Vampiric Tutor
+1 [STX:244] Vanishing Verse
+1 [XLN:251] Vanquisher's Banner
+1 [TDC:17] Will of the Mardu
+SB: 1 [40K:112] Commissar Severina Raine
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([LCI:258])([KLD:192],[ELD:331],[6ED:274],[WAR:79],[LTR:240],[TMP:300],[SUM:274],[FDN:258],[TDC:331],[XLN:251])([DOM:4],[FDN:567],[LCI:336],[FDN:318],[M13:8],[40K:113],[MAT:1],[CLB:607],[DMU:16],[MKM:12],[LTR:198],[10E:15*],[CLB:755],[MBS:8],[PIP:108],[ONE:23],[BRO:18],[LCI:26],[M15:25],[BRO:288],[BRO:25],[DMU:38])([AKH:2],[IKO:73],[ACR:161],[4ED:34],[DSC:100],[RNA:22])([M3C:165],[40K:9],[SOI:242],[ONC:60],[CMM:147],[WAR:190],[6ED:19],[STX:188],[BLC:106],[CON:15],[FDN:148],[ICE:54],[RNA:29],[6ED:161],[STX:244],[TDC:17])([TMP:315],[DFT:250],[WWK:132],[ZNR:259],[ELD:241],[DMU:244],[ELD:333],[OTJ:268],[NEO:268],[CON:142],[EVE:176],[M20:247],[CLU:276],[DOM:241],[ZEN:219],[LTR:256],[TDC:380],[CLU:241],[TDC:382],[USG:322],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[M19:254],[VOW:264],[ACR:115],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TOR:140],[NEO:278],[TDM:272])([LRW:3],[SCG:64],[40K:184],[NEO:13],[RAV:21],[CON:11],[MH3:277])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([40K:112])

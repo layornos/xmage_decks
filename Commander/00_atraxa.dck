@@ -1,0 +1,100 @@
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [9ED:297] Fellwar Stone
+1 [SUM:274] Sol Ring
+1 [ELD:161] The Great Henge
+1 [MKC:54] Aerial Extortionist
+1 [DMU:392] Aether Channeler
+1 [M20:43] Agent of Treachery
+1 [BLC:134] Angel of the Ruins
+1 [DSC:371] Archon of Cruelty
+1 [BLC:86] Baleful Strix
+1 [CLU:158] Beast Whisperer
+1 [M12:165] Birds of Paradise
+1 [EVE:66] Bloom Tender
+1 [MH3:243] Boggart Trawler
+1 [KHC:82] Brago, King Eternal
+1 [AVR:47] Deadeye Navigator
+1 [ONE:10] Elesh Norn, Mother of Machines
+1 [5DN:86] Eternal Witness
+1 [ULG:11] Karmic Guide
+1 [BLC:227] Kodama of the East Tree
+1 [CLU:199] Lavinia of the Tenth
+1 [BRO:12] Loran of the Third Path
+1 [LRW:76] Mulldrifter
+1 [CON:87] Noble Hierarch
+1 [DSK:194] Overlord of the Hauntwoods
+1 [CMM:47] Palace Jailer
+1 [USG:88] Peregrine Drake
+1 [J22:8] Preston, the Vanisher
+1 [LRW:139] Shriekmaw
+1 [FDN:257] Solemn Simulacrum
+1 [J21:718] Soulherder
+1 [THB:261] Thassa, Deep-Dwelling
+1 [MH3:239] Witch Enchanter
+1 [9ED:283] Wood Elves
+1 [5ED:140] Animate Dead
+1 [ULG:100] Defense of the Heart
+1 [RNA:130] Guardian Project
+1 [PCY:45] Rhystic Study
+1 [MKC:15] Trouble in Pairs
+1 [ALL:22a] Arcane Denial
+1 [MKM:187] Assassin's Trophy
+1 [RTR:35] Cyclonic Rift
+1 [H1R:1] Ephemerate
+1 [CMM:489] Fierce Guardianship
+1 [CMM:24] Flawless Maneuver
+1 [M21:188] Heroic Intervention
+1 [LEG:65] Mana Drain
+1 [ICE:54] Swords to Plowshares
+1 [6ED:161] Vampiric Tutor
+1 [SNC:230] Void Rend
+1 [6ED:269] Worldly Tutor
+1 [SUM:283] Bayou
+1 [CLU:275] Breeding Pool
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [M20:247] Field of the Dead
+1 [KTK:233] Flooded Strand
+2 [TDM:276] Forest
+1 [CLU:276] Godless Shrine
+1 [CLU:277] Hallowed Fountain
+1 [IKO:248] Indatha Triome
+1 [TDM:273] Island
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [CLU:278] Overgrown Tomb
+2 [TDM:272] Plains
+1 [KTK:239] Polluted Delta
+1 [SNC:254] Raffine's Tower
+1 [M19:254] Reliquary Tower
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [SNC:257] Spara's Headquarters
+1 [TDM:274] Swamp
+1 [CLU:282] Temple Garden
+1 [SUM:288] Tropical Island
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ZEN:229] Verdant Catacombs
+1 [CLU:283] Watery Grave
+1 [KTK:248] Windswept Heath
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [IKO:259] Zagoth Triome
+1 [OTJ:1] Another Round
+1 [SUM:105] Demonic Tutor
+1 [EMN:155] Eldritch Evolution
+1 [NEO:13] Farewell
+1 [M13:170] Farseek
+1 [TMP:142] Living Death
+1 [NEM:117] Skyshroud Claim
+1 [OTC:209] Three Visits
+1 [MH3:277] Toxic Deluge
+1 [LTR:433] Orcish Bowmasters
+1 [CC2:5] Reanimate
+1 [LTR:451] The One Ring
+SB: 1 [ONE:196] Atraxa, Grand Unifier
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([BLC:134],[BLC:86],[FDN:257])([ELD:331],[GRN:233],[9ED:297],[SUM:274],[ELD:161],[LTR:451])([MKC:54],[DMU:392],[M20:43],[DSC:371],[CLU:158],[M12:165],[EVE:66],[MH3:243],[KHC:82],[AVR:47],[ONE:10],[5DN:86],[ULG:11],[BLC:227],[CLU:199],[BRO:12],[LRW:76],[CON:87],[CMM:47],[USG:88],[J22:8],[LRW:139],[J21:718],[MH3:239],[9ED:283],[LTR:433])([DSK:194],[THB:261])([5ED:140],[ULG:100],[RNA:130],[PCY:45],[MKC:15])([ALL:22a],[MKM:187],[RTR:35],[H1R:1],[CMM:489],[CMM:24],[M21:188],[LEG:65],[ICE:54],[6ED:161],[SNC:230],[6ED:269])([SUM:283],[CLU:275],[ELD:333],[CON:142],[M20:247],[KTK:233],[TDM:276],[TDM:276],[CLU:276],[CLU:277],[IKO:248],[TDM:273],[JOU:163],[ZEN:219],[ZEN:220],[CLU:278],[TDM:272],[TDM:272],[KTK:239],[SNC:254],[M19:254],[SUM:285],[SUM:286],[SNC:257],[TDM:274],[CLU:282],[SUM:288],[SUM:289],[SUM:290],[M15:248],[ZEN:229],[CLU:283],[KTK:248],[M3C:409],[IKO:259])([OTJ:1],[SUM:105],[EMN:155],[NEO:13],[M13:170],[TMP:142],[NEM:117],[OTC:209],[MH3:277],[CC2:5])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ONE:196])

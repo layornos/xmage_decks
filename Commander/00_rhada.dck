@@ -1,0 +1,79 @@
+1 [MH3:284] Annoyed Altisaur
+1 [CLB:778] Aurora Phoenix
+1 [WHO:115] Bigger on the Inside
+1 [BFZ:233] Blighted Woodland
+1 [M3C:70] Bloodbraid Challenger
+1 [XLN:137] Captivating Crew
+1 [MKM:155] Case of the Locked Hothouse
+1 [FDN:360] Chandra, Flameshaper
+1 [BFZ:235] Cinder Glade
+1 [FDN:635] Circuitous Route
+1 [KLD:112] Combustible Gearhulk
+1 [ELD:333] Command Tower
+1 [ONE:249] Copperline Gorge
+1 [LCI:181] Cosmium Confluence
+1 [C21:376] Creative Technique
+1 [MH3:250] Disciple of Freyalise
+1 [LCI:271] Echoing Deeps
+1 [MOC:37] Emergent Woodwurm
+1 [TDM:142] Encroaching Dragonstorm
+1 [DTK:186] Explosive Vegetation
+12 [TLA:286] Forest
+1 [SOI:276] Game Trail
+1 [M15:283] Garruk's Packleader
+1 [GTC:170] Gruul Ragebeast
+1 [LCI:276] Hidden Nursery
+1 [LCI:277] Hidden Volcano
+1 [M3C:57] Hideous Taskmaster
+1 [BLB:218] Hugs, Grisly Guardian
+1 [MKM:132] Incinerator of the Guilty
+1 [MOM:194] Invasion of Zendikar
+1 [DMU:250] Karplusan Forest
+1 [ISD:243] Kessig Wolf Run
+1 [MOM:244] Kogla and Yidaro
+1 [IKO:162] Kogla, the Titan Ape
+1 [40K:81*] Let the Galaxy Burn
+1 [OTJ:170] Map the Frontier
+1 [IKO:164] Migration Path
+1 [ODY:321] Mossfire Valley
+1 [LRW:270] Mosswort Bridge
+13 [TLA:285] Mountain
+1 [AKH:214] Mouth // Feed
+1 [CLB:829] Natural Reclamation
+1 [BIG:25] Nexus of Becoming
+1 [40K:82*] Noise Marine
+1 [BIG:18] Omenpath Journey
+1 [MH3:246] Pinnacle Monk
+1 [LCI:278] Pit of Offerings
+1 [FDN:644] Primeval Bounty
+1 [J25:702] Primeval Herald
+1 [LTR:184] Radagast the Brown
+1 [M13:186] Ranger's Path
+1 [MID:266] Rockfall Vale
+1 [LCI:260] Scampering Surveyor
+1 [40K:84*] Screamer-Killer
+1 [BLB:152] Season of the Bold
+1 [TDC:269] Selvala's Stampede
+1 [AKH:186] Shefet Monitor
+1 [NEM:117] Skyshroud Claim
+1 [W16:16] Soul of the Harvest
+1 [CMR:201] Soulfire Eruption
+1 [FDN:681] Steel Hellkite
+1 [XLN:165] Sunbird's Invocation
+1 [CLB:835] Sweet-Gum Recluse
+1 [BLC:124] Tempt with Discovery
+1 [ELD:323] Thorn Mammoth
+1 [DSC:201] Thunderfoot Baloth
+1 [SNC:159] Titan of Industry
+1 [LCI:171] Trumpeting Carnosaur
+1 [AVR:162] Tyrant of Discord
+1 [SCD:165] Tyrant's Familiar
+1 [ZNR:217] Vastwood Surge
+1 [SNC:162] Vivien on the Hunt
+1 [OTC:184] Volcanic Torrent
+1 [SCD:170] Wildfire Devils
+1 [BRC:20] Wondrous Crucible
+1 [GVL:17] Nature's Lore
+SB: 1 [PLC:162] Radha, Heir to Keld
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,60)|([KLD:112],[LCI:260],[FDN:681])([BIG:25],[BRC:20])([MOM:194])([MH3:284],[CLB:778],[M3C:70],[XLN:137],[MH3:250],[MOC:37],[M15:283],[GTC:170],[M3C:57],[BLB:218],[MKM:132],[MOM:244],[IKO:162],[40K:82*],[MH3:246],[J25:702],[LTR:184],[40K:84*],[AKH:186],[W16:16],[CLB:835],[ELD:323],[DSC:201],[SNC:159],[LCI:171],[AVR:162],[SCD:165],[SCD:170])([WHO:115],[MKM:155],[TDM:142],[BIG:18],[FDN:644],[XLN:165])([CLB:829])([BFZ:233],[BFZ:235],[ELD:333],[ONE:249],[LCI:271],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[SOI:276],[LCI:276],[LCI:277],[DMU:250],[ISD:243],[ODY:321],[LRW:270],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[LCI:278],[MID:266])([FDN:360],[SNC:162])([AKH:214])([FDN:635],[LCI:181],[C21:376],[DTK:186],[40K:81*],[OTJ:170],[IKO:164],[M13:186],[BLB:152],[TDC:269],[NEM:117],[CMR:201],[BLC:124],[ZNR:217],[OTC:184],[GVL:17])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([PLC:162])

@@ -1,0 +1,101 @@
+1 [ALA:63] Ad Nauseam
+1 [FDN:160] An Offer You Can't Refuse
+1 [TMP:315] Ancient Tomb
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [SUM:282] Badlands
+1 [WOE:336] Beseech the Mirror
+1 [KHM:123] Birgi, God of Storytelling
+1 [ECL:262] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [LTR:350] Borne Upon a Wind
+1 [SCG:29] Brain Freeze
+1 [TOR:51] Cabal Ritual
+1 [LCI:410a] Cavern of Souls
+1 [ONS:73] Chain of Vapor
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [EXO:55] Culling the Weak
+1 [RTR:35] Cyclonic Rift
+1 [MMQ:129] Dark Ritual
+1 [TDC:176] Dauthi Voidwalker
+1 [9ED:293] Defense Grid
+1 [CMM:214] Deflecting Swat
+1 [ICE:121] Demonic Consultation
+1 [SUM:105] Demonic Tutor
+1 [MB2:27] Displacer Kitten
+1 [CON:142] Exotic Orchard
+1 [MOM:352] Faerie Mastermind
+1 [9ED:297] Fellwar Stone
+1 [CMM:94] Fierce Guardianship
+1 [7ED:182] Final Fortune
+1 [KTK:233] Flooded Strand
+1 [MB2:163] Flusterstorm
+1 [TLE:13] Force of Negation
+1 [ALL:28] Force of Will
+1 [USG:188] Gamble
+1 [TSP:274] Gemstone Caverns
+1 [ULG:126] Grim Monolith
+1 [J21:466] Harmonic Prodigy
+1 [2X2:354] Imperial Seal
+1 [BLB:52] Into the Flood Maw
+2 [TLA:283] Island
+1 [MKC:156] Jeska's Will
+1 [MIR:307] Lion's Eye Diamond
+1 [TMP:294] Lotus Petal
+1 [JOU:163] Mana Confluence
+1 [5ED:388] Mana Vault
+1 [ZEN:219] Marsh Flats
+1 [NPH:38] Mental Misstep
+1 [ZEN:57] Mindbreak Trap
+1 [ZEN:220] Misty Rainforest
+1 [GRN:189] Mnemonic Betrayal
+1 [BLB:305] Mockingbird
+1 [CLB:357] Morphic Pool
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [ICE:87] Mystic Remora
+1 [6ED:83] Mystical Tutor
+1 [5ED:182] Necropotence
+1 [MAR:19] Opposition Agent
+1 [LTR:103] Orcish Bowmasters
+1 [NEO:271] Otawara, Soaring City
+1 [FUT:42] Pact of Negation
+1 [M12:72] Phantasmal Image
+1 [NPH:42] Phyrexian Metamorph
+1 [KTK:239] Polluted Delta
+1 [5ED:262] Pyroblast
+1 [FCA:43] Ragavan, Nimble Pilferer
+1 [TMP:151] Reanimate
+1 [4ED:218] Red Elemental Blast
+1 [PCY:45] Rhystic Study
+1 [CSP:96] Rite of Flame
+1 [ZEN:223] Scalding Tarn
+1 [PLC:122] Simian Spirit Guide
+1 [SUM:274] Sol Ring
+1 [FIN:289] Starting Town
+1 [ECL:267] Steam Vents
+1 [THS:65] Swan Song
+1 [ODY:164] Tainted Pact
+1 [TDC:330] Talisman of Creativity
+1 [MRD:253] Talisman of Dominance
+1 [MRD:255] Talisman of Indulgence
+1 [THB:308] Thassa's Oracle
+1 [LTR:001] The One Ring
+1 [MH3:277] Toxic Deluge
+1 [SUM:290] Underground Sea
+1 [THB:161] Underworld Breach
+1 [BLB:308] Valley Floodcaller
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [SUM:291] Volcanic Island
+1 [M15:122] Waste Not
+1 [EOE:261] Watery Grave
+1 [SUM:185] Wheel of Fortune
+1 [FDN:617] Wishclaw Talisman
+1 [KTK:249] Wooded Foothills
+1 [C19:15] Bone Miser
+SB: 1 [FIN:231] Kefka, Court Mage
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([NPH:42])([ELD:331],[MRD:152],[9ED:293],[9ED:297],[ULG:126],[MIR:307],[TMP:294],[5ED:388],[STH:138],[SOM:179],[SUM:274],[TDC:330],[MRD:253],[MRD:255],[LTR:001],[FDN:617])([KHM:123],[TDC:176],[MB2:27],[MOM:352],[J21:466],[BLB:305],[MAR:19],[LTR:103],[M12:72],[FCA:43],[PLC:122],[THB:308],[BLB:308],[C19:15])([ICE:87],[5ED:182],[PCY:45],[THB:161],[M15:122])([ALA:63],[FDN:160],[LTR:350],[SCG:29],[TOR:51],[ONS:73],[EXO:55],[RTR:35],[MMQ:129],[CMM:214],[ICE:121],[CMM:94],[7ED:182],[MB2:163],[TLE:13],[ALL:28],[BLB:52],[NPH:38],[ZEN:57],[6ED:83],[FUT:42],[5ED:262],[4ED:218],[THS:65],[ODY:164],[6ED:161])([TMP:315],[ZEN:211],[SUM:282],[ECL:262],[KTK:230],[LCI:410a],[8ED:322],[ELD:333],[CON:142],[KTK:233],[TSP:274],[TLA:283],[TLA:283],[JOU:163],[ZEN:219],[ZEN:220],[CLB:357],[NEO:271],[KTK:239],[ZEN:223],[FIN:289],[ECL:267],[SUM:290],[ZEN:229],[SUM:291],[EOE:261],[KTK:249])([WOE:336],[SUM:105],[USG:188],[2X2:354],[MKC:156],[GRN:189],[TMP:151],[CSP:96],[MH3:277],[SUM:185])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([FIN:231])

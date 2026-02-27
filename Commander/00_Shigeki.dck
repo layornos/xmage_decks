@@ -1,0 +1,63 @@
+1 [FIN:183] Diamond Weapon
+1 [EOE:189] Harmonious Grovestrider
+1 [FDN:220] Garruk's Uprising
+1 [FDN:221] Genesis Wave
+1 [9ED:245] Greater Good
+1 [PLC:149] Harmonize
+1 [M15:183] Life's Legacy
+1 [ROE:197] Momentous Fall
+1 [CMM:406] Sandstone Oracle
+1 [FRF:138] Shamanic Revelation
+1 [DSC:31] Demolisher Spawn
+1 [BFZ:233] Blighted Woodland
+1 [SOI:271] Drownyard Temple
+40 [TLA:286] Forest
+1 [ELD:245] Gingerbread Cabin
+1 [LCI:276] Hidden Nursery
+1 [SCG:143] Temple of the False God
+1 [DSC:202] Titania, Nature's Force
+1 [XLN:213] Verdant Sun's Avatar
+1 [MKM:148] Aftermath Analyst
+1 [EMN:160] Grapple with the Past
+1 [MH2:150] Blessed Respite
+1 [CLB:233] Giant Ankheg
+1 [TMP:249] Respite
+1 [AKH:183] Sandwurm Convergence
+1 [PCY:126] Spore Frog
+1 [M21:177] Cultivate
+1 [DMU:160] Defiler of Vigor
+1 [DTK:186] Explosive Vegetation
+1 [TOR:125] Far Wanderings
+1 [LTR:169] Generous Ent
+1 [NEO:189] Greater Tanuki
+1 [ZEN:165] Harrow
+1 [CLB:238] Jaheira's Respite
+1 [CHK:225] Kodama's Reach
+1 [OTJ:170] Map the Frontier
+1 [ORI:190] Nissa's Pilgrimage
+1 [M12:190] Rampant Growth
+1 [M13:186] Ranger's Path
+1 [NEM:117] Skyshroud Claim
+1 [SOI:235] Ulvenwald Hydra
+1 [CMM:329] Verdant Confluence
+1 [BRO:202] Perennial Behemoth
+1 [SUM:214] Regrowth
+1 [C19:34] Road of Return
+1 [TDC:274] Timeless Witness
+1 [M13:159] Acidic Slime
+1 [ROE:1] All Is Dust
+1 [BFZ:1] Bane of Bala Ged
+1 [FIC:299] Bane of Progress
+1 [NPH:103] Beast Within
+1 [LRW:202] Cloudthresher
+1 [DSC:178] Ezuri's Predation
+1 [TSP:202] Krosan Grip
+1 [LRW:228] Lignify
+1 [MRD:222] Oblivion Stone
+1 [ROE:9] Pathrazer of Ulamog
+1 [M15:224] Perilous Vault
+1 [OGW:126] World Breaker
+1 [LRW:233] Primal Command
+SB: 1 [NEO:206] Shigeki, Jukai Visionary
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([FIN:183],[CMM:406],[BRO:202])([MRD:222],[M15:224])([EOE:189],[DSC:202],[XLN:213],[MKM:148],[CLB:233],[PCY:126],[DMU:160],[LTR:169],[SOI:235],[TDC:274],[M13:159],[BFZ:1],[FIC:299],[LRW:202],[ROE:9],[OGW:126])([DSC:31],[NEO:189])([FDN:220],[9ED:245],[AKH:183])([ROE:197],[EMN:160],[MH2:150],[TMP:249],[ZEN:165],[CLB:238],[NPH:103],[TSP:202])([LRW:228])([ROE:1])([BFZ:233],[SOI:271],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[ELD:245],[LCI:276],[SCG:143])([FDN:221],[PLC:149],[M15:183],[FRF:138],[M21:177],[DTK:186],[TOR:125],[CHK:225],[OTJ:170],[ORI:190],[M12:190],[M13:186],[NEM:117],[CMM:329],[SUM:214],[C19:34],[DSC:178],[LRW:233])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEO:206])

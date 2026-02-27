@@ -1,0 +1,74 @@
+1 [ELD:2] All That Glitters
+1 [MMQ:229] Ancestral Mask
+1 [THB:298] Archon of Sun's Grace
+1 [KHM:249] Arctic Treeline
+1 [INV:229] Armadillo Cloak
+1 [LRW:3] Austere Command
+1 [ISD:170] Avacyn's Pilgrim
+1 [BFZ:234] Canopy Vista
+1 [DOM:12] Danitha Capashen, Paragon
+1 [MAT:29] Danitha, New Benalia's Light
+1 [CMM:21] Darksteel Mutation
+1 [JOU:122] Eidolon of Blossoms
+1 [WOC:2] Ellivere of the Wild Court
+1 [ONS:261] Enchantress's Presence
+1 [DSK:7] Ethereal Armor
+1 [BLB:13] Feather of Flight
+1 [LRW:211] Fertile Ground
+1 [JOU:123] Font of Fertility
+15 [TLA:286] Forest
+1 [SOI:274] Fortified Village
+1 [BLC:106] Generous Gift
+1 [THB:20] Heliod's Pilgrim
+1 [ORI:180] Herald of the Pantheon
+1 [THB:24] Idyllic Tutor
+1 [NEO:225] Jukai Naturalist
+1 [NEO:197] Kami of Transience
+1 [ROE:31] Kor Spiritdancer
+1 [LCI:232] Kutzil, Malamet Exemplar
+1 [NEO:25] Light-Paws, Emperor's Voice
+1 [LRW:228] Lignify
+1 [MH3:160] Lion Umbra
+1 [FDN:227] Llanowar Elves
+1 [M12:25] Mesa Enchantress
+1 [AFR:26] Moon-Blessed Cleric
+1 [MH3:164] Nyxborn Hydra
+1 [M13:22] Oblivion Ring
+1 [SOI:32] Open the Armory
+1 [ONE:26] Ossification
+1 [10E:283*] Overgrowth
+1 [CON:15] Path to Exile
+1 [MH3:39] Pearl-Ear, Imperial Advisor
+15 [TLA:282] Plains
+1 [BNG:24] Plea for Guidance
+1 [DFT:175] Point the Way
+1 [MBS:126] Psychosis Crawler
+1 [M13:185] Rancor
+1 [LCI:281] Restless Prairie
+1 [MH2:26] Resurgent Belief
+1 [M19:223] Satyr Enchanter
+1 [AKH:247] Scattered Groves
+1 [NEM:18] Seal of Cleansing
+1 [PLC:153] Seal of Primordium
+1 [THB:198] Setessan Champion
+1 [ORI:31] Sigil of the Empty Throne
+1 [THB:226] Siona, Captain of the Pyleas
+1 [MKC:85] Soul Snare
+1 [AER:23] Sram, Senior Edificer
+1 [M20:39] Starfield Mystic
+1 [WWK:144] Stirring Wildwood
+1 [M12:39] Sun Titan
+1 [ODY:328] Sungrass Prairie
+1 [ICE:54] Swords to Plowshares
+1 [WOE:188] Tanglespan Lookout
+1 [FDN:703] Temple of Plenty
+1 [WOC:20] Timber Paladin
+1 [MH3:175] Trickster's Elk
+1 [ROE:52] Umbra Mystic
+1 [9ED:279] Verduran Enchantress
+1 [INV:225] Whip Silk
+1 [7ED:282] Wild Growth
+1 [TMP:52] Winds of Rath
+SB: 1 [CMM:938] Sythis, Harvest's Hand
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MBS:126],[WOC:20])([THB:298],[ISD:170],[DOM:12],[MAT:29],[WOC:2],[THB:20],[ORI:180],[NEO:197],[ROE:31],[LCI:232],[NEO:25],[FDN:227],[M12:25],[AFR:26],[MH3:39],[M19:223],[THB:198],[THB:226],[AER:23],[M20:39],[M12:39],[WOE:188],[ROE:52],[9ED:279])([JOU:122],[NEO:225],[MH3:164],[MH3:175])([ELD:2],[MMQ:229],[INV:229],[CMM:21],[ONS:261],[DSK:7],[BLB:13],[LRW:211],[JOU:123],[MH3:160],[M13:22],[ONE:26],[10E:283*],[DFT:175],[M13:185],[NEM:18],[PLC:153],[ORI:31],[MKC:85],[INV:225],[7ED:282])([BLC:106],[CON:15],[ICE:54])([LRW:228])([KHM:249],[BFZ:234],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[SOI:274],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[LCI:281],[AKH:247],[WWK:144],[ODY:328],[FDN:703])([LRW:3],[THB:24],[SOI:32],[BNG:24],[MH2:26],[TMP:52])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:938])

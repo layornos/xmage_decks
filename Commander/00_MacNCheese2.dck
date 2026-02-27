@@ -1,0 +1,87 @@
+1 [CHK:19] Isamaru, Hound of Konda
+1 [8ED:139] Larceny
+1 [LCI:336] Bloodletter of Aclazotz
+1 [DMU:198] Elas il-Kor, Sadistic Pilgrim
+1 [DSK:102] Grievous Wound
+1 [OTJ:211] Kambal, Profiteering Mayor
+1 [MKM:243] Wispdrinker Vampire
+1 [TDC:32] Within Range
+1 [LCI:221] Amalia Benavides Aguirre
+1 [MKM:287] Assemble the Players
+1 [OTC:217] Breena, the Demagogue
+1 [SOI:8] Bygone Bishop
+1 [BLB:311] Darkstar Augur
+1 [FDN:578] Mentor of the Meek
+1 [5ED:182] Necropotence
+1 [5DN:55] Night's Whisper
+1 [ONS:175] Syphon Mind
+1 [LTC:12] The Gaffer
+1 [MKM:431] Tomik, Wielder of Law
+1 [MKM:237] Treacherous Greed
+1 [FCA:18] Tymna the Weaver
+1 [VOW:287] Welcoming Vampire
+1 [MKM:12] Delney, Streetwise Lookout
+1 [DSK:119] Unstoppable Slasher
+1 [PBBD:7s] Virtus the Veiled
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [ELD:238] Castle Ardenvale
+1 [DMU:244] Caves of Koilos
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [EOE:254] Godless Shrine
+1 [ZEN:219] Marsh Flats
+1 [LTR:256] Minas Tirith
+1 [FIC:411] Path of Ancestry
+8 [TLA:282] Plains
+1 [SHM:278*] Reflecting Pool
+1 [SUM:286] Scrubland
+1 [MKM:268] Shadowy Backstreet
+1 [MH3:230] Spymaster's Vault
+9 [TLA:284] Swamp
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [DKA:158] Vault of the Archangel
+1 [ZEN:229] Verdant Catacombs
+1 [PIP:1068] War Room
+1 [KTK:248] Windswept Heath
+1 [MH3:29] Guide of Souls
+1 [KLD:183] Kambal, Consul of Allocation
+1 [M11:28] Serra Ascendant
+1 [ROE:44] Soul's Attendant
+1 [NPH:25] Suture Priest
+1 [MKM:105] Snarling Gorehound
+1 [IKO:188] General's Enforcer
+1 [EMN:40] Selfless Spirit
+1 [MKC:60] Duelist's Heritage
+1 [CMM:408] Scytheclaw
+1 [LTR:213] Lotho, Corrupt Shirriff
+1 [KTK:66] Bloodsoaked Champion
+1 [IKO:226] Lurrus of the Dream-Den
+1 [FDN:22] Raise the Past
+1 [MH3:267] Sevinne's Reclamation
+1 [THS:110] Whip of Erebos
+1 [SOI:242] Anguished Unmaking
+1 [MH3:243] Boggart Trawler
+1 [DRC:89] Damn
+1 [AKH:210] Dusk // Dawn
+1 [OTP:1] Fell the Mighty
+1 [MH3:244] Fell the Profane
+1 [BLC:106] Generous Gift
+1 [ZNR:106] Hagra Mauling
+1 [MOM:115] Invasion of Innistrad
+1 [LTR:103] Orcish Bowmasters
+1 [ALA:217] Quietus Spike
+1 [MH3:238] Razorgrass Ambush
+1 [ICE:54] Swords to Plowshares
+1 [MH3:277] Toxic Deluge
+1 [SOK:14] Kataki, War's Wage
+1 [7ED:307] Meekstone
+1 [TDM:337] Avenger of the Fallen
+1 [DST:122] Genesis Chamber
+1 [SUM:105] Demonic Tutor
+1 [WWK:20] Stoneforge Mystic
+SB: 1 [PIP:108] MacCready, Lamplight Mayor
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,50)|([CHK:19],[8ED:139],[LCI:336],[DMU:198],[DSK:102],[OTJ:211],[MKM:243],[TDC:32],[LCI:221],[MKM:287],[OTC:217],[SOI:8],[BLB:311],[FDN:578],[5ED:182],[5DN:55],[ONS:175],[LTC:12],[MKM:431],[MKM:237],[FCA:18],[VOW:287],[MKM:12],[DSK:119],[PBBD:7s],[ZEN:211],[KTK:230],[ELD:238],[DMU:244],[8ED:322],[ELD:333],[NEO:268],[EOE:254],[ZEN:219],[LTR:256],[FIC:411],[TLA:282],[TLA:282])([TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[SHM:278*],[SUM:286],[MKM:268],[MH3:230],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[NEO:278],[M15:248],[DKA:158],[ZEN:229],[PIP:1068],[KTK:248],[MH3:29],[KLD:183],[M11:28],[ROE:44],[NPH:25],[MKM:105],[IKO:188],[EMN:40],[MKC:60])([CMM:408],[LTR:213],[KTK:66],[IKO:226],[FDN:22],[MH3:267],[THS:110],[SOI:242],[MH3:243],[DRC:89],[AKH:210],[OTP:1],[MH3:244],[BLC:106],[ZNR:106],[MOM:115],[LTR:103],[ALA:217],[MH3:238],[ICE:54],[MH3:277],[SOK:14],[7ED:307],[TDM:337],[DST:122],[SUM:105],[WWK:20])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PIP:108])

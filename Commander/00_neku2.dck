@@ -1,0 +1,102 @@
+1 [ALL:22a] Arcane Denial
+1 [ELD:331] Arcane Signet
+1 [SUM:282] Badlands
+1 [ISD:130] Blasphemous Act
+1 [ECL:262] Blood Crypt
+1 [ZEN:82] Bloodchief Ascension
+1 [KTK:230] Bloodstained Mire
+1 [MH3:243] Boggart Trawler
+1 [WWK:132] Bojuka Bog
+1 [SPG:87] Bone Miser
+1 [VIS:127] Breathstealer's Crypt
+1 [EVE:175] Cascade Bluffs
+1 [EOC:49] Chaos Warp
+1 [ELD:333] Command Tower
+1 [7ED:67] Counterspell
+1 [ULG:123] Crawlspace
+1 [RTR:35] Cyclonic Rift
+1 [FRF:66] Dark Deal
+1 [CMM:214] Deflecting Swat
+1 [FDN:587] Dictate of Kruphix
+1 [CLU:221] Dimir Signet
+1 [FDN:621] Dragon Mage
+1 [XLN:252] Dragonskull Summit
+1 [XLN:253] Drowned Catacomb
+1 [MB2:160] Echo of Eons
+1 [CON:142] Exotic Orchard
+1 [MOM:352] Faerie Mastermind
+1 [BNG:68] Fate Unraveler
+1 [CMM:94] Fierce Guardianship
+1 [KTK:233] Flooded Strand
+1 [CON:136] Font of Mythos
+1 [USG:188] Gamble
+1 [SHM:272] Graven Cairns
+1 [J21:466] Harmonic Prodigy
+1 [MID:263] Haunted Ridge
+1 [M10:212] Howling Mine
+1 [OTJ:325] Insatiable Avarice
+1 [CLU:224] Izzet Signet
+1 [M12:59] Jace's Archivist
+1 [MKC:156] Jeska's Will
+1 [CON:48] Kederekt Parasite
+1 [MRD:199] Lightning Greaves
+1 [CLB:355] Luxury Suite
+1 [CMM:241] Magus of the Wheel
+1 [ZEN:220] Misty Rainforest
+1 [SOM:98] Molten Psyche
+1 [CLB:357] Morphic Pool
+1 [PLS:48] Nightscape Familiar
+1 [LTR:103] Orcish Bowmasters
+1 [FIC:411] Path of Ancestry
+1 [PLS:118] Phyrexian Tyranny
+1 [KTK:239] Polluted Delta
+1 [TMP:80] Propaganda
+1 [MBS:126] Psychosis Crawler
+1 [CLU:226] Rakdos Signet
+1 [MKM:266] Raucous Theater
+1 [DSK:153] Razorkin Needlehead
+1 [AVR:151] Reforge the Soul
+1 [PCY:45] Rhystic Study
+1 [ZEN:223] Scalding Tarn
+1 [CHK:143] Seizan, Perverter of Truth
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [DMU:255] Shivan Reef
+1 [MH3:241] Sink into Stupor
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SUM:274] Sol Ring
+1 [WAR:68] Spark Double
+1 [DIS:33] Spell Snare
+1 [SHM:198] Spiteful Visions
+1 [ECL:267] Steam Vents
+1 [VOW:265] Stormcarved Coast
+1 [DOM:247] Sulfur Falls
+1 [DMU:256] Sulfurous Springs
+1 [SHM:280] Sunken Ruins
+1 [FDN:258] Swiftfoot Boots
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [TDC:330] Talisman of Creativity
+1 [MRD:253] Talisman of Dominance
+1 [MRD:255] Talisman of Indulgence
+1 [MKM:269] Thundering Falls
+1 [CMM:434] Training Center
+1 [MKM:270] Undercity Sewers
+1 [BRO:267] Underground River
+1 [SUM:290] Underground Sea
+1 [THB:121] Underworld Dreams
+1 [DSC:6] Valgavoth, Harrower of Souls
+1 [RTR:111] Vandalblast
+1 [ZEN:229] Verdant Catacombs
+1 [SUM:291] Volcanic Island
+1 [M15:122] Waste Not
+1 [EOE:261] Watery Grave
+1 [2XM:75] Well of Ideas
+1 [CMR:211] Wheel of Misfortune
+1 [APC:36] Whirlpool Warrior
+1 [GTC:207] Whispering Madness
+1 [USG:111] Windfall
+1 [5ED:275] Winds of Change
+1 [KTK:249] Wooded Foothills
+1 [SNC:260] Xander's Lounge
+SB: 1 [CMM:349] Nekusar, the Mindrazer
+LAYOUT MAIN:(1,9)(CMC,false,60)|([SUM:282],[ECL:262],[KTK:230],[WWK:132],[EVE:175],[ELD:333],[XLN:252],[XLN:253],[CON:142],[KTK:233],[SHM:272],[MID:263],[CLB:355],[ZEN:220],[CLB:357],[FIC:411],[KTK:239],[MKM:266],[ZEN:223],[DMU:255],[NEO:276],[ECL:267],[VOW:265],[DOM:247],[DMU:256],[SHM:280],[NEO:278],[MKM:269],[CMM:434],[MKM:270],[BRO:267],[SUM:290],[ZEN:229],[SUM:291],[EOE:261],[KTK:249],[SNC:260])([ZEN:82],[USG:188],[OTJ:325],[CON:48],[SUM:274],[DIS:33],[RTR:111],[5ED:275])([ALL:22a],[ELD:331],[7ED:67],[RTR:35],[CLU:221],[MOM:352],[J21:466],[M10:212],[CLU:224],[MRD:199],[PLS:48],[LTR:103],[CLU:226],[DSK:153],[FDN:258],[TDC:330],[MRD:253],[MRD:255],[M15:122])([MH3:243],[EOC:49],[ULG:123],[FRF:66],[CMM:214],[FDN:587],[CMM:94],[M12:59],[MKC:156],[CMM:241],[SOM:98],[PLS:118],[TMP:80],[PCY:45],[MH3:241],[THB:121],[CMR:211],[APC:36],[USG:111])([VIS:127],[BNG:68],[CON:136],[DMU:107],[WAR:68],[SHM:198],[DSC:6],[GTC:207])([SPG:87],[MBS:126],[AVR:151],[CHK:143])([MB2:160],[2XM:75])([FDN:621])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CMM:349])

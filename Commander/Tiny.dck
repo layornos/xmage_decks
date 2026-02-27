@@ -1,0 +1,77 @@
+1 [MH1:236] Barren Moor
+1 [HOP:132] Cabal Coffers
+1 [ELD:389] Castle Locthwain
+1 [GRN:82] Plaguecrafter
+1 [STH:51] Bottomless Pit
+1 [VMA:283] Sol Ring
+1 [THS:110] Whip of Erebos
+1 [FRF:66] Dark Deal
+1 [AKH:78] Archfiend of Ifnir
+1 [AKH:90] Faith of the Devoted
+1 [CM2:200] Mind Stone
+1 [DST:123] Geth's Grimoire
+1 [ORI:240] Sword of the Animist
+1 [TOR:73] Mutilate
+1 [AKH:100] Miasmic Mummy
+1 [CNS:116] Liliana's Specter
+1 [CM2:81] Unnerve
+1 [WAR:79] Bolas's Citadel
+1 [THB:355] Gray Merchant of Asphodel
+1 [MM2:213] Expedition Map
+1 [AKH:212] Never // Return
+1 [ARC:25] Sign in Blood
+1 [SHM:57] Beseech the Queen
+1 [C19:19] Mire in Misery
+1 [ONS:175] Syphon Mind
+1 [THS:101] Read the Bones
+1 [C19:113] From Under the Floorboards
+1 [DST:50] Pulse of the Dross
+1 [FRF:62] Archfiend of Depravity
+1 [FRF:88] Tasigur's Cruelty
+1 [WAR:99] Massacre Girl
+1 [APC:47] Phyrexian Arena
+1 [RIX:90] Vona's Hunger
+1 [WWK:50] Bloodhusk Ritualist
+1 [ZEN:92] Guul Draz Specter
+1 [C19:127] Sanitarium Skeleton
+1 [STH:62] Megrim
+1 [ODY:129] Diabolic Tutor
+1 [10E:151] Hypnotic Specter
+1 [ONS:182] Words of Waste
+1 [ARC:22] Reassembling Skeleton
+1 [HOP:24] Dark Ritual
+1 [C14:243] Jet Medallion
+1 [UDS:54] Bubbling Muck
+1 [M21:316] Massacre Wurm
+1 [M15:122] Waste Not
+1 [MM3:63] Damnation
+1 [MRD:69] Necrogen Mists
+1 [7ED:152] Oppression
+1 [M11:103] Liliana's Caress
+1 [MH2:398] Necrogoyf
+1 [WOC:116] Rankle, Master of Pranks
+1 [FDN:179] Painful Quandary
+1 [FDN:324] Tinybones, Bauble Burglar
+1 [DMU:103] The Raven Man
+1 [RVR:69] Burglar Rat
+1 [SCD:103] Sangromancer
+1 [RVR:322] Crypt Ghast
+1 [TDC:176] Dauthi Voidwalker
+1 [NEO:243] Containment Construct
+1 [J25:114] Dark Confidant
+1 [C13:96] Toxic Deluge
+1 [UMA:254] Urborg, Tomb of Yawgmoth
+1 [FDN:382] Blasphemous Edict
+1 [EOC:85] Night's Whisper
+1 [30A:112] Mind Twist
+1 [PDOM:238s] Cabal Stronghold
+1 [AFC:226] Bojuka Bog
+1 [ZEN:212] Crypt of Agadeem
+1 [SLD:1641] Arcane Signet
+1 [CMM:604] Extraplanar Lens
+26 [SLD:3] Snow-Covered Swamp
+1 [DMU:329] Braids, Arisen Nightmare
+1 [MH3:243] Boggart Trawler
+SB: 1 [JMP:17] Tinybones, Trinket Thief
+LAYOUT MAIN:(1,8)(CMC,false,60)|([MH1:236],[AFC:226],[HOP:132],[PDOM:238s],[ELD:389],[ZEN:212],[UMA:254],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3],[SLD:3])([UDS:54],[HOP:24],[MM2:213],[30A:112],[C19:127],[VMA:283])([RVR:69],[NEO:243],[J25:114],[TDC:176],[C14:243],[M11:103],[AKH:100],[CM2:200],[C19:19],[EOC:85],[ARC:22],[ARC:25],[ORI:240],[DMU:103],[FDN:324],[M15:122],[SLD:1641])([WWK:50],[STH:51],[FRF:66],[AKH:90],[10E:151],[CNS:116],[STH:62],[MRD:69],[7ED:152],[APC:47],[GRN:82],[DST:50],[THS:101],[C13:96],[RIX:90],[ONS:182],[CMM:604],[DMU:329],[MH3:243])([RVR:322],[MM3:63],[ODY:129],[DST:123],[ZEN:92],[TOR:73],[WOC:116],[SCD:103],[ONS:175],[CM2:81],[THS:110])([FRF:62],[AKH:78],[FDN:382],[C19:113],[THB:355],[WAR:99],[MH2:398],[FDN:179])([SHM:57],[WAR:79],[M21:316],[FRF:88])([AKH:212])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([JMP:17])

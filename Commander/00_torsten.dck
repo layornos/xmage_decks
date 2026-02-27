@@ -1,0 +1,75 @@
+1 [CLB:2] Abdel Adrian, Gorion's Ward
+1 [M13:159] Acidic Slime
+1 [M13:160] Arbor Elf
+1 [ONE:158] Armored Scrapgorger
+1 [ISD:170] Avacyn's Pilgrim
+1 [BFZ:233] Blighted Woodland
+1 [BRO:259] Brushland
+1 [CHK:202] Budoka Gardener
+1 [FDN:568] Charming Prince
+1 [ELD:333] Command Tower
+1 [SHM:110] Devoted Druid
+1 [MH3:264] Distinguished Conjurer
+1 [J22:180] Emiel the Blessed
+1 [AER:19] Felidar Guardian
+1 [ISD:15] Fiend Hunter
+1 [EVE:6] Flickerwisp
+18 [TLA:286] Forest
+1 [SOI:274] Fortified Village
+1 [ICE:244] Fyndhorn Elves
+1 [LRW:248] Gaddock Teeg
+1 [SNC:148] Gala Greeters
+1 [LRW:15] Galepowder Mage
+1 [LTC:13] Gilraen, Dunedain Protector
+1 [KHM:12] Glorious Protector
+1 [MOM:16] Guardian of Ghirapur
+1 [CMM:1003] Guildless Commons
+1 [MIC:26] Heronblade Elite
+1 [LCI:193] Intrepid Paleontologist
+1 [THS:160] Karametra's Acolyte
+1 [GRN:183] Knight of Autumn
+1 [IKO:162] Kogla, the Titan Ape
+1 [JUD:141] Krosan Verge
+1 [FDN:227] Llanowar Elves
+1 [DOM:170] Llanowar Scout
+1 [M21:193] Llanowar Visionary
+1 [RNA:15] Lumbering Battlement
+1 [GTC:20] Luminate Primordial
+1 [AKH:175] Manglehorn
+1 [FDN:256] Meteor Golem
+1 [LRW:270] Mosswort Bridge
+1 [ZNR:229] Murasa Rootgrazer
+1 [EOC:169] Myriad Landscape
+1 [DRC:133] Ornithopter of Paradise
+1 [OTJ:173] Outcaster Trailblazer
+11 [TLA:282] Plains
+1 [USG:270] Priest of Titania
+1 [AFR:200] Prosperous Innkeeper
+1 [ONE:257] Razorverge Thicket
+1 [AVR:32] Restoration Angel
+1 [AER:122] Rishkar, Peema Renegade
+1 [CHK:239] Sakura-Tribe Elder
+1 [SOK:144] Sakura-Tribe Scout
+1 [AFR:204] Scaled Herbalist
+1 [CLU:246] Selesnya Sanctuary
+1 [BLC:259] Selvala, Explorer Returned
+1 [ZNR:322] Skyclave Apparition
+1 [10E:297] Skyshroud Ranger
+1 [AVR:194] Somberwald Sage
+1 [ODY:328] Sungrass Prairie
+1 [ZNR:211] Tangled Florahedron
+1 [WWK:115] Terastodon
+1 [NEM:143] Terrain Generator
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [M21:43] Vryn Wingmare
+1 [WWK:131] Walking Atlas
+1 [TSB:89] Wall of Roots
+1 [WOE:329] Werefox Bodyguard
+1 [LRW:281] Windbrisk Heights
+1 [LGN:144] Wirewood Channeler
+1 [SHM:135] Woodfall Primus
+1 [C20:19] Yannik, Scavenging Sentinel
+1 [ZNR:240] Yasharn, Implacable Earth
+SB: 1 [DMC:47] Torsten, Founder of Benalia
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,60)|([FDN:256],[DRC:133],[WWK:131])([CLB:2],[M13:159],[M13:160],[ONE:158],[ISD:170],[CHK:202],[FDN:568],[SHM:110],[MH3:264],[J22:180],[AER:19],[ISD:15],[EVE:6],[ICE:244],[LRW:248],[SNC:148],[LRW:15],[LTC:13],[KHM:12],[MOM:16],[MIC:26],[LCI:193],[THS:160],[GRN:183],[IKO:162],[FDN:227],[DOM:170],[M21:193],[RNA:15],[GTC:20],[AKH:175],[ZNR:229],[OTJ:173],[USG:270],[AFR:200],[AVR:32],[AER:122],[CHK:239],[SOK:144],[AFR:204],[BLC:259],[ZNR:322],[10E:297],[AVR:194],[ZNR:211],[WWK:115],[VOW:318],[M21:43],[TSB:89],[WOE:329],[LGN:144],[SHM:135],[C20:19],[ZNR:240])([BFZ:233],[BRO:259],[ELD:333],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[SOI:274],[CMM:1003],[JUD:141],[LRW:270],[EOC:169],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[ONE:257],[CLU:246],[ODY:328],[NEM:143],[LRW:281])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([DMC:47])

@@ -1,0 +1,62 @@
+1 [ODY:59] Aboshan's Desire
+1 [THS:39] Aqueous Form
+1 [DOM:157] Broken Bond
+1 [WWK:98] Canopy Cover
+1 [WWK:74] Chain Reaction
+1 [BFZ:235] Cinder Glade
+1 [MH3:147] Collective Resistance
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [STX:177] Decisive Denial
+1 [DFT:157] Defend the Rider
+1 [OTJ:201] Doc Aurlock, Grizzled Genius
+1 [TDM:180] Dragonclaw Strike
+1 [DSK:52] Enter the Enigma
+1 [RIX:128] Enter the Unknown
+1 [CON:142] Exotic Orchard
+1 [WWK:99] Explore
+1 [ZEN:202] Explorer's Scope
+1 [MKM:295] Fae Flight
+1 [M13:170] Farseek
+1 [LRW:211] Fertile Ground
+1 [JOU:123] Font of Fertility
+16 [TLA:286] Forest
+1 [TDM:256] Frontier Bivouac
+1 [BRO:182] Gaea's Gift
+1 [ROE:186] Growth Spasm
+1 [RNA:178] Growth Spiral
+1 [DOM:240] Hinterland Harbor
+1 [M12:180] Hunter's Insight
+14 [TLA:283] Island
+1 [CHK:225] Kodama's Reach
+1 [7ED:88] Memory Lapse
+13 [TLA:285] Mountain
+1 [FDN:710] Negate
+1 [THB:192] Omen of the Hunt
+1 [10E:283*] Overgrowth
+1 [ACR:218] Overpowering Attack
+1 [BLB:185] Overprotect
+1 [FIC:411] Path of Ancestry
+1 [M12:190] Rampant Growth
+1 [MKM:227] Repulsive Mutation
+1 [MH2:212] Road // Ruin
+1 [WOE:183] Royal Treatment
+1 [TSP:216] Search for Tomorrow
+1 [DMU:255] Shivan Reef
+1 [SUM:274] Sol Ring
+1 [GTC:52] Spell Rupture
+1 [DOM:247] Sulfur Falls
+1 [9ED:273] Summer Bloom
+1 [CLB:489] Sword Coast Sailor
+1 [NEO:211] Tamiyo's Safekeeping
+1 [FRF:116] Temur Battle Rage
+1 [KTK:208] Temur Charm
+1 [DIS:99] Utopia Sprawl
+1 [BOK:59] Veil of Secrecy
+1 [5DN:165] Wayfarer's Bauble
+1 [7ED:282] Wild Growth
+1 [DMU:261] Yavimaya Coast
+SB: 1 [C20:13] Pako, Arcane Retriever
+SB: 1 [C20:2] Haldan, Avid Arcanist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ZEN:202],[SUM:274],[5DN:165])([OTJ:201])([ODY:59],[THS:39],[WWK:98],[MKM:295],[LRW:211],[JOU:123],[THB:192],[10E:283*],[CLB:489],[DIS:99],[7ED:282])([MH2:212])([MH3:147],[STX:177],[DFT:157],[BRO:182],[RNA:178],[M12:180],[7ED:88],[FDN:710],[BLB:185],[MKM:227],[WOE:183],[GTC:52],[NEO:211],[FRF:116],[KTK:208],[BOK:59])([BFZ:235],[ELD:333],[CON:142],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TDM:256],[DOM:240],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[FIC:411],[DMU:255],[DOM:247],[DMU:261])([DOM:157],[WWK:74],[M21:177],[TDM:180],[DSK:52],[RIX:128],[WWK:99],[M13:170],[ROE:186],[CHK:225],[ACR:218],[M12:190],[TSP:216],[9ED:273])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C20:13],[C20:2])

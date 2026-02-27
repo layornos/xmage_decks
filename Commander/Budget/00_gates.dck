@@ -1,0 +1,99 @@
+1 [ELD:331] Arcane Signet
+1 [RIX:185] Arch of Orazca
+1 [FDN:566] Archway Angel
+1 [FDN:683] Azorius Guildgate
+1 [CLB:345] Baldur's Gate
+1 [MB2:104] Basilisk Gate
+1 [CLB:347] Black Dragon Gate
+1 [BFZ:229] Blighted Cataract
+1 [BFZ:233] Blighted Woodland
+1 [IKO:245] Bonders' Enclave
+1 [FDN:684] Boros Guildgate
+1 [DOM:157] Broken Bond
+1 [CHK:202] Budoka Gardener
+1 [VOW:190] Cartographer's Survey
+1 [FDN:635] Circuitous Route
+1 [CLB:349] Citadel Gate
+1 [CLB:350] Cliffgate
+1 [ELD:333] Command Tower
+1 [BNG:119] Courser of Kruphix
+1 [GTC:88] Crackling Perimeter
+1 [TSB:118] Desert
+1 [HOU:170] Desert of the Fervent
+1 [HOU:171] Desert of the Glorified
+1 [HOU:172] Desert of the Indomitable
+1 [HOU:173] Desert of the Mindful
+1 [HOU:174] Desert of the True
+1 [FDN:688] Dimir Guildgate
+1 [GRN:128] District Guide
+1 [HOU:176] Endless Sands
+1 [THB:313] Erebos's Intervention
+1 [ELD:189] Escape to the Wilds
+1 [CON:142] Exotic Orchard
+1 [WWK:99] Explore
+1 [CLB:232] Explore the Underdark
+4 [TLA:286] Forest
+1 [RTR:124] Gatecreeper Vine
+1 [RNA:102] Gates Ablaze
+1 [WAR:246] Gateway Plaza
+1 [GRN:236] Glaive of the Guildpact
+1 [FDN:689] Golgari Guildgate
+1 [CLB:353] Gond Gate
+1 [DKA:156] Grim Backwoods
+1 [RNA:178] Growth Spiral
+1 [FDN:690] Gruul Guildgate
+1 [GRN:41] Guild Summit
+1 [ZNR:106] Hagra Mauling
+1 [OTC:229] Hazezon, Shaper of Sand
+1 [CLB:354] Heap Gate
+1 [THB:19] Heliod's Intervention
+1 [M21:188] Heroic Intervention
+1 [MMQ:320] High Market
+1 [MID:264] Hostile Hostel
+1 [HOU:120] Hour of Promise
+1 [FDN:691] Izzet Guildgate
+1 [ZNR:146] Kazuul's Fury
+1 [ZNR:192] Khalni Ambush
+1 [BNG:150] Kiora's Follower
+1 [THB:243] Labyrinth of Skophos
+1 [AFR:259] Lair of the Hydra
+1 [DOM:170] Llanowar Scout
+1 [BFZ:239] Lumbering Falls
+1 [CLB:356] Manor Gate
+1 [FDN:727] Maze's End
+1 [EOC:169] Myriad Landscape
+1 [M11:226] Mystifying Maze
+1 [CLB:329] Navigation Orb
+1 [FDN:710] Negate
+1 [CLB:289] Nine-Fingers Keene
+1 [ZNR:30] Ondu Inversion
+1 [SHM:233] Oracle of Nectars
+1 [FDN:692] Orzhov Guildgate
+1 [AKH:246] Painted Bluffs
+1 [BRO:202] Perennial Behemoth
+1 [RNA:254] Plaza of Harmony
+1 [AKH:65] Pull from Tomorrow
+1 [WWK:141] Raging Ravine
+1 [FDN:693] Rakdos Guildgate
+1 [NEO:120] Reckoner's Bargain
+1 [HOU:182] Scavenger Grounds
+1 [CLB:359] Sea Gate
+1 [FDN:694] Selesnya Guildgate
+1 [FDN:695] Simic Guildgate
+1 [10E:297] Skyshroud Ranger
+1 [SUM:274] Sol Ring
+1 [RTR:200] Sphinx's Revelation
+1 [9ED:273] Summer Bloom
+1 [ICE:54] Swords to Plowshares
+1 [FDN:247] Tatyova, Benthic Druid
+1 [THB:307] Thassa's Intervention
+1 [10E:361*] Treetop Village
+1 [SOI:235] Ulvenwald Hydra
+1 [GTC:204] Urban Evolution
+1 [KHM:117] Village Rites
+1 [AKH:75] Vizier of Tumbling Sands
+1 [THS:182] Voyaging Satyr
+1 [WWK:131] Walking Atlas
+SB: 1 [CON:101] Child of Alara
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([BRO:202],[WWK:131])([ELD:331],[GRN:236],[CLB:329],[SUM:274])([FDN:566],[CHK:202],[GRN:128],[RTR:124],[OTC:229],[BNG:150],[DOM:170],[CLB:289],[SHM:233],[10E:297],[FDN:247],[SOI:235],[AKH:75],[THS:182])([BNG:119])([GTC:88],[GRN:41])([THB:313],[RNA:178],[ZNR:106],[THB:19],[M21:188],[ZNR:146],[ZNR:192],[FDN:710],[AKH:65],[NEO:120],[RTR:200],[ICE:54],[THB:307],[KHM:117])([RIX:185],[FDN:683],[CLB:345],[MB2:104],[CLB:347],[BFZ:229],[BFZ:233],[IKO:245],[FDN:684],[CLB:349],[CLB:350],[ELD:333],[TSB:118],[HOU:170],[HOU:171],[HOU:172],[HOU:173],[HOU:174],[FDN:688],[HOU:176],[CON:142],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[WAR:246],[FDN:689],[CLB:353],[DKA:156],[FDN:690],[CLB:354],[MMQ:320],[MID:264],[FDN:691],[THB:243],[AFR:259],[BFZ:239],[CLB:356],[FDN:727],[EOC:169],[M11:226],[FDN:692],[AKH:246],[RNA:254],[WWK:141],[FDN:693],[HOU:182],[CLB:359],[FDN:694],[FDN:695],[10E:361*])([DOM:157],[VOW:190],[FDN:635],[ELD:189],[WWK:99],[CLB:232],[RNA:102],[HOU:120],[ZNR:30],[9ED:273],[GTC:204])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CON:101])

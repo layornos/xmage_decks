@@ -1,0 +1,74 @@
+1 [PCY:1] Abolish
+1 [DRC:16] Adaptive Omnitool
+1 [M20:2] Ajani, Strength of the Pride
+1 [FIC:230] Archaeomancer's Map
+1 [CMR:10] Ardenn, Intrepid Archaeologist
+1 [SOM:137] Argentum Armor
+1 [OTJ:252] Arid Archway
+1 [MOC:45] Bitterthorn, Nissa's Animus
+1 [TDC:313] Blade of Selves
+1 [FIN:255] Buster Sword
+1 [ACR:155] Caduceus, Staff of Hermes
+1 [FIC:13] Cid, Freeflier Pilot
+1 [PIP:14] Codsworth, Handy Helper
+1 [FIC:340] Conqueror's Flail
+1 [CLB:607] Deep Gnome Terramancer
+1 [FDN:687] Demolition Field
+1 [NPH:7] Dispatch
+1 [XLN:235] Dowsing Dagger
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [H1R:1] Ephemerate
+1 [H2R:2] Esper Sentinel
+1 [ACR:169] Excalibur, Sword of Eden
+1 [MH3:26] Flare of Fortitude
+1 [LTR:17] Forge Anew
+1 [LTC:500] Galadriel's Dismissal
+1 [BLC:106] Generous Gift
+1 [FIN:258] Genji Glove
+1 [CMM:1003] Guildless Commons
+1 [CMM:388] Hammer of Nazahn
+1 [5DN:131] Helm of Kaldra
+1 [MH3:33] Jolted Awake
+1 [ORI:21] Knight of the White Orchid
+1 [4ED:34] Land Tax
+1 [FDN:129] Leyline Axe
+1 [NEO:26] Lion Sash
+1 [BIG:23] Lost Jitte
+1 [M20:249] Lotus Field
+1 [PIP:165] Mantle of the Ancients
+1 [MRD:203] Mask of Memory
+1 [MH3:222] Monumental Henge
+1 [PIP:140] Pip-Boy 3000
+29 [TLA:282] Plains
+1 [FIC:249] Promise of Loyalty
+1 [NPH:20] Puresteel Paladin
+1 [SPG:121] Robe of Stars
+1 [EOE:257] Secluded Starforge
+1 [THB:236] Shadowspear
+1 [DST:139] Shield of Kaldra
+1 [EMN:41] Sigarda's Aid
+1 [WAR:30] Single Combat
+1 [CMR:47] Slash the Ranks
+1 [AER:23] Sram, Senior Edificer
+1 [5DN:19] Steelshaper's Gift
+1 [WWK:20] Stoneforge Mystic
+1 [UNF:193] Strength-Testing Hammer
+1 [MBS:138] Sword of Feast and Famine
+1 [DST:148] Sword of Fire and Ice
+1 [ONE:244] Sword of Forge and Frontier
+1 [LTC:354] Sword of Hearth and Home
+1 [MRD:251] Sword of Kaldra
+1 [H1R:31] Sword of Sinew and Steel
+1 [ORI:240] Sword of the Animist
+1 [ICE:54] Swords to Plowshares
+1 [M3C:82] Talon Gates of Madara
+1 [DFT:231] The Aetherspark
+1 [GTC:248] Thespian's Stage
+1 [LCI:357] Thousand Moons Smithy
+1 [BRO:253] Thran Power Suit
+1 [MH3:239] Witch Enchanter
+1 [FDN:295] Celestial Armor
+1 [BLB:24] Parting Gust
+SB: 1 [FIN:10] Cloud, Midgar Mercenary
+LAYOUT MAIN:(1,8)(CMC,false,60)|([OTJ:252],[FDN:687],[ZEN:213],[CMM:1003],[M20:249],[MH3:222],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[EOE:257],[M3C:82],[GTC:248])([NPH:7],[H1R:1],[H2R:2],[LTC:500],[MH3:33],[4ED:34],[BIG:23],[PIP:140],[THB:236],[EMN:41],[5DN:19],[UNF:193],[ICE:54])([DRC:16],[TDC:313],[FIC:13],[FIC:340],[CLB:607],[XLN:235],[ORI:21],[NEO:26],[MRD:203],[NPH:20],[SPG:121],[AER:23],[WWK:20],[ORI:240],[BRO:253],[BLB:24])([PCY:1],[FIC:230],[CMR:10],[MOC:45],[FIN:255],[ACR:155],[PIP:14],[LTR:17],[BLC:106],[5DN:131],[MBS:138],[DST:148],[ONE:244],[LTC:354],[H1R:31],[FDN:295])([M20:2],[MH3:26],[CMM:388],[FDN:129],[DST:139],[MRD:251],[DFT:231],[LCI:357],[MH3:239])([FIN:258],[PIP:165],[FIC:249],[WAR:30],[CMR:47])([SOM:137])([ACR:169])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([FIN:10])

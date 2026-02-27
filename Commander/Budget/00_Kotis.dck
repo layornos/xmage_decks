@@ -1,0 +1,68 @@
+1 [MOM:88] Aetherblade Agent
+1 [FRF:121] Ainok Guide
+1 [MKM:149] Airtight Alibi
+1 [THB:42] Alirios, Enraptured
+1 [KLD:145] Attune with Aether
+1 [NEO:47] Awakened Awareness
+1 [EOE:89] Beamsaw Prospector
+1 [BLB:42] Bellowing Crier
+1 [VOW:188] Bramble Armor
+1 [MKM:156] Case of the Trampled Garden
+1 [SNC:37] Case the Joint
+1 [TDM:137] Champion of Dusan
+1 [SPM:53] Common Crook
+1 [MOC:294] Crack Open
+1 [VOW:54] Cradle of Safety
+1 [MOM:183] Crystal Carapace
+1 [DSK:47] Cursed Windbreaker
+1 [OTJ:160] Dance of the Tumbleweeds
+1 [ISD:52] Deranged Assistant
+1 [M19:51] Divination
+1 [MID:185] Eccentric Farmer
+1 [CLU:85] Erratic Visionary
+1 [DSK:96] Fanatic of the Harrowing
+1 [GRN:225] Find // Finality
+1 [J21:193] Floodhound
+1 [CLU:86] Forbidden Alchemy
+15 [TLA:286] Forest
+1 [MOM:59] Furtive Analyst
+1 [EOE:185] Galactic Wayfarer
+1 [M19:182] Ghirapur Guide
+1 [SOI:208] Groundskeeper
+1 [ISD:103] Gruesome Deformity
+1 [EOE:60] Illvoi Light Jammer
+1 [NEO:100] Inkrise Infiltrator
+15 [TLA:283] Island
+1 [M21:53] Jeskai Elder
+1 [MH3:98] Kami of Jealous Thirst
+1 [M12:61] Levitation
+1 [M21:55] Library Larcenist
+1 [FIN:263] Magic Pot
+1 [EOE:198] Meltstrider's Gear
+1 [SPM:58] Merciless Enforcers
+1 [SPM:136] Mob Lookout
+1 [MOM:248] Mutagen Connoisseur
+1 [BFZ:179] Natural Connection
+1 [TDM:151] Piercing Exhale
+1 [GRN:143] Prey Upon
+1 [M21:199] Ranger's Guile
+1 [TDM:54] Riverwalk Technique
+1 [ELD:175] Rosethorn Halberd
+1 [M21:67] Rousing Read
+1 [FDN:162] Run Away Together
+1 [M20:112] Sanitarium Skeleton
+1 [GTC:134] Slaughterhorn
+1 [RAV:271] Spectral Searchlight
+1 [GRN:145] Sprouting Renewal
+1 [THB:67] Starlit Mantle
+1 [FRF:86] Sultai Runemark
+7 [TLA:284] Swamp
+1 [THS:181] Time to Feed
+1 [DSK:77] Twist Reality
+1 [ORI:202] Undercity Troll
+1 [FDN:529] Untamed Hunger
+1 [TDM:66] Wingspan Stride
+1 [DMR:170] Nature's Lore
+SB: 1 [TDM:202] Kotis, the Fangkeeper
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([FIN:263])([VOW:188],[DSK:47],[EOE:60],[EOE:198],[ELD:175],[RAV:271])([MOM:88],[FRF:121],[THB:42],[EOE:89],[BLB:42],[TDM:137],[SPM:53],[ISD:52],[MID:185],[CLU:85],[DSK:96],[J21:193],[MOM:59],[EOE:185],[M19:182],[SOI:208],[NEO:100],[M21:53],[MH3:98],[M21:55],[SPM:58],[SPM:136],[MOM:248],[M20:112],[GTC:134],[ORI:202])([MKM:149],[NEO:47],[MKM:156],[VOW:54],[MOM:183],[ISD:103],[M12:61],[M21:67],[THB:67],[FRF:86],[FDN:529],[TDM:66])([SNC:37],[CLU:86],[BFZ:179],[TDM:151],[M21:199],[TDM:54],[FDN:162],[DSK:77])([TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284])([GRN:225])([KLD:145],[MOC:294],[OTJ:160],[M19:51],[GRN:143],[GRN:145],[THS:181],[DMR:170])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([TDM:202])

@@ -1,0 +1,98 @@
+1 [CLB:54] Aarakocra Sneak
+1 [M15:44] Aetherspouts
+1 [CLB:111] Ancient Brass Dragon
+1 [5ED:140] Animate Dead
+1 [ALA:220] Arcane Sanctum
+1 [ELD:331] Arcane Signet
+1 [BNG:32] Archetype of Imagination
+1 [CLB:613] Astral Dragon
+1 [CLU:219] Azorius Signet
+1 [BLC:86] Baleful Strix
+1 [AFR:218] Barrowin of Clan Undurr
+1 [WWK:132] Bojuka Bog
+1 [ZNR:259] Brightclimb Pathway
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [MKM:12] Delney, Streetwise Lookout
+1 [OTC:287] Desolate Mire
+1 [CLU:221] Dimir Signet
+1 [XLN:253] Drowned Catacomb
+1 [CLB:483] Dungeon Delver
+1 [AFR:255] Dungeon Descent
+1 [AFR:242] Dungeon Map
+1 [CLB:312] Dungeoneer's Pack
+1 [SOI:16] Eerie Interlude
+1 [CON:142] Exotic Orchard
+1 [AKH:243] Fetid Pools
+1 [CLB:69] Feywild Caretaker
+1 [CHK:10] Ghostly Prison
+1 [GPT:6] Ghostway
+1 [CLU:276] Godless Shrine
+1 [CLU:277] Hallowed Fountain
+1 [AFR:224] Hama Pashar, Ruin Seeker
+1 [KHM:260] Hengegate Pathway
+1 [MMQ:320] High Market
+1 [AFC:276] Immovable Rod
+1 [CLB:385] Imoen, Mystic Trickster
+1 [AKH:245] Irrigated Farmland
+2 [TDM:273] Island
+1 [DOM:241] Isolated Chapel
+1 [ULG:11] Karmic Guide
+1 [CLB:30] Lae'zel's Acrobatics
+1 [MKM:264] Meticulous Archive
+1 [AFC:322] Midnight Pathlighter
+1 [CLB:357] Morphic Pool
+1 [LRW:76] Mulldrifter
+1 [AFR:27] Nadaar, Selfless Paladin
+1 [VIS:64] Necromancy
+1 [CLU:225] Orzhov Signet
+1 [NEO:271] Otawara, Soaring City
+1 [CLB:141] Passageway Seer
+1 [TDC:382] Path of Ancestry
+1 [CON:15] Path to Exile
+1 [GRN:82] Plaguecrafter
+2 [TDM:272] Plains
+1 [KTK:239] Polluted Delta
+1 [TMP:80] Propaganda
+1 [AFC:278] Radiant Solar
+1 [CLB:37] Rasaad yn Bashir
+1 [CLB:142] Ravenloft Adventurer
+1 [RIX:82] Ravenous Chupacabra
+1 [STH:41] Reins of Power
+1 [CLB:293] Rilsa Rael, Kingpin
+1 [LCI:258] Roaming Throne
+1 [FDN:264] Rogue's Passage
+1 [CLB:143] Safana, Calimport Cutthroat
+1 [CLB:645] Sarevok's Tome
+1 [CLB:360] Sea of Clouds
+1 [CLB:610] Seasoned Dungeoneer
+1 [J21:131] Serra's Emissary
+1 [MKM:268] Shadowy Backstreet
+1 [LRW:139] Shriekmaw
+1 [ODY:327] Skycloud Expanse
+1 [SUM:274] Sol Ring
+1 [CLB:611] Stick Together
+1 [M12:39] Sun Titan
+1 [BFZ:249] Sunken Hollow
+3 [TDM:274] Swamp
+1 [ICE:54] Swords to Plowshares
+1 [ELD:107] Syr Konrad, the Grim
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [MRD:253] Talisman of Dominance
+1 [TDC:331] Talisman of Hierarchy
+1 [MRD:256] Talisman of Progress
+1 [AFC:12] Thorough Investigation
+1 [CLB:100] Tomb of Horrors Adventurer
+1 [AFR:237] Triumphant Adventurer
+1 [CLB:47] Undercellar Sweep
+1 [MKM:270] Undercity Sewers
+1 [MID:333] Vanquish the Horde
+1 [USG:166] Victimize
+1 [WOE:279] Virtue of Knowledge
+1 [SNC:230] Void Rend
+1 [CLU:283] Watery Grave
+1 [CLB:49] White Plume Adventurer
+1 [AFR:371] Yuan-Ti Malison
+SB: 1 [AFC:3] Sefris of the Hidden Ways
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([BLC:86],[LCI:258])([ELD:331],[CLU:219],[CLU:221],[AFR:242],[CLB:312],[AFC:276],[CLU:225],[CLB:645],[SUM:274],[MRD:253],[TDC:331],[MRD:256])([CLB:54],[CLB:111],[CLB:613],[AFR:218],[MKM:12],[CLB:69],[AFR:224],[CLB:385],[ULG:11],[AFC:322],[LRW:76],[AFR:27],[CLB:141],[GRN:82],[AFC:278],[CLB:37],[CLB:142],[RIX:82],[CLB:293],[CLB:143],[CLB:610],[J21:131],[LRW:139],[M12:39],[ELD:107],[CLB:100],[AFR:237],[CLB:49],[AFR:371])([BNG:32])([5ED:140],[CLB:483],[CHK:10],[VIS:64],[TMP:80],[AFC:12],[CLB:47],[WOE:279])([M15:44],[SOI:16],[GPT:6],[CLB:30],[CON:15],[STH:41],[ICE:54],[SNC:230])([ALA:220],[WWK:132],[ZNR:259],[ZNR:260],[ELD:333],[OTC:287],[XLN:253],[AFR:255],[CON:142],[AKH:243],[CLU:276],[CLU:277],[KHM:260],[MMQ:320],[AKH:245],[TDM:273],[TDM:273],[DOM:241],[MKM:264],[CLB:357],[NEO:271],[TDC:382],[TDM:272],[TDM:272],[KTK:239],[FDN:264],[CLB:360],[MKM:268],[ODY:327],[BFZ:249],[TDM:274],[TDM:274],[TDM:274],[NEO:278],[MKM:270],[CLU:283])([CLB:611],[MID:333],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AFC:3])

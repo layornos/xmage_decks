@@ -1,0 +1,94 @@
+1 [NPH:42] Phyrexian Metamorph
+1 [M15:153] Kurkesh, Onakke Ancient
+1 [M20:65] Masterful Replication
+1 [10E:342] Sculpting Steel
+1 [LCI:135] Brass's Tunnel-Grinder
+1 [KLD:112] Combustible Gearhulk
+1 [5DN:112] Conjurer's Bauble
+1 [DOM:197] Jhoira, Weatherlight Captain
+1 [CSP:138] Mishra's Bauble
+1 [MH3:257] Rush of Inspiration
+1 [NEO:374] The Reality Chip
+1 [EOC:79] Thought Monitor
+1 [5ED:406] Urza's Bauble
+1 [ELD:74] Witching Well
+1 [LCI:257] The Millennium Calendar
+1 [TSP:269] Academy Ruins
+1 [MH3:214] Archway of Innovation
+1 [BRO:258] Blast Zone
+1 [EVE:175] Cascade Bluffs
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [KTK:233] Flooded Strand
+1 [MRD:282] Great Furnace
+1 [BRO:263] Hall of Tagsin
+1 [KLD:247] Inventors' Fair
+9 [TLA:283] Island
+1 [ZEN:220] Misty Rainforest
+1 [TLA:285] Mountain
+1 [NEO:271] Otawara, Soaring City
+1 [KTK:239] Polluted Delta
+1 [SPG:38] Prismatic Vista
+1 [ZEN:223] Scalding Tarn
+1 [MRD:283] Seat of the Synod
+1 [DMU:255] Shivan Reef
+1 [AER:184] Spire of Industry
+1 [ECL:267] Steam Vents
+1 [4ED:363] Strip Mine
+1 [DOM:247] Sulfur Falls
+1 [ONE:256] The Mycosynth Gardens
+1 [FUT:173] Tolaria West
+1 [CMM:434] Training Center
+1 [MB2:114] Urza's Saga
+1 [KLD:59] Padeem, Consul of Innovation
+1 [MRD:274] Welding Jar
+1 [SUM:53] Copy Artifact
+1 [9ED:297] Fellwar Stone
+1 [FDN:725] Gilded Lotus
+1 [SNC:107] Glittering Stockpile
+1 [CLU:224] Izzet Signet
+1 [BRC:145] Liquimetal Torque
+1 [SOM:179] Mox Opal
+1 [FDN:257] Solemn Simulacrum
+1 [TDC:330] Talisman of Creativity
+1 [FIC:368] Thought Vessel
+1 [5DN:165] Wayfarer's Bauble
+1 [ELD:342] Emry, Lurker of the Loch
+1 [ULG:80] Goblin Welder
+1 [MH3:246] Pinnacle Monk
+1 [5DN:148] Salvaging Station
+1 [CM2:116] Scrap Mastery
+1 [MRD:141] Aether Spellbomb
+1 [ISD:130] Blasphemous Act
+1 [MRD:147] Bosh, Iron Golem
+1 [EOC:49] Chaos Warp
+1 [BRO:233] Cityscape Leveler
+1 [SOI:53] Confirm Suspicions
+1 [AVR:48] Devastation Tide
+1 [ORI:148] Ghirapur Aether Grid
+1 [LEG:65] Mana Drain
+1 [FDN:256] Meteor Golem
+1 [BRO:240] Portal to Phyrexia
+1 [MRD:232] Pyrite Spellbomb
+1 [FRF:46] Reality Shift
+1 [FDN:680] Soul-Guide Lantern
+1 [XLN:82] Spell Swindle
+1 [MBS:136] Spine of Ish Sah
+1 [BIG:15] Territory Forge
+1 [RTR:111] Vandalblast
+1 [M19:228] Chaos Wand
+1 [REX:20] Dino DNA
+1 [BRC:13] Farid, Enterprising Salvager
+1 [SOM:223] Wurmcoil Engine
+1 [5DN:23] Artificer's Intuition
+1 [M10:52] Fabricate
+1 [J21:458] Goblin Engineer
+1 [ALA:60] Tezzeret the Seeker
+1 [ATQ:14] Transmute Artifact
+1 [SOM:48] Trinket Mage
+1 [AER:49] Whir of Invention
+1 [M13:202] Clock of Omens
+1 [NPH:164] Unwinding Clock
+SB: 1 [PZ2:70687] Tawnos, Urza's Apprentice
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([NPH:42],[KLD:112],[NEO:374],[EOC:79],[FDN:257],[MRD:147],[BRO:233],[FDN:256],[SOM:223])([MRD:282],[MRD:283])([10E:342],[LCI:135],[5DN:112],[CSP:138],[5ED:406],[ELD:74],[LCI:257],[MRD:274],[9ED:297],[FDN:725],[SNC:107],[CLU:224],[BRC:145],[SOM:179],[TDC:330],[FIC:368],[5DN:165],[5DN:148],[MRD:141],[BRO:240],[MRD:232],[FDN:680],[MBS:136],[BIG:15],[M19:228],[REX:20],[M13:202],[NPH:164])([M15:153],[DOM:197],[KLD:59],[ELD:342],[ULG:80],[MH3:246],[BRC:13],[J21:458],[SOM:48])([MB2:114])([SUM:53],[ORI:148],[5DN:23])([M20:65],[MH3:257],[EOC:49],[SOI:53],[LEG:65],[FRF:46],[XLN:82],[AER:49])([TSP:269],[MH3:214],[BRO:258],[EVE:175],[ELD:333],[CON:142],[KTK:233],[BRO:263],[KLD:247],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[ZEN:220],[TLA:285],[NEO:271],[KTK:239],[SPG:38],[ZEN:223],[DMU:255],[AER:184],[ECL:267],[4ED:363],[DOM:247],[ONE:256],[FUT:173],[CMM:434])([ALA:60])([CM2:116],[ISD:130],[AVR:48],[RTR:111],[M10:52],[ATQ:14])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ2:70687])

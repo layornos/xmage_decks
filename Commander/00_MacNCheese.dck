@@ -1,0 +1,74 @@
+1 [ACR:161] Black Market Connections
+1 [FIC:101] Champions from Beyond
+1 [40K:112*] Commissar Severina Raine
+1 [OTC:129] Cunning Rhetoric
+1 [ONE:97] Infectious Inquiry
+1 [FDN:578] Mentor of the Meek
+1 [5DN:55] Night's Whisper
+1 [ONC:47] Norn's Decree
+1 [FDN:180] Phyrexian Arena
+1 [LCI:113] Preacher of the Schism
+1 [RIX:88] Twilight Prophet
+1 [VOW:287] Welcoming Vampire
+1 [FCA:11] Yawgmoth, Thran Physician
+1 [MKM:12] Delney, Streetwise Lookout
+1 [ONE:83] Bilious Skulldweller
+1 [MBS:103] Core Prowler
+1 [ONE:9] Duelist of Deep Faith
+1 [ONE:12] Flensing Raptor
+1 [SOM:162] Grafted Exoskeleton
+1 [SOM:67] Ichor Rats
+1 [SOM:166] Ichorclaw Myr
+1 [ONE:18] Jawbone Duelist
+1 [ONE:103] Pestilent Syphoner
+1 [SOM:75] Plague Stinger
+1 [ONE:109] Sheoldred's Headcleaver
+1 [WWK:132] Bojuka Bog
+1 [ELD:238] Castle Ardenvale
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [EOE:254] Godless Shrine
+1 [DOM:241] Isolated Chapel
+1 [WAR:248] Karn's Bastion
+15 [TLA:282] Plains
+15 [TLA:284] Swamp
+1 [TOR:140] Tainted Field
+1 [ELD:249] Witch's Cottage
+1 [ONE:289] Blightbelly Rat
+1 [SOM:144] Contagion Clasp
+1 [WAR:17] Grateful Apparition
+1 [MH3:35] Metastatic Evangel
+1 [CHK:10] Ghostly Prison
+1 [DSC:221] Inkshield
+1 [MAT:32] Jirina, Dauntless General
+1 [SOK:19] Michiko Konda, Truth Seeker
+1 [NPH:17] Norn's Annex
+1 [STX:157] Selfless Glyphweaver
+1 [ONE:301] Skrelv, Defector Mite
+1 [ONC:20] Glistening Sphere
+1 [ORI:21] Knight of the White Orchid
+1 [ONE:234] Myr Convert
+1 [MBS:125] Plague Myr
+1 [SUM:274] Sol Ring
+1 [ONE:2] Annex Sentry
+1 [GRN:2] Bounty Agent
+1 [AVR:17] Devout Chaplain
+1 [AKH:210] Dusk // Dawn
+1 [WOE:13] Expel the Interlopers
+1 [MH3:244] Fell the Profane
+1 [M13:20] Intrepid Hero
+1 [JOU:74] King Macar, the Gold-Cursed
+1 [FIC:277] Lethal Scheme
+1 [ELD:287] Murderous Rider
+1 [CON:15] Path to Exile
+1 [ONC:12] Phyresis Outbreak
+1 [M12:105] Royal Assassin
+1 [ICE:54] Swords to Plowshares
+1 [PIP:27] Vault 75: Middle School
+1 [ONE:116] Vraska's Fall
+1 [ONE:377] White Sun's Twilight
+1 [ONE:8] Crawling Chorus
+1 [ONE:34] Skrelv's Hive
+SB: 1 [PIP:108] MacCready, Lamplight Mayor
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MBS:103],[SOM:166],[ONE:301],[ONE:234],[MBS:125],[ONE:2])([SOM:162],[SOM:144],[NPH:17],[ONC:20],[SUM:274])([40K:112*],[FDN:578],[LCI:113],[RIX:88],[VOW:287],[FCA:11],[MKM:12],[ONE:83],[ONE:9],[ONE:12],[SOM:67],[ONE:18],[ONE:103],[SOM:75],[ONE:109],[ONE:289],[WAR:17],[MH3:35],[MAT:32],[SOK:19],[STX:157],[ORI:21],[GRN:2],[AVR:17],[M13:20],[JOU:74],[ELD:287],[M12:105],[ONE:8])([ACR:161],[FIC:101],[OTC:129],[ONC:47],[FDN:180],[CHK:10],[PIP:27],[ONE:34])([DSC:221],[MH3:244],[FIC:277],[CON:15],[ICE:54],[ONE:116])([WWK:132],[ELD:238],[DMU:244],[ELD:333],[EOE:254],[DOM:241],[WAR:248],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TOR:140],[ELD:249])([AKH:210])([ONE:97],[5DN:55],[WOE:13],[ONC:12],[ONE:377])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PIP:108])

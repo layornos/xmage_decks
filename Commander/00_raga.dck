@@ -1,0 +1,89 @@
+1 [ROE:1] All Is Dust
+1 [ONE:158] Armored Scrapgorger
+1 [ROE:176] Awakening Zone
+1 [BFZ:1] Bane of Bala Ged
+1 [MH3:145] Basking Broodscale
+1 [CLU:158] Beast Whisperer
+1 [ZEN:159] Beastmaster Ascension
+1 [M12:165] Birds of Paradise
+1 [OGW:121] Birthing Hulk
+1 [BFZ:233] Blighted Woodland
+1 [CSP:105] Boreal Druid
+1 [J22:31] Brazen Cannonade
+1 [ROE:138] Brood Birthing
+1 [BFZ:164] Brood Monitor
+1 [BFZ:165] Call the Scions
+1 [BFZ:235] Cinder Glade
+1 [AFR:176] Circle of Dreams Druid
+1 [CLB:350] Cliffgate
+1 [ELD:333] Command Tower
+1 [FDN:687] Demolition Field
+1 [FDN:216] Doubling Season
+1 [M3C:32] Eldrazi Confluence
+1 [MH3:150] Eldrazi Repurposer
+1 [ROE:142] Emrakul's Hatcher
+1 [5DN:86] Eternal Witness
+1 [BFZ:166] Eyeless Watcher
+10 [TLA:286] Forest
+1 [ZNR:244] Forsaken Monument
+1 [BFZ:167] From Beyond
+1 [FDN:221] Genesis Wave
+1 [MH3:7] Glaring Fleshraker
+1 [MH3:124] Glimpse the Impossible
+1 [ROE:186] Growth Spasm
+1 [CLU:238] Gruul Turf
+1 [PLC:149] Harmonize
+1 [MH3:210] Idol of False Gods
+1 [MBS:145] Inkmoth Nexus
+1 [MOM:196] Kami of Whispered Hopes
+1 [DMU:250] Karplusan Forest
+1 [ISD:243] Kessig Wolf Run
+1 [MH3:10] Kozilek, the Broken Reality
+1 [MH3:11] Kozilek's Command
+1 [ROE:193] Kozilek's Predator
+1 [DMU:170] Llanowar Loamspeaker
+1 [MH3:161] Malevolent Rumble
+1 [CLB:356] Manor Gate
+1 [10E:335] Mind Stone
+1 [4ED:361] Mishra's Factory
+1 [ROE:197] Momentous Fall
+5 [TLA:285] Mountain
+1 [M14:228] Mutavault
+1 [5ED:316] Nature's Lore
+1 [MH3:163] Nightshade Dryad
+1 [FRF:110] Outpost Siege
+1 [MH3:165] Path of Annihilation
+1 [EOC:103] Pest Infestation
+1 [MH3:167] Propagator Drone
+1 [ROE:162] Rapacious One
+1 [SUM:214] Regrowth
+1 [AER:123] Rishkar's Expertise
+1 [MID:266] Rockfall Vale
+1 [SOI:227] Second Harvest
+1 [FRF:138] Shamanic Revelation
+1 [AKH:248] Sheltered Thicket
+1 [ROE:10] Skittering Invasion
+1 [SUM:274] Sol Ring
+1 [MH3:140] Spawn-Gang Commander
+1 [M3C:36] Spawnbed Protector
+1 [BFZ:248] Spawning Bed
+1 [ROE:11] Spawnsire of Ulamog
+1 [CLB:361] Spire Garden
+1 [EOE:258] Stomping Ground
+1 [WWK:145] Tectonic Edge
+1 [SCG:143] Temple of the False God
+1 [RIX:180] The Immortal Sun
+1 [FIC:315] Three Visits
+1 [MH3:206] Titans' Vanguard
+1 [10E:361*] Treetop Village
+1 [MOM:211] Tribute to the World Tree
+1 [NPH:123] Triumph of the Hordes
+1 [OGW:125] Vile Redeemer
+1 [OGW:12] Warping Wail
+1 [DMU:260] Wooded Ridgeline
+1 [OGW:126] World Breaker
+1 [MH3:208] Writhing Chrysalis
+1 [OGW:147] Zendikar Resurgent
+SB: 1 [CLB:291] Raggadragga, Goreguts Boss
+LAYOUT MAIN:(1,10)(CMC,false,60)|([BFZ:233],[BFZ:235],[CLB:350],[ELD:333],[FDN:687],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[CLU:238],[MBS:145],[DMU:250],[ISD:243],[CLB:356],[4ED:361],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[M14:228],[MID:266],[AKH:248],[BFZ:248],[CLB:361],[EOE:258],[WWK:145],[SCG:143],[10E:361*],[DMU:260])([M12:165],[CSP:105],[EOC:103],[SUM:274])([ONE:158],[MH3:145],[ROE:138],[MH3:210],[MH3:11],[DMU:170],[MH3:161],[10E:335],[5ED:316],[MH3:163],[MH3:167],[SUM:214],[FIC:315],[OGW:12])([ROE:176],[ZEN:159],[BFZ:165],[AFR:176],[MH3:150],[5DN:86],[FDN:221],[MH3:7],[MH3:124],[ROE:186],[MOM:196],[MOM:211],[OGW:125])([CLU:158],[J22:31],[M3C:32],[BFZ:166],[BFZ:167],[PLC:149],[ROE:193],[ROE:197],[FRF:110],[MH3:165],[SOI:227],[NPH:123],[MH3:208])([FDN:216],[ROE:142],[ZNR:244],[FRF:138],[MH3:140],[MH3:206])([BFZ:164],[ROE:162],[AER:123],[RIX:180])([ROE:1],[BFZ:1],[OGW:121],[ROE:10],[M3C:36],[OGW:126],[OGW:147])([MH3:10])([ROE:11])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CLB:291])

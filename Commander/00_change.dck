@@ -1,0 +1,102 @@
+1 [LRW:51] Amoeboid Changeling
+1 [ZEN:211] Arid Mesa
+1 [LRW:152] Blades of Velis Vel
+1 [KTK:230] Bloodstained Mire
+1 [EOE:251] Breeding Pool
+1 [MMQ:126] Cateran Summons
+1 [OTC:128] Changeling Outcast
+1 [FIN:215] Choco, Seeker of Paradise
+1 [8ED:322] City of Brass
+1 [CMM:919] Cloudshredder Sliver
+1 [ELD:333] Command Tower
+1 [ZNR:52] Concerted Defense
+1 [ZNR:337] Coveted Prize
+1 [LRW:11] Crib Swap
+1 [ACR:17] Eagle Vision
+1 [CON:142] Exotic Orchard
+1 [M21:180] Feline Sovereign
+1 [KTK:233] Flooded Strand
+1 [TLA:286] Forest
+1 [4ED:26] Fortified Area
+1 [EOE:254] Godless Shrine
+1 [SLX:18] Greymond, Avacyn's Stalwart
+1 [VIS:163] Griffin Canyon
+1 [CSP:61] Haakon, Stromgald Scourge
+1 [TLA:366] Hakoda, Selfless Commander
+1 [ECL:265] Hallowed Fountain
+1 [WWK:105] Harabaz Druid
+1 [TLA:182] Haru, Hidden Talent
+1 [TLA:283] Island
+1 [J22:40] Kibo, Uktabi Prince
+1 [M19:107] Liliana's Contract
+1 [KHM:142] Magda, Brazen Outlaw
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [KHM:184] Masked Vandal
+1 [KHM:240] Maskwood Nexus
+1 [LRW:74] Merrow Reejerey
+1 [LRW:31] Mirror Entity
+1 [ZEN:220] Misty Rainforest
+1 [M3C:157] Morophon, the Boundless
+1 [TLA:285] Mountain
+1 [TDM:246] Mox Jasper
+1 [BLB:227] Muerra, Trash Tactician
+1 [MOR:147] Murmuring Bosk
+1 [ECL:186] Mutable Explorer
+1 [M14:228] Mutavault
+1 [LRW:128] Nameless Inversion
+1 [ZNR:332] Nimble Trapfinder
+1 [MOR:45] Notorious Throng
+1 [ECL:266] Overgrown Tomb
+1 [FIC:411] Path of Ancestry
+1 [ONS:101] Peer Pressure
+1 [TLA:282] Plains
+1 [SUM:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [USG:270] Priest of Titania
+1 [KHM:188] Realmwalker
+1 [SHM:260] Reaper King
+1 [SHM:278*] Reflecting Pool
+1 [M20:217] Risen Reef
+1 [ZEN:223] Scalding Tarn
+1 [LRW:85] Shapesharer
+1 [FIN:201] Sidequest: Raise a Chocobo
+1 [FRF:157] Silumgar, the Drifting Death
+1 [LRW:89] Spellstutter Sprite
+1 [FIN:289] Starting Town
+1 [ECL:267] Steam Vents
+1 [EOE:258] Stomping Ground
+1 [FIN:361] Summon: Leviathan
+1 [TLA:284] Swamp
+1 [TSP:278] Swarmyard
+1 [FDN:633] Taurean Mauler
+1 [ECL:268] Temple Garden
+1 [KHM:205] The Bears of Littjara
+1 [KHM:275] The World Tree
+1 [LCI:266] Throne of the Grim Captain
+1 [EOE:247] Thrumming Hivepool
+1 [AFR:235] Tiamat
+1 [FIN:208] Torgal, A Fine Hound
+1 [MID:246] Tovolar, Dire Overlord
+1 [J21:759] Universal Automaton
+1 [MH1:216] Unsettled Mariner
+1 [CLB:711] Valiant Changeling
+1 [ZEN:229] Verdant Catacombs
+1 [ACR:223] Viewpoint Synchronization
+1 [EOE:261] Watery Grave
+1 [WAR:226] Widespread Brutality
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [FCA:60] Yuriko, the Tiger's Shadow
+1 [DMR:239] Urza's Incubator
+1 [MMA:6] Avian Changeling
+1 [SLD:663] Harmonic Sliver
+1 [PRM:86210] Najeela, the Blade-Blossom
+1 [SLD:1155] Esika, God of the Tree
+1 [PF25:3] The First Sliver
+1 [LCC:159] Kindred Discovery
+1 [J25:49] Gornog, the Red Reaper
+1 [AVR:228] Seraph Sanctuary
+SB: 1 [PF25:15] The Ur-Dragon
+LAYOUT MAIN:(1,9)(CMC,false,60)|([ZEN:211],[KTK:230],[EOE:251],[8ED:322],[ELD:333],[CON:142],[KTK:233],[TLA:286],[EOE:254],[VIS:163],[ECL:265],[TLA:283],[JOU:163],[ZEN:219],[ZEN:220],[TLA:285],[TDM:246],[MOR:147],[M14:228],[ECL:266],[FIC:411],[TLA:282],[SUM:284],[KTK:239],[SHM:278*],[ZEN:223],[FIN:289],[ECL:267],[EOE:258],[TLA:284],[TSP:278],[ECL:268],[KHM:275],[ZEN:229],[EOE:261],[KTK:248],[KTK:249])([MMQ:126],[OTC:128],[ZNR:52],[J21:759])([LRW:51],[LRW:152],[CMM:919],[WWK:105],[TLA:182],[KHM:142],[KHM:184],[LRW:128],[ZNR:332],[USG:270],[LRW:85],[FIN:201],[LRW:89],[LCI:266],[FIN:208],[MH1:216])([LRW:11],[M21:180],[4ED:26],[CSP:61],[J22:40],[LRW:74],[LRW:31],[BLB:227],[ECL:186],[KHM:188],[M20:217],[FDN:633],[KHM:205],[MID:246],[FCA:60],[DMR:239],[MMA:6],[SLD:663],[PRM:86210],[SLD:1155])([FIN:215],[SLX:18],[TLA:366],[KHM:240],[MOR:45],[ONS:101],[WAR:226])([ZNR:337],[ACR:17],[M19:107],[ACR:223],[PF25:3],[LCC:159],[J25:49],[AVR:228])([FRF:157],[FIN:361],[EOE:247])([M3C:157],[AFR:235],[CLB:711])([SHM:260])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([PF25:15])

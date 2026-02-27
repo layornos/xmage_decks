@@ -1,0 +1,91 @@
+1 [M13:200] Akroma's Memorial
+1 [JUD:77] Anger
+1 [OTJ:191] Annie Joins Up
+1 [ACR:138] Arbaaz Mir
+1 [TDC:339] Ash Barrens
+1 [MKM:287] Assemble the Players
+1 [40K:105] Atalan Jackal
+1 [LRW:3] Austere Command
+1 [OTJ:309] Aven Interrupter
+1 [CC1:3] Bane of Progress
+1 [M14:7] Banisher Priest
+1 [NPH:103] Beast Within
+1 [FDN:721] Boros Charm
+1 [CLB:348] Bountiful Promenade
+1 [BRO:259] Brushland
+1 [BFZ:234] Canopy Vista
+1 [MOC:11] Chivalric Alliance
+1 [BFZ:235] Cinder Glade
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [ZNR:261] Cragcrown Pathway
+1 [M21:177] Cultivate
+1 [BLB:295] Dawn's Truce
+1 [MKM:12] Delney, Streetwise Lookout
+1 [MKC:151] Disrupt Decorum
+1 [AKH:210] Dusk // Dawn
+1 [JOU:94] Eidolon of the Great Revel
+1 [MKM:261] Escape Tunnel
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+4 [TDM:276] Forest
+1 [CMM:995] Forge of Heroes
+1 [LTC:56] Forth Eorlingas!
+1 [BIG:2] Grand Abolisher
+1 [TDC:216] Grenzo, Havoc Raiser
+1 [CN2:55] Grenzo's Ruffians
+1 [AKH:135] Harsh Mentor
+1 [JOU:150] Iroas, God of Victory
+1 [ULG:11] Karmic Guide
+1 [CHK:225] Kodama's Reach
+1 [NEC:21] Komainu Battle Armor
+1 [LCI:232] Kutzil, Malamet Exemplar
+1 [AKH:175] Manglehorn
+1 [FDN:578] Mentor of the Meek
+1 [SOK:19] Michiko Konda, Truth Seeker
+1 [ODY:321] Mossfire Valley
+3 [TDM:275] Mountain
+1 [ALA:227] Naya Panorama
+1 [M3C:361] Opal Palace
+1 [CON:15] Path to Exile
+1 [BLC:11] Perch Protection
+1 [MH3:364] Phelia, Exuberant Shepherd
+7 [TDM:272] Plains
+1 [BLC:25] Prosperous Bandit
+1 [PIP:401] Rampaging Yao Guai
+1 [M12:190] Rampant Growth
+1 [DSK:153] Razorkin Needlehead
+1 [EXO:17] Reconnaissance
+1 [M19:254] Reliquary Tower
+1 [RNA:201] Rhythm of the Wild
+1 [MID:266] Rockfall Vale
+1 [FDN:264] Rogue's Passage
+1 [ONC:21] Skyhunter Strike Force
+1 [EXO:20] Soltari Visionary
+1 [LCI:240] Sovereign Okinec Ahau
+1 [SHM:129] Spawnwrithe
+1 [UNF:28] Starlight Spectacular
+1 [EVE:62] Stigma Lasher
+1 [ODY:328] Sungrass Prairie
+1 [ICE:54] Swords to Plowshares
+1 [DOM:183] Sylvan Awakening
+1 [LTC:71] Taunt from the Rampart
+1 [FDN:633] Taurean Mauler
+1 [CLU:282] Temple Garden
+1 [LTR:2] The Battle of Bywater
+1 [ONE:11] The Eternal Wanderer
+1 [OTC:209] Three Visits
+1 [MKC:15] Trouble in Pairs
+1 [SOM:25] True Conviction
+1 [CMM:360] Tuya Bearclaw
+1 [FDN:27] Valkyrie's Call
+1 [VOW:287] Welcoming Vampire
+1 [CLB:261] Wilson, Refined Grizzly
+1 [TDM:235] Windcrag Siege
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [CHK:200] Zo-Zu the Punisher
+1 [PLC:144] Wild Pair
+SB: 1 [MKC:5] Duskana, the Rage Mother
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([NEC:21])([M13:200])([JUD:77],[ACR:138],[40K:105],[OTJ:309],[CC1:3],[M14:7],[MKM:12],[BIG:2],[TDC:216],[CN2:55],[AKH:135],[ULG:11],[LCI:232],[AKH:175],[FDN:578],[SOK:19],[MH3:364],[BLC:25],[PIP:401],[DSK:153],[ONC:21],[EXO:20],[LCI:240],[SHM:129],[EVE:62],[FDN:633],[CMM:360],[VOW:287],[CLB:261],[CHK:200])([JOU:94],[JOU:150])([OTJ:191],[MKM:287],[MOC:11],[EXO:17],[RNA:201],[UNF:28],[MKC:15],[SOM:25],[FDN:27],[TDM:235],[PLC:144])([NPH:103],[FDN:721],[BLB:295],[CON:15],[BLC:11],[ICE:54])([TDC:339],[CLB:348],[BRO:259],[BFZ:234],[BFZ:235],[DOM:239],[ELD:333],[ZNR:261],[MKM:261],[CON:142],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[CMM:995],[ODY:321],[TDM:275],[TDM:275],[TDM:275],[ALA:227],[M3C:361],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[M19:254],[MID:266],[FDN:264],[ODY:328],[CLU:282],[KTK:248],[KTK:249],[TDM:272])([ONE:11])([AKH:210])([LRW:3],[M21:177],[MKC:151],[M13:170],[LTC:56],[CHK:225],[M12:190],[DOM:183],[LTC:71],[LTR:2],[OTC:209])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MKC:5])

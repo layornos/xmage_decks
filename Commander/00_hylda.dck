@@ -1,0 +1,76 @@
+1 [ELD:331] Arcane Signet
+1 [FIC:230] Archaeomancer's Map
+1 [OTJ:252] Arid Archway
+1 [CLU:229] Azorius Chancery
+1 [CLU:219] Azorius Signet
+1 [WOE:44] Bitter Chill
+1 [RTR:30] Blustersquall
+1 [A25:45] Borrowing 100,000 Arrows
+1 [M14:10] Brave the Elements
+1 [FRF:8] Citadel Siege
+1 [OTJ:310] Claim Jumper
+1 [FIC:236] Clever Concealment
+1 [ELD:333] Command Tower
+1 [GTC:8] Court Street Denizen
+1 [M13:48] Downpour
+1 [VOW:358] Dreamshackle Geist
+1 [FRF:12] Elite Scaleguard
+1 [SOI:19] Expose Evil
+1 [WOE:332] Farsight Ritual
+1 [ALA:43] Fatestitcher
+1 [ISD:14] Feeling of Dread
+1 [FDN:574] Felidar Retreat
+1 [M21:51] Frost Breath
+1 [KHM:256] Gates of Istfell
+1 [CHK:10] Ghostly Prison
+1 [BFZ:78] Guardian of Tazeem
+1 [CMM:1003] Guildless Commons
+1 [CLB:25] Hammers of Moradin
+1 [WOE:247] Hylda's Crown of Winter
+1 [WOE:54] Ice Out
+1 [WOE:55] Icewrought Sentry
+1 [KTK:42] Icy Blast
+1 [TDC:319] Idol of Oblivion
+1 [CLB:564] Illithid Harvester
+1 [AKH:245] Irrigated Farmland
+1 [BLC:169] Junk Winder
+1 [M15:66] Kapsho Kitefins
+1 [VIS:165] Karoo
+1 [ORI:21] Knight of the White Orchid
+1 [4ED:34] Land Tax
+1 [AFR:23] Loyal Warhound
+1 [10E:335] Mind Stone
+1 [ELD:247] Mystic Sanctuary
+1 [NEO:71] Network Disruptor
+1 [DKA:15] Niblis of the Mist
+1 [DKA:16] Niblis of the Urn
+1 [7ED:92] Opposition
+1 [DRC:133] Ornithopter of Paradise
+1 [CON:15] Path to Exile
+1 [WOE:22] Plunge into Winter
+1 [BFZ:241] Prairie Stream
+1 [VOC:46] Rhoda, Geist Avenger
+1 [MH1:24] Rhox Veteran
+1 [OTC:11] Sand Scout
+1 [TMP:306] Sapphire Medallion
+1 [MH3:267] Sevinne's Reclamation
+1 [WOE:213] Sharae of Numbing Depths
+1 [NEC:4] Shorikai, Genesis Engine
+15 [KHM:278] Snow-Covered Island
+13 [KHM:276] Snow-Covered Plains
+1 [SUM:274] Sol Ring
+1 [WOE:30] Solitary Sanctuary
+1 [M10:34] Soul Warden
+1 [BNG:162] Springleaf Drum
+1 [WOE:72] Succumb to the Cold
+1 [M21:40] Swift Response
+1 [MRD:256] Talisman of Progress
+1 [FDN:698] Temple of Enlightenment
+1 [EXO:49] Theft of Dreams
+1 [MMQ:109] Tidal Bore
+1 [VOC:16] Timin, Youthful Geist
+1 [SOI:45] Topplegeist
+1 [RNA:58] Verity Circle
+SB: 1 [WOE:206] Hylda of the Icy Crown
+LAYOUT MAIN:(1,8)(CMC,false,60)|([OTJ:252],[CLU:229],[ELD:333],[KHM:256],[CMM:1003],[AKH:245],[VIS:165],[ELD:247],[BFZ:241],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[FDN:698])([RTR:30],[M14:10],[KTK:42],[4ED:34],[NEO:71],[CON:15],[SUM:274],[M10:34],[BNG:162],[SOI:45])([ELD:331],[CLU:219],[WOE:44],[M13:48],[SOI:19],[ISD:14],[TDC:319],[ORI:21],[AFR:23],[10E:335],[DKA:16],[DRC:133],[WOE:22],[OTC:11],[TMP:306],[M21:40],[MRD:256],[MMQ:109])([FIC:230],[A25:45],[OTJ:310],[GTC:8],[VOW:358],[M21:51],[CHK:10],[CLB:25],[WOE:247],[WOE:54],[WOE:55],[DKA:15],[MH3:267],[WOE:30],[WOE:72],[EXO:49],[RNA:58])([FRF:8],[FIC:236],[WOE:332],[ALA:43],[FDN:574],[7ED:92],[VOC:46],[MH1:24],[WOE:213],[NEC:4])([FRF:12],[BFZ:78],[CLB:564],[VOC:16])([M15:66])([BLC:169])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([WOE:206])

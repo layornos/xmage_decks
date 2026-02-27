@@ -1,0 +1,88 @@
+1 [6ED:273] Ankh of Mishra
+1 [ELD:331] Arcane Signet
+1 [TDC:339] Ash Barrens
+1 [MMQ:287] Barbed Wire
+1 [FDN:669] Basilisk Collar
+1 [RNA:157] Bedevil
+1 [ACR:161] Black Market Connections
+1 [ONE:248] Blackcleave Cliffs
+1 [ISD:130] Blasphemous Act
+1 [KHM:252] Blightstep Pathway
+1 [AVR:86] Blood Artist
+1 [M12:81] Blood Seeker
+1 [WWK:132] Bojuka Bog
+1 [M21:133] Brash Taunter
+1 [AKH:239] Canyon Slough
+1 [ELD:239] Castle Embereth
+1 [ELD:241] Castle Locthwain
+1 [VOW:148] Cemetery Gatekeeper
+1 [TDC:208] Chaos Warp
+1 [ELD:333] Command Tower
+1 [SCG:64] Decree of Pain
+1 [XLN:252] Dragonskull Summit
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [ISD:100] Falkenrath Noble
+1 [BNG:68] Fate Unraveler
+1 [FDN:712] Feed the Swarm
+1 [9ED:297] Fellwar Stone
+1 [SOI:272] Foreboding Ruins
+1 [DSC:27] Gleeful Arsonist
+1 [DSK:138] Grab the Prize
+1 [SHM:272] Graven Cairns
+1 [THB:355] Gray Merchant of Asphodel
+1 [AKH:135] Harsh Mentor
+1 [MID:107] Infernal Grasp
+1 [KHM:216] Kardur, Doomscourge
+1 [CON:48] Kederekt Parasite
+1 [SHM:273] Leechridden Swamp
+1 [CLU:140] Light Up the Stage
+1 [MRD:199] Lightning Greaves
+1 [CLB:355] Luxury Suite
+1 [OTJ:134] Magebane Lizard
+1 [M12:150] Manabarbs
+1 [WAR:99] Massacre Girl
+1 [FDN:714] Massacre Wurm
+1 [WAR:204] Mayhem Devil
+1 [10E:335] Mind Stone
+1 [BNG:151] Mogis, God of Slaughter
+9 [TDM:275] Mountain
+1 [DSC:22] Persistent Constrictor
+1 [RTR:184] Rakdos Charm
+1 [CLU:226] Rakdos Signet
+1 [XLN:154] Rampaging Ferocidon
+1 [DSK:153] Razorkin Needlehead
+1 [ZNR:156] Roiling Vortex
+1 [ODY:326] Shadowblood Ridge
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [USG:326] Shivan Gorge
+1 [M15:114] Sign in Blood
+1 [BFZ:247] Smoldering Marsh
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [ONE:150] Solphim, Mayhem Dominus
+1 [ZNR:127] Soul Shatter
+1 [LRW:274] Spinerock Knoll
+1 [SHM:198] Spiteful Visions
+1 [SCG:106] Sulfuric Vortex
+1 [DMU:256] Sulfurous Springs
+1 [DSC:25] Suspended Sentence
+7 [TDM:274] Swamp
+1 [ELD:107] Syr Konrad, the Grim
+1 [TOR:142] Tainted Peak
+1 [MRD:255] Talisman of Indulgence
+1 [THB:158] Tectonic Giant
+1 [DSK:269] Terramorphic Expanse
+1 [DSC:3] The Lord of Pain
+1 [DSC:256] Thought Vessel
+1 [THB:121] Underworld Dreams
+1 [ZNR:174] Valakut Awakening
+1 [RTR:111] Vandalblast
+1 [DSC:239] Vial Smasher the Fierce
+1 [CMR:211] Wheel of Misfortune
+1 [5ED:275] Winds of Change
+1 [DSC:325] Witch's Clinic
+1 [CHK:200] Zo-Zu the Punisher
+SB: 1 [DSC:6] Valgavoth, Harrower of Souls
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:257])([6ED:273],[ELD:331],[MMQ:287],[FDN:669],[9ED:297],[MRD:199],[10E:335],[CLU:226],[SUM:274],[MRD:255],[DSC:256])([AVR:86],[M12:81],[M21:133],[VOW:148],[ISD:100],[DSC:27],[THB:355],[AKH:135],[KHM:216],[CON:48],[OTJ:134],[WAR:99],[FDN:714],[WAR:204],[DSC:22],[XLN:154],[DSK:153],[DMU:107],[ONE:150],[ELD:107],[THB:158],[DSC:3],[DSC:239],[CHK:200])([BNG:68],[BNG:151])([ACR:161],[M12:150],[ZNR:156],[SHM:198],[SCG:106],[THB:121])([RNA:157],[TDC:208],[MID:107],[RTR:184],[ZNR:127],[DSC:25],[ZNR:174])([TDC:339],[ONE:248],[KHM:252],[WWK:132],[AKH:239],[ELD:239],[ELD:241],[ELD:333],[XLN:252],[TDM:255],[CON:142],[SOI:272],[SHM:272],[SHM:273],[CLB:355],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[ODY:326],[USG:326],[BFZ:247],[LRW:274],[DMU:256],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[TOR:142],[DSK:269],[DSC:325],[TDM:275])([ISD:130],[SCG:64],[FDN:712],[DSK:138],[CLU:140],[M15:114],[RTR:111],[CMR:211],[5ED:275])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSC:6])

@@ -1,0 +1,82 @@
+1 [MH3:80] Accursed Marauder
+1 [JUD:77] Anger
+1 [J25:517] Anje's Ravager
+1 [ELD:331] Arcane Signet
+1 [RIX:62] Arterial Flow
+1 [SOI:99] Asylum Visitor
+1 [BBD:75] Azra Oddsmaker
+1 [BLB:83] Bandit's Talent
+1 [RNA:157] Bedevil
+1 [ONE:248] Blackcleave Cliffs
+1 [MH3:243] Boggart Trawler
+1 [WWK:132] Bojuka Bog
+1 [STH:51] Bottomless Pit
+1 [FDN:170] Burglar Rat
+1 [BLB:129] Byway Barterer
+1 [TSP:97] Call to the Netherworld
+1 [MKM:114] Case of the Crimson Pulse
+1 [OTJ:324] Caustic Bronco
+1 [J21:683] Chainer, Nightmare Adept
+1 [ELD:333] Command Tower
+1 [ALA:69] Cunning Lethemancer
+1 [AKH:223] Cut // Ribbons
+1 [BLB:311] Darkstar Augur
+1 [DIS:41] Delirium Skeins
+1 [MH3:116] Detective's Phoenix
+1 [XLN:252] Dragonskull Summit
+1 [MH3:90] Emperor of Bones
+1 [MH3:244] Fell the Profane
+1 [LCC:226] Fiery Confluence
+1 [BLB:213] Fireglass Mentor
+1 [MID:223] Florian, Voldaren Scion
+1 [DSK:248] Ghost Vacuum
+1 [FDN:660] Immersturm Predator
+1 [LCI:156] Inti, Seneschal of the Sun
+1 [J25:50] Ivora, Insatiable Heir
+1 [KHM:216] Kardur, Doomscourge
+1 [THB:221] Kroxa, Titan of Death's Hunger
+1 [MH3:281] Laelia, the Blade Reforged
+1 [DSK:105] Let's Play a Game
+1 [FIN:106] Malboro
+1 [J21:357] Mind Rake
+1 [RTR:101] Mizzium Mortars
+7 [TLA:285] Mountain
+1 [M3C:202] Necrogoyf
+1 [THB:147] Ox of Agonas
+1 [DIS:121] Pain Magnification
+1 [FDN:179] Painful Quandary
+1 [TDM:338] Qarsi Revenant
+1 [CLU:243] Rakdos Carnarium
+1 [RTR:184] Rakdos Charm
+1 [ELD:101] Rankle, Master of Pranks
+1 [LCI:284] Restless Vents
+1 [MH3:107] Ripples of Undeath
+1 [DIS:179] Rix Maadi, Dungeon Palace
+1 [MBS:53] Sangromancer
+1 [ODY:326] Shadowblood Ridge
+1 [RTR:195] Skull Rend
+1 [BFZ:247] Smoldering Marsh
+1 [SUM:274] Sol Ring
+1 [ZNR:127] Soul Shatter
+1 [LRW:274] Spinerock Knoll
+1 [MH3:230] Spymaster's Vault
+1 [EMN:146] Stromkirk Occultist
+1 [FUT:79] Stronghold Rats
+1 [DMU:256] Sulfurous Springs
+15 [TLA:284] Swamp
+1 [ONS:175] Syphon Mind
+1 [ELD:107] Syr Konrad, the Grim
+1 [TOR:142] Tainted Peak
+1 [FRF:88] Tasigur's Cruelty
+1 [FDN:701] Temple of Malice
+1 [ARB:46] Terminate
+1 [TDM:127] Tersa Lightshatter
+1 [FDN:324] Tinybones, Bauble Burglar
+1 [SNC:246] Unlicensed Hearse
+1 [USG:162] Unnerve
+1 [MAT:15] Urborg Scavengers
+1 [USG:166] Victimize
+1 [DSK:124] Withering Torment
+SB: 1 [CON:117] Malfegor
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([ELD:331],[DSK:248],[SUM:274],[SNC:246])([MH3:80],[JUD:77],[J25:517],[SOI:99],[BBD:75],[MH3:243],[FDN:170],[BLB:129],[OTJ:324],[J21:683],[ALA:69],[BLB:311],[MH3:90],[BLB:213],[MID:223],[FDN:660],[LCI:156],[J25:50],[KHM:216],[THB:221],[MH3:281],[FIN:106],[M3C:202],[THB:147],[TDM:338],[ELD:101],[MBS:53],[EMN:146],[FUT:79],[ELD:107],[TDM:127],[FDN:324],[MAT:15])([MH3:116])([BLB:83],[STH:51],[MKM:114],[DIS:121],[FDN:179],[MH3:107])([RNA:157],[MH3:244],[RTR:184],[ZNR:127],[ARB:46],[DSK:124])([ONE:248],[WWK:132],[ELD:333],[XLN:252],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[CLU:243],[LCI:284],[DIS:179],[ODY:326],[BFZ:247],[LRW:274],[MH3:230],[DMU:256],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TOR:142],[FDN:701])([AKH:223])([RIX:62],[TSP:97],[DIS:41],[LCC:226],[DSK:105],[J21:357],[RTR:101],[RTR:195],[ONS:175],[FRF:88],[USG:162],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([CON:117])

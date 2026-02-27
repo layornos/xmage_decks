@@ -1,0 +1,35 @@
+1 [MRD:141] Aether Spellbomb
+2 [DST:100] Arcbound Ravager
+3 [TSB:107] Claws of Gix
+3 [ELD:342] Emry, Lurker of the Loch
+4 [5DN:118] Engineered Explosives
+3 [ACR:112] Fiery Islet
+1 [TLA:283] Island
+4 [EOC:74] Kappa Cannoneer
+1 [OTJ:243] Lavaspur Boots
+3 [AER:39] Metallic Rebuke
+4 [CSP:138] Mishra's Bauble
+4 [SOM:179] Mox Opal
+4 [EOE:223] Pinnacle Emissary
+1 [MID:257] Pithing Needle
+1 [THB:236] Shadowspear
+1 [DMU:255] Shivan Reef
+3 [MH3:241] Sink into Stupor
+4 [OTJ:270] Spirebluff Canal
+1 [ECL:267] Steam Vents
+3 [M21:241] Tormod's Crypt
+4 [MB2:114] Urza's Saga
+4 [EOE:168] Weapons Manufacturing
+1 [MRD:274] Welding Jar
+SB: 1 [9ED:176] Blood Moon
+SB: 2 [MH3:54] Consign to Memory
+SB: 3 [DOM:213] Damping Sphere
+SB: 1 [SOM:91] Galvanic Blast
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [M20:154] Reckless Air Strike
+SB: 1 [THS:65] Swan Song
+SB: 1 [MH3:212] Vexing Bauble
+SB: 2 [NPH:102] Whipflare
+LAYOUT MAIN:(1,5)(CMC,false,60)|([TSB:107],[TSB:107],[TSB:107],[5DN:118],[5DN:118],[5DN:118],[5DN:118],[ACR:112],[ACR:112],[ACR:112],[TLA:283],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[SOM:179],[SOM:179],[SOM:179],[SOM:179],[DMU:255],[OTJ:270],[OTJ:270],[OTJ:270],[OTJ:270],[ECL:267],[M21:241],[M21:241],[M21:241],[MB2:114],[MB2:114],[MB2:114],[MB2:114],[MRD:274])([MRD:141],[OTJ:243],[MID:257],[THB:236])([DST:100],[DST:100],[EOE:168],[EOE:168],[EOE:168],[EOE:168])([ELD:342],[ELD:342],[ELD:342],[AER:39],[AER:39],[AER:39],[EOE:223],[EOE:223],[EOE:223],[EOE:223],[MH3:241],[MH3:241],[MH3:241])([EOC:74],[EOC:74],[EOC:74],[EOC:74])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,100)|([MH3:54],[MH3:54],[SOM:91],[M20:227],[M20:154],[THS:65],[MH3:212])([DOM:213],[DOM:213],[DOM:213],[NPH:102],[NPH:102])([9ED:176],[ELD:58],[ELD:58])

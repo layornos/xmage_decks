@@ -1,0 +1,96 @@
+1 [DMU:243] Adarkar Wastes
+1 [5ED:140] Animate Dead
+1 [ELD:331] Arcane Signet
+1 [AKH:78] Archfiend of Ifnir
+1 [SPG:87] Bone Miser
+1 [TOR:51] Cabal Ritual
+1 [DMU:244] Caves of Koilos
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [MBS:21] Consecrated Sphinx
+1 [RTR:35] Cyclonic Rift
+1 [MMQ:129] Dark Ritual
+1 [CMM:147] Deadly Rollick
+1 [ICE:121] Demonic Consultation
+1 [SUM:105] Demonic Tutor
+1 [BRO:324] Diabolic Intent
+1 [XLN:253] Drowned Catacomb
+1 [J21:75] Esper Sentinel
+1 [CON:142] Exotic Orchard
+1 [MOM:352] Faerie Mastermind
+1 [9ED:297] Fellwar Stone
+1 [CMM:489] Fierce Guardianship
+1 [KTK:233] Flooded Strand
+1 [DSK:259] Floodfarm Verge
+1 [MB2:163] Flusterstorm
+1 [H1R:9] Force of Negation
+1 [ALL:28] Force of Will
+1 [ULG:32] Frantic Search
+1 [M21:350] Ghostly Pilferer
+1 [DSK:260] Gloomlake Verge
+1 [CLU:276] Godless Shrine
+1 [CLU:277] Hallowed Fountain
+1 [FDN:307] High Fae Trickster
+1 [BLB:52] Into the Flood Maw
+3 [TDM:273] Island
+1 [DOM:241] Isolated Chapel
+1 [NPH:37] Jin-Gitaxias, Core Augur
+1 [BLB:304] Kitsa, Otterball Elite
+1 [SNC:412] Ledger Shredder
+1 [WOE:208] Likeness Looter
+1 [LTR:213] Lotho, Corrupt Shirriff
+1 [5ED:388] Mana Vault
+1 [ZEN:219] Marsh Flats
+1 [MKM:264] Meticulous Archive
+1 [ZEN:57] Mindbreak Trap
+1 [DFT:237] Monument to Endurance
+1 [CLB:357] Morphic Pool
+1 [DOM:224] Mox Amber
+1 [ICE:87] Mystic Remora
+1 [VIS:64] Necromancy
+1 [5ED:182] Necropotence
+1 [RIX:45] Nezahal, Primal Tide
+1 [NEO:271] Otawara, Soaring City
+3 [TDM:272] Plains
+1 [KTK:239] Polluted Delta
+1 [BLC:15] Pollywog Prodigy
+1 [MH3:199] Psychic Frog
+1 [TOR:77] Putrid Imp
+1 [SNC:254] Raffine's Tower
+1 [HOU:73] Razaketh, the Foulblooded
+1 [TMP:151] Reanimate
+1 [PCY:45] Rhystic Study
+1 [MOM:295] Rona, Herald of Invasion
+1 [SUM:126] Sacrifice
+1 [CLB:360] Sea of Clouds
+1 [MKM:268] Shadowy Backstreet
+1 [ALA:194] Sharuum the Hegemon
+1 [MH3:241] Sink into Stupor
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [MKC:118] Sphinx of the Second Sun
+1 [BNG:162] Springleaf Drum
+3 [TDM:274] Swamp
+1 [THS:65] Swan Song
+1 [ICE:54] Swords to Plowshares
+1 [WOE:215] Talion, the Kindly Lord
+1 [MRD:253] Talisman of Dominance
+1 [THB:308] Thassa's Oracle
+1 [LTR:001] The One Ring
+1 [OTJ:108] Tinybones Joins Up
+1 [ODY:56] Tireless Tribe
+1 [NCC:10] Tivit, Seller of Secrets
+1 [STH:74] Tortured Existence
+1 [MKM:270] Undercity Sewers
+1 [BRO:267] Underground River
+1 [6ED:161] Vampiric Tutor
+1 [CMM:436] Vault of Champions
+1 [USG:166] Victimize
+1 [DMU:226] Vohar, Vodalian Desecrator
+1 [STX:286] Wandering Archaic
+1 [CLU:283] Watery Grave
+1 [FDN:617] Wishclaw Talisman
+1 [MH3:239] Witch Enchanter
+SB: 1 [DRC:1] Hashaton, Scarab's Fist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([J21:75],[ALA:194])([ELD:331],[MRD:152],[9ED:297],[5ED:388],[DFT:237],[DOM:224],[SUM:274],[BNG:162],[MRD:253],[LTR:001],[FDN:617])([AKH:78],[SPG:87],[MBS:21],[MOM:352],[M21:350],[FDN:307],[NPH:37],[BLB:304],[SNC:412],[WOE:208],[LTR:213],[RIX:45],[BLC:15],[MH3:199],[TOR:77],[HOU:73],[MOM:295],[MKC:118],[WOE:215],[THB:308],[ODY:56],[NCC:10],[DMU:226],[STX:286],[MH3:239])([5ED:140],[ICE:87],[VIS:64],[5ED:182],[PCY:45],[RNA:22],[OTJ:108],[STH:74])([TOR:51],[RTR:35],[MMQ:129],[CMM:147],[ICE:121],[CMM:489],[MB2:163],[H1R:9],[ALL:28],[ULG:32],[BLB:52],[ZEN:57],[SUM:126],[MH3:241],[THS:65],[ICE:54],[6ED:161])([DMU:243],[DMU:244],[8ED:322],[XLN:253],[CON:142],[KTK:233],[DSK:259],[DSK:260],[CLU:276],[CLU:277],[TDM:273],[TDM:273],[DOM:241],[ZEN:219],[MKM:264],[CLB:357],[NEO:271],[TDM:272],[TDM:272],[KTK:239],[SNC:254],[CLB:360],[MKM:268],[TDM:274],[TDM:274],[MKM:270],[BRO:267],[CMM:436],[CLU:283],[TDM:274],[TDM:272],[TDM:273])([SUM:105],[BRO:324],[TMP:151],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DRC:1])

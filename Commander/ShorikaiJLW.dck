@@ -1,0 +1,93 @@
+1 [TSP:269] Academy Ruins
+1 [FDN:151] Aetherize
+1 [TMP:315] Ancient Tomb
+1 [ONS:64] Aphetto Alchemist
+1 [MB2:102] Arcane Lighthouse
+1 [ELD:331] Arcane Signet
+1 [LCC:101] Archaeomancer's Map
+1 [WTH:6] Argivian Find
+1 [10E:6] Aura of Silence
+1 [CLU:219] Azorius Signet
+1 [M12:224] Buried Ruin
+1 [ONS:73] Chain of Vapor
+1 [TOR:33] Circular Logic
+1 [TOR:3] Cleansing Meditation
+1 [ELD:333] Command Tower
+1 [M19:229] Crucible of Worlds
+1 [RTR:35] Cyclonic Rift
+1 [TOR:36] Deep Analysis
+1 [AKH:51] Drake Haven
+1 [MB2:160] Echo of Eons
+1 [6ED:19] Enlightened Tutor
+1 [BNG:145] Ephara, God of the Polis
+1 [J21:75] Esper Sentinel
+1 [10E:83] Evacuation
+1 [FDN:574] Felidar Retreat
+1 [9ED:297] Fellwar Stone
+1 [KTK:233] Flooded Strand
+1 [TOR:6] Frantic Purification
+1 [BLC:106] Generous Gift
+1 [XLN:255] Glacial Fortress
+1 [WHO:1057] Grasp of Fate
+1 [CLU:277] Hallowed Fountain
+1 [NEC:13] Imposter Mech
+1 [8ED:86] Intruder Alarm
+1 [KLD:247] Inventors' Fair
+6 [TDM:273] Island
+1 [SOI:71] Just the Wind
+1 [ZNR:19] Kabira Takedown
+1 [STX:45] Kelpie Guide
+1 [BRC:145] Liquimetal Torque
+1 [5ED:388] Mana Vault
+1 [ZEN:219] Marsh Flats
+1 [DRK:117] Maze of Ith
+1 [FDN:578] Mentor of the Meek
+1 [10E:335] Mind Stone
+1 [AFC:16] Minn, Wily Illusionist
+1 [ZEN:220] Misty Rainforest
+1 [TDC:380] Myriad Landscape
+1 [ICE:87] Mystic Remora
+1 [ELD:247] Mystic Sanctuary
+1 [SOI:74] Nagging Thoughts
+1 [TOR:43] Obsessive Search
+1 [CON:15] Path to Exile
+5 [TDM:272] Plains
+1 [KTK:239] Polluted Delta
+1 [SOI:278] Port Town
+1 [BFZ:241] Prairie Stream
+1 [SPG:38] Prismatic Vista
+1 [NEO:231] Prodigy's Prototype
+1 [TMP:80] Propaganda
+1 [NEO:255] Reckoner Bankbuster
+1 [PCY:45] Rhystic Study
+1 [ZEN:223] Scalding Tarn
+1 [CLB:360] Sea of Clouds
+1 [MH3:267] Sevinne's Reclamation
+1 [ZNR:80] Silundi Vision
+1 [DST:140] Skullclamp
+1 [KLD:234] Skysovereign, Consul Flagship
+1 [RNA:22] Smothering Tithe
+1 [KLD:235] Smuggler's Copter
+1 [ISD:78] Snapcaster Mage
+1 [SUM:274] Sol Ring
+1 [4ED:363] Strip Mine
+1 [MBS:138] Sword of Feast and Famine
+1 [ICE:54] Swords to Plowshares
+1 [MRD:256] Talisman of Progress
+1 [M21:275] Teferi, Master of Time
+1 [M21:294] Teferi's Ageless Insight
+1 [STA:11] Teferi's Protection
+1 [DSC:256] Thought Vessel
+1 [SOM:48] Trinket Mage
+1 [SUM:289] Tundra
+1 [NPH:164] Unwinding Clock
+1 [MB2:114] Urza's Saga
+1 [AKH:75] Vizier of Tumbling Sands
+1 [M11:219] Voltaic Key
+1 [SOI:96] Welcome to the Fold
+1 [VOW:287] Welcoming Vampire
+1 [KTK:248] Windswept Heath
+1 [AFR:81] Wizard Class
+SB: 1 [NEC:4] Shorikai, Genesis Engine
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([J21:75])([ELD:331],[LCC:101],[CLU:219],[M19:229],[9ED:297],[NEC:13],[BRC:145],[5ED:388],[10E:335],[NEO:231],[NEO:255],[DST:140],[KLD:234],[KLD:235],[SUM:274],[MBS:138],[MRD:256],[DSC:256],[NPH:164],[M11:219])([ONS:64],[STX:45],[FDN:578],[AFC:16],[ISD:78],[SOM:48],[AKH:75],[VOW:287])([BNG:145])([MB2:114])([10E:6],[AKH:51],[FDN:574],[WHO:1057],[8ED:86],[ICE:87],[TMP:80],[PCY:45],[RNA:22],[M21:294],[AFR:81])([FDN:151],[WTH:6],[ONS:73],[TOR:33],[RTR:35],[6ED:19],[10E:83],[TOR:6],[BLC:106],[SOI:71],[ZNR:19],[TOR:43],[CON:15],[ZNR:80],[ICE:54],[STA:11])([TSP:269],[TMP:315],[MB2:102],[M12:224],[ELD:333],[KTK:233],[XLN:255],[CLU:277],[KLD:247],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[ZEN:219],[DRK:117],[ZEN:220],[TDC:380],[ELD:247],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[KTK:239],[SOI:278],[BFZ:241],[SPG:38],[ZEN:223],[CLB:360],[4ED:363],[SUM:289],[KTK:248])([M21:275])([TOR:3],[TOR:36],[MB2:160],[SOI:74],[MH3:267],[SOI:96])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEC:4])

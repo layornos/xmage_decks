@@ -1,0 +1,83 @@
+1 [MH3:51] Amphibian Downpour
+1 [FDN:160] An Offer You Can't Refuse
+1 [EOE:1] Anticausal Vestige
+1 [ONS:64] Aphetto Alchemist
+1 [FDN:585] Arcanis the Omnipotent
+1 [M3C:46] Benthic Anomaly
+1 [DSC:112] Body of Knowledge
+1 [SNC:248] Brokers Hideout
+1 [EOE:325] Consult the Star Charts
+1 [KHM:303] Cosima, God of the Voyage
+1 [7ED:67] Counterspell
+1 [PLC:40] Dreamscape Artist
+1 [MKM:261] Escape Tunnel
+1 [10E:83] Evacuation
+1 [WWK:123] Everflowing Chalice
+1 [TDM:255] Evolving Wilds
+1 [FDN:724] Expedition Map
+1 [INV:57] Fact or Fiction
+1 [WOE:311] Faerie Slumber Party
+1 [XLN:57] Fleet Swallower
+1 [SHM:38] Flow of Ideas
+1 [BRO:381] Flow of Knowledge
+1 [SOK:38] Freed from the Real
+1 [STH:134] Heartstone
+1 [FEM:18a] High Tide
+1 [MH3:240] Hydroelectric Specimen
+1 [ZEN:49] Ior Ruin Expedition
+1 [LTR:507] Ioreth of the Healing House
+20 [TLA:283] Island
+1 [ROE:7] It That Betrays
+1 [STX:45] Kelpie Guide
+1 [MRD:199] Lightning Greaves
+1 [ONS:320] Lonely Sandbar
+1 [CMM:104] Loyal Drake
+1 [SNC:251] Maestros Theater
+1 [FIN:61] Magic Damper
+1 [LCI:293] Malcolm, Alluring Scoundrel
+1 [FIN:331] Memories Returning
+1 [10E:335] Mind Stone
+1 [RAV:60] Muddle the Mixture
+1 [LRW:76] Mulldrifter
+1 [NEC:33] Myojin of Cryptic Dreams
+1 [EOC:169] Myriad Landscape
+1 [ELD:247] Mystic Sanctuary
+1 [MH3:13] Nulldrifter
+1 [SNC:252] Obscura Storefront
+1 [MOM:70] Omen Hawker
+1 [ROE:9] Pathrazer of Ulamog
+1 [DFT:238] Pit Automaton
+1 [LCI:279] Promising Vein
+1 [FIN:266] PuPu UFO
+1 [CLU:93] Rapid Hybridization
+1 [M19:254] Reliquary Tower
+1 [USG:324] Remote Isle
+1 [BFZ:82] Retreat to Coralhelm
+1 [ONS:322] Riptide Laboratory
+1 [MH3:67] Roil Cartographer
+1 [ZEN:62] Roil Elemental
+1 [ZNR:295] Ruin Crab
+1 [LTR:261] Shire Terrace
+1 [CLB:736] Sly Instigator
+1 [ULG:43] Snap
+1 [SUM:274] Sol Ring
+1 [DSK:269] Terramorphic Expanse
+1 [LCI:257] The Millennium Calendar
+1 [FIC:368] Thought Vessel
+1 [UDS:139] Thran Dynamo
+1 [USG:311] Thran Turbine
+1 [MMQ:108] Thwart
+1 [MAT:9] Training Grounds
+1 [MH3:234] Urza's Cave
+1 [9ED:327] Urza's Mine
+1 [9ED:328] Urza's Power Plant
+1 [9ED:329] Urza's Tower
+1 [AKH:75] Vizier of Tumbling Sands
+1 [WWK:131] Walking Atlas
+1 [PIP:1068] War Room
+1 [5DN:165] Wayfarer's Bauble
+1 [DOM:75] Wizard's Retort
+1 [FIN:270] World Map
+SB: 1 [FIN:377] Gogo, Master of Mimicry
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([DFT:238],[FIN:266],[WWK:131])([WWK:123],[FDN:724],[STH:134],[MRD:199],[10E:335],[SUM:274],[LCI:257],[FIC:368],[UDS:139],[USG:311],[5DN:165],[FIN:270])([EOE:1],[ONS:64],[FDN:585],[M3C:46],[DSC:112],[KHM:303],[PLC:40],[XLN:57],[MH3:240],[LTR:507],[ROE:7],[STX:45],[CMM:104],[LCI:293],[LRW:76],[NEC:33],[MH3:13],[MOM:70],[ROE:9],[MH3:67],[ZEN:62],[ZNR:295],[CLB:736],[AKH:75])([MH3:51],[SOK:38],[ZEN:49],[BFZ:82],[MAT:9])([FDN:160],[EOE:325],[7ED:67],[10E:83],[INV:57],[BRO:381],[FEM:18a],[FIN:61],[RAV:60],[CLU:93],[ULG:43],[MMQ:108],[DOM:75])([SNC:248],[MKM:261],[TDM:255],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[ONS:320],[SNC:251],[EOC:169],[ELD:247],[SNC:252],[LCI:279],[M19:254],[USG:324],[ONS:322],[LTR:261],[DSK:269],[MH3:234],[9ED:327],[9ED:328],[9ED:329],[PIP:1068])([WOE:311],[SHM:38],[FIN:331])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FIN:377])

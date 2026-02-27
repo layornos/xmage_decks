@@ -1,0 +1,85 @@
+1 [OTJ:157] Bristly Bill, Spine Sower
+1 [ZEN:182] Scute Mob
+1 [KHM:199] Vorinclex, Monstrous Raider
+1 [FUT:174] Dryad Arbor
+1 [MID:168] Augur of Autumn
+1 [CLU:158] Beast Whisperer
+1 [FDN:220] Garruk's Uprising
+1 [OTC:199] Ohran Frostfang
+1 [5ED:329] Sylvan Library
+1 [ELD:161] The Great Henge
+1 [EMN:6] Emrakul, the Promised End
+1 [BRO:256] Argoth, Sanctum of Nature
+1 [BRO:258] Blast Zone
+1 [BFZ:233] Blighted Woodland
+1 [ELD:240] Castle Garenbrig
+1 [ELD:333] Command Tower
+1 [M20:247] Field of the Dead
+16 [TDM:276] Forest
+1 [ISD:240] Ghost Quarter
+1 [ICE:353] Glacial Chasm
+1 [AFR:259] Lair of the Hydra
+1 [TSB:120] Pendelhaven
+3 [KHM:284] Snow-Covered Forest
+1 [4ED:363] Strip Mine
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [GTC:248] Thespian's Stage
+1 [10E:361*] Treetop Village
+1 [VIS:167] Undiscovered Paradise
+1 [TMP:330] Wasteland
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [WWK:96] Avenger of Zendikar
+1 [DOM:174] Multani, Yavimaya's Avatar
+1 [FDN:645] Rampaging Baloths
+1 [ZNR:203] Scute Swarm
+1 [ORI:209] Zendikar's Roil
+1 [STH:104] Constant Mists
+1 [ROE:3] Eldrazi Conscription
+1 [ZNR:179] Ashaya, Soul of the Wild
+1 [M21:173] Azusa, Lost but Seeking
+1 [STH:102] Burgeoning
+1 [BNG:119] Courser of Kruphix
+1 [ULG:98] Crop Rotation
+1 [AFR:180] Druid Class
+1 [USG:250] Exploration
+1 [WWK:99] Explore
+1 [DTK:186] Explosive Vegetation
+1 [LCI:188] Growing Rites of Itlimoc
+1 [ZEN:165] Harrow
+1 [ZEN:167] Khalni Heart Expedition
+1 [ZNR:193] Lotus Cobra
+1 [ORI:189] Nissa, Vastwood Seer
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [ORI:190] Nissa's Pilgrimage
+1 [WWK:109] Omnath, Locus of Mana
+1 [ZEN:172] Oracle of Mul Daya
+1 [ZNR:201] Roiling Regrowth
+1 [CHK:239] Sakura-Tribe Elder
+1 [NEM:117] Skyshroud Claim
+1 [SUM:274] Sol Ring
+1 [FDN:646] Springbloom Druid
+1 [ORI:240] Sword of the Animist
+1 [OTC:209] Three Visits
+1 [J25:728] Tireless Provisioner
+1 [RIX:150] Wayward Swordtooth
+1 [MID:208] Wrenn and Seven
+1 [OGW:147] Zendikar Resurgent
+1 [ZNR:178] Ancient Greenwarden
+1 [M19:229] Crucible of Worlds
+1 [5DN:86] Eternal Witness
+1 [RAV:172] Life from the Loam
+1 [HOU:129] Ramunap Excavator
+1 [VOW:221] Splendid Reclamation
+1 [BRO:193] Titania, Voice of Gaea
+1 [NPH:103] Beast Within
+1 [DOM:157] Broken Bond
+1 [ELD:164] Kenrith's Transformation
+1 [WWK:108] Nature's Claim
+1 [ONE:175] Nissa, Ascended Animist
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [M20:169] Elvish Reclaimer
+SB: 1 [MB2:249] Titania, Protector of Argoth
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([OTJ:157],[ZEN:182],[KHM:199],[FUT:174],[MID:168],[CLU:158],[FDN:220],[OTC:199],[5ED:329],[ELD:161],[EMN:6],[BRO:256],[BRO:258],[BFZ:233],[ELD:240],[ELD:333],[M20:247],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276])([TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[TDM:276],[ISD:240],[ICE:353],[AFR:259],[TSB:120],[KHM:284],[KHM:284],[KHM:284],[4ED:363],[SCG:143],[DSK:269],[GTC:248],[10E:361*],[VIS:167],[TMP:330],[M3C:409],[WWK:96],[DOM:174],[FDN:645])([ZNR:203],[ORI:209],[STH:104],[ROE:3],[ZNR:179],[M21:173],[STH:102],[BNG:119],[ULG:98],[AFR:180],[USG:250],[WWK:99],[DTK:186],[LCI:188],[ZEN:165],[ZEN:167],[ZNR:193],[ORI:189],[WAR:169*],[ORI:190],[WWK:109],[ZEN:172],[ZNR:201],[CHK:239],[NEM:117],[SUM:274],[FDN:646],[ORI:240],[OTC:209],[J25:728])([RIX:150],[MID:208],[OGW:147],[ZNR:178],[M19:229],[5DN:86],[RAV:172],[HOU:129],[VOW:221],[BRO:193],[NPH:103],[DOM:157],[ELD:164],[WWK:108],[ONE:175],[BFZ:15],[ROE:12],[M20:169])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MB2:249])

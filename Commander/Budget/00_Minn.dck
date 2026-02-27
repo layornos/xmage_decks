@@ -1,0 +1,70 @@
+1 [WTH:31] Abjure
+1 [SNC:286] All-Seeing Arbiter
+1 [FDN:585] Arcanis the Omnipotent
+1 [M20:46] Atemsis, All-Seeing
+1 [CHK:52] Azami, Lady of Scrolls
+1 [DSC:242] Brainstone
+1 [MMQ:61] Brainstorm
+1 [NPH:132] Caged Sun
+1 [ODY:71] Cephalid Broker
+1 [NCC:125] Change of Plans
+1 [M15:46] Chasm Skulker
+1 [VOW:357] Consuming Tide
+1 [SOM:148] Culling Dais
+1 [CLB:717] Curse of Verbosity
+1 [DMU:393] Defiler of Dreams
+1 [HOU:173] Desert of the Mindful
+1 [GPT:24] Drowned Rusalka
+1 [EXO:34] Fade Away
+1 [PCY:34] Foil
+1 [ULG:32] Frantic Search
+1 [M21:350] Ghostly Pilferer
+1 [KHM:59] Giant's Amulet
+1 [5DN:126] Grafted Wargear
+1 [FDN:254] Heraldic Banner
+1 [BLC:167] Illusory Ambusher
+1 [ZEN:49] Ior Ruin Expedition
+1 [CLB:78] Irenicus's Vile Duplication
+33 [TLA:283] Island
+1 [VOW:320] Jacob Hauken, Inspector
+1 [ZNR:64] Jwari Disruption
+1 [C19:9] Leadership Vacuum
+1 [ONS:320] Lonely Sandbar
+1 [CHK:74] Meloku the Clouded Mirror
+1 [M12:65] Merfolk Looter
+1 [NEO:64] Mnemonic Sphere
+1 [AFR:283] Mordenkainen
+1 [EOC:169] Myriad Landscape
+1 [FDN:710] Negate
+1 [RIX:45] Nezahal, Primal Tide
+1 [MRD:222] Oblivion Stone
+1 [JMP:13] Ormos, Archive Keeper
+1 [CSP:41] Perilous Research
+1 [AFC:18] Phantom Steed
+1 [MBS:126] Psychosis Crawler
+1 [IKO:65] Reconnaissance Mission
+1 [USG:324] Remote Isle
+1 [STX:51] Resculpt
+1 [JOU:51] Scourge of Fleets
+1 [SUM:274] Sol Ring
+1 [FDN:680] Soul-Guide Lantern
+1 [KHC:7] Spectral Deluge
+1 [DFT:64] Spell Pierce
+1 [MH2:66] Step Through
+1 [FDN:258] Swiftfoot Boots
+1 [M21:294] Teferi's Ageless Insight
+1 [MID:252] The Celestus
+1 [9ED:104] Thought Courier
+1 [M19:247] Transmogrifying Wand
+1 [SOM:48] Trinket Mage
+1 [MID:342] Triskaidekaphile
+1 [AER:48] Trophy Mage
+1 [VIS:48] Vanishing
+1 [WWK:131] Walking Atlas
+1 [ELD:237] Witch's Oven
+1 [AFR:81] Wizard Class
+1 [JUD:54] Wonder
+1 [AFR:399] You Find the Villains' Lair
+SB: 1 [AFC:16] Minn, Wily Illusionist
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([MBS:126],[WWK:131])([DSC:242],[NPH:132],[SOM:148],[KHM:59],[5DN:126],[FDN:254],[NEO:64],[MRD:222],[SUM:274],[FDN:680],[FDN:258],[MID:252],[M19:247],[ELD:237])([SNC:286],[FDN:585],[M20:46],[CHK:52],[ODY:71],[M15:46],[DMU:393],[GPT:24],[M21:350],[BLC:167],[VOW:320],[CHK:74],[M12:65],[RIX:45],[JMP:13],[AFC:18],[JOU:51],[9ED:104],[SOM:48],[MID:342],[AER:48],[JUD:54])([CLB:717],[ZEN:49],[IKO:65],[M21:294],[VIS:48],[AFR:81])([WTH:31],[MMQ:61],[NCC:125],[PCY:34],[ULG:32],[ZNR:64],[C19:9],[FDN:710],[CSP:41],[STX:51],[DFT:64],[AFR:399])([HOU:173],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[ONS:320],[EOC:169],[USG:324])([AFR:283])([VOW:357],[EXO:34],[CLB:78],[KHC:7],[MH2:66])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([AFC:16])

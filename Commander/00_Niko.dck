@@ -1,0 +1,90 @@
+1 [TSP:269] Academy Ruins
+1 [MKC:54] Aerial Extortionist
+1 [BLC:134] Angel of the Ruins
+1 [ELD:331] Arcane Signet
+1 [M14:43] Archaeomancer
+1 [THB:298] Archon of Sun's Grace
+1 [MH3:214] Archway of Innovation
+1 [CLB:370] Battle Angels of Tyr
+1 [M12:224] Buried Ruin
+1 [40K:151] Canoptek Spyder
+1 [M21:228] Chromatic Orrery
+1 [NEO:242] Circuit Mender
+1 [FDN:653] Cloudblazer
+1 [ELD:333] Command Tower
+1 [SUM:53] Copy Artifact
+1 [BLC:165] Curiosity Crafter
+1 [M15:242] Darksteel Citadel
+1 [MID:260] Deserted Beach
+1 [MKC:209] Disorder in the Court
+1 [MB2:27] Displacer Kitten
+1 [SOI:16] Eerie Interlude
+1 [DSK:371] Enduring Curiosity
+1 [DSK:290] Entity Tracker
+1 [H1R:1] Ephemerate
+1 [J21:75] Esper Sentinel
+1 [ALA:42] Etherium Sculptor
+1 [KTK:233] Flooded Strand
+1 [DSK:259] Floodfarm Verge
+1 [KLD:215] Foundry Inspector
+1 [AVR:57] Ghostly Flicker
+1 [GPT:6] Ghostway
+1 [FDN:725] Gilded Lotus
+1 [XLN:255] Glacial Fortress
+1 [SOM:157] Gold Myr
+1 [WHO:1057] Grasp of Fate
+1 [CLU:277] Hallowed Fountain
+1 [KHM:260] Hengegate Pathway
+1 [KLD:247] Inventors' Fair
+7 [TDM:273] Island
+1 [BRO:237] Liberator, Urza's Battlethopter
+1 [BRC:145] Liquimetal Torque
+1 [LRW:76] Mulldrifter
+1 [ELD:247] Mystic Sanctuary
+1 [MKC:76] Organic Extinction
+1 [DRC:133] Ornithopter of Paradise
+1 [NEO:271] Otawara, Soaring City
+1 [M21:234] Palladium Myr
+1 [NPH:42] Phyrexian Metamorph
+7 [TDM:272] Plains
+1 [BRO:240] Portal to Phyrexia
+1 [BFZ:241] Prairie Stream
+1 [BLC:148] Promise of Loyalty
+1 [PIP:281] Razortide Bridge
+1 [M19:254] Reliquary Tower
+1 [NEC:16] Research Thief
+1 [LCI:280] Restless Anchorage
+1 [CMM:406] Sandstone Oracle
+1 [10E:342] Sculpting Steel
+1 [CLB:360] Sea of Clouds
+1 [SOM:202] Silver Myr
+1 [MH3:241] Sink into Stupor
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [J21:718] Soulherder
+1 [WAR:68] Spark Double
+1 [RTR:24] Sphere of Safety
+1 [NEO:38] Spirited Companion
+1 [M21:355] Sublime Epiphany
+1 [LTC:354] Sword of Hearth and Home
+1 [ICE:54] Swords to Plowshares
+1 [M3C:82] Talon Gates of Madara
+1 [STA:11] Teferi's Protection
+1 [AFR:364] Teleportation Circle
+1 [SCG:143] Temple of the False God
+1 [THB:261] Thassa, Deep-Dwelling
+1 [J25:373] Thought Monitor
+1 [DSC:256] Thought Vessel
+1 [UDS:139] Thran Dynamo
+1 [OTJ:323] Three Steps Ahead
+1 [ELD:332] Tome of Legends
+1 [MKC:15] Trouble in Pairs
+1 [MID:333] Vanquish the Horde
+1 [USG:111] Windfall
+1 [MH3:239] Witch Enchanter
+1 [IKO:232] Yorion, Sky Nomad
+1 [WOT:71] Rhystic Study
+1 [PRM:82816] Cyclonic Rift
+SB: 1 [DSK:224] Niko, Light of Hope
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([BLC:134],[40K:151],[NEO:242],[J21:75],[ALA:42],[KLD:215],[SOM:157],[BRO:237],[DRC:133],[M21:234],[NPH:42],[NEC:16],[CMM:406],[SOM:202],[FDN:257],[J25:373])([M15:242],[PIP:281])([ELD:331],[M21:228],[FDN:725],[BRC:145],[BRO:240],[10E:342],[SUM:274],[LTC:354],[DSC:256],[UDS:139],[ELD:332])([MKC:54],[M14:43],[THB:298],[CLB:370],[FDN:653],[BLC:165],[MB2:27],[DSK:290],[LRW:76],[J21:718],[WAR:68],[MH3:239],[IKO:232])([DSK:371],[NEO:38],[THB:261])([SUM:53],[WHO:1057],[RTR:24],[AFR:364],[MKC:15],[WOT:71])([MKC:209],[SOI:16],[H1R:1],[AVR:57],[GPT:6],[MH3:241],[M21:355],[ICE:54],[STA:11],[OTJ:323],[PRM:82816])([TSP:269],[MH3:214],[M12:224],[ELD:333],[MID:260],[KTK:233],[DSK:259],[XLN:255],[CLU:277],[KHM:260],[KLD:247],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[ELD:247],[NEO:271],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[BFZ:241],[M19:254],[LCI:280],[CLB:360],[M3C:82],[SCG:143])([MKC:76],[BLC:148],[MID:333],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSK:224])

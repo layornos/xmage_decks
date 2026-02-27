@@ -1,0 +1,85 @@
+1 [FIN:374] Aerith Gainsborough
+1 [OGW:153] Cliffhaven Vampire
+1 [DMU:198] Elas il-Kor, Sadistic Pilgrim
+1 [DSK:374] Enduring Tenacity
+1 [M21:219] Indulging Patrician
+1 [M14:112] Sanguine Bond
+1 [BLB:116] Starscape Cleric
+1 [M21:127] Vito, Thorn of the Dusk Rose
+1 [GTC:206] Vizkopa Guildmage
+1 [LCI:221] Amalia Benavides Aguirre
+1 [ACR:161] Black Market Connections
+1 [WAR:79] Bolas's Citadel
+1 [FDN:655] Drogskol Reaver
+1 [FDN:11] Exemplar of Light
+1 [BLB:223] Lunar Convocation
+1 [FDN:180] Phyrexian Arena
+1 [RTR:200] Sphinx's Revelation
+1 [AKH:4] Approach of the Second Sun
+1 [FDN:173] Exsanguinate
+1 [ALA:220] Arcane Sanctum
+1 [FDN:683] Azorius Guildgate
+1 [WWK:132] Bojuka Bog
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [TDM:254] Dismal Backwater
+1 [TDM:255] Evolving Wilds
+1 [TLA:283] Island
+1 [FIC:411] Path of Ancestry
+12 [TLA:282] Plains
+1 [SOI:278] Port Town
+1 [BFZ:241] Prairie Stream
+1 [STX:272] Shineshadow Snarl
+1 [DMU:257] Sunlit Marsh
+7 [TLA:284] Swamp
+1 [TOR:140] Tainted Field
+1 [TOR:141] Tainted Isle
+1 [FDN:698] Temple of Enlightenment
+1 [FDN:704] Temple of Silence
+1 [DSK:269] Terramorphic Expanse
+1 [DKA:158] Vault of the Archangel
+1 [FDN:135] Ajani's Pridemate
+1 [FDN:137] Authority of the Consuls
+1 [10E:10] Beacon of Immortality
+1 [AFR:6] Cleric Class
+1 [DGM:64] Debt to the Deathless
+1 [BFZ:210] Drana's Emissary
+1 [AVR:102] Exquisite Blood
+1 [FDN:730] Hinterland Sanctifier
+1 [SNC:212] Queza, Augur of Agonies
+1 [M13:29] Rhox Faithmender
+1 [M11:28] Serra Ascendant
+1 [M10:34] Soul Warden
+1 [DTK:41] Sunscorch Regent
+1 [NPH:25] Suture Priest
+1 [JUD:29] Test of Endurance
+1 [VOW:354] Voice of the Blessed
+1 [ELD:331] Arcane Signet
+1 [CLU:219] Azorius Signet
+1 [CLU:221] Dimir Signet
+1 [CLU:225] Orzhov Signet
+1 [NPH:151] Pristine Talisman
+1 [MRD:253] Talisman of Dominance
+1 [FIC:365] Talisman of Hierarchy
+1 [MRD:256] Talisman of Progress
+1 [40K:10*] Celestine, the Living Saint
+1 [FDN:120] Fiendish Panda
+1 [OTC:152] Witch of the Moors
+1 [RNA:151] Absorb
+1 [SOI:242] Anguished Unmaking
+1 [DRC:89] Damn
+1 [WAR:193] Dovin's Veto
+1 [FDN:575] Fumigate
+1 [BLC:106] Generous Gift
+1 [THB:19] Heliod's Intervention
+1 [RVR:193] Karlov of the Ghost Council
+1 [MH1:205] Kaya's Guile
+1 [FIC:277] Lethal Scheme
+1 [CON:15] Path to Exile
+1 [CLU:211] Supreme Verdict
+1 [ICE:54] Swords to Plowshares
+1 [SNC:230] Void Rend
+1 [GTC:6] Blind Obedience
+SB: 1 [SLD:1962] Oloro, Ageless Ascetic
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([WAR:79],[ELD:331],[CLU:219],[CLU:221],[CLU:225],[NPH:151],[MRD:253],[FIC:365],[MRD:256])([FIN:374],[OGW:153],[DMU:198],[M21:219],[BLB:116],[M21:127],[GTC:206],[LCI:221],[FDN:655],[FDN:11],[FDN:135],[BFZ:210],[FDN:730],[SNC:212],[M13:29],[M11:28],[M10:34],[DTK:41],[NPH:25],[VOW:354],[40K:10*],[FDN:120],[OTC:152],[RVR:193])([DSK:374])([M14:112],[ACR:161],[BLB:223],[FDN:180],[FDN:137],[AFR:6],[AVR:102],[JUD:29],[GTC:6])([RTR:200],[10E:10],[RNA:151],[SOI:242],[WAR:193],[BLC:106],[THB:19],[MH1:205],[FIC:277],[CON:15],[ICE:54],[SNC:230])([ALA:220],[FDN:683],[WWK:132],[DMU:244],[ELD:333],[TDM:254],[TDM:255],[TLA:283],[FIC:411],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[SOI:278],[BFZ:241],[STX:272],[DMU:257],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TOR:140],[TOR:141],[FDN:698],[FDN:704],[DSK:269],[DKA:158])([AKH:4],[FDN:173],[DGM:64],[DRC:89],[FDN:575],[CLU:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:1962])

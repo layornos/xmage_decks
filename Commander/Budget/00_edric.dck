@@ -1,0 +1,67 @@
+1 [WTH:31] Abjure
+1 [FDN:160] An Offer You Can't Refuse
+1 [ALL:22a] Arcane Denial
+1 [DOM:44] Artificer's Assistant
+1 [NPH:103] Beast Within
+1 [GTC:213] Biomass Mutation
+1 [ULG:29] Cloud of Faeries
+1 [10E:75*] Cloud Sprite
+1 [GTC:32] Cloudfin Raptor
+1 [FDN:588] Dive Down
+1 [M15:173] Elvish Mystic
+1 [CMR:557] Esior, Wardwing Familiar
+1 [M20:58] Faerie Miscreant
+1 [J25:106] Faerie Seer
+1 [PCY:34] Foil
+16 [TLA:286] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [AKH:169] Hapatra's Mark
+1 [OTJ:52] Harrier Strix
+1 [JOU:42] Hypnotic Siren
+21 [TLA:283] Island
+1 [M13:57] Jace's Phantasm
+1 [DOM:55] Karn's Temporal Sundering
+1 [VOW:66] Lantern Bearer
+1 [FDN:227] Llanowar Elves
+1 [M12:63] Mana Leak
+1 [EMN:69] Mausoleum Wanderer
+1 [ZNR:70] Merfolk Windrobber
+1 [M19:310] Mist-Cloaked Herald
+1 [MKM:65] Mistway Spy
+1 [RTR:45] Mizzium Skin
+1 [WWK:108] Nature's Claim
+1 [CHK:230] Nature's Will
+1 [FDN:710] Negate
+1 [NEO:71] Network Disruptor
+1 [CLB:245] Overwhelming Encounter
+1 [BFZ:80] Part the Waterveil
+1 [DMU:61] Pixie Illusionist
+1 [M13:180] Predatory Rampage
+1 [RNA:47] Pteramander
+1 [M21:199] Ranger's Guile
+1 [FRF:46] Reality Shift
+1 [J21:631] Scale Up
+1 [5ED:324] Scryb Sprites
+1 [AFR:74] Silver Raven
+1 [XLN:79] Siren Stormtamer
+1 [AKH:71] Slither Blade
+1 [WOE:68] Snaremaster Sprite
+1 [FDN:164] Spectral Sailor
+1 [LRW:89] Spellstutter Sprite
+1 [10E:111*] Spiketail Hatchling
+1 [GTC:135] Spire Tracer
+1 [WAR:178] Storm the Citadel
+1 [SNC:158] Take to the Streets
+1 [NEO:83] Tamiyo's Compleation
+1 [SCG:130] Treetop Scout
+1 [JOU:56] Triton Shorestalker
+1 [ROE:92] Unified Will
+1 [MH3:78] Utter Insignificance
+1 [TSP:93] Walk the Aeons
+1 [7ED:282] Wild Growth
+1 [AVR:83] Wingcrafter
+1 [AFR:215] You Meet in a Tavern
+1 [M10:82] Zephyr Sprite
+SB: 1 [OTC:221] Edric, Spymaster of Trest
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([NEO:71],[AFR:74])([DOM:44],[ULG:29],[10E:75*],[GTC:32],[M15:173],[CMR:557],[M20:58],[J25:106],[ICE:244],[OTJ:52],[M13:57],[VOW:66],[FDN:227],[EMN:69],[ZNR:70],[M19:310],[MKM:65],[DMU:61],[RNA:47],[5ED:324],[XLN:79],[AKH:71],[WOE:68],[FDN:164],[LRW:89],[10E:111*],[GTC:135],[SCG:130],[JOU:56],[AVR:83],[M10:82])([JOU:42])([CHK:230],[NEO:83],[MH3:78],[7ED:282])([WTH:31],[FDN:160],[ALL:22a],[NPH:103],[GTC:213],[FDN:588],[PCY:34],[AKH:169],[M12:63],[RTR:45],[WWK:108],[FDN:710],[M21:199],[FRF:46],[ROE:92])([TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283])([DOM:55],[CLB:245],[BFZ:80],[M13:180],[J21:631],[WAR:178],[SNC:158],[TSP:93],[AFR:215])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([OTC:221])

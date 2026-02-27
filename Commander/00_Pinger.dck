@@ -1,0 +1,95 @@
+1 [FDN:160] An Offer You Can't Refuse
+1 [ELD:331] Arcane Signet
+1 [STX:295] Archmage Emeritus
+1 [IKO:107] Blazing Volley
+1 [KTK:230] Bloodstained Mire
+1 [LTR:350] Borne Upon a Wind
+1 [MMQ:61] Brainstorm
+1 [EVE:175] Cascade Bluffs
+1 [LTR:118] Cast into the Fire
+1 [M21:136] Chandra's Incinerator
+1 [TDC:208] Chaos Warp
+1 [ELD:333] Command Tower
+1 [CLU:84] Consider
+1 [BLB:131] Coruscation Mage
+1 [ISD:49] Curiosity
+1 [RTR:35] Cyclonic Rift
+1 [CMM:214] Deflecting Swat
+1 [CHK:163] Desperate Ritual
+1 [BFZ:76] Dispel
+1 [RTR:93] Electrickery
+1 [GPT:111] Electrolyze
+1 [GRN:97] Electrostatic Field
+1 [VOW:155] End the Festivities
+1 [OTJ:256] Eroded Canyon
+1 [40K:119] Exalted Flamer of Tzeentch
+1 [CON:142] Exotic Orchard
+1 [MOM:352] Faerie Mastermind
+1 [9ED:297] Fellwar Stone
+1 [CMM:489] Fierce Guardianship
+1 [ACR:112] Fiery Islet
+1 [FDN:196] Firebrand Archer
+1 [KTK:233] Flooded Strand
+1 [MB2:163] Flusterstorm
+1 [ULG:32] Frantic Search
+1 [NPH:35] Gitaxian Probe
+1 [TSP:160] Grapeshot
+1 [NPH:86] Gut Shot
+1 [MH2:281] Imperial Recruiter
+1 [TMP:70] Intuition
+4 [TDM:273] Island
+1 [CLU:224] Izzet Signet
+1 [MKC:156] Jeska's Will
+1 [VOW:164] Kessig Flamebreather
+1 [LTR:511] Lorien Revealed
+1 [TMP:294] Lotus Petal
+1 [JOU:163] Mana Confluence
+1 [NPH:38] Mental Misstep
+1 [10E:335] Mind Stone
+1 [TDM:261] Mistrise Village
+1 [ZEN:220] Misty Rainforest
+5 [TDM:275] Mountain
+1 [RAV:60] Muddle the Mixture
+1 [ICE:87] Mystic Remora
+1 [6ED:83] Mystical Tutor
+1 [GRN:192] Niv-Mizzet, Parun
+1 [TSP:70] Ophidian Eye
+1 [FDN:512] Opt
+1 [NEO:271] Otawara, Soaring City
+1 [MH3:246] Pinnacle Monk
+1 [KTK:239] Polluted Delta
+1 [M11:70] Preordain
+1 [MUL:151] Ragavan, Nimble Pilferer
+1 [BNG:49] Retraction Helix
+1 [PCY:45] Rhystic Study
+1 [CSP:96] Rite of Flame
+1 [ZEN:223] Scalding Tarn
+1 [WOE:235] Scalding Viper
+1 [BNG:110] Scouring Sands
+1 [USG:326] Shivan Gorge
+1 [USG:217] Shower of Sparks
+1 [UDS:46] Sigil of Sleep
+1 [MH3:241] Sink into Stupor
+1 [SUM:274] Sol Ring
+1 [ZNR:166] Spikefield Hazard
+1 [CLU:280] Steam Vents
+1 [VOW:265] Stormcarved Coast
+1 [J21:521] Strike It Rich
+1 [DOM:247] Sulfur Falls
+1 [THS:65] Swan Song
+1 [AVR:80] Tandem Lookout
+1 [LCI:169] Tectonic Hazard
+1 [LTR:001] The One Ring
+1 [MID:164] Thermo-Alchemist
+1 [MKM:269] Thundering Falls
+1 [CMM:434] Training Center
+1 [KTK:59] Treasure Cruise
+1 [MOM:169] Urabrask
+1 [BLB:308] Valley Floodcaller
+1 [SUM:291] Volcanic Island
+1 [KTK:249] Wooded Foothills
+1 [USG:62] Back to Basics
+1 [FDN:669] Basilisk Collar
+SB: 1 [40K:124] Ghyrson Starn, Kelermorph
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[9ED:297],[CLU:224],[TMP:294],[10E:335],[SUM:274],[LTR:001])([STX:295],[M21:136],[BLB:131],[GRN:97],[40K:119],[MOM:352],[FDN:196],[MH2:281],[VOW:164],[GRN:192],[MH3:246],[MUL:151],[WOE:235],[AVR:80],[MID:164],[MOM:169],[BLB:308])([ISD:49],[ICE:87],[TSP:70],[PCY:45],[UDS:46])([FDN:160],[LTR:350],[MMQ:61],[LTR:118],[TDC:208],[CLU:84],[RTR:35],[CMM:214],[CHK:163],[BFZ:76],[RTR:93],[GPT:111],[CMM:489],[MB2:163],[ULG:32],[NPH:86],[TMP:70],[NPH:38],[RAV:60],[6ED:83],[FDN:512],[BNG:49],[USG:217],[MH3:241],[ZNR:166],[THS:65])([KTK:230],[EVE:175],[ELD:333],[OTJ:256],[CON:142],[ACR:112],[KTK:233],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[JOU:163],[TDM:261],[ZEN:220],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[TDM:275],[NEO:271],[KTK:239],[ZEN:223],[USG:326],[CLU:280],[VOW:265],[DOM:247],[MKM:269],[CMM:434],[SUM:291],[KTK:249])([IKO:107],[VOW:155],[NPH:35],[TSP:160],[MKC:156],[LTR:511],[M11:70],[CSP:96],[BNG:110],[J21:521],[LCI:169],[KTK:59])([USG:62],[FDN:669])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([40K:124])

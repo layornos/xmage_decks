@@ -1,0 +1,90 @@
+1 [LCI:336] Bloodletter of Aclazotz
+1 [DSK:374] Enduring Tenacity
+1 [M21:219] Indulging Patrician
+1 [M14:112] Sanguine Bond
+1 [M21:127] Vito, Thorn of the Dusk Rose
+1 [GTC:206] Vizkopa Guildmage
+1 [ORI:221] Alhammarret's Archive
+1 [LCI:221] Amalia Benavides Aguirre
+1 [ACR:161] Black Market Connections
+1 [KHM:237] Cosmos Elixir
+1 [FDN:655] Drogskol Reaver
+1 [J21:75] Esper Sentinel
+1 [FDN:11] Exemplar of Light
+1 [FDN:180] Phyrexian Arena
+1 [M3C:75] Sphinx of the Revelation
+1 [RTR:200] Sphinx's Revelation
+1 [WOE:215] Talion, the Kindly Lord
+1 [LTC:12] The Gaffer
+1 [MKC:15] Trouble in Pairs
+1 [BRO:31] Union of the Third Path
+1 [DST:159] Well of Lost Dreams
+1 [ALA:220] Arcane Sanctum
+1 [DFT:250] Bleachbone Verge
+1 [WWK:132] Bojuka Bog
+1 [ZNR:259] Brightclimb Pathway
+1 [ELD:333] Command Tower
+1 [MID:260] Deserted Beach
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [KHM:260] Hengegate Pathway
+5 [TDM:273] Island
+1 [DOM:241] Isolated Chapel
+1 [LTR:256] Minas Tirith
+1 [SNC:252] Obscura Storefront
+1 [TDC:382] Path of Ancestry
+5 [TDM:272] Plains
+1 [BFZ:241] Prairie Stream
+1 [SNC:254] Raffine's Tower
+1 [SHM:278*] Reflecting Pool
+1 [M19:254] Reliquary Tower
+1 [VOW:264] Shattered Sanctum
+5 [TDM:274] Swamp
+1 [DSK:269] Terramorphic Expanse
+1 [CMM:436] Vault of Champions
+1 [DKA:158] Vault of the Archangel
+1 [LCC:71] Elenda's Hierophant
+1 [RVR:193] Karlov of the Ghost Council
+1 [M13:32] Serra Avatar
+1 [KLD:192] Aetherflux Reservoir
+1 [FDN:137] Authority of the Consuls
+1 [10E:10] Beacon of Immortality
+1 [SHM:5] Boon Reflection
+1 [AFR:6] Cleric Class
+1 [DGM:64] Debt to the Deathless
+1 [FDN:173] Exsanguinate
+1 [RNA:228] Revival // Revenge
+1 [M13:29] Rhox Faithmender
+1 [SOM:220] Venser's Journal
+1 [SCD:75] Deadly Tempest
+1 [MID:112] The Meathook Massacre
+1 [DGM:6] Riot Control
+1 [STA:11] Teferi's Protection
+1 [ELD:331] Arcane Signet
+1 [CLB:309] Decanter of Endless Water
+1 [DSC:100] Monologue Tax
+1 [ALA:213] Obelisk of Esper
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [TDC:331] Talisman of Hierarchy
+1 [DSC:256] Thought Vessel
+1 [WOE:218] Will, Scion of Peace
+1 [ZNR:336] Agadeem's Awakening
+1 [M14:209] Elixir of Immortality
+1 [OTC:152] Witch of the Moors
+1 [RNA:151] Absorb
+1 [7ED:67] Counterspell
+1 [APC:95] Death Grasp
+1 [WAR:193] Dovin's Veto
+1 [MH3:244] Fell the Profane
+1 [CON:15] Path to Exile
+1 [REX:17] Permission Denied
+1 [MH3:241] Sink into Stupor
+1 [ICE:54] Swords to Plowshares
+1 [SNC:230] Void Rend
+1 [MH3:239] Witch Enchanter
+1 [M19:222] Regal Bloodlord
+1 [OTJ:325] Insatiable Avarice
+SB: 1 [J14:9] Oloro, Ageless Ascetic
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([J21:75],[M3C:75])([ORI:221],[KHM:237],[DST:159],[KLD:192],[SOM:220],[ELD:331],[CLB:309],[ALA:213],[SUM:274],[TDC:331],[DSC:256],[M14:209])([LCI:336],[M21:219],[M21:127],[GTC:206],[LCI:221],[FDN:655],[FDN:11],[WOE:215],[LTC:12],[LCC:71],[RVR:193],[M13:32],[M13:29],[WOE:218],[OTC:152],[MH3:239],[M19:222])([DSK:374])([M14:112],[ACR:161],[FDN:180],[MKC:15],[FDN:137],[SHM:5],[AFR:6],[MID:112],[DSC:100],[RNA:22])([RTR:200],[BRO:31],[10E:10],[DGM:6],[STA:11],[RNA:151],[7ED:67],[WAR:193],[MH3:244],[CON:15],[REX:17],[MH3:241],[ICE:54],[SNC:230])([ALA:220],[DFT:250],[WWK:132],[ZNR:259],[ELD:333],[MID:260],[TDM:255],[CON:142],[KHM:260],[TDM:273],[TDM:273],[TDM:273],[TDM:273],[DOM:241],[LTR:256],[SNC:252],[TDC:382],[TDM:272],[TDM:272],[TDM:272],[TDM:272],[BFZ:241],[SNC:254],[SHM:278*],[M19:254],[VOW:264],[TDM:274],[TDM:274],[TDM:274],[TDM:274],[DSK:269],[CMM:436],[DKA:158],[TDM:273],[TDM:272],[TDM:274])([RNA:228])([DGM:64],[FDN:173],[SCD:75],[ZNR:336],[APC:95],[OTJ:325])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J14:9])

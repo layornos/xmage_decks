@@ -1,0 +1,83 @@
+1 [DGM:122] Armed // Dangerous
+1 [MOM:131] Beamtown Beatstick
+1 [KTK:130] Become Immense
+1 [FDN:212] Bite Down
+1 [OTC:253] Bladegriff Prototype
+1 [ONE:123] Blazing Crescendo
+1 [KLD:146] Blossoming Defense
+1 [PLC:116] Brute Force
+1 [DIS:107] Coiling Oracle
+1 [EVE:149] Cold-Eyed Selkie
+1 [RNA:223] Collision // Colossus
+1 [DMU:158] Colossal Growth
+1 [DMU:44] Combat Research
+1 [ELD:333] Command Tower
+1 [MOM:182] Cosmic Hunger
+1 [M21:177] Cultivate
+1 [STX:177] Decisive Denial
+1 [MOM:184] Deeproot Wayfinder
+1 [GPT:142] Djinn Illuminatus
+1 [STX:184] Eureka Moment
+1 [TDM:255] Evolving Wilds
+10 [TLA:286] Forest
+1 [TDM:256] Frontier Bivouac
+1 [IKO:154] Fully Grown
+1 [BRO:182] Gaea's Gift
+1 [CMM:386] Geode Golem
+1 [FDN:223] Giant Growth
+1 [FDN:253] Goldvein Pick
+1 [WWK:104] Groundswell
+1 [RNA:178] Growth Spiral
+1 [FDN:690] Gruul Guildgate
+1 [CLU:238] Gruul Turf
+1 [ZEN:165] Harrow
+1 [M12:180] Hunter's Insight
+1 [ZNR:186] Inscription of Abundance
+1 [MMQ:254] Invigorate
+6 [TLA:283] Island
+1 [CLU:239] Izzet Boilerworks
+1 [FDN:691] Izzet Guildgate
+1 [DMU:56] Joint Exploration
+1 [ISD:243] Kessig Wolf Run
+1 [ZNR:192] Khalni Ambush
+1 [CHK:225] Kodama's Reach
+1 [NEO:202] Master's Rebuke
+1 [ONE:381] Mercurial Spelldancer
+1 [VOW:69] Mischievous Catgeist
+6 [TLA:285] Mountain
+1 [NPH:116] Mutagenic Growth
+1 [WAR:140] Neheb, Dreadhorde Champion
+1 [ELD:167] Oakhame Adversary
+1 [CSP:115] Ohran Viper
+1 [IKO:170] Ram Through
+1 [KTK:145] Roar of Challenge
+1 [ZNR:201] Roiling Regrowth
+1 [M20:191] Season of Growth
+1 [BLB:69] Shore Up
+1 [GTC:195] Simic Charm
+1 [CLU:247] Simic Growth Chamber
+1 [FDN:695] Simic Guildgate
+1 [ROE:207] Snake Umbra
+1 [TDM:159] Snakeskin Veil
+1 [ALA:115] Soul's Fire
+1 [SNC:124] Sticky Fingers
+1 [VOW:82] Stormchaser Drake
+1 [RNA:210] Sunder Shaman
+1 [ROE:90] Surrakar Spellblade
+1 [NEO:211] Tamiyo's Safekeeping
+1 [FDN:696] Temple of Abandon
+1 [FDN:699] Temple of Epiphany
+1 [FDN:702] Temple of Mystery
+1 [FRF:116] Temur Battle Rage
+1 [KTK:208] Temur Charm
+1 [DSK:269] Terramorphic Expanse
+1 [RNA:229] Thrash // Threat
+1 [ORI:166] Titan's Strength
+1 [WOE:191] Titanic Growth
+1 [FDN:667] Trygon Predator
+1 [ONE:190] Tyvar's Stand
+1 [ARB:104] Vedalken Heretic
+1 [ZEN:193] Vines of Vastwood
+SB: 1 [C20:18] Xyris, the Writhing Storm
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,60)|([OTC:253],[CMM:386])([MOM:131],[FDN:253])([DIS:107],[EVE:149],[MOM:184],[GPT:142],[ONE:381],[VOW:69],[WAR:140],[ELD:167],[CSP:115],[VOW:82],[RNA:210],[ROE:90],[FDN:667],[ARB:104])([DMU:44],[M20:191],[ROE:207],[SNC:124])([RNA:223])([RNA:229])([KTK:130],[FDN:212],[ONE:123],[KLD:146],[PLC:116],[DMU:158],[MOM:182],[STX:177],[STX:184],[IKO:154],[BRO:182],[FDN:223],[WWK:104],[RNA:178],[ZEN:165],[M12:180],[ZNR:186],[MMQ:254],[DMU:56],[ZNR:192],[NEO:202],[NPH:116],[IKO:170],[ZNR:201],[BLB:69],[GTC:195],[TDM:159],[ALA:115],[NEO:211],[FRF:116],[KTK:208],[ORI:166],[WOE:191],[ONE:190],[ZEN:193])([ELD:333],[TDM:255],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TDM:256],[FDN:690],[CLU:238],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[CLU:239],[FDN:691],[ISD:243],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[CLU:247],[FDN:695],[FDN:696],[FDN:699],[FDN:702],[DSK:269])([DGM:122])([M21:177],[CHK:225],[KTK:145])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([C20:18])
