@@ -1,0 +1,32 @@
+1 [MH2:334] Dress Down
+2 [ONE:108] Sheoldred's Edict
+2 [NEO:80] Spell Pierce
+4 [LTR:246] The One Ring
+4 [LTR:225] Sauron's Ransom
+4 [AER:57] Fatal Push
+4 [H1R:9] Force of Negation
+2 [DMU:107] Sheoldred, the Apocalypse
+2 [MH2:337] Murktide Regent
+4 [LTR:103] Orcish Bowmasters
+4 [MH2:309] Subtlety
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ZEN:220] Misty Rainforest
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [NEO:271] Otawara, Soaring City
+1 [AFR:257] Hall of Storm Giants
+2 [MOM:279] Swamp
+2 [GRN:259] Watery Grave
+3 [H1R:40] Prismatic Vista
+4 [KTK:239] Polluted Delta
+4 [MOM:278] Island
+3 [LTR:60] Lorien Revealed
+4 [ICE:64] Counterspell
+SB: 2 [5DN:118] Engineered Explosives
+SB: 2 [ELD:58] Mystical Dispute
+SB: 3 [GRN:212] Unmoored Ego
+SB: 2 [PLC:85] Damnation
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 2 [MRD:150] Chalice of the Void
+SB: 1 [NEO:80] Spell Pierce
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([LTR:246],[LTR:246],[LTR:246],[LTR:246])([DMU:107],[DMU:107],[MH2:337],[MH2:337],[LTR:103],[LTR:103],[LTR:103],[LTR:103],[MH2:309],[MH2:309],[MH2:309],[MH2:309])([MH2:334])([ONE:108],[ONE:108],[NEO:80],[NEO:80],[LTR:225],[LTR:225],[LTR:225],[LTR:225],[AER:57],[AER:57],[AER:57],[AER:57],[H1R:9],[H1R:9],[H1R:9],[H1R:9],[ICE:64],[ICE:64],[ICE:64],[ICE:64])([CHK:279],[ZEN:220],[NEO:278],[NEO:271],[AFR:257],[MOM:279],[MOM:279],[GRN:259],[GRN:259],[H1R:40],[H1R:40],[H1R:40],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[MOM:278],[MOM:278],[MOM:278],[MOM:278])([LTR:60],[LTR:60],[LTR:60])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([5DN:118],[5DN:118],[ELD:58],[ELD:58],[GRN:212],[GRN:212],[GRN:212],[PLC:85],[PLC:85],[ALA:218],[ALA:218],[ALA:218],[MRD:150],[MRD:150],[NEO:80])

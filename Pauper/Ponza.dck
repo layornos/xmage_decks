@@ -1,0 +1,26 @@
+4 [CMR:216] Annoyed Altisaur
+4 [M13:160] Arbor Elf
+4 [CLB:215] Avenging Hunter
+4 [CMR:163] Boarding Party
+4 [LTR:169] Generous Ent
+1 [KHM:261] Highland Forest
+4 [M21:193] Llanowar Visionary
+4 [TSP:207] Mwonvuli Acid-Moss
+2 [ALA:218] Relic of Progenitus
+3 [CSP:97] Skred
+15 [KHM:284] Snow-Covered Forest
+1 [KHM:282] Snow-Covered Mountain
+4 [ICE:268] Thermokarst
+4 [DIS:99] Utopia Sprawl
+2 [7ED:282] Wild Growth
+SB: 1 [LTR:118] Cast into the Fire
+SB: 4 [MOR:118] Deglamer
+SB: 2 [XLN:143] Fiery Cannonade
+SB: 1 [ROE:145] Flame Slash
+SB: 1 [ALL:72a] Gorilla Shaman
+SB: 1 [BFZ:185] Reclaiming Vines
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [CSP:97] Skred
+SB: 3 [H1R:24] Weather the Storm
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([ALA:218],[ALA:218])([CMR:216],[CMR:216],[CMR:216],[CMR:216],[M13:160],[M13:160],[M13:160],[M13:160],[CLB:215],[CLB:215],[CLB:215],[CLB:215],[CMR:163],[CMR:163],[CMR:163],[CMR:163],[LTR:169],[LTR:169],[LTR:169],[LTR:169],[M21:193],[M21:193],[M21:193],[M21:193])([DIS:99],[DIS:99],[DIS:99],[DIS:99],[7ED:282],[7ED:282])([CSP:97],[CSP:97],[CSP:97])([KHM:261],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:282])([TSP:207],[TSP:207],[TSP:207],[TSP:207],[ICE:268],[ICE:268],[ICE:268],[ICE:268])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTR:118],[MOR:118],[MOR:118],[MOR:118],[MOR:118],[XLN:143],[XLN:143],[ROE:145],[ALL:72a],[BFZ:185],[ALA:218],[CSP:97],[H1R:24],[H1R:24],[H1R:24])

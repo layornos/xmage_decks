@@ -1,0 +1,37 @@
+1 [NEO:266] Boseiju, Who Endures
+1 [RNA:246] Breeding Pool
+4 [MH1:160] Crashing Footfalls
+3 [PLC:113] Dead // Gone
+1 [NPH:57] Dismember
+4 [APC:128] Fire // Ice
+1 [LTR:203] Flame of Anor
+4 [H1R:9] Force of Negation
+1 [WOE:266] Forest
+2 [MH2:126] Fury
+2 [TSP:274] Gemstone Caverns
+1 [WOE:263] Island
+1 [IKO:250] Ketria Triome
+4 [LTR:60] Lorien Revealed
+4 [ZEN:220] Misty Rainforest
+1 [WOE:265] Mountain
+2 [MH2:337] Murktide Regent
+2 [ELD:58] Mystical Dispute
+1 [NEO:271] Otawara, Soaring City
+2 [ZEN:223] Scalding Tarn
+4 [MH2:292] Shardless Agent
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+4 [MH2:309] Subtlety
+4 [ARB:63] Violent Outburst
+4 [KTK:249] Wooded Foothills
+SB: 3 [9ED:176] Blood Moon
+SB: 1 [NEO:266] Boseiju, Who Endures
+SB: 1 [CSP:29] Commandeer
+SB: 3 [MH2:157] Endurance
+SB: 1 [BRO:177] Fade from History
+SB: 1 [LTR:203] Flame of Anor
+SB: 1 [H1R:21] Force of Vigor
+SB: 2 [MH2:126] Fury
+SB: 2 [ELD:58] Mystical Dispute
+LAYOUT MAIN:(1,5)(CMC,false,100)|([NEO:266],[RNA:246],[MH1:160],[MH1:160],[MH1:160],[MH1:160],[WOE:266],[TSP:274],[TSP:274],[WOE:263],[IKO:250],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[WOE:265],[NEO:271],[ZEN:223],[ZEN:223],[GRN:257],[RNA:259],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([NPH:57],[LTR:203],[H1R:9],[H1R:9],[H1R:9],[H1R:9],[ELD:58],[ELD:58],[MH2:292],[MH2:292],[MH2:292],[MH2:292],[ARB:63],[ARB:63],[ARB:63],[ARB:63])([PLC:113],[PLC:113],[PLC:113],[APC:128],[APC:128],[APC:128],[APC:128],[MH2:309],[MH2:309],[MH2:309],[MH2:309])([MH2:126],[MH2:126],[LTR:60],[LTR:60],[LTR:60],[LTR:60])([MH2:337],[MH2:337])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([9ED:176],[9ED:176],[9ED:176],[NEO:266],[CSP:29],[MH2:157],[MH2:157],[MH2:157],[BRO:177],[LTR:203],[H1R:21],[MH2:126],[MH2:126],[ELD:58],[ELD:58])

@@ -1,0 +1,23 @@
+4 [9ED:176] Blood Moon
+4 [MRD:150] Chalice of the Void
+1 [AFR:254] Den of the Bugbear
+4 [ROE:4] Emrakul, the Aeons Torn
+4 [NEO:141] Fable of the Mirror-Breaker
+4 [TSP:274] Gemstone Caverns
+4 [10E:335] Mind Stone
+5 [BLB:274] Mountain
+1 [MH3:246] Pinnacle Monk
+4 [DST:138] Serum Powder
+4 [ZNR:161] Shatterskull Smashing
+1 [NEO:276] Sokenzan, Crucible of Defiance
+4 [LTR:001] The One Ring
+4 [CHK:193] Through the Breach
+4 [MH3:233] Ugin's Labyrinth
+4 [MH3:15] Ulamog, the Defiler
+4 [ZNR:174] Valakut Awakening
+SB: 4 [M11:154] Pyroclasm
+SB: 3 [DTK:150] Rending Volley
+SB: 4 [NPH:74] Surgical Extraction
+SB: 4 [DST:154] Trinisphere
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([MRD:150],[MRD:150],[MRD:150],[MRD:150],[10E:335],[10E:335],[10E:335],[10E:335],[DST:138],[DST:138],[DST:138],[DST:138],[LTR:001],[LTR:001],[LTR:001],[LTR:001])([ROE:4],[ROE:4],[ROE:4],[ROE:4],[MH3:246],[MH3:15],[MH3:15],[MH3:15],[MH3:15])([9ED:176],[9ED:176],[9ED:176],[9ED:176],[NEO:141],[NEO:141],[NEO:141],[NEO:141])([CHK:193],[CHK:193],[CHK:193],[CHK:193],[ZNR:174],[ZNR:174],[ZNR:174],[ZNR:174])([AFR:254],[TSP:274],[TSP:274],[TSP:274],[TSP:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[NEO:276],[MH3:233],[MH3:233],[MH3:233],[MH3:233])([ZNR:161],[ZNR:161],[ZNR:161],[ZNR:161])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([M11:154],[M11:154],[M11:154],[M11:154],[DTK:150],[DTK:150],[DTK:150],[NPH:74],[NPH:74],[NPH:74],[NPH:74],[DST:154],[DST:154],[DST:154],[DST:154])

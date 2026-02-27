@@ -1,0 +1,26 @@
+4 [ZNR:46] Beyeen Veil
+1 [CSP:29] Commandeer
+4 [BOK:33] Disrupting Shoal
+4 [BRO:48] Fallaji Archaeologist
+4 [MH3:326] Flare of Denial
+4 [MRD:176] Goblin Charbelcher
+4 [MH3:240] Hydroelectric Specimen
+4 [ZNR:64] Jwari Disruption
+4 [TSP:259] Lotus Bloom
+3 [FUT:42] Pact of Negation
+4 [ZNR:333] Sea Gate Restoration
+4 [MH3:241] Sink into Stupor
+1 [SPG:45] Subtlety
+4 [MH3:260] Suppression Ray
+3 [NEO:375] Tameshi, Reality Architect
+4 [BLB:78] Thundertrap Trainer
+4 [AER:49] Whir of Invention
+SB: 1 [CSP:29] Commandeer
+SB: 2 [MH3:54] Consign to Memory
+SB: 1 [H1R:9] Force of Negation
+SB: 2 [MH3:451] Harbinger of the Seas
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [DIS:33] Spell Snare
+SB: 1 [SPG:45] Subtlety
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,60)|([MRD:176],[MRD:176],[MRD:176],[MRD:176],[TSP:259],[TSP:259],[TSP:259],[TSP:259])([BRO:48],[BRO:48],[BRO:48],[BRO:48],[MH3:240],[MH3:240],[MH3:240],[MH3:240],[SPG:45],[NEO:375],[NEO:375],[NEO:375],[BLB:78],[BLB:78],[BLB:78],[BLB:78])([ZNR:46],[ZNR:46],[ZNR:46],[ZNR:46],[CSP:29],[BOK:33],[BOK:33],[BOK:33],[BOK:33],[MH3:326],[MH3:326],[MH3:326],[MH3:326],[ZNR:64],[ZNR:64],[ZNR:64],[ZNR:64],[FUT:42],[FUT:42],[FUT:42],[MH3:241],[MH3:241],[MH3:241],[MH3:241],[AER:49],[AER:49],[AER:49],[AER:49])([ZNR:333],[ZNR:333],[ZNR:333],[ZNR:333],[MH3:260],[MH3:260],[MH3:260],[MH3:260])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([CSP:29],[MH3:54],[MH3:54],[H1R:9],[MH3:451],[MH3:451],[ELD:58],[ELD:58],[DIS:33],[DIS:33],[SPG:45])

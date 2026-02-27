@@ -1,0 +1,23 @@
+1 [ONE:121] Barbed Batterfist
+3 [RAV:275] Boros Garrison
+4 [NEO:138] Experimental Synthesizer
+2 [ONS:317] Forgotten Cave
+4 [SOM:10] Glint Hawk
+4 [ZEN:14] Journey to Nowhere
+4 [ZEN:23] Kor Skyfisher
+4 [LTR:243] Lembas
+4 [M11:149] Lightning Bolt
+4 [BRO:144] Monastery Swiftspear
+6 [WOE:265] Mountain
+6 [WOE:262] Plains
+4 [ALA:218] Relic of Progenitus
+2 [ONS:324] Secluded Steppe
+1 [ZNR:254] Spare Supplies
+4 [SOI:44] Thraben Inspector
+3 [MOM:276] Wind-Scarred Crag
+SB: 3 [LTR:118] Cast into the Fire
+SB: 4 [AFR:9] Dawnbringer Cleric
+SB: 4 [ALL:72a] Gorilla Shaman
+SB: 4 [5ED:262] Pyroblast
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,60)|([ONE:121],[NEO:138],[NEO:138],[NEO:138],[NEO:138],[LTR:243],[LTR:243],[LTR:243],[LTR:243],[ALA:218],[ALA:218],[ALA:218],[ALA:218],[ZNR:254])([SOM:10],[SOM:10],[SOM:10],[SOM:10],[ZEN:23],[ZEN:23],[ZEN:23],[ZEN:23],[BRO:144],[BRO:144],[BRO:144],[BRO:144],[SOI:44],[SOI:44],[SOI:44],[SOI:44])([ZEN:14],[ZEN:14],[ZEN:14],[ZEN:14])([M11:149],[M11:149],[M11:149],[M11:149])([RAV:275],[RAV:275],[RAV:275],[ONS:317],[ONS:317],[WOE:265],[WOE:265],[WOE:265],[WOE:265],[WOE:265],[WOE:265],[WOE:262],[WOE:262],[WOE:262],[WOE:262],[WOE:262],[WOE:262],[ONS:324],[ONS:324],[MOM:276],[MOM:276],[MOM:276])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTR:118],[LTR:118],[LTR:118],[AFR:9],[AFR:9],[AFR:9],[AFR:9],[ALL:72a],[ALL:72a],[ALL:72a],[ALL:72a],[5ED:262],[5ED:262],[5ED:262],[5ED:262])

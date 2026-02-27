@@ -1,0 +1,26 @@
+4 [DMU:107] Sheoldred, the Apocalypse
+2 [NEO:266] Boseiju, Who Endures
+4 [LTR:001] The One Ring
+3 [OTJ:266] Blooming Marsh
+4 [FUT:153] Tarmogoyf
+4 [MH2:202] Grist, the Hunger Tide
+4 [CSP:138] Mishra's Bauble
+2 [OTJ:276] Forest
+2 [CLU:278] Overgrown Tomb
+2 [OTJ:224] Pillage the Bog
+4 [ZEN:229] Verdant Catacombs
+2 [KTK:230] Bloodstained Mire
+3 [KTK:249] Wooded Foothills
+2 [MKM:271] Underground Mortuary
+2 [OTJ:274] Swamp
+4 [THS:107] Thoughtseize
+4 [LTR:103] Orcish Bowmasters
+4 [AER:57] Fatal Push
+4 [LTR:158] Delighted Halfling
+SB: 2 [M20:198] Veil of Summer
+SB: 4 [SHM:188] Fulminator Mage
+SB: 4 [MH2:157] Endurance
+SB: 3 [MKM:170] Pick Your Poison
+SB: 2 [OTP:29] Force of Vigor
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([LTR:001],[LTR:001],[LTR:001],[LTR:001],[CSP:138],[CSP:138],[CSP:138],[CSP:138])([DMU:107],[DMU:107],[DMU:107],[DMU:107],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[LTR:103],[LTR:103],[LTR:103],[LTR:103],[LTR:158],[LTR:158],[LTR:158],[LTR:158])([AER:57],[AER:57],[AER:57],[AER:57])([NEO:266],[NEO:266],[OTJ:266],[OTJ:266],[OTJ:266],[OTJ:276],[OTJ:276],[CLU:278],[CLU:278],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:230],[KTK:230],[KTK:249],[KTK:249],[KTK:249],[MKM:271],[MKM:271],[OTJ:274],[OTJ:274])([MH2:202],[MH2:202],[MH2:202],[MH2:202])([OTJ:224],[OTJ:224],[THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([M20:198],[M20:198],[SHM:188],[SHM:188],[SHM:188],[SHM:188],[MH2:157],[MH2:157],[MH2:157],[MH2:157],[MKM:170],[MKM:170],[MKM:170],[OTP:29],[OTP:29])

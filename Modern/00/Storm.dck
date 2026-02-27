@@ -1,0 +1,36 @@
+1 [BLB:124] Artist's Talent
+3 [KTK:230] Bloodstained Mire
+4 [CHK:163] Desperate Ritual
+2 [MKM:260] Elegant Parlor
+2 [TSP:160] Grapeshot
+4 [SHM:211] Manamorphose
+5 [DSK:275] Mountain
+1 [NPH:118] Noxious Revival
+2 [ISD:155] Past in Flames
+4 [M11:153] Pyretic Ritual
+3 [WOE:234] Questing Druid
+4 [MH3:247] Ral, Monsoon Mage
+4 [VOW:174] Reckless Impulse
+4 [TMP:305] Ruby Medallion
+1 [CLU:279] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [CLU:281] Stomping Ground
+2 [J21:521] Strike It Rich
+2 [ZNR:174] Valakut Awakening
+3 [AFR:166] Wish
+3 [KTK:249] Wooded Foothills
+4 [MOM:173] Wrenn's Resolve
+SB: 2 [LCI:131] Abrade
+SB: 1 [VOW:140] Alchemist's Gambit
+SB: 1 [9ED:176] Blood Moon
+SB: 1 [TSP:152] Empty the Warrens
+SB: 1 [TSP:160] Grapeshot
+SB: 1 [USG:203] Meltdown
+SB: 1 [MH2:135] Mine Collapse
+SB: 2 [PLS:11] Orim's Chant
+SB: 1 [ISD:155] Past in Flames
+SB: 2 [MH3:197] Phlage, Titan of Fire's Fury
+SB: 1 [THB:161] Underworld Breach
+SB: 1 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([TMP:305],[TMP:305],[TMP:305],[TMP:305])([WOE:234],[WOE:234],[WOE:234],[MH3:247],[MH3:247],[MH3:247],[MH3:247])([BLB:124])([CHK:163],[CHK:163],[CHK:163],[CHK:163],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[NPH:118],[M11:153],[M11:153],[M11:153],[M11:153],[ZNR:174],[ZNR:174])([KTK:230],[KTK:230],[KTK:230],[MKM:260],[MKM:260],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[CLU:279],[ZEN:223],[CLU:281],[KTK:249],[KTK:249],[KTK:249])([TSP:160],[TSP:160],[ISD:155],[ISD:155],[VOW:174],[VOW:174],[VOW:174],[VOW:174],[J21:521],[J21:521],[AFR:166],[AFR:166],[AFR:166],[MOM:173],[MOM:173],[MOM:173],[MOM:173])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([LCI:131],[LCI:131],[VOW:140],[9ED:176],[TSP:152],[TSP:160],[USG:203],[MH2:135],[PLS:11],[PLS:11],[ISD:155],[MH3:197],[MH3:197],[THB:161],[DGM:135])

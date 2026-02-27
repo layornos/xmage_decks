@@ -1,0 +1,27 @@
+3 [ELD:246] Idyllic Grange
+1 [GRN:258] Temple Garden
+4 [AER:181] Walking Ballista
+4 [H1R:3] Giver of Runes
+4 [J21:115] Ranger-Captain of Eos
+4 [THB:18] Heliod, Sun-Crowned
+1 [IKO:248] Indatha Triome
+1 [IKO:251] Raugrin Triome
+4 [KTK:233] Flooded Strand
+4 [KTK:248] Windswept Heath
+5 [KHM:276] Snow-Covered Plains
+1 [ZEN:211] Arid Mesa
+4 [ZEN:219] Marsh Flats
+4 [J21:75] Esper Sentinel
+4 [MH2:307] Solitude
+4 [DMU:24] Leyline Binding
+1 [BRO:199] Haywire Mite
+4 [LTR:001] The One Ring
+3 [WOE:242] Agatha's Soul Cauldron
+SB: 1 [ELD:14] Giant Killer
+SB: 3 [MH1:20] On Thin Ice
+SB: 1 [LRW:7] Burrenton Forge-Tender
+SB: 4 [MH2:27] Sanctifier en-Vec
+SB: 2 [BRO:199] Haywire Mite
+SB: 4 [LTR:26] Reprieve
+LAYOUT MAIN:(1,2)(COLOR,false,100)|([ELD:246],[ELD:246],[ELD:246],[GRN:258],[AER:181],[AER:181],[AER:181],[AER:181],[IKO:248],[IKO:251],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[ZEN:211],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[BRO:199],[LTR:001],[LTR:001],[LTR:001],[LTR:001],[WOE:242],[WOE:242],[WOE:242])([H1R:3],[H1R:3],[H1R:3],[H1R:3],[J21:115],[J21:115],[J21:115],[J21:115],[THB:18],[THB:18],[THB:18],[THB:18],[J21:75],[J21:75],[J21:75],[J21:75],[MH2:307],[MH2:307],[MH2:307],[MH2:307],[DMU:24],[DMU:24],[DMU:24],[DMU:24])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([ELD:14],[MH1:20],[MH1:20],[MH1:20],[LRW:7],[MH2:27],[MH2:27],[MH2:27],[MH2:27],[BRO:199],[BRO:199],[LTR:26],[LTR:26],[LTR:26],[LTR:26])

@@ -1,0 +1,27 @@
+4 [BIG:1] Collector's Cage
+4 [ZNR:12] Emeria's Call
+4 [ROE:4] Emrakul, the Aeons Torn
+4 [J21:75] Esper Sentinel
+4 [MRD:172] Frogmite
+1 [WOE:246] Gingerbrute
+1 [MOM:260] Halo Hopper
+1 [OTJ:243] Lavaspur Boots
+4 [SOM:174] Memnite
+4 [MKM:29] Novice Inspector
+4 [AER:167] Ornithopter
+5 [OTJ:272] Plains
+4 [BNG:162] Springleaf Drum
+4 [SOI:44] Thraben Inspector
+4 [MH2:259] Urza's Saga
+4 [LCI:359] Warden of the Inner Sky
+4 [LRW:281] Windbrisk Heights
+SB: 3 [DOM:213] Damping Sphere
+SB: 3 [NPH:7] Dispatch
+SB: 2 [MID:257] Pithing Needle
+SB: 1 [AFR:33] Portable Hole
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 1 [THB:236] Shadowspear
+SB: 1 [ONE:241] Soulless Jailer
+SB: 1 [LTR:251] Stone of Erech
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([J21:75],[J21:75],[J21:75],[J21:75],[MRD:172],[MRD:172],[MRD:172],[MRD:172],[WOE:246],[MOM:260],[SOM:174],[SOM:174],[SOM:174],[SOM:174],[AER:167],[AER:167],[AER:167],[AER:167])([BIG:1],[BIG:1],[BIG:1],[BIG:1],[OTJ:243],[BNG:162],[BNG:162],[BNG:162],[BNG:162])([ROE:4],[ROE:4],[ROE:4],[ROE:4],[MKM:29],[MKM:29],[MKM:29],[MKM:29],[SOI:44],[SOI:44],[SOI:44],[SOI:44],[LCI:359],[LCI:359],[LCI:359],[LCI:359])([MH2:259],[MH2:259],[MH2:259],[MH2:259])([OTJ:272],[OTJ:272],[OTJ:272],[OTJ:272],[OTJ:272],[LRW:281],[LRW:281],[LRW:281],[LRW:281])([ZNR:12],[ZNR:12],[ZNR:12],[ZNR:12])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([DOM:213],[DOM:213],[DOM:213],[NPH:7],[NPH:7],[NPH:7],[MID:257],[MID:257],[AFR:33],[ALA:218],[ALA:218],[ALA:218],[THB:236],[ONE:241],[LTR:251])

@@ -1,0 +1,79 @@
+1 [HOU:110] Ambuscade
+1 [FDN:160] An Offer You Can't Refuse
+1 [MAT:20] Animist's Might
+1 [ELD:331] Arcane Signet
+1 [STX:295] Archmage Emeritus
+1 [FDN:30] Archmage of Runes
+1 [FDN:212] Bite Down
+1 [WWK:132] Bojuka Bog
+1 [MMQ:61] Brainstorm
+1 [MH3:249] Bridgeworks Battle
+1 [CLU:81] Chemister's Insight
+1 [FIN:178] Chocobo Kick
+1 [ELD:333] Command Tower
+1 [MOM:182] Cosmic Hunger
+1 [EOE:215] Cosmogoyf
+1 [EOE:177] Diplomatic Relations
+1 [MID:220] Diregraf Rebirth
+1 [BFZ:76] Dispel
+1 [ELD:188] Drown in the Loch
+1 [AFR:180] Druid Class
+1 [M15:95] Eternal Thirst
+1 [TDM:255] Evolving Wilds
+1 [FDN:173] Exsanguinate
+1 [CLU:86] Forbidden Alchemy
+9 [TLA:286] Forest
+1 [ULG:32] Frantic Search
+1 [CLB:383] Gale, Waterdeep Prodigy
+1 [TDM:189] Glacierwood Siege
+1 [RTR:165] Grisly Salvage
+1 [ZNR:106] Hagra Mauling
+1 [MKM:164] Hard-Hitting Question
+9 [TLA:283] Island
+1 [STX:151] Jadzi, Oracle of Arcavios
+1 [ELD:164] Kenrith's Transformation
+1 [ISD:61] Laboratory Maniac
+1 [MH3:161] Malevolent Rumble
+1 [ISD:66] Memory's Journey
+1 [RAV:173] Moldervine Cloak
+1 [WWK:108] Nature's Claim
+1 [KLD:162] Nature's Way
+1 [FDN:710] Negate
+1 [EXO:115] Oath of Druids
+1 [TDM:264] Opulent Palace
+1 [BLB:185] Overprotect
+1 [ZNR:120] Pelakka Predation
+1 [BLB:189] Polliwallop
+1 [KHM:265] Port of Karfell
+1 [CMR:145] Profane Transfusion
+1 [STX:276] Professor Onyx
+1 [BLB:394] Rabid Bite
+1 [TDM:214] Rakshasa's Bargain
+1 [IKO:170] Ram Through
+1 [SUM:214] Regrowth
+1 [ROE:125] Repay in Kind
+1 [MH3:256] Revitalizing Repast
+1 [M21:63] Rewind
+1 [SNC:255] Riveteers Overlook
+1 [TSP:215] Scryb Ranger
+1 [TOR:81] Shade's Form
+1 [ZNR:252] Skyclave Relic
+1 [ROE:207] Snake Umbra
+1 [TDM:159] Snakeskin Veil
+1 [ULG:43] Snap
+1 [SUM:274] Sol Ring
+8 [TLA:284] Swamp
+1 [DRC:140] Talisman of Curiosity
+1 [MRD:253] Talisman of Dominance
+1 [DSC:255] Talisman of Resilience
+1 [SCG:75] Tendrils of Agony
+1 [7ED:105] Tolarian Winds
+1 [USG:105] Turnabout
+1 [CLU:215] Underrealm Lich
+1 [M20:122] Vilis, Broker of Blood
+1 [H1R:24] Weather the Storm
+1 [USG:111] Windfall
+1 [IKO:242] Zagoth Crystal
+SB: 1 [TDM:230] Teval, Arbiter of Virtue
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([ELD:331],[ZNR:252],[SUM:274],[DRC:140],[MRD:253],[DSC:255],[IKO:242])([STX:295],[FDN:30],[EOE:215],[CLB:383],[STX:151],[ISD:61],[TSP:215],[CLU:215],[M20:122])([AFR:180],[M15:95],[TDM:189],[ELD:164],[RAV:173],[EXO:115],[TOR:81],[ROE:207])([HOU:110],[FDN:160],[FDN:212],[MMQ:61],[CLU:81],[MOM:182],[EOE:177],[BFZ:76],[ELD:188],[CLU:86],[ULG:32],[RTR:165],[ZNR:106],[ISD:66],[WWK:108],[FDN:710],[BLB:185],[BLB:189],[TDM:214],[IKO:170],[MH3:256],[M21:63],[TDM:159],[ULG:43],[7ED:105],[USG:105],[H1R:24])([WWK:132],[ELD:333],[TDM:255],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TDM:264],[KHM:265],[SNC:255],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284])([STX:276])([MAT:20],[MH3:249],[FIN:178],[MID:220],[FDN:173],[MKM:164],[MH3:161],[KLD:162],[ZNR:120],[CMR:145],[BLB:394],[SUM:214],[ROE:125],[SCG:75],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([TDM:230])

@@ -1,0 +1,88 @@
+1 [OTJ:251] Abraded Bluffs
+1 [ZNR:178] Ancient Greenwarden
+1 [OTJ:191] Annie Joins Up
+1 [6ED:4] Armageddon
+1 [PCY:2] Aura Fracture
+1 [FDN:190] Brass's Bounty
+1 [OTJ:253] Bristling Backwoods
+1 [MKM:191] Buried in the Garden
+1 [OTC:40] Cactus Preserve
+1 [OTJ:199] Cactusfolk Sureshot
+1 [BLB:6] Caretaker's Talent
+1 [OTC:24] Cataclysmic Prospecting
+1 [EOC:94] Centaur Vinecrasher
+1 [GRN:233] Chromatic Lantern
+1 [OTJ:159] Colossal Rattlewurm
+1 [ELD:333] Command Tower
+1 [OTJ:254] Conduit Pylons
+1 [OTJ:255] Creosote Heath
+1 [ULG:98] Crop Rotation
+1 [OTJ:160] Dance of the Tumbleweeds
+1 [ODY:287] Decimate
+1 [TSB:118] Desert
+1 [HOU:170] Desert of the Fervent
+1 [HOU:172] Desert of the Indomitable
+1 [HOU:174] Desert of the True
+1 [HOU:8] Desert's Hold
+1 [OTC:31] Dune Chanter
+1 [HOU:175] Dunes of the Dead
+1 [MMQ:316] Dust Bowl
+1 [CLB:230] Erinis, Gloom Stalker
+1 [DOM:18] Fall of the Thran
+10 [TLA:286] Forest
+1 [SOI:274] Fortified Village
+1 [C13:108] From the Ashes
+1 [ZEN:165] Harrow
+1 [HOU:177] Hashep Oasis
+1 [HOU:120] Hour of Promise
+1 [BLB:183] Lumra, Bellow of the Woods
+1 [ORI:155] Magmatic Insight
+1 [OTJ:170] Map the Frontier
+1 [OGW:156] Mina and Denn, Wildborn
+1 [ODY:205] Mine Layer
+4 [TLA:285] Mountain
+1 [ZNR:151] Nahiri's Lithoforming
+1 [SCG:125] One with Nature
+1 [ZEN:172] Oracle of Mul Daya
+1 [OTJ:172] Outcaster Greenblade
+1 [CON:15] Path to Exile
+1 [SPG:101] Pathbreaker Ibex
+1 [BRO:202] Perennial Behemoth
+3 [TLA:282] Plains
+1 [HOU:129] Ramunap Excavator
+1 [HOU:181] Ramunap Ruins
+1 [OTJ:26] Requisition Raid
+1 [STH:95] Ruination
+1 [OTC:32] Rumbleweed
+1 [EOE:256] Sacred Foundry
+1 [SOK:144] Sakura-Tribe Scout
+1 [OTC:11] Sand Scout
+1 [OTJ:263] Sandstorm Verge
+1 [SUM:285] Savannah
+1 [HOU:182] Scavenger Grounds
+1 [HOU:183] Shefet Dunes
+1 [OTJ:248] Silver Deputy
+1 [SUM:274] Sol Ring
+1 [VOW:221] Splendid Reclamation
+1 [FDN:646] Springbloom Druid
+1 [DMU:145] Sprouting Goblin
+1 [EOE:258] Stomping Ground
+1 [FDN:258] Swiftfoot Boots
+1 [ICE:54] Swords to Plowshares
+1 [ECL:268] Temple Garden
+1 [DSK:269] Terramorphic Expanse
+1 [EOC:111] Titania, Protector of Argoth
+1 [ARB:142] Trace of Abundance
+1 [MKM:181] Undergrowth Recon
+1 [FDN:583] Valorous Stance
+1 [OTC:35] Vengeful Regrowth
+1 [RIX:151] World Shaper
+1 [OTC:250] Wreck and Rebuild
+1 [SLP:15] Wrenn and Six
+1 [DSC:209] Yedora, Grave Gardener
+1 [OTC:4] Yuma, Proud Protector
+1 [ICE:350] Zuran Orb
+1 [OTJ:157] Bristly Bill, Spine Sower
+SB: 1 [OTC:229] Hazezon, Shaper of Sand
+LAYOUT MAIN:(1,10)(CMC,false,70)|([OTJ:251],[OTJ:253],[OTC:40],[ELD:333],[OTJ:254],[OTJ:255],[TSB:118],[HOU:170],[HOU:172],[HOU:174],[HOU:175],[MMQ:316],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[TLA:286],[SOI:274],[HOU:177],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:282],[TLA:282],[TLA:282],[HOU:181],[EOE:256],[OTJ:263],[SUM:285],[HOU:182],[HOU:183],[EOE:258],[ECL:268],[DSK:269],[ICE:350])([ULG:98],[ORI:155],[SCG:125],[CON:15],[OTJ:26],[SOK:144],[SUM:274],[ICE:54])([OTC:24],[OTJ:160],[ZNR:151],[OTC:11],[OTJ:248],[DMU:145],[FDN:258],[ARB:142],[FDN:583],[SLP:15],[OTJ:157])([PCY:2],[BLB:6],[GRN:233],[HOU:8],[OTC:31],[CLB:230],[ZEN:165],[OTJ:172],[HOU:129],[FDN:646],[MKM:181],[OTC:250])([OTJ:191],[6ED:4],[MKM:191],[OTJ:199],[EOC:94],[OTJ:159],[ODY:287],[C13:108],[OTJ:170],[OGW:156],[ODY:205],[ZEN:172],[STH:95],[VOW:221],[RIX:151])([HOU:120],[BRO:202],[EOC:111],[DSC:209])([ZNR:178],[DOM:18],[BLB:183],[SPG:101],[OTC:35])([FDN:190])([OTC:4])([OTC:32])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,100)|([OTC:229])

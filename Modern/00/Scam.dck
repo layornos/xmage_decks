@@ -1,0 +1,31 @@
+3 [ONE:248] Blackcleave Cliffs
+4 [RNA:245] Blood Crypt
+1 [9ED:176] Blood Moon
+3 [KTK:230] Bloodstained Mire
+4 [MH2:397] Dauthi Voidwalker
+4 [NEO:141] Fable of the Mirror-Breaker
+2 [AER:57] Fatal Push
+4 [MH2:126] Fury
+4 [MH2:311] Grief
+1 [THB:221] Kroxa, Titan of Death's Hunger
+2 [ZEN:219] Marsh Flats
+4 [WOE:101] Not Dead After All
+4 [LTR:103] Orcish Bowmasters
+2 [KTK:239] Polluted Delta
+4 [MUL:151] Ragavan, Nimble Pilferer
+1 [NEO:278] Takenuma, Abandoned Mire
+2 [ARB:46] Terminate
+4 [THS:107] Thoughtseize
+2 [DKA:77] Undying Evil
+2 [ZEN:229] Verdant Catacombs
+3 [UNH:138] Swamp
+SB: 2 [9ED:176] Blood Moon
+SB: 2 [MRD:150] Chalice of the Void
+SB: 3 [5DN:118] Engineered Explosives
+SB: 2 [M11:149] Lightning Bolt
+SB: 2 [SOM:187] Nihil Spellbomb
+SB: 1 [MID:257] Pithing Needle
+SB: 2 [DMU:107] Sheoldred, the Apocalypse
+SB: 1 [ARB:46] Terminate
+LAYOUT MAIN:(1,4)(COLOR,false,100)|([ONE:248],[ONE:248],[ONE:248],[RNA:245],[RNA:245],[RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[ZEN:219],[ZEN:219],[KTK:239],[KTK:239],[NEO:278],[ZEN:229],[ZEN:229],[UNH:138],[UNH:138],[UNH:138])([MH2:397],[MH2:397],[MH2:397],[MH2:397],[AER:57],[AER:57],[MH2:311],[MH2:311],[MH2:311],[MH2:311],[WOE:101],[WOE:101],[WOE:101],[WOE:101],[LTR:103],[LTR:103],[LTR:103],[LTR:103],[THS:107],[THS:107],[THS:107],[THS:107],[DKA:77],[DKA:77])([9ED:176],[NEO:141],[NEO:141],[NEO:141],[NEO:141],[MH2:126],[MH2:126],[MH2:126],[MH2:126],[MUL:151],[MUL:151],[MUL:151],[MUL:151])([THB:221],[ARB:46],[ARB:46])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([9ED:176],[9ED:176],[MRD:150],[MRD:150],[5DN:118],[5DN:118],[5DN:118],[M11:149],[M11:149],[SOM:187],[SOM:187],[MID:257],[DMU:107],[DMU:107],[ARB:46])

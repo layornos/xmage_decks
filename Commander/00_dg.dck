@@ -1,0 +1,97 @@
+1 [DMU:243] Adarkar Wastes
+1 [FDN:151] Aetherize
+1 [M15:44] Aetherspouts
+1 [SOI:242] Anguished Unmaking
+1 [ELD:331] Arcane Signet
+1 [OTP:8] Archmage's Charm
+1 [EVE:81] Batwing Brume
+1 [TLA:255] Bender's Waterskin
+1 [ACR:161] Black Market Connections
+1 [DFT:250] Bleachbone Verge
+1 [WWK:132] Bojuka Bog
+1 [DMU:244] Caves of Koilos
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [MH3:218] Contaminated Landscape
+1 [STX:68] Crushing Disappointment
+1 [ISD:49] Curiosity
+1 [OTC:130] Curtains' Call
+1 [CMM:147] Deadly Rollick
+1 [MKM:12] Delney, Streetwise Lookout
+1 [MID:260] Deserted Beach
+1 [KTK:36] Dig Through Time
+1 [NPH:57] Dismember
+1 [ISD:10] Divine Reckoning
+1 [CON:142] Exotic Orchard
+1 [INV:57] Fact or Fiction
+1 [MH3:244] Fell the Profane
+1 [9ED:297] Fellwar Stone
+1 [CMM:94] Fierce Guardianship
+1 [CMM:24] Flawless Maneuver
+1 [KTK:233] Flooded Strand
+1 [DSK:259] Floodfarm Verge
+1 [ULG:32] Frantic Search
+1 [FDN:725] Gilded Lotus
+1 [DSK:260] Gloomlake Verge
+1 [EOE:254] Godless Shrine
+1 [ECL:265] Hallowed Fountain
+1 [THB:19] Heliod's Intervention
+1 [FDN:307] High Fae Trickster
+1 [DSC:221] Inkshield
+1 [CLB:78] Irenicus's Vile Duplication
+4 [TLA:283] Island
+1 [JUD:43] Keep Watch
+1 [ZEN:219] Marsh Flats
+1 [SHM:169] Memory Plunder
+1 [ELD:346] Midnight Clock
+1 [MMQ:87] Misdirection
+1 [WOC:11] Misleading Signpost
+1 [CLB:357] Morphic Pool
+1 [TSP:70] Ophidian Eye
+1 [NEO:271] Otawara, Soaring City
+1 [BFZ:120] Painful Truths
+2 [TLA:282] Plains
+1 [KTK:239] Polluted Delta
+1 [FIC:249] Promise of Loyalty
+1 [WHO:368] Quantum Misalignment
+1 [SNC:254] Raffine's Tower
+1 [MKM:297] Reenact the Crime
+1 [STH:41] Reins of Power
+1 [DMU:236] Relic of Legends
+1 [M19:254] Reliquary Tower
+1 [M21:63] Rewind
+1 [PCY:45] Rhystic Study
+1 [WOE:312] Rowdy Research
+1 [CLB:360] Sea of Clouds
+1 [IKO:319] Shark Typhoon
+1 [VOW:264] Shattered Sanctum
+1 [MID:267] Shipwreck Marsh
+1 [UDS:46] Sigil of Sleep
+1 [ZNR:80] Silundi Vision
+1 [MH3:241] Sink into Stupor
+1 [EXO:74] Slaughter
+1 [RNA:22] Smothering Tithe
+1 [MMQ:162] Snuff Out
+1 [SUM:274] Sol Ring
+1 [XLN:82] Spell Swindle
+1 [ONE:242] Staff of Compleation
+1 [BLB:298] Starfall Invocation
+1 [NEM:48] Submerge
+2 [TLA:284] Swamp
+1 [MRD:253] Talisman of Dominance
+1 [FIC:365] Talisman of Hierarchy
+1 [MRD:256] Talisman of Progress
+1 [USG:103] Time Spiral
+1 [UDS:50] Treachery
+1 [USG:105] Turnabout
+1 [BRO:267] Underground River
+1 [INV:282] Undermine
+1 [DOM:72] Unwind
+1 [BLB:308] Valley Floodcaller
+1 [CMM:436] Vault of Champions
+1 [INV:285] Vile Consumption
+1 [EOE:261] Watery Grave
+1 [SCD:75] Deadly Tempest
+SB: 1 [FIC:191] Y'shtola, Night's Blessed
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([ELD:331],[TLA:255],[9ED:297],[FDN:725],[ELD:346],[WOC:11],[DMU:236],[SUM:274],[ONE:242],[MRD:253],[FIC:365],[MRD:256])([MKM:12],[FDN:307],[BLB:308])([ACR:161],[ISD:49],[TSP:70],[PCY:45],[IKO:319],[UDS:46],[RNA:22],[UDS:50],[INV:285])([FDN:151],[M15:44],[SOI:242],[OTP:8],[EVE:81],[STX:68],[SCD:75],[OTC:130],[CMM:147],[KTK:36],[NPH:57],[INV:57],[MH3:244],[CMM:94],[CMM:24],[ULG:32],[THB:19],[DSC:221],[JUD:43],[SHM:169],[MMQ:87],[MKM:297],[STH:41],[M21:63],[WOE:312],[ZNR:80],[MH3:241],[EXO:74],[MMQ:162],[XLN:82],[NEM:48],[USG:105],[INV:282],[DOM:72])([DMU:243],[DFT:250],[WWK:132],[DMU:244],[8ED:322],[ELD:333],[MH3:218],[MID:260],[CON:142],[KTK:233],[DSK:259],[DSK:260],[EOE:254],[ECL:265],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[ZEN:219],[CLB:357],[NEO:271],[TLA:282],[TLA:282],[KTK:239],[SNC:254],[M19:254],[CLB:360],[VOW:264],[MID:267],[TLA:284],[TLA:284],[BRO:267],[CMM:436],[EOE:261])([ISD:10],[CLB:78],[BFZ:120],[FIC:249],[WHO:368],[BLB:298],[USG:103])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([FIC:191])

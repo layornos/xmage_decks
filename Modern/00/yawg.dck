@@ -1,0 +1,39 @@
+3 [WOE:242] Agatha's Soul Cauldron
+4 [OTJ:266] Blooming Marsh
+2 [NEO:266] Boseiju, Who Endures
+4 [M15:172] Chord of Calling
+4 [LTR:158] Delighted Halfling
+1 [FUT:174] Dryad Arbor
+2 [OTJ:276] Forest
+1 [SHM:188] Fulminator Mage
+1 [ELD:160] Gilded Goose
+4 [MH2:202] Grist, the Hunger Tide
+1 [AKH:199] Hapatra, Vizier of Poisons
+1 [BRO:199] Haywire Mite
+1 [MH2:166] Ignoble Hierarch
+2 [ZEN:220] Misty Rainforest
+4 [LTR:103] Orcish Bowmasters
+1 [CLU:278] Overgrown Tomb
+1 [TSB:120] Pendelhaven
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [OTJ:274] Swamp
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [EVE:180] Twilight Mire
+2 [MKM:271] Underground Mortuary
+4 [ZEN:229] Verdant Catacombs
+4 [TSB:89] Wall of Roots
+4 [DMR:110] Yawgmoth, Thran Physician
+4 [DKA:134] Young Wolf
+1 [BFZ:126] Zulaport Cutthroat
+SB: 1 [MH2:157] Endurance
+SB: 2 [AER:57] Fatal Push
+SB: 2 [OTP:29] Force of Vigor
+SB: 2 [SHM:188] Fulminator Mage
+SB: 2 [M20:106] Legion's End
+SB: 2 [MKM:170] Pick Your Poison
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [M21:204] Scavenging Ooze
+SB: 1 [ONE:108] Sheoldred's Edict
+SB: 1 [NPH:74] Surgical Extraction
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([BRO:199])([WOE:242],[WOE:242],[WOE:242])([LTR:158],[LTR:158],[LTR:158],[LTR:158],[SHM:188],[ELD:160],[AKH:199],[MH2:166],[LTR:103],[LTR:103],[LTR:103],[LTR:103],[DMU:107],[TSB:89],[TSB:89],[TSB:89],[TSB:89],[DMR:110],[DMR:110],[DMR:110],[DMR:110],[DKA:134],[DKA:134],[DKA:134],[DKA:134],[BFZ:126])([M15:172],[M15:172],[M15:172],[M15:172])([FUT:174])([OTJ:266],[OTJ:266],[OTJ:266],[OTJ:266],[NEO:266],[NEO:266],[OTJ:276],[OTJ:276],[ZEN:220],[ZEN:220],[CLU:278],[TSB:120],[OTJ:274],[NEO:278],[EVE:180],[MKM:271],[MKM:271],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229])([MH2:202],[MH2:202],[MH2:202],[MH2:202])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([MH2:157],[AER:57],[AER:57],[OTP:29],[OTP:29],[SHM:188],[SHM:188],[M20:106],[M20:106],[MKM:170],[MKM:170],[M19:196],[M21:204],[ONE:108],[NPH:74])

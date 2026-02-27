@@ -1,0 +1,33 @@
+1 [MH3:215] Arena of Glory
+4 [ZEN:211] Arid Mesa
+1 [CLU:274] Blood Crypt
+4 [KTK:233] Flooded Strand
+4 [DMU:24] Leyline Binding
+4 [MKM:217] Leyline of the Guildpact
+4 [CLU:141] Lightning Bolt
+1 [MKM:263] Lush Portico
+1 [DSK:275] Mountain
+4 [LTR:103] Orcish Bowmasters
+3 [MH3:197] Phlage, Titan of Fire's Fury
+1 [FDN:273] Plains
+4 [MUL:151] Ragavan, Nimble Pilferer
+1 [CLU:279] Sacred Foundry
+4 [MH2:234] Scion of Draco
+1 [CLU:280] Steam Vents
+4 [KTK:56] Stubborn Denial
+1 [CLU:282] Temple Garden
+4 [J21:724] Territorial Kavu
+4 [TSB:70] Tribal Flames
+4 [KTK:249] Wooded Foothills
+1 [SNC:260] Xander's Lounge
+SB: 2 [MH3:54] Consign to Memory
+SB: 2 [DOM:213] Damping Sphere
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 3 [MH2:137] Obsidian Charmaw
+SB: 2 [DSK:149] Pyroclasm
+SB: 1 [BIG:34] Rest in Peace
+SB: 1 [WOE:251] Soul-Guide Lantern
+SB: 1 [NPH:74] Surgical Extraction
+SB: 2 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([MH2:234],[MH2:234],[MH2:234],[MH2:234])([LTR:103],[LTR:103],[LTR:103],[LTR:103],[MH3:197],[MH3:197],[MH3:197],[MUL:151],[MUL:151],[MUL:151],[MUL:151],[J21:724],[J21:724],[J21:724],[J21:724])([DMU:24],[DMU:24],[DMU:24],[DMU:24],[MKM:217],[MKM:217],[MKM:217],[MKM:217])([CLU:141],[CLU:141],[CLU:141],[CLU:141],[KTK:56],[KTK:56],[KTK:56],[KTK:56])([MH3:215],[ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[CLU:274],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[MKM:263],[DSK:275],[FDN:273],[CLU:279],[CLU:280],[CLU:282],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[SNC:260])([TSB:70],[TSB:70],[TSB:70],[TSB:70])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([MH3:54],[MH3:54],[DOM:213],[DOM:213],[IKO:222],[MH2:137],[MH2:137],[MH2:137],[DSK:149],[DSK:149],[BIG:34],[WOE:251],[NPH:74],[DGM:135],[DGM:135])

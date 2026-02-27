@@ -1,0 +1,40 @@
+1 [ELD:242] Castle Vantress
+2 [MRD:150] Chalice of the Void
+4 [7ED:67] Counterspell
+4 [KTK:233] Flooded Strand
+1 [AFR:257] Hall of Storm Giants
+2 [RNA:251] Hallowed Fountain
+3 [SNC:264] Island
+2 [ZEN:220] Misty Rainforest
+1 [NEO:271] Otawara, Soaring City
+1 [SNC:262] Plains
+2 [KTK:239] Polluted Delta
+4 [MH2:25] Prismatic Ending
+2 [ZEN:223] Scalding Tarn
+4 [MH2:307] Solitude
+2 [RTR:201] Supreme Verdict
+1 [DOM:207] Teferi, Hero of Dominaria
+3 [WAR:221*] Teferi, Time Raveler
+4 [LTR:246] The One Ring
+3 [SLD:1141] Narset, Parter of Veils
+4 [MH1:52] Force of Negation
+4 [DMU:387] Leyline Binding
+2 [SHM:277] Mystic Gate
+1 [IKO:250] Ketria Triome
+1 [SNC:254] Raffine's Tower
+1 [RNA:246] Breeding Pool
+1 [MMA:64] Spell Snare
+SB: 1 [M20:42] Aether Gust
+SB: 1 [WAR:193] Dovin's Veto
+SB: 2 [MH2:334] Dress Down
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [SHM:227] Fracturing Gust
+SB: 1 [IKO:224] Kaheera, the Orphanguard
+SB: 1 [ELD:58] Mystical Dispute
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [IKO:319] Shark Typhoon
+SB: 1 [MID:38] Sunset Revelry
+SB: 1 [RTR:201] Supreme Verdict
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,70)|([MRD:150],[MRD:150],[LTR:246],[LTR:246],[LTR:246],[LTR:246])([MH2:307],[MH2:307],[MH2:307],[MH2:307])([DMU:387],[DMU:387],[DMU:387],[DMU:387])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[MH1:52],[MH1:52],[MH1:52],[MH1:52],[MMA:64])([ELD:242],[AFR:257],[RNA:251],[RNA:251],[SNC:264],[SNC:264],[SNC:264],[NEO:271],[SNC:262],[SHM:277],[SHM:277],[IKO:250],[SNC:254],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZEN:220],[ZEN:223],[KTK:239],[ZEN:220],[KTK:239],[ZEN:223],[RNA:246])([DOM:207],[WAR:221*],[WAR:221*],[WAR:221*],[SLD:1141],[SLD:1141],[SLD:1141])([MH2:25],[MH2:25],[MH2:25],[MH2:25],[RTR:201],[RTR:201])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,100)|([5DN:118])([M20:42],[WAR:193],[MH2:334],[MH2:334],[RTR:18],[RTR:18],[MID:38],[RTR:201])([IKO:224],[ELD:58])([SHM:227])([IKO:319],[IKO:319])([EMN:6])

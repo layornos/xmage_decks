@@ -1,0 +1,31 @@
+1 [THB:236] Shadowspear
+1 [MRD:141] Aether Spellbomb
+1 [OTJ:243] Lavaspur Boots
+2 [MRD:274] Welding Jar
+3 [MKC:233] Nettlecyst
+4 [BIG:36] Simulacrum Synthesizer
+4 [BNG:162] Springleaf Drum
+4 [MRD:54] Thoughtcast
+2 [MRD:211] Myr Enforcer
+4 [MKC:121] Thought Monitor
+4 [SOM:174] Memnite
+4 [MRD:172] Frogmite
+4 [AER:167] Ornithopter
+4 [MH2:235] Sojourner's Companion
+1 [NEO:271] Otawara, Soaring City
+1 [BIG:29] Fomori Vault
+2 [OTJ:273] Island
+2 [AFR:261] Treasure Vault
+4 [MH2:259] Urza's Saga
+4 [M15:242] Darksteel Citadel
+4 [BRC:189] Mistvault Bridge
+SB: 2 [ELD:58] Mystical Dispute
+SB: 4 [AER:39] Metallic Rebuke
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 3 [DOM:213] Damping Sphere
+SB: 2 [M21:241] Tormod's Crypt
+SB: 1 [MID:257] Pithing Needle
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([MRD:211],[MRD:211],[MKC:121],[MKC:121],[MKC:121],[MKC:121],[SOM:174],[SOM:174],[SOM:174],[SOM:174],[MRD:172],[MRD:172],[MRD:172],[MRD:172],[AER:167],[AER:167],[AER:167],[AER:167],[MH2:235],[MH2:235],[MH2:235],[MH2:235])([AFR:261],[AFR:261],[M15:242],[M15:242],[M15:242],[M15:242],[BRC:189],[BRC:189],[BRC:189],[BRC:189])([THB:236],[MRD:141],[OTJ:243],[MRD:274],[MRD:274],[MKC:233],[MKC:233],[MKC:233],[BIG:36],[BIG:36],[BIG:36],[BIG:36],[BNG:162],[BNG:162],[BNG:162],[BNG:162])([MH2:259],[MH2:259],[MH2:259],[MH2:259])([NEO:271],[BIG:29],[OTJ:273],[OTJ:273])([MRD:54],[MRD:54],[MRD:54],[MRD:54])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([ELD:58],[ELD:58],[AER:39],[AER:39],[AER:39],[AER:39],[ALA:218],[IKO:222],[M20:227],[DOM:213],[DOM:213],[DOM:213],[M21:241],[M21:241],[MID:257])

@@ -1,0 +1,95 @@
+1 [SNC:286] All-Seeing Arbiter
+1 [FDN:160] An Offer You Can't Refuse
+1 [PZ2:38] Ancient Excavation
+1 [EOC:63] Angel of the Ruins
+1 [ALA:220] Arcane Sanctum
+1 [ELD:331] Arcane Signet
+1 [AKH:78] Archfiend of Ifnir
+1 [FIC:374] Ash Barrens
+1 [C20:76] Astral Drift
+1 [ONS:4] Astral Slide
+1 [FIC:318] Baleful Strix
+1 [ONS:312] Barren Moor
+1 [USG:319] Blasted Landscape
+1 [MH3:243] Boggart Trawler
+1 [IKO:43] Boon of the Wish-Giver
+1 [KLD:9] Cataclysmic Gearhulk
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [HOU:32] Countervailing Winds
+1 [NCC:181] Currency Converter
+1 [HOU:171] Desert of the Glorified
+1 [HOU:173] Desert of the Mindful
+1 [HOU:174] Desert of the True
+1 [IKO:10] Drannith Healer
+1 [USG:320] Drifting Meadow
+1 [LTR:458] Eagles of the North
+1 [DMU:199] Ertai Resurrected
+1 [IKO:48] Escape Protocol
+1 [CON:142] Exotic Orchard
+1 [AKH:243] Fetid Pools
+1 [ARB:6] Filigree Angel
+1 [IKO:13] Flourishing Fox
+1 [USG:295] Fluctuator
+1 [BIG:29] Fomori Vault
+1 [HOU:161] God-Pharaoh's Gift
+1 [MOC:407] Goldmire Bridge
+1 [DSC:283] Hall of Heliod's Generosity
+1 [C20:27] Herald of the Forgotten
+1 [IKO:17] Imposing Vantasaur
+1 [AKH:245] Irrigated Farmland
+6 [TLA:283] Island
+1 [ONS:320] Lonely Sandbar
+1 [LTR:511] Lorien Revealed
+1 [CON:116] Magister Sphinx
+1 [ULG:36] Miscalculation
+1 [BRC:189] Mistvault Bridge
+1 [LTC:22] Monstrosity of the Lake
+1 [RAV:60] Muddle the Mixture
+1 [IKO:59] Neutralize
+1 [DFT:258] Night Market
+1 [HOU:40] Nimble Obstructionist
+1 [KLD:96] Noxious Gearhulk
+1 [ONS:160] Oversold Cemetery
+1 [RAV:217] Perplex
+3 [TLA:282] Plains
+1 [USG:323] Polluted Mire
+1 [BRO:240] Portal to Phyrexia
+1 [SNC:254] Raffine's Tower
+1 [EOC:171] Razortide Bridge
+1 [MH3:105] Refurbished Familiar
+1 [USG:324] Remote Isle
+1 [DFT:219] Riptide Gearhulk
+1 [FUT:179] River of Tears
+1 [LCI:260] Scampering Surveyor
+1 [ONS:324] Secluded Steppe
+1 [MH3:267] Sevinne's Reclamation
+1 [NEC:4] Shorikai, Genesis Engine
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [DFT:29] Spectacular Pileup
+1 [CON:127] Sphinx Summoner
+1 [MH2:66] Step Through
+1 [BRO:64] Stern Lesson
+1 [FUT:90] Street Wraith
+1 [TLA:284] Swamp
+1 [NEO:375] Tameshi, Reality Architect
+1 [BRC:56] Terisiare's Devastation
+1 [NEO:85] Thirst for Knowledge
+1 [EOC:79] Thought Monitor
+1 [DRC:67] Timeless Dragon
+1 [DFT:70] Transit Mage
+1 [MBS:34] Treasure Mage
+1 [H1R:10] Tribute Mage
+1 [SOM:48] Trinket Mage
+1 [LTR:111] Troll of Khazad-dum
+1 [BRO:267] Underground River
+1 [FUT:61] Vedalken Aethermage
+1 [MH3:261] Waterlogged Teachings
+1 [DFT:74] Waxen Shapethief
+1 [MH3:239] Witch Enchanter
+1 [DFT:247] Wreck Remover
+1 [CSP:135] Zur the Enchanter
+SB: 1 [ALA:194] Sharuum the Hegemon
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([EOC:63],[FIC:318],[KLD:9],[ARB:6],[CON:116],[KLD:96],[MH3:105],[DFT:219],[LCI:260],[FDN:257],[CON:127],[EOC:79],[DFT:247])([MOC:407],[BRC:189],[EOC:171])([ELD:331],[NCC:181],[USG:295],[HOU:161],[BRO:240],[NEC:4],[SUM:274])([SNC:286],[AKH:78],[MH3:243],[IKO:10],[LTR:458],[DMU:199],[IKO:13],[C20:27],[IKO:17],[LTC:22],[HOU:40],[FUT:90],[NEO:375],[DRC:67],[DFT:70],[MBS:34],[H1R:10],[SOM:48],[LTR:111],[FUT:61],[DFT:74],[MH3:239],[CSP:135])([C20:76],[ONS:4],[IKO:48],[ONS:160])([FDN:160],[PZ2:38],[HOU:32],[ULG:36],[RAV:60],[IKO:59],[RAV:217],[BRO:64],[NEO:85],[MH3:261])([ALA:220],[FIC:374],[ONS:312],[USG:319],[DMU:244],[ELD:333],[HOU:171],[HOU:173],[HOU:174],[USG:320],[CON:142],[AKH:243],[BIG:29],[DSC:283],[AKH:245],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[ONS:320],[DFT:258],[TLA:282],[TLA:282],[TLA:282],[USG:323],[SNC:254],[USG:324],[FUT:179],[ONS:324],[TLA:284],[BRO:267])([IKO:43],[LTR:511],[MH3:267],[DFT:29],[MH2:66],[BRC:56])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([ALA:194])

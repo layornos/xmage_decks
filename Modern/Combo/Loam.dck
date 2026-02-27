@@ -1,0 +1,32 @@
+1 [BRO:256a] Argoth, Sanctum of Nature
+1 [BRO:258] Blast Zone
+3 [NEO:266] Boseiju, Who Endures
+1 [FUT:174] Dryad Arbor
+3 [THB:169] Dryad of the Ilysian Grove
+3 [ONS:317] Forgotten Cave
+3 [MH2:126] Fury
+1 [ISD:240] Ghost Quarter
+3 [RAV:172] Life from the Loam
+4 [M11:149] Lightning Bolt
+4 [MUL:151] Ragavan, Nimble Pilferer
+1 [M19:201] Scapeshift
+4 [10E:228] Seismic Assault
+2 [NEO:276] Sokenzan, Crucible of Defiance
+3 [RNA:259] Stomping Ground
+1 [BRO:193] Titania, Voice of Gaea
+4 [DIS:99] Utopia Sprawl
+2 [ZEN:228] Valakut, the Molten Pinnacle
+3 [ZEN:229] Verdant Catacombs
+4 [KTK:249] Wooded Foothills
+4 [2X2:296] Wrenn and Six
+2 [JMP:72] Forest
+3 [KLD:259] Mountain
+SB: 2 [ISD:127] Ancient Grudge
+SB: 2 [MH2:157] Endurance
+SB: 2 [TSP:274] Gemstone Caverns
+SB: 3 [FUT:101] Magus of the Moon
+SB: 1 [ONE:241] Soulless Jailer
+SB: 3 [M20:198] Veil of Summer
+SB: 2 [H1R:24] Weather the Storm
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,100)|([MH2:126],[MH2:126],[MH2:126],[MUL:151],[MUL:151],[MUL:151],[MUL:151],[BRO:193])([THB:169],[THB:169],[THB:169])([10E:228],[10E:228],[10E:228],[10E:228],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([M11:149],[M11:149],[M11:149],[M11:149])([FUT:174])([BRO:256a],[BRO:258],[NEO:266],[NEO:266],[NEO:266],[ONS:317],[ONS:317],[ONS:317],[ISD:240],[NEO:276],[NEO:276],[RNA:259],[RNA:259],[RNA:259],[ZEN:228],[ZEN:228],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[JMP:72],[JMP:72],[KLD:259],[KLD:259],[KLD:259])([2X2:296],[2X2:296],[2X2:296],[2X2:296])([RAV:172],[RAV:172],[RAV:172],[M19:201])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([ISD:127],[ISD:127],[MH2:157],[MH2:157],[TSP:274],[TSP:274],[FUT:101],[FUT:101],[FUT:101],[ONE:241],[M20:198],[M20:198],[M20:198],[H1R:24],[H1R:24])
