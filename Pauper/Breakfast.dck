@@ -1,0 +1,27 @@
+2 [DIS:170] Azorius Chancery
+3 [CLB:346] Basilisk Gate
+4 [MMQ:61] Brainstorm
+3 [TOR:27] Cephalid Aristocrat
+3 [CLB:349] Citadel Gate
+1 [TSP:104] Dread Return
+4 [LTR:7] Eagles of the North
+2 [CMM:26] Generous Gift
+1 [DMU:249] Idyllic Beachfront
+2 [WOE:263] Island
+1 [GRN:74] Lotleth Giant
+4 [STH:9] Nomads en-Kor
+2 [WOE:262] Plains
+4 [M11:70] Preordain
+4 [JUD:18] Prismatic Strands
+4 [AKH:27] Sacred Cat
+4 [CLB:359] Sea Gate
+4 [M11:33] Squadron Hawk
+4 [FUT:90] Street Wraith
+4 [NEO:66] The Modern Age
+SB: 4 [4ED:63] Blue Elemental Blast
+SB: 2 [INV:11] Crimson Acolyte
+SB: 4 [5ED:29] Dust to Dust
+SB: 3 [10E:100] Remove Soul
+SB: 2 [NEO:80] Spell Pierce
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,60)|([TOR:27],[TOR:27],[TOR:27],[LTR:7],[LTR:7],[LTR:7],[LTR:7],[GRN:74],[STH:9],[STH:9],[STH:9],[STH:9],[AKH:27],[AKH:27],[AKH:27],[AKH:27],[M11:33],[M11:33],[M11:33],[M11:33],[FUT:90],[FUT:90],[FUT:90],[FUT:90])([NEO:66],[NEO:66],[NEO:66],[NEO:66])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[CMM:26],[CMM:26],[JUD:18],[JUD:18],[JUD:18],[JUD:18])([DIS:170],[DIS:170],[CLB:346],[CLB:346],[CLB:346],[CLB:349],[CLB:349],[CLB:349],[DMU:249],[WOE:263],[WOE:263],[WOE:262],[WOE:262],[CLB:359],[CLB:359],[CLB:359],[CLB:359])([TSP:104],[M11:70],[M11:70],[M11:70],[M11:70])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([4ED:63],[4ED:63],[4ED:63],[4ED:63],[INV:11],[INV:11],[5ED:29],[5ED:29],[5ED:29],[5ED:29],[10E:100],[10E:100],[10E:100],[NEO:80],[NEO:80])

@@ -1,0 +1,31 @@
+2 [ONE:108] Sheoldred's Edict
+2 [NEO:80] Spell Pierce
+4 [LTR:246] The One Ring
+4 [LTR:225] Sauron's Ransom
+4 [H1R:9] Force of Negation
+2 [DMU:107] Sheoldred, the Apocalypse
+2 [MH2:337] Murktide Regent
+4 [LTR:103] Orcish Bowmasters
+1 [NEO:271] Otawara, Soaring City
+1 [MOM:279] Swamp
+1 [GRN:259] Watery Grave
+4 [KTK:239] Polluted Delta
+3 [MOM:278] Island
+3 [LTR:60] Lorien Revealed
+4 [ICE:64] Counterspell
+4 [J22:63] Preordain
+4 [DMU:24] Leyline Binding
+4 [PWAR:221p] Teferi, Time Raveler
+4 [KTK:233] Flooded Strand
+1 [SNC:254] Raffine's Tower
+1 [IKO:250] Ketria Triome
+1 [DIS:174] Hallowed Fountain
+SB: 2 [5DN:118] Engineered Explosives
+SB: 2 [ELD:58] Mystical Dispute
+SB: 3 [GRN:212] Unmoored Ego
+SB: 2 [PLC:85] Damnation
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 2 [MRD:150] Chalice of the Void
+SB: 1 [NEO:80] Spell Pierce
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,100)|([LTR:246],[LTR:246],[LTR:246],[LTR:246])([DMU:107],[DMU:107],[MH2:337],[MH2:337],[LTR:103],[LTR:103],[LTR:103],[LTR:103])([DMU:24],[DMU:24],[DMU:24],[DMU:24])([ONE:108],[ONE:108],[NEO:80],[NEO:80],[LTR:225],[LTR:225],[LTR:225],[LTR:225],[H1R:9],[H1R:9],[H1R:9],[H1R:9],[ICE:64],[ICE:64],[ICE:64],[ICE:64])([NEO:271],[MOM:279],[GRN:259],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[MOM:278],[MOM:278],[MOM:278],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[SNC:254],[IKO:250],[DIS:174])([PWAR:221p],[PWAR:221p],[PWAR:221p],[PWAR:221p])([LTR:60],[LTR:60],[LTR:60],[J22:63],[J22:63],[J22:63],[J22:63])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([5DN:118],[5DN:118],[ELD:58],[ELD:58],[GRN:212],[GRN:212],[GRN:212],[PLC:85],[PLC:85],[ALA:218],[ALA:218],[ALA:218],[MRD:150],[MRD:150],[NEO:80])

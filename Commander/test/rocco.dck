@@ -1,0 +1,95 @@
+1 [M13:159] Acidic Slime
+1 [ZNR:315] Archon of Emeria
+1 [AKH:5] Aven Mindcensor
+1 [CLU:158] Beast Whisperer
+1 [M12:165] Birds of Paradise
+1 [NPH:104] Birthing Pod
+1 [TDM:251] Blossoming Sands
+1 [LTR:302] Boromir, Warden of the Tower
+1 [CLU:231] Boros Garrison
+1 [BFZ:234] Canopy Vista
+1 [FDN:139] Cathar Commando
+1 [M15:172] Chord of Calling
+1 [BFZ:235] Cinder Glade
+1 [MB2:66] Collector Ouphe
+1 [ELD:333] Command Tower
+1 [WOC:21] Court of Ardenvale
+1 [M21:177] Cultivate
+1 [LCI:8] Dauntless Dismantler
+1 [SHM:110] Devoted Druid
+1 [JOU:10] Eidolon of Rhetoric
+1 [EMN:155] Eldritch Evolution
+1 [DSK:368] Enduring Innocence
+1 [5DN:86] Eternal Witness
+1 [CON:142] Exotic Orchard
+1 [ELD:190] Faeburrow Elder
+1 [NEO:13] Farewell
+1 [BRO:179] Fauna Shaman
+3 [TLA:286] Forest
+1 [SOI:274] Fortified Village
+1 [STX:266] Furycalm Snarl
+1 [LRW:248] Gaddock Teeg
+1 [SOI:276] Game Trail
+1 [ZEN:214] Graypelt Refuge
+1 [CLU:238] Gruul Turf
+1 [ALA:226] Jungle Shrine
+1 [ULG:11] Karmic Guide
+1 [SOK:14] Kataki, War's Wage
+1 [ZEN:217] Kazandu Refuge
+1 [SHM:229] Kitchen Finks
+1 [CHK:225] Kodama's Reach
+1 [LCI:232] Kutzil, Malamet Exemplar
+1 [ROE:33] Linvala, Keeper of Silence
+1 [BRO:12] Loran of the Third Path
+1 [STX:268] Lorehold Campus
+1 [IKO:21] Luminous Broodmoth
+1 [AKH:175] Manglehorn
+1 [FDN:578] Mentor of the Meek
+1 [ODY:321] Mossfire Valley
+1 [5ED:316] Nature's Lore
+6 [TLA:282] Plains
+1 [FDN:231] Reclamation Sage
+1 [M19:33] Remorseful Cleric
+1 [TDM:265] Rugged Highlands
+1 [CHK:239] Sakura-Tribe Elder
+1 [MH2:27] Sanctifier en-Vec
+1 [MH2:491] Sanctum Prelate
+1 [OTC:11] Sand Scout
+1 [AKH:247] Scattered Groves
+1 [HOU:182] Scavenger Grounds
+1 [CLU:246] Selesnya Sanctuary
+1 [EMN:40] Selfless Spirit
+1 [DMU:32] Serra Paragon
+1 [MH3:267] Sevinne's Reclamation
+1 [FRF:138] Shamanic Revelation
+1 [AKH:248] Sheltered Thicket
+1 [ZNR:322] Skyclave Apparition
+1 [FDN:646] Springbloom Druid
+1 [M19:256] Stone Quarry
+1 [STX:294] Strict Proctor
+1 [ODY:328] Sungrass Prairie
+1 [FIC:433] Sunscorched Divide
+1 [FDN:696] Temple of Abandon
+1 [FDN:703] Temple of Plenty
+1 [FDN:705] Temple of Triumph
+1 [FRF:141] Temur Sabertooth
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [DSK:219] The Jolly Balloon Man
+1 [FIC:315] Three Visits
+1 [M19:258] Timber Gorge
+1 [BRO:30] Tocasia's Welcome
+1 [M19:259] Tranquil Expanse
+1 [SNC:162] Vivien on the Hunt
+1 [AKH:38] Vizier of Remedies
+1 [VOW:287] Welcoming Vampire
+1 [TDM:271] Wind-Scarred Crag
+1 [10E:60*] Windborn Muse
+1 [SCG:133] Wirewood Symbiote
+1 [MH3:239] Witch Enchanter
+1 [9ED:283] Wood Elves
+1 [M15:209] Yisan, the Wanderer Bard
+1 [AVR:166] Zealous Conscripts
+SB: 1 [SNC:218] Rocco, Cabaretti Caterer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,60)|([NPH:104])([M13:159],[ZNR:315],[AKH:5],[CLU:158],[M12:165],[LTR:302],[FDN:139],[MB2:66],[LCI:8],[SHM:110],[5DN:86],[ELD:190],[BRO:179],[LRW:248],[ULG:11],[SOK:14],[SHM:229],[LCI:232],[ROE:33],[BRO:12],[IKO:21],[AKH:175],[FDN:578],[FDN:231],[M19:33],[CHK:239],[MH2:27],[MH2:491],[OTC:11],[EMN:40],[DMU:32],[ZNR:322],[FDN:646],[STX:294],[FRF:141],[VOW:318],[EMN:46],[DSK:219],[AKH:38],[VOW:287],[SCG:133],[MH3:239],[9ED:283],[M15:209],[AVR:166],[10E:60*])([JOU:10],[DSK:368])([WOC:21],[BRO:30])([M15:172])([TDM:251],[CLU:231],[BFZ:234],[BFZ:235],[ELD:333],[CON:142],[TLA:286],[TLA:286],[TLA:286],[SOI:274],[STX:266],[SOI:276],[ZEN:214],[CLU:238],[ALA:226],[ZEN:217],[STX:268],[ODY:321],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TDM:265],[AKH:247],[HOU:182],[CLU:246],[AKH:248],[M19:256],[ODY:328],[FIC:433],[FDN:696],[FDN:703],[FDN:705],[M19:258],[M19:259],[TDM:271])([SNC:162])([M21:177],[EMN:155],[NEO:13],[CHK:225],[5ED:316],[MH3:267],[FRF:138],[FIC:315])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([SNC:218])

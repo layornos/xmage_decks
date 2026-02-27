@@ -1,0 +1,30 @@
+1 [RNA:243] Azorius Guildgate
+4 [CLB:346] Basilisk Gate
+4 [MMQ:61] Brainstorm
+4 [CLB:349] Citadel Gate
+2 [CLB:350] Cliffgate
+4 [7ED:67] Counterspell
+2 [AFR:9] Dawnbringer Cleric
+2 [TOR:36] Deep Analysis
+1 [BFZ:76] Dispel
+1 [APC:128] Fire // Ice
+2 [DIS:10] Guardian of the Guildpact
+1 [CLB:354] Heap Gate
+1 [DMU:249] Idyllic Beachfront
+2 [WOE:263] Island
+3 [ZEN:14] Journey to Nowhere
+3 [M11:149] Lightning Bolt
+2 [LTR:60] Lorien Revealed
+2 [M11:70] Preordain
+3 [JUD:18] Prismatic Strands
+4 [AKH:27] Sacred Cat
+4 [CLB:359] Sea Gate
+4 [M11:33] Squadron Hawk
+4 [NEO:66] The Modern Age
+SB: 4 [4ED:63] Blue Elemental Blast
+SB: 2 [LTR:118] Cast into the Fire
+SB: 3 [5ED:29] Dust to Dust
+SB: 3 [4ED:218] Red Elemental Blast
+SB: 3 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,5)(COLOR,false,100)|([RNA:243],[CLB:346],[CLB:346],[CLB:346],[CLB:346],[CLB:349],[CLB:349],[CLB:349],[CLB:349],[CLB:350],[CLB:350],[CLB:354],[DMU:249],[WOE:263],[WOE:263],[CLB:359],[CLB:359],[CLB:359],[CLB:359])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[TOR:36],[TOR:36],[BFZ:76],[LTR:60],[LTR:60],[M11:70],[M11:70],[NEO:66],[NEO:66],[NEO:66],[NEO:66])([M11:149],[M11:149],[M11:149])([AFR:9],[AFR:9],[DIS:10],[DIS:10],[ZEN:14],[ZEN:14],[ZEN:14],[JUD:18],[JUD:18],[JUD:18],[AKH:27],[AKH:27],[AKH:27],[AKH:27],[M11:33],[M11:33],[M11:33],[M11:33])([APC:128])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([4ED:63],[4ED:63],[4ED:63],[4ED:63],[LTR:118],[LTR:118],[5ED:29],[5ED:29],[5ED:29],[4ED:218],[4ED:218],[4ED:218],[ALA:218],[ALA:218],[ALA:218])

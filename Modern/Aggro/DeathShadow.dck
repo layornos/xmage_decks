@@ -1,0 +1,33 @@
+2 [RNA:245] Blood Crypt
+4 [KTK:230] Bloodstained Mire
+4 [WWK:57] Death's Shadow
+4 [J21:438] Dragon's Rage Channeler
+4 [ELD:188] Drown in the Loch
+4 [STX:186] Expressive Iteration
+1 [DTK:224] Kolaghan's Command
+2 [M11:149] Lightning Bolt
+4 [CSP:138] Mishra's Bauble
+4 [LTR:103] Orcish Bowmasters
+4 [KTK:239] Polluted Delta
+4 [MUL:151] Ragavan, Nimble Pilferer
+3 [ZEN:223] Scalding Tarn
+1 [KHM:282] Snow-Covered Mountain
+1 [KHM:280] Snow-Covered Swamp
+2 [GRN:257] Steam Vents
+1 [ARB:46] Terminate
+4 [THS:107] Thoughtseize
+1 [THB:161] Underworld Breach
+4 [J21:529] Unholy Heat
+2 [GRN:259] Watery Grave
+SB: 2 [M19:128] Alpine Moon
+SB: 1 [EMN:85] Collective Brutality
+SB: 2 [MH2:334] Dress Down
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [IKO:222] Jegantha, the Wellspring
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 2 [NEO:80] Spell Pierce
+SB: 1 [ARB:46] Terminate
+SB: 2 [MH2:102] Tourach, Dread Cantor
+SB: 1 [SNC:246] Unlicensed Hearse
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,100)|([CSP:138],[CSP:138],[CSP:138],[CSP:138])([WWK:57],[WWK:57],[WWK:57],[WWK:57],[J21:438],[J21:438],[J21:438],[J21:438],[LTR:103],[LTR:103],[LTR:103],[LTR:103],[MUL:151],[MUL:151],[MUL:151],[MUL:151])([THB:161])([ELD:188],[ELD:188],[ELD:188],[ELD:188],[DTK:224],[M11:149],[M11:149],[ARB:46],[J21:529],[J21:529],[J21:529],[J21:529])([RNA:245],[RNA:245],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[KHM:282],[KHM:280],[GRN:257],[GRN:257],[GRN:259],[GRN:259])([STX:186],[STX:186],[STX:186],[STX:186],[THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([M19:128],[M19:128],[EMN:85],[MH2:334],[MH2:334],[5DN:118],[5DN:118],[IKO:222],[DTK:224],[NEO:80],[NEO:80],[ARB:46],[MH2:102],[MH2:102],[SNC:246])

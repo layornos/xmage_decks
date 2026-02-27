@@ -1,0 +1,74 @@
+1 [FIN:253] Aettir and Priwen
+1 [NEC:18] Akki Battle Squad
+1 [ELD:331] Arcane Signet
+1 [MH3:215] Arena of Glory
+1 [FIC:336] Armory Automaton
+1 [NPH:130] Batterskull
+1 [MOC:45] Bitterthorn, Nissa's Animus
+1 [DOM:211] Blackblade Reforged
+1 [ISD:130] Blasphemous Act
+1 [NEO:135] Bronzeplate Boar
+1 [FDN:250] Burnished Hart
+1 [FIN:255] Buster Sword
+1 [ORI:137] Chandra's Ignition
+1 [EOC:49] Chaos Warp
+1 [M20:223] Colossus Hammer
+1 [CMR:305] Commander's Plate
+1 [ONE:128] Dragonwing Glider
+1 [ELD:120] Embercleave
+1 [WWK:123] Everflowing Chalice
+1 [ACR:169] Excalibur, Sword of Eden
+1 [9ED:297] Fellwar Stone
+1 [BIG:29] Fomori Vault
+1 [DFT:127] Full Throttle
+1 [FIN:258] Genji Glove
+1 [CHK:169] Godo, Bandit Warlord
+1 [NEO:145] Goro-Goro, Disciple of Ryusei
+1 [CMM:737] Guff Rewrites History
+1 [CHK:277] Hall of the Bandit Lord
+1 [CMM:388] Hammer of Nazahn
+1 [SOI:257] Haunted Cloak
+1 [5DN:131] Helm of Kaldra
+1 [ONC:14] Hexplate Wallbreaker
+1 [PSPL:2] Kaldra Compleat
+1 [OGW:112] Kazuul's Toll Collector
+1 [NEC:21] Komainu Battle Armor
+1 [FDN:129] Leyline Axe
+1 [BRC:145] Liquimetal Torque
+1 [NEO:153] Lizard Blades
+1 [10E:332*] Loxodon Warhammer
+1 [5DN:74] Magnetic Theft
+1 [10E:335] Mind Stone
+29 [TLA:285] Mountain
+1 [M14:228] Mutavault
+1 [EOC:169] Myriad Landscape
+1 [MKC:233] Nettlecyst
+1 [CHK:265] Oathkeeper, Takeno's Daisho
+1 [NEO:155] Ogre-Head Helm
+1 [NEO:157] Rabbit Battery
+1 [FIN:151] Raubahn, Bull of Ala Mhigo
+1 [FDN:264] Rogue's Passage
+1 [FIN:154] Samurai's Katana
+1 [TMP:308] Scroll Rack
+1 [ODY:220] Seize the Day
+1 [THB:236] Shadowspear
+1 [DST:139] Shield of Kaldra
+1 [SUM:274] Sol Ring
+1 [FDN:133] Soulstone Sanctuary
+1 [FDN:258] Swiftfoot Boots
+1 [MBS:138] Sword of Feast and Famine
+1 [LTC:354] Sword of Hearth and Home
+1 [MRD:251] Sword of Kaldra
+1 [FDN:633] Taurean Mauler
+1 [DFT:231] The Aetherspark
+1 [WOE:248] The Irencrag
+1 [M3C:217] The Reaver Cleaver
+1 [BRO:253] Thran Power Suit
+1 [FIN:563] Ultima Weapon
+1 [PIP:1068] War Room
+1 [5DN:165] Wayfarer's Bauble
+1 [USG:318] Worn Powerstone
+1 [LCI:173] Zoyowa's Justice
+SB: 1 [FIN:139] Gilgamesh, Master-at-Arms
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([FIC:336],[NEO:135],[FDN:250],[NEC:21],[NEO:153],[NEO:155],[NEO:157])([DFT:231])([FIN:253],[ELD:331],[NPH:130],[MOC:45],[DOM:211],[FIN:255],[M20:223],[CMR:305],[ONE:128],[ELD:120],[WWK:123],[ACR:169],[9ED:297],[FIN:258],[CMM:388],[SOI:257],[5DN:131],[ONC:14],[PSPL:2],[FDN:129],[BRC:145],[10E:332*],[10E:335],[MKC:233],[CHK:265],[FIN:154],[TMP:308],[THB:236],[DST:139],[SUM:274],[FDN:258],[MBS:138],[LTC:354],[MRD:251],[WOE:248],[M3C:217],[BRO:253],[FIN:563],[5DN:165],[USG:318])([NEC:18],[CHK:169],[NEO:145],[OGW:112],[FIN:151],[FDN:633])([EOC:49],[CMM:737],[5DN:74],[LCI:173])([MH3:215],[BIG:29],[CHK:277],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[TLA:285],[M14:228],[EOC:169],[FDN:264],[FDN:133],[PIP:1068])([ISD:130],[ORI:137],[DFT:127],[ODY:220])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([FIN:139])

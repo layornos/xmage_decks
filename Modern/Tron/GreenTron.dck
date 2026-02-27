@@ -1,30 +1,38 @@
 4 [ROE:174] Ancient Stirrings
-1 [WAR:244] Blast Zone
 4 [MRD:151] Chromatic Sphere
-4 [10E:314] Chromatic Star
-3 [NPH:57] Dismember
+1 [10E:314] Chromatic Star
 4 [ZEN:201] Expedition Map
-3 [ELD:266] Forest
-4 [NPH:1] Karn Liberated
-4 [WAR:1] Karn, the Great Creator
-1 [MH1:243] Nurturing Peatland
-3 [MRD:222] Oblivion Stone
-1 [ALA:218] Relic of Progenitus
-4 [BFZ:192] Sylvan Scrying
-3 [M13:193] Thragtusk
-2 [FRF:1] Ugin, the Spirit Dragon
+3 [ALA:218] Relic of Progenitus
+3 [NPH:57] Dismember
+1 [H1R:37] Talisman of Resilience
+3 [BFZ:192] Sylvan Scrying
+4 [MRD:222] Oblivion Stone
+4 [WAR:1*] Karn, the Great Creator
+4 [LTR:246] The One Ring
+2 [SOM:223] Wurmcoil Engine
+1 [NPH:1] Karn Liberated
+2 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [OGW:12] Warping Wail
+1 [NEO:266] Boseiju, Who Endures
+3 [MOM:281] Forest
 4 [9ED:327] Urza's Mine
 4 [9ED:328] Urza's Power Plant
 4 [9ED:329] Urza's Tower
-3 [SOM:223] Wurmcoil Engine
-SB: 1 [EMN:6] Emrakul, the Promised End
-SB: 1 [8ED:300] Ensnaring Bridge
-SB: 3 [M20:26] Leyline of Sanctity
+2 [MH2:259] Urza's Saga
+1 [AER:181] Walking Ballista
+SB: 2 [BRO:199] Haywire Mite
+SB: 1 [BRO:233] Cityscape Leveler
+SB: 1 [M21:241] Tormod's Crypt
+SB: 1 [MID:257] Pithing Needle
 SB: 1 [SOM:171] Liquimetal Coating
-SB: 1 [DST:130] Mycosynth Lattice
-SB: 3 [WWK:108] Nature's Claim
-SB: 1 [DST:154] Trinisphere
-SB: 3 [M20:198] Veil of Summer
+SB: 1 [BRO:247] The Stone Brain
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [5DN:118] Engineered Explosives
 SB: 1 [AER:181] Walking Ballista
-LAYOUT MAIN:(1,5)(EDH_POWER_LEVEL,false,50)|([NPH:57],[NPH:57],[NPH:57],[ELD:266],[ELD:266],[ELD:266],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329])([M13:193],[M13:193],[M13:193])([MRD:151],[MRD:151],[MRD:151],[MRD:151],[10E:314],[10E:314],[10E:314],[10E:314],[NPH:1],[NPH:1],[NPH:1],[NPH:1],[MH1:243],[ALA:218])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[WAR:244],[WAR:1],[WAR:1],[WAR:1],[WAR:1],[MRD:222],[MRD:222],[MRD:222],[FRF:1],[FRF:1],[SOM:223],[SOM:223],[SOM:223])([ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[BFZ:192],[BFZ:192],[BFZ:192],[BFZ:192])
-LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EMN:6],[8ED:300],[M20:26],[M20:26],[M20:26],[SOM:171],[DST:130],[WWK:108],[WWK:108],[WWK:108],[DST:154],[M20:198],[M20:198],[M20:198],[AER:181])
+SB: 1 [SOM:223] Wurmcoil Engine
+SB: 1 [MRD:150] Chalice of the Void
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [NPH:42] Phyrexian Metamorph
+LAYOUT MAIN:(1,8)(CMC,false,94)|([NEO:266],[MOM:281],[MOM:281],[MOM:281],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[MH2:259],[MH2:259],[AER:181])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[MRD:151],[MRD:151],[MRD:151],[MRD:151],[10E:314],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[ALA:218],[ALA:218],[ALA:218])([H1R:37],[BFZ:192],[BFZ:192],[BFZ:192],[OGW:12])([NPH:57],[NPH:57],[NPH:57],[MRD:222],[MRD:222],[MRD:222],[MRD:222])([WAR:1*],[WAR:1*],[WAR:1*],[WAR:1*],[LTR:246],[LTR:246],[LTR:246],[LTR:246])([SOM:223],[SOM:223])([NPH:1])([BFZ:15],[BFZ:15])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BRO:199],[BRO:199],[BRO:233],[M21:241],[MID:257],[SOM:171],[BRO:247],[8ED:300],[DST:146],[5DN:118],[AER:181],[SOM:223],[MRD:150],[M20:227],[NPH:42])

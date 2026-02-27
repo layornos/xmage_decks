@@ -1,0 +1,33 @@
+4 [ARB:50] Bloodbraid Elf
+1 [RNA:246] Breeding Pool
+4 [APC:128] Fire // Ice
+4 [KTK:233] Flooded Strand
+4 [MH2:126] Fury
+1 [RNA:251] Hallowed Fountain
+4 [DMU:24] Leyline Binding
+3 [LTR:60] Lorien Revealed
+4 [ZEN:220] Misty Rainforest
+1 [MAT:122] Nissa, Resurgent Animist
+2 [ZNR:232] Omnath, Locus of Creation
+1 [IKO:251] Raugrin Triome
+1 [GRN:254] Sacred Foundry
+4 [MH2:292] Shardless Agent
+4 [MH2:307] Solitude
+1 [GRN:257] Steam Vents
+4 [WAR:221*] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+4 [WOE:195] Up the Beanstalk
+4 [KTK:248] Windswept Heath
+1 [IKO:259] Zagoth Triome
+1 [UNH:140] Forest
+1 [UNH:137] Island
+1 [UNH:136] Plains
+SB: 2 [M19:128] Alpine Moon
+SB: 3 [CSP:29] Commandeer
+SB: 4 [MH2:157] Endurance
+SB: 1 [TSP:274] Gemstone Caverns
+SB: 1 [KTK:81] Murderous Cut
+SB: 1 [M19:306] Nexus of Fate
+SB: 3 [MH2:137] Obsidian Charmaw
+LAYOUT MAIN:(1,6)(COLOR,false,100)|([RNA:246],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[RNA:251],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[IKO:251],[GRN:254],[GRN:257],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[IKO:259],[UNH:140],[UNH:137],[UNH:136])([LTR:60],[LTR:60],[LTR:60])([MAT:122],[WOE:195],[WOE:195],[WOE:195],[WOE:195])([MH2:126],[MH2:126],[MH2:126],[MH2:126])([DMU:24],[DMU:24],[DMU:24],[DMU:24],[MH2:307],[MH2:307],[MH2:307],[MH2:307])([ARB:50],[ARB:50],[ARB:50],[ARB:50],[APC:128],[APC:128],[APC:128],[APC:128],[ZNR:232],[ZNR:232],[MH2:292],[MH2:292],[MH2:292],[MH2:292],[WAR:221*],[WAR:221*],[WAR:221*],[WAR:221*])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([M19:128],[M19:128],[CSP:29],[CSP:29],[CSP:29],[MH2:157],[MH2:157],[MH2:157],[MH2:157],[TSP:274],[KTK:81],[M19:306],[MH2:137],[MH2:137],[MH2:137])

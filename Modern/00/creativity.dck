@@ -1,0 +1,33 @@
+4 [MH2:342] Archon of Cruelty
+3 [ZEN:211] Arid Mesa
+4 [BRO:127] Bitter Reunion
+1 [LCI:91] Bitter Triumph
+1 [CLU:274] Blood Crypt
+3 [KTK:230] Bloodstained Mire
+1 [NEO:266] Boseiju, Who Endures
+1 [MKM:259] Commercial District
+4 [ELD:243] Dwarven Mine
+4 [NEO:141] Fable of the Mirror-Breaker
+2 [AER:57] Fatal Push
+4 [AER:85] Indomitable Creativity
+3 [ROE:115] Inquisition of Kozilek
+4 [CLU:141] Lightning Bolt
+1 [BLB:274] Mountain
+4 [MH2:345] Persist
+2 [MKM:266] Raucous Theater
+3 [ZEN:223] Scalding Tarn
+2 [CLU:281] Stomping Ground
+1 [THS:107] Thoughtseize
+1 [M21:167] Transmogrify
+3 [KTK:249] Wooded Foothills
+4 [SLP:15] Wrenn and Six
+SB: 1 [M19:128] Alpine Moon
+SB: 1 [NEO:266] Boseiju, Who Endures
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 3 [MKM:170] Pick Your Poison
+SB: 1 [DMU:183] Tear Asunder
+SB: 2 [WWK:115] Terastodon
+SB: 3 [MID:205] Turn the Earth
+SB: 3 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,60)|([MH2:342],[MH2:342],[MH2:342],[MH2:342])([BRO:127],[BRO:127],[BRO:127],[BRO:127],[NEO:141],[NEO:141],[NEO:141],[NEO:141])([LCI:91],[AER:57],[AER:57],[CLU:141],[CLU:141],[CLU:141],[CLU:141])([ZEN:211],[ZEN:211],[ZEN:211],[CLU:274],[KTK:230],[KTK:230],[KTK:230],[NEO:266],[MKM:259],[ELD:243],[ELD:243],[ELD:243],[ELD:243],[BLB:274],[MKM:266],[MKM:266],[ZEN:223],[ZEN:223],[ZEN:223],[CLU:281],[CLU:281],[KTK:249],[KTK:249],[KTK:249])([SLP:15],[SLP:15],[SLP:15],[SLP:15])([AER:85],[AER:85],[AER:85],[AER:85],[ROE:115],[ROE:115],[ROE:115],[MH2:345],[MH2:345],[MH2:345],[MH2:345],[THS:107],[M21:167])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([M19:128],[NEO:266],[ROE:4],[MKM:170],[MKM:170],[MKM:170],[DMU:183],[WWK:115],[WWK:115],[MID:205],[MID:205],[MID:205],[M20:198],[M20:198],[M20:198])

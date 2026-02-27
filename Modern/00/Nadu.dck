@@ -1,0 +1,43 @@
+1 [JUD:133] Sylvan Safekeeper
+4 [WAR:149] Arboreal Grazer
+4 [LTR:158] Delighted Halfling
+1 [THB:308] Thassa's Oracle
+2 [TSB:89] Wall of Roots
+4 [MH3:171] Springheart Nantuko
+2 [DIS:107] Coiling Oracle
+1 [TSP:31] Outrider en-Kor
+1 [SPG:48] Endurance
+4 [MH3:193] Nadu, Winged Wisdom
+4 [BOK:159] Shuko
+2 [FUT:139] Summoner's Pact
+4 [M15:172] Chord of Calling
+4 [MH2:259] Urza's Saga
+1 [FUT:174] Dryad Arbor
+1 [OTJ:272] Plains
+1 [OTJ:273] Island
+2 [OTJ:276] Forest
+1 [CLU:275] Breeding Pool
+1 [CLU:277] Hallowed Fountain
+4 [KTK:248] Windswept Heath
+1 [TSB:120] Pendelhaven
+4 [ZEN:220] Misty Rainforest
+1 [CLU:282] Temple Garden
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [NEO:266] Boseiju, Who Endures
+1 [NEO:271] Otawara, Soaring City
+1 [MKM:262] Hedge Maze
+1 [MKM:263] Lush Portico
+SB: 1 [SPG:48] Endurance
+SB: 1 [LRW:7] Burrenton Forge-Tender
+SB: 1 [BRO:199] Haywire Mite
+SB: 1 [ONE:241] Soulless Jailer
+SB: 1 [ZNR:315] Archon of Emeria
+SB: 1 [ZNR:322] Skyclave Apparition
+SB: 1 [OTC:210] Titania, Protector of Argoth
+SB: 2 [CON:15] Path to Exile
+SB: 2 [M20:198] Veil of Summer
+SB: 1 [OTP:29] Force of Vigor
+SB: 1 [WOE:251] Soul-Guide Lantern
+SB: 2 [WAR:221*] Teferi, Time Raveler
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([BOK:159],[BOK:159],[BOK:159],[BOK:159])([JUD:133],[WAR:149],[WAR:149],[WAR:149],[WAR:149],[LTR:158],[LTR:158],[LTR:158],[LTR:158],[THB:308],[TSB:89],[TSB:89],[DIS:107],[DIS:107],[TSP:31],[SPG:48],[MH3:193],[MH3:193],[MH3:193],[MH3:193])([MH3:171],[MH3:171],[MH3:171],[MH3:171])([MH2:259],[MH2:259],[MH2:259],[MH2:259])([FUT:139],[FUT:139],[M15:172],[M15:172],[M15:172],[M15:172])([FUT:174])([OTJ:272],[OTJ:273],[OTJ:276],[OTJ:276],[CLU:275],[CLU:277],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[TSB:120],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[CLU:282],[M3C:409],[NEO:266],[NEO:271],[MKM:262],[MKM:263])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([SPG:48],[LRW:7],[BRO:199],[ONE:241],[ZNR:315],[ZNR:322],[OTC:210],[CON:15],[CON:15],[M20:198],[M20:198],[OTP:29],[WOE:251],[WAR:221*],[WAR:221*])

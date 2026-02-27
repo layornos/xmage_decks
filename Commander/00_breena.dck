@@ -1,0 +1,85 @@
+1 [KTK:1] Abzan Battle Priest
+1 [OTJ:2] Archangel of Tithes
+1 [CLB:4] Archivist of Oghma
+1 [ZNR:315] Archon of Emeria
+1 [10E:6] Aura of Silence
+1 [OTJ:309] Aven Interrupter
+1 [AKH:5] Aven Mindcensor
+1 [MAT:11] Ayara's Oathsworn
+1 [DFT:250] Bleachbone Verge
+1 [MH3:243] Boggart Trawler
+1 [WWK:132] Bojuka Bog
+1 [LTR:302] Boromir, Warden of the Tower
+1 [ZNR:259] Brightclimb Pathway
+1 [DFT:7] Bulwark Ox
+1 [OTJ:324] Caustic Bronco
+1 [DMU:244] Caves of Koilos
+1 [MH3:21] Charitable Levy
+1 [TDM:377b] Clarion Conqueror
+1 [FIC:236] Clever Concealment
+1 [ELD:333] Command Tower
+1 [OTJ:268] Concealed Courtyard
+1 [FIC:239] Damning Verdict
+1 [FIN:334] Dark Confidant
+1 [BLB:311] Darkstar Augur
+1 [LCI:8] Dauntless Dismantler
+1 [ELD:10] Deafening Silence
+1 [FIC:386] Desolate Mire
+1 [TDC:112] Dismantling Wave
+1 [ONE:91] Drown in Ichor
+1 [MKC:60] Duelist's Heritage
+1 [MOM:11] Dusk Legion Duelist
+1 [MH3:90] Emperor of Bones
+1 [MH3:23] Envoy of the Ancestors
+1 [FDN:11] Exemplar of Light
+1 [CON:142] Exotic Orchard
+1 [MH3:244] Fell the Profane
+1 [MH3:94] Fetid Gargantua
+1 [EVE:176] Fetid Heath
+1 [MH3:26] Flare of Fortitude
+1 [SLP:29] Force of Despair
+1 [LTC:500] Galadriel's Dismissal
+1 [BLC:106] Generous Gift
+1 [CHK:10] Ghostly Prison
+1 [MB2:147] Giver of Runes
+1 [LGN:15] Glowrider
+1 [EOE:254] Godless Shrine
+1 [AFR:18] Guardian of Faith
+1 [VOW:20] Hopeful Initiate
+1 [ELD:18] Hushbringer
+1 [DOM:241] Isolated Chapel
+1 [KLD:183] Kambal, Consul of Allocation
+1 [WAR:248] Karn's Bastion
+1 [SOK:14] Kataki, War's Wage
+1 [SOM:14] Leonin Arbiter
+1 [MRD:199] Lightning Greaves
+1 [NEO:26] Lion Sash
+1 [BRO:12] Loran of the Third Path
+1 [LTR:213] Lotho, Corrupt Shirriff
+1 [ULG:14] Mother of Runes
+1 [CLB:139] Pact Weapon
+1 [MOM:31] Phyrexian Censor
+14 [TLA:282] Plains
+1 [KHM:21] Reidane, God of the Worthy
+1 [DSK:26] Reluctant Role Model
+1 [FIC:252] Scholar of New Horizons
+1 [EMN:40] Selfless Spirit
+1 [MKM:268] Shadowy Backstreet
+1 [VOW:264] Shattered Sanctum
+1 [ACR:115] Silent Clearing
+1 [ONE:301] Skrelv, Defector Mite
+1 [ZNR:127] Soul Shatter
+1 [DSK:304] Split Up
+5 [TLA:284] Swamp
+1 [ICE:54] Swords to Plowshares
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [LRW:262] Thorn of Amethyst
+1 [CMM:436] Vault of Champions
+1 [M21:43] Vryn Wingmare
+1 [10E:60*] Windborn Muse
+1 [SLD:882] Winds of Abandon
+1 [MH3:239] Witch Enchanter
+SB: 1 [OTC:217] Breena, the Demagogue
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,60)|([NEO:26],[ONE:301])([MRD:199],[CLB:139],[LRW:262])([KTK:1],[OTJ:2],[CLB:4],[ZNR:315],[OTJ:309],[AKH:5],[MAT:11],[MH3:243],[LTR:302],[DFT:7],[OTJ:324],[TDM:377b],[FIN:334],[BLB:311],[LCI:8],[MOM:11],[MH3:90],[MH3:23],[FDN:11],[MH3:94],[MB2:147],[LGN:15],[AFR:18],[VOW:20],[ELD:18],[KLD:183],[SOK:14],[SOM:14],[BRO:12],[LTR:213],[ULG:14],[MOM:31],[KHM:21],[DSK:26],[FIC:252],[EMN:40],[VOW:318],[EMN:46],[M21:43],[10E:60*],[MH3:239])([10E:6],[MH3:21],[ELD:10],[MKC:60],[CHK:10])([FIC:236],[MH3:244],[MH3:26],[SLP:29],[LTC:500],[BLC:106],[ZNR:127],[ICE:54])([DFT:250],[WWK:132],[ZNR:259],[DMU:244],[ELD:333],[OTJ:268],[FIC:386],[CON:142],[EVE:176],[EOE:254],[DOM:241],[WAR:248],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[MKM:268],[VOW:264],[ACR:115],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[CMM:436])([FIC:239],[TDC:112],[ONE:91],[DSK:304],[SLD:882])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([OTC:217])

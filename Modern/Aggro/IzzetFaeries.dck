@@ -1,0 +1,26 @@
+2 [LTR:60] Lorien Revealed
+2 [MH2:52] Murktide Regent
+4 [WOE:69] Spell Stutter
+4 [LRW:89] Spellstutter Sprite
+4 [WOE:334] Sleep-Cursed Faerie
+3 [M10:146] Lightning Bolt
+3 [MH2:145] Unholy Heat
+4 [LTR:203] Flame of Anor
+4 [STX:186] Expressive Iteration
+4 [M11:70] Preordain
+4 [CSP:138] Mishra's Bauble
+4 [IKO:211] Sprite Dragon
+4 [MOR:148] Mutavault
+3 [LRW:286] Island
+3 [RTR:247] Steam Vents
+4 [KTK:233] Flooded Strand
+4 [ZEN:223] Scalding Tarn
+SB: 2 [M19:128] Alpine Moon
+SB: 2 [SNC:246] Unlicensed Hearse
+SB: 1 [SOK:158] Pithing Needle
+SB: 2 [BRO:128] Brotherhood's End
+SB: 3 [MH2:67] Subtlety
+SB: 1 [MH2:126] Fury
+SB: 4 [MH1:52] Force of Negation
+LAYOUT MAIN:(1,4)(CMC,false,100)|([KTK:233],[KTK:233],[KTK:233],[KTK:233],[LRW:286],[LRW:286],[LRW:286],[MOR:148],[MOR:148],[MOR:148],[MOR:148],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[RTR:247],[RTR:247],[RTR:247],[CSP:138],[CSP:138],[CSP:138],[CSP:138])([M10:146],[M10:146],[M10:146],[M11:70],[M11:70],[M11:70],[M11:70],[WOE:334],[WOE:334],[WOE:334],[WOE:334],[MH2:145],[MH2:145],[MH2:145])([STX:186],[STX:186],[STX:186],[STX:186],[WOE:69],[WOE:69],[WOE:69],[WOE:69],[LRW:89],[LRW:89],[LRW:89],[LRW:89],[IKO:211],[IKO:211],[IKO:211],[IKO:211],[MH2:52],[MH2:52])([LTR:60],[LTR:60],[LTR:203],[LTR:203],[LTR:203],[LTR:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,100)|([M19:128],[M19:128],[SNC:246],[SNC:246],[SOK:158],[BRO:128],[BRO:128],[MH2:67],[MH2:67],[MH2:67],[MH2:126],[MH1:52],[MH1:52],[MH1:52],[MH1:52])
